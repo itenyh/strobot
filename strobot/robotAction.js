@@ -2,6 +2,7 @@
  * Created by HJ on 2017/8/23.
  */
 
+const util = require('./util')
 const net = require('./robotNet')
 const Q = require('q')
 
@@ -10,6 +11,10 @@ const eggObj = new Egg()
 
 module.exports.connect = () => {
     return net.asynReady()
+}
+
+module.exports.disconnect = () => {
+    net.disconnect()
 }
 
 function pushNewEggs(eggConsumNum, cb) {
@@ -42,6 +47,17 @@ function dealCatchResult(result, cb) {
     }
 
 }
+
+function writeHistory_(history, cb) {
+
+    console.log('写入中...')
+    util.writeHis2File(history)
+    console.log('写入完毕, 共写入 : ', history.length, ' 行数据')
+    cb(null)
+
+}
+
+module.exports.writeHistory = Q.nbind(writeHistory_)
 
 const asynPushNewEggs = Q.nbind(pushNewEggs)
 const asynCatchEggs = Q.nbind(catchEgg)

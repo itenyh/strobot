@@ -62,4 +62,4 @@ exports.asynLogin = Q.nbind(login)
 exports.asynPushEggArray = Q.nbind(pushEggArray)
 exports.asynStartCatchEgg = Q.nbind(startCatchEgg)
 exports.asynEggAward = Q.nbind(eggAward)
-
+exports.disconnect = pomelo.disconnect

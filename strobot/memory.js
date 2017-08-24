@@ -2,6 +2,12 @@
  * Created by HJ on 2017/8/23.
  */
 
+const consumeType = {
+    small: 20,
+    middle: 100,
+    large: 1000
+}
+
 function Memory() {
 
     this.totalMoneySpend = 0
@@ -10,7 +16,7 @@ function Memory() {
 
     this.addGameResult = function (win, cost) {
         const newRecord = {
-            cost: cost,
+            cost: consumeType[cost],
             win: win,
             round: ++this.round
         }
