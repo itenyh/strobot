@@ -1,0 +1,50 @@
+{"level":"error","message":"this is info","timestamp":"2017-08-25T06:16:10.317Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:49:46.163Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:49:46.396Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:53:44.893Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.319Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.331Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.578Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.578Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.817Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.834Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T07:00:29.388Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T07:05:17.238Z"}
+{"level":"error","message":"调用失败: startCatchEgg, {\"code\":500,\"error\":\"uid为\"}","timestamp":"2017-08-25T08:46:15.646Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:46:31.068Z"}
+{"level":"error","message":"调用失败: startCatchEgg, {\"code\":500,\"error\":\"uid为null\"}","timestamp":"2017-08-25T08:46:31.189Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:47:02.073Z"}
+{"level":"error","message":"调用失败: startCatchEgg, {\"code\":500,\"error\":\"uid为null\"}","timestamp":"2017-08-25T08:47:02.206Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:47:10.865Z"}
+{"level":"error","message":"机器人行undefined动失败","timestamp":"2017-08-25T08:47:10.866Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:49:07.128Z"}
+{"level":"error","message":"机器人行undefined动失败","timestamp":"2017-08-25T08:49:07.128Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:50:23.325Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 行动：connect error","timestamp":"2017-08-25T08:50:23.326Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-08-25T08:52:23.317Z"}
+{"level":"error","message":"机器人【undefined】完成工作 ","timestamp":"2017-08-25T08:55:01.752Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T08:59:22.501Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:46.633Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:46.633Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:46.633Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:49.689Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:49.689Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:49.689Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:07:19.679Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:07:19.855Z"}
+{"level":"error","message":"机器人【2】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:07:19.953Z"}
+{"level":"error","message":"机器人【2】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:09:48.817Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:09:49.024Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:09:49.025Z"}
+{"level":"error","message":"机器人【2】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:10:03.772Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:10:03.772Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:10:03.881Z"}
+{"level":"error","message":"机器人【2】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:11:04.418Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:11:04.659Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:11:04.675Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: this.afterStop is not a function","timestamp":"2017-08-25T09:43:27.559Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T10:26:15.306Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T10:26:18.333Z"}

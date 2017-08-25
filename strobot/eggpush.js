@@ -120,7 +120,7 @@ EggPush.prototype.addPushedEggs = function (eggs) {
 EggPush.prototype.consumEggList = function(length) {
 
     if (length > this.eggArray.length) {
-        console.log('没有这么多蛋供抓取')
+        logger.error('没有足够多的蛋供抓取')
         return false
     }
 
@@ -140,6 +140,7 @@ EggPush.prototype.consumEggList = function(length) {
         }
     })
 
+    //如果没被打断
     if (correctEggList.length === length) {
         this.dealWithEggs(eggList)
         this.eggArray.splice(0, correctEggList.length)

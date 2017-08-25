@@ -2,7 +2,7 @@
  * Created by HJ on 2017/8/24.
  */
 
-const util = require('./util')
+const util = require('./util/util')
 const workQueue = []
 let stop = false
 
@@ -12,7 +12,6 @@ exports.start = () => {
 
         if (workQueue.length > 0) {
             const work = workQueue.pop()
-            // console.log('写入中...')
             util.writeHis2File(work)
             console.log('写入完毕, 共写入 : ', work.length, ' 行数据')
         }
@@ -26,7 +25,7 @@ exports.start = () => {
 }
 
 exports.stop = () => {
-    stop = false
+    stop = true
 }
 
 module.exports.pushWork = (work) => {

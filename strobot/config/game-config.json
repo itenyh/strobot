@@ -1,0 +1,10 @@
+{
+  "consumeType": {
+    "small": 20,
+    "middle": 100,
+    "large": 1000
+  },
+
+  "playInterval": 3000
+
+}

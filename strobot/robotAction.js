@@ -2,7 +2,7 @@
  * Created by HJ on 2017/8/23.
  */
 
-const util = require('./util')
+const util = require('./util/util')
 const Q = require('q')
 const Net = require('./robotNet')
 
@@ -11,8 +11,14 @@ function RobotAction(pomelo) {
     const net = new Net(pomelo)
 
     this.connect = () => {
-        return net.asynReady().then(function () {
+        return net.asynReady({host: '192.168.1.218', port: 8100}).then(function () {
             return net.asynLogin()
+        }).then(function (data) {
+            return net.asynReady({host: data.server.host, port: data.server.port}).thenResolve(data)
+        }).then(function (data) {
+            return net.asynEnter(data.uid, data.token)
+        }).catch(function (reason) {
+            return Q.reject('所在Action：connect， Action error reason: ' + JSON.stringify(reason))
         })
     }
 
@@ -21,6 +27,21 @@ function RobotAction(pomelo) {
     }
 
     this.sendWork2Pipe = Q.nbind(sendWork2Pipe_)
+
+    //非阻塞的动作
+    function playOneTime(param, eggObj) {
+
+        return asynPushNewEggs(param.eggConsumNum, eggObj).then(function () {
+            return asynCatchEggs(param.consumeType, param.eggConsumNum, eggObj)
+        }).then(function (all) {
+            return asynDealCatchResult(all[0], param.bet, eggObj, all[1])
+        }).then(function (data) {
+            return Q.resolve({win: data.beans})
+        }).catch(function (data) {
+            logger.error(data)
+        })
+
+    }
 
     function pushNewEggs(eggConsumNum, eggObj, cb) {
         if (eggObj.eggArray.length < eggConsumNum) {
@@ -35,17 +56,25 @@ function RobotAction(pomelo) {
     }
 
     function catchEgg(consumeType, eggConsumNum, eggObj, cb) {
-        net.asynStartCatchEgg(consumeType).then(function (data) {
+        return net.asynStartCatchEgg(consumeType).then(function (data) {
             const result = eggObj.consumEggList(eggConsumNum)
             cb(null, [result, data])
         })
     }
 
-    function dealCatchResult(result, eggObj, data, cb) {
+    function dealCatchResult(result, bet, eggObj, data, cb) {
 
         if (result)
-            net.asynEggAward({egg: eggObj.egg.eggData, bet: 20, eggGroup: eggObj.egg.eggGroup, token: data.token}).then(function (data) {
+            return net.asynEggAward({
+                egg: eggObj.egg.eggData,
+                bet: bet,
+                eggGroup: 'xxxx',
+                boxMulti: 1,
+                token: data.token
+            }).then(function (data) {
                 cb(null, data)
+            }, function (reason) {
+                cb({egg: eggObj.egg.eggData, bet: bet, eggGroup: eggObj.egg.eggGroup, boxMulti: 1, token: data.token})
             })
         else {
             cb(null, {beans: 0})
@@ -64,64 +93,52 @@ function RobotAction(pomelo) {
     const asynCatchEggs = Q.nbind(catchEgg)
     const asynDealCatchResult = Q.nbind(dealCatchResult)
 
-    function doPlay(param, eggObj) {
+    let index = 2
+    this.promisePlay2Die = (actionInterval, param, eggObj, cb) => {
 
-        return asynPushNewEggs(param.eggConsumNum, eggObj).then(function () {
-            return asynCatchEggs(param.consumeType, param.eggConsumNum, eggObj)
-        }).then(function (all) {
-            return asynDealCatchResult(all[0], eggObj, all[1])
-        }).then(function (data) {
-            return Q.resolve({win: data.beans})
-        }).catch(function (data) {
-            console.log('加蛋序列出现网络错误', data)
+        const that = this
+        return playOneTime(param, eggObj).then(function (data) {
+
+            cb(data)
+
+            if(index > 0) {
+                index--
+               return Q.delay(actionInterval).then(function () {
+                    return that.promisePlay2Die(actionInterval, param, eggObj, cb)
+                })
+            }
+            else {
+                return Q.resolve(data)
+            }
         })
 
     }
 
-    this.createPlay = (actionInterval, param, eggObj, cb) => {
+    this.createPlay = (actionInterval, playRound, param, eggObj, cb) => {
 
-        //创建num个action
         const result = []
-        for (let i = 0; i < param.playRound; i++) {
-            result.push(doPlay)
+        for (let i = 0; i < playRound; i++) {
+            result.push(playOneTime)
         }
-
         return result.reduce(function (a, x, i) {
+
             return a.then(function (data) {
-                return createTimeIntervalPromise(data, actionInterval)
-            }).then(function (data) {
                 if (i !== 0) {
-                    cb(data)
+                    cb(data, i)
+                    return Q.delay(actionInterval).then(function () {
+                        return x(param, eggObj)
+                    })
                 }
-                return x(param, eggObj)
+                else {
+                    return x(param, eggObj)
+                }
             })
-        }, Q.resolve(1)).then(function (data) {
-            cb(data)
+
+        }, Q.resolve()).then(function (data) {
+            cb(data, playRound)
         })
 
     }
 
 }
 module.exports = RobotAction
-
-function timeIntervalPromise(data, timeInterval, cb) {
-
-    setTimeout(function () {
-        cb(null, data)
-    }, timeInterval)
-
-}
-
-const createTimeIntervalPromise = Q.nbind(timeIntervalPromise)
-
-
-// function writeHistory_(history, cb) {
-//
-//     console.log('写入中...')
-//     util.writeHis2File(history)
-//     console.log('写入完毕, 共写入 : ', history.length, ' 行数据')
-//     cb(null)
-//
-// }
-//
-// module.exports.writeHistory = Q.nbind(writeHistory_)

@@ -1,5 +1,6 @@
 {
   "eggConsumNum": 5,
   "consumeType": "small",
-  "playRound": 1
+  "playRound": 1,
+  "robotNum": 1
 }

@@ -5,7 +5,7 @@
 const CSV = require('comma-separated-values')
 const fs = require('fs');
 
-exports.writeHis2File = (history, filename = 'message.csv') => {
+exports.writeHis2File = (history, filename = './data/message.csv') => {
 
     const result = new CSV(history, { header: false }).encode();
     // const ws = fs.createWriteStream(filename);

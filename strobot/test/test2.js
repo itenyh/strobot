@@ -1,13 +1,17 @@
 
-const Q = require('q')
+function A() {
 
-function a(cb) {
-    cb(null, 1)
+    this.a = 1
+
+    this.fuck = () => {
+        enen()
+    }
+
+    function enen() {
+        console.log(this.a)
+    }
+
 }
 
-const asynA = Q.nbind(a)
-
-asynA(function (a, b) {
-    console.log(b)
-})
-
+const AA = new A()
+AA.fuck()

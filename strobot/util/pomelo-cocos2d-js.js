@@ -207,7 +207,7 @@
                 };
 
                 var connect = function (params, url, cb) {
-                    console.log('connect to ' + url);
+                    // console.log('connect to ' + url);
 
                     var params = params || {};
                     var maxReconnectAttempts = params.maxReconnectAttempts || DEFAULT_MAX_RECONNECT_ATTEMPTS;
@@ -233,7 +233,7 @@
 
                     var onopen = function (event) {
 
-                        console.log('connect success')
+                        // console.log('connect success')
 
                         if (!!reconnect) {
                             this.pomelo.emit('reconnect');
@@ -281,7 +281,7 @@
                     if (socket) {
                         if (socket.disconnect) socket.disconnect();
                         if (socket.close) socket.close();
-                        console.log('disconnect');
+                        // console.log('disconnect');
                         socket = null;
                     }
 
@@ -439,7 +439,7 @@
                 var processMessage = function (pomelo, msg) {
                     if (!msg.id) {
                         // server push message
-                        this.pomelo.emit(msg.route, msg.body);
+                        // this.pomelo.emit(msg.route, msg.body);
                         return;
                     }
 

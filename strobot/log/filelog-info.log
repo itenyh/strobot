@@ -1,0 +1,1891 @@
+{"level":"error","message":"this is info","timestamp":"2017-08-25T06:16:10.317Z"}
+{"level":"info","message":"this is info","timestamp":"2017-08-25T06:17:15.292Z"}
+{"level":"info","message":"123","timestamp":"2017-08-25T06:22:16.763Z"}
+{"level":"info","message":"123","timestamp":"2017-08-25T06:24:57.023Z"}
+{"level":"info","message":"123","timestamp":"2017-08-25T06:25:38.203Z"}
+{"level":"info","message":"123","timestamp":"2017-08-25T06:31:11.660Z"}
+{"level":"info","message":"机器人3e7c6e50-895f-11e7-8983-13e5925d0afa开始工作......","timestamp":"2017-08-25T06:33:02.135Z"}
+{"level":"info","message":"-1号机器人开始工作......","timestamp":"2017-08-25T06:34:13.444Z"}
+{"level":"info","message":"-1号机器人开始工作......","timestamp":"2017-08-25T06:34:23.465Z"}
+{"level":"info","message":"-1号机器人开始工作......","timestamp":"2017-08-25T06:34:23.480Z"}
+{"level":"info","message":"-1号机器人开始工作......","timestamp":"2017-08-25T06:34:23.480Z"}
+{"level":"info","message":"-1号机器人开始工作......","timestamp":"2017-08-25T06:39:07.469Z"}
+{"level":"info","message":"-1号机器人开始工作......","timestamp":"2017-08-25T06:39:07.469Z"}
+{"level":"info","message":"-1号机器人开始工作......","timestamp":"2017-08-25T06:39:07.469Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:07.580Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:07.580Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:07.580Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:07.659Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:07.659Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:07.659Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:39:07.803Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:39:07.819Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:39:07.868Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:39:07.870Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:39:07.874Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:39:07.962Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:39:07.962Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:39:07.962Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:39:08.060Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:39:59.063Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T06:39:59.079Z"}
+{"level":"info","message":"2号机器人开始工作......","timestamp":"2017-08-25T06:39:59.079Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:59.173Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:59.184Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:59.187Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:59.304Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:59.308Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:39:59.310Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:39:59.460Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:39:59.460Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:39:59.460Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:39:59.564Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:39:59.566Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:39:59.567Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:39:59.666Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:39:59.669Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:39:59.669Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:40:38.260Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T06:40:38.268Z"}
+{"level":"info","message":"2号机器人开始工作......","timestamp":"2017-08-25T06:40:38.269Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:40:38.378Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:40:38.390Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:40:38.392Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:40:38.456Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:40:38.456Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:40:38.456Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:40:38.598Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:40:38.598Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:40:38.614Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:40:38.692Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:40:38.692Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:40:38.710Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:40:38.790Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:40:38.806Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:40:38.806Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:44:08.762Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:44:08.844Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:44:08.922Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:44:09.087Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:44:09.166Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:44:09.265Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:44:09.415Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:44:09.575Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:44:09.655Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:44:45.668Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:44:45.754Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:44:45.825Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:44:45.981Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:44:46.057Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:44:46.151Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:44:46.306Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:44:46.391Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:44:46.546Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:44:46.629Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:48:08.203Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:48:08.300Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:48:08.369Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:48:08.525Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:48:08.617Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:48:08.706Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:48:08.854Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:48:08.945Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:48:09.094Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:48:09.184Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:49:05.580Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:49:05.653Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:49:05.731Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:49:05.895Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:05.972Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:06.076Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:06.225Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:06.306Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:06.450Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:06.545Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:49:26.860Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:49:26.957Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:49:27.027Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:49:27.179Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:27.272Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:27.355Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:27.513Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:27.603Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:27.752Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:27.831Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:49:45.363Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T06:49:45.378Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:49:45.469Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:49:45.476Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:49:45.538Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:49:45.538Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:49:45.697Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:49:45.697Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:45.797Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:45.801Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:45.888Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:45.888Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:46.063Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:46.063Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:49:46.163Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:49:46.166Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:46.322Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:49:46.325Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:49:46.396Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:53:44.103Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T06:53:44.118Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:53:44.200Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:53:44.200Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:53:44.286Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:53:44.291Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:53:44.437Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:53:44.437Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:53:44.540Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:53:44.543Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:53:44.644Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:53:44.644Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:53:44.803Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:53:44.803Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:53:44.893Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T06:53:44.901Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:53:45.043Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:53:45.043Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T06:55:53.767Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T06:55:53.784Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:55:53.878Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T06:55:53.893Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:55:53.971Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T06:55:53.971Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:55:54.137Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T06:55:54.143Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:55:54.230Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:55:54.230Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.319Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.331Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:55:54.489Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:55:54.492Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.578Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.578Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:55:54.743Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T06:55:54.745Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.817Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T06:55:54.834Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:00:22.882Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T07:00:22.882Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:00:22.980Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:00:22.987Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:00:23.052Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:00:23.052Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:00:23.214Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:00:23.214Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:23.292Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:23.314Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:23.402Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:23.402Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:23.562Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:23.563Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:23.660Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:23.665Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:23.815Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:23.815Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:23.913Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:23.913Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:00:28.605Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T07:00:28.605Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:00:28.699Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:00:28.699Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:00:28.778Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:00:28.782Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:00:28.994Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:00:28.996Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:29.045Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:29.053Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:29.149Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:29.150Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:29.305Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:29.308Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T07:00:29.388Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:29.388Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:29.548Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:00:29.548Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:00:29.651Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:05:16.424Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T07:05:16.439Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:05:16.554Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:05:16.570Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:05:16.643Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:05:16.647Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:05:16.813Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:05:16.816Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:05:16.889Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:05:16.904Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:05:17.005Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:05:17.007Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:05:17.158Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:05:17.167Z"}
+{"level":"error","message":"调用失败: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-25T07:05:17.238Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:05:17.254Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:05:17.401Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:05:17.416Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:05:17.505Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:09:06.146Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T07:09:06.146Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:09:06.245Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:09:06.252Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:09:06.320Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:09:06.324Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:09:06.473Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:09:06.476Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:09:06.568Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:09:06.572Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:09:06.671Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:09:06.671Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:09:06.827Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:09:06.832Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:09:06.928Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:09:06.928Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:09:07.092Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:09:07.093Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:09:07.179Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:09:07.179Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"2号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"3号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"4号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"5号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"6号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"7号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"8号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"9号机器人开始工作......","timestamp":"2017-08-25T07:10:35.221Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.372Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.377Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.380Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.382Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.402Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.402Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.402Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.402Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.402Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:10:35.418Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.449Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.469Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.470Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.478Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.480Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.496Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.497Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.518Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.520Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:10:35.521Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.025Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.033Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.037Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.039Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.042Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.043Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.044Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.044Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.047Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.048Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:10:36.049Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.053Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.054Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.116Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.116Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.116Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.116Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.116Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.116Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.116Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.116Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.131Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.131Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.257Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.257Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.257Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.257Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.257Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.257Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.257Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.685Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.685Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.685Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.747Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:36.747Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.867Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.870Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.873Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.875Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.876Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.877Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:36.878Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.001Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.001Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.001Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.001Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.001Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.001Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.001Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.220Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.319Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.321Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.322Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.425Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.426Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.622Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.623Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.624Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.625Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.626Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.626Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:10:37.626Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.751Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.751Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.751Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.751Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.751Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:10:37.751Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:21:34.368Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T07:21:34.373Z"}
+{"level":"info","message":"2号机器人开始工作......","timestamp":"2017-08-25T07:21:34.374Z"}
+{"level":"info","message":"3号机器人开始工作......","timestamp":"2017-08-25T07:21:34.374Z"}
+{"level":"info","message":"4号机器人开始工作......","timestamp":"2017-08-25T07:21:34.374Z"}
+{"level":"info","message":"5号机器人开始工作......","timestamp":"2017-08-25T07:21:34.374Z"}
+{"level":"info","message":"6号机器人开始工作......","timestamp":"2017-08-25T07:21:34.374Z"}
+{"level":"info","message":"7号机器人开始工作......","timestamp":"2017-08-25T07:21:34.374Z"}
+{"level":"info","message":"8号机器人开始工作......","timestamp":"2017-08-25T07:21:34.374Z"}
+{"level":"info","message":"9号机器人开始工作......","timestamp":"2017-08-25T07:21:34.375Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.547Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.556Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.567Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.570Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.571Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.595Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.595Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.595Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.595Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:34.595Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.626Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.642Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.673Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.673Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.689Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.689Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.689Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.689Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.689Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:34.689Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.186Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.186Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.186Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.202Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.202Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.202Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.217Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.217Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.217Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.217Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.217Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.217Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.217Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.306Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.307Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.308Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.309Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.309Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.310Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.311Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.311Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:35.312Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.313Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.412Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.412Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:35.412Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.412Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.412Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:35.505Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"2号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"3号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"4号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"5号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"6号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"7号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"8号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"9号机器人开始工作......","timestamp":"2017-08-25T07:21:36.089Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.235Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.251Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.266Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.266Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.266Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.285Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.288Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.290Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.296Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:21:36.298Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.328Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.334Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.335Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.336Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.337Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.345Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.345Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.345Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.376Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:21:36.376Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.905Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.905Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.905Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.905Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.905Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.905Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.905Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.905Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.920Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:21:36.920Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.017Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.021Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.022Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.023Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.024Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.025Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.027Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.028Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.029Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.029Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:21:37.170Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.746Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.746Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.746Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.746Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.746Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.746Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.761Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.761Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.761Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:21:37.761Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:29:16.419Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:29:16.501Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:29:16.578Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:29:21.632Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:29:21.720Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:29:21.820Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:29:26.873Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:29:26.968Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:30:35.088Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:30:35.223Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:30:35.287Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:30:35.382Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:30:35.473Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:30:35.568Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:30:40.615Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:30:40.709Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:30:53.593Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:30:53.717Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:30:53.791Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:30:53.887Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:30:53.962Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:30:54.073Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:30:55.124Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:30:55.204Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:34:06.790Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:34:06.898Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:34:06.979Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:34:07.067Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:34:07.152Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:34:07.247Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:34:08.313Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:34:08.394Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:34:16.076Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:34:16.173Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:34:16.238Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:34:16.332Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:34:16.429Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:34:16.529Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:34:17.590Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:34:17.684Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:34:24.893Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:34:25.052Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:34:25.129Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:34:25.210Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:34:25.308Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:34:25.401Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:34:28.468Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:34:28.567Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:47:10.912Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:47:11.005Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:47:11.083Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:47:29.937Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:47:30.040Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:47:30.099Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:48:14.038Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:48:14.143Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:48:14.228Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:48:46.826Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:48:46.923Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:48:47.043Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:49:00.901Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:49:00.972Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:49:01.051Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:50:31.783Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:50:31.893Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:50:31.958Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:50:45.034Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:50:45.116Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:50:45.188Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:51:00.915Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:51:00.994Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:51:01.072Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:51:30.812Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:51:30.903Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:51:30.966Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:51:57.961Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:51:58.046Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:51:58.115Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:52:20.214Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:52:20.307Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:52:20.385Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:52:38.799Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:52:38.877Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:52:38.959Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:52:48.209Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:52:48.319Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:52:48.397Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:52:59.090Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:52:59.185Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:52:59.259Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:53:23.972Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:53:24.066Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:53:24.133Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:53:41.012Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:53:41.091Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:53:41.155Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:54:00.184Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:54:00.277Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:54:00.341Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:55:19.636Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:55:19.731Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:55:19.794Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:55:33.652Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:55:33.771Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:55:33.849Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:55:51.235Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:55:51.311Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:55:51.389Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:56:03.053Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:56:03.165Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:56:03.227Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:56:18.262Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:56:18.364Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:56:18.438Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:56:30.410Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:56:30.486Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:56:30.548Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:56:40.870Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:56:40.965Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:56:41.028Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:56:50.927Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:56:51.013Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:56:51.083Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:57:01.293Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:57:01.402Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:57:01.490Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:57:39.433Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:57:39.527Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:57:39.603Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:57:39.687Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:57:39.769Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:57:39.879Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:57:39.971Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:57:40.066Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:57:58.563Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:57:58.668Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:57:58.746Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:57:58.834Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:57:58.923Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:57:59.018Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:57:59.096Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:57:59.202Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:58:22.448Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:58:22.568Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:58:22.645Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:58:22.723Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:58:22.819Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:58:22.913Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:58:25.969Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:58:26.062Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:59:17.392Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:59:17.515Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:59:17.591Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:59:17.676Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:59:17.766Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:59:17.850Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:59:20.909Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:59:21.001Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T07:59:27.031Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T07:59:27.127Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T07:59:27.194Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T07:59:27.269Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:59:27.362Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:59:27.490Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T07:59:30.558Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T07:59:30.641Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:01:30.982Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:01:31.073Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:01:31.140Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:01:31.218Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:01:31.324Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:01:31.422Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:10:59.209Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:10:59.287Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:10:59.374Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:10:59.467Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:10:59.544Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:10:59.653Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:11:07.777Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:11:07.864Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:11:07.936Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:11:08.022Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:11:08.116Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:11:08.214Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:11:11.267Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:11:11.348Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:11:15.393Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:11:15.489Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:11:15.549Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:11:15.660Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:11:15.738Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:11:15.845Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:11:18.940Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:11:18.994Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:11:30.751Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:11:30.843Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:11:30.901Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:11:31.003Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:11:31.091Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:11:31.189Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:11:34.225Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:11:34.339Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:11:47.207Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:11:47.317Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:11:47.384Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:11:47.474Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:11:47.559Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:11:47.666Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:11:50.723Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:11:50.820Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:12:18.102Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:12:18.234Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:12:18.297Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:12:18.390Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:18.481Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:12:18.567Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:18.662Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:12:29.652Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:12:29.735Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:12:29.806Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:12:29.893Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:29.987Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:12:30.074Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:33.138Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:12:33.220Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:12:38.390Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:12:38.485Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:12:38.562Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:12:38.638Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:38.742Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:12:38.836Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:41.904Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:12:42.000Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:12:45.120Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:12:45.215Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:12:45.277Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:12:45.355Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:45.457Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:12:45.552Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:48.602Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:12:48.698Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:12:57.705Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:12:57.805Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:12:57.863Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:12:57.956Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:12:58.052Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:12:58.152Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:13:01.203Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:13:16.937Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:13:17.018Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:13:17.091Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:13:17.176Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:13:17.268Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:13:17.352Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:13:20.420Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:13:20.518Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:13:52.208Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:13:52.338Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:13:52.408Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:13:52.484Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:13:52.577Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:13:52.673Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:13:55.747Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:13:55.838Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:14:21.007Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:14:21.106Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:14:21.166Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:14:21.259Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:14:21.353Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:14:21.450Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:14:24.503Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:14:24.585Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:14:45.220Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:14:45.348Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:14:45.426Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:14:45.509Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:14:45.606Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:14:45.697Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:14:48.764Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:14:48.847Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:15:18.037Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:15:18.121Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:15:18.216Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:15:18.310Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:15:18.405Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:15:18.510Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:15:21.559Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:15:21.661Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:15:27.984Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:15:28.063Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:15:28.143Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:15:28.240Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:15:28.333Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:15:28.425Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:15:31.493Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:15:31.579Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:16:08.086Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:16:08.164Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:16:08.244Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:16:08.331Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:16:08.421Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:16:08.509Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:16:11.581Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:16:11.672Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:16:15.634Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:16:15.712Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:16:15.791Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:16:15.873Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:16:15.965Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:16:16.059Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:16:19.119Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:16:19.213Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:16:50.831Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:16:50.956Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:16:51.034Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:16:51.133Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:16:51.208Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:16:51.319Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:16:51.413Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:16:51.511Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:17:02.202Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:17:02.280Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:17:02.363Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:17:02.460Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:17:02.537Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:17:02.649Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:17:05.688Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:17:05.799Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:18:20.269Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:18:20.407Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:18:20.483Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:18:20.557Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:18:20.659Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:18:20.758Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:18:23.815Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:18:23.915Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:18:33.236Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:18:33.337Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:18:33.396Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:18:33.504Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:18:33.591Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:18:33.689Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:18:36.751Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:18:36.849Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:18:57.983Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:18:58.086Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:18:58.155Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:18:58.246Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:18:58.342Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:18:58.440Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:19:01.490Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:19:01.586Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:20:53.860Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:20:53.956Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:20:54.035Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:20:54.132Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:20:54.218Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:20:54.312Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:20:54.411Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:20:54.508Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:21:00.116Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:21:00.194Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:21:00.257Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:21:00.366Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:21:00.449Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:21:00.547Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:21:00.641Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:21:00.735Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:21:33.144Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:21:33.269Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:21:33.339Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:21:33.424Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:21:33.517Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:21:33.621Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:21:33.715Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:21:33.811Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:21:37.979Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:21:38.073Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:21:38.154Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:21:38.235Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:21:38.314Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:21:38.423Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:21:38.522Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:21:38.622Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:34:14.862Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:34:14.942Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:34:15.020Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:34:15.100Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:34:15.203Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:34:15.296Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:34:18.361Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:34:18.457Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:34:21.510Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:36:28.424Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:36:28.518Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:36:28.596Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:36:28.685Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:28.758Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:36:28.867Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:36:36.331Z"}
+{"level":"info","message":"1号机器人开始工作......","timestamp":"2017-08-25T08:36:36.331Z"}
+{"level":"info","message":"2号机器人开始工作......","timestamp":"2017-08-25T08:36:36.331Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:36:36.440Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:36:36.449Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:36:36.451Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:36:36.503Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:36:36.518Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:36:36.518Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:36:36.612Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:36:36.614Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:36:36.616Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:36.698Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:36.698Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:36.698Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:36:36.824Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:36:36.824Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:36:36.824Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:39.899Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:39.901Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:39.902Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:36:40.005Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:36:40.005Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:42.950Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:36:43.035Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:43.124Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:36:43.124Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:36:43.218Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:45:22.875Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:45:22.953Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:45:23.036Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:45:23.114Z"}
+{"level":"info","message":"startCatchEgg 调用成功","timestamp":"2017-08-25T08:45:23.210Z"}
+{"level":"info","message":"eggAward 调用成功","timestamp":"2017-08-25T08:45:23.304Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:46:15.280Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:46:15.391Z"}
+{"level":"info","message":"enter 调用成功","timestamp":"2017-08-25T08:46:15.469Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:46:15.563Z"}
+{"level":"error","message":"调用失败: startCatchEgg, {\"code\":500,\"error\":\"uid为\"}","timestamp":"2017-08-25T08:46:15.646Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:46:30.957Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:46:31.051Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:46:31.067Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:46:31.111Z"}
+{"level":"error","message":"调用失败: startCatchEgg, {\"code\":500,\"error\":\"uid为null\"}","timestamp":"2017-08-25T08:46:31.189Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:47:01.933Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:47:02.042Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:47:02.072Z"}
+{"level":"info","message":"pushEggArray 调用成功","timestamp":"2017-08-25T08:47:02.120Z"}
+{"level":"error","message":"调用失败: startCatchEgg, {\"code\":500,\"error\":\"uid为null\"}","timestamp":"2017-08-25T08:47:02.206Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:47:10.753Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:47:10.849Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:47:10.865Z"}
+{"level":"error","message":"机器人行undefined动失败","timestamp":"2017-08-25T08:47:10.866Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:49:07.033Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:49:07.112Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:49:07.128Z"}
+{"level":"error","message":"机器人行undefined动失败","timestamp":"2017-08-25T08:49:07.128Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:50:23.216Z"}
+{"level":"info","message":"login 调用成功","timestamp":"2017-08-25T08:50:23.294Z"}
+{"level":"error","message":"调用失败: enter, {\"code\":500}","timestamp":"2017-08-25T08:50:23.325Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 行动：connect error","timestamp":"2017-08-25T08:50:23.326Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:52:23.213Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-08-25T08:52:23.317Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:53:56.167Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:54:22.864Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:55:01.300Z"}
+{"level":"error","message":"机器人【undefined】完成工作 ","timestamp":"2017-08-25T08:55:01.751Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:55:08.876Z"}
+{"level":"info","message":"机器人【undefined】完成工作 ","timestamp":"2017-08-25T08:55:09.328Z"}
+{"level":"info","message":"0号机器人开始工作......","timestamp":"2017-08-25T08:55:29.317Z"}
+{"level":"info","message":"机器人【0】完成工作 ","timestamp":"2017-08-25T08:55:29.764Z"}
+{"level":"info","message":"【0】号机器人开始工作......","timestamp":"2017-08-25T08:55:48.360Z"}
+{"level":"info","message":"机器人【0】号完成工作 ","timestamp":"2017-08-25T08:55:48.836Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作......","timestamp":"2017-08-25T08:56:14.918Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T08:56:15.405Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T08:56:22.783Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T08:56:23.235Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T08:57:27.763Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T08:57:28.101Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T08:59:22.106Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T08:59:22.500Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T08:59:22.502Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:00:46.298Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:00:46.314Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:00:46.314Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:46.633Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:46.633Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:46.633Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:49.689Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:49.689Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:49.689Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"info","message":"机器人【2】号 => 完成工作 ","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:00:52.746Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:01:11.345Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:01:11.351Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:01:11.351Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:01:17.898Z"}
+{"level":"info","message":"机器人【2】号 => 完成工作 ","timestamp":"2017-08-25T09:01:17.960Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:01:18.019Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:07:13.126Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:07:13.131Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:07:13.131Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/%s）","timestamp":"2017-08-25T09:07:13.459Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/%s）","timestamp":"2017-08-25T09:07:13.561Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/%s）","timestamp":"2017-08-25T09:07:13.561Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/%s）","timestamp":"2017-08-25T09:07:16.576Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/%s）","timestamp":"2017-08-25T09:07:16.772Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/%s）","timestamp":"2017-08-25T09:07:16.773Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:07:19.679Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:07:19.855Z"}
+{"level":"error","message":"机器人【2】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:07:19.953Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:09:42.118Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:09:42.118Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:09:42.118Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:09:42.613Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:09:42.613Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:09:42.629Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（3/3）","timestamp":"2017-08-25T09:09:45.680Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（3/3）","timestamp":"2017-08-25T09:09:45.794Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（3/3）","timestamp":"2017-08-25T09:09:45.794Z"}
+{"level":"error","message":"机器人【2】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:09:48.817Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:09:49.023Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:09:49.025Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:09:57.025Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:09:57.025Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:09:57.025Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:09:57.533Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:09:57.533Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:09:57.533Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:10:00.716Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:10:00.716Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:10:00.716Z"}
+{"level":"error","message":"机器人【2】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:10:03.772Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:10:03.772Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:10:03.881Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:10:31.284Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:10:31.300Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:10:31.300Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:31.610Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:31.734Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:31.738Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:10:43.582Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:10:43.588Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:10:43.588Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:44.008Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:44.133Z"}
+{"level":"info","message":"机器人【undefined】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:44.133Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:10:57.752Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:10:57.768Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:10:57.768Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:58.153Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:58.263Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:10:58.263Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:11:01.268Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:11:01.467Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:11:01.470Z"}
+{"level":"error","message":"机器人【2】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:11:04.418Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:11:04.659Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: ReferenceError: i is not defined","timestamp":"2017-08-25T09:11:04.675Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:11:38.203Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:11:38.209Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:11:38.210Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:11:38.690Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:11:38.690Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/3）","timestamp":"2017-08-25T09:11:38.705Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:11:41.885Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:11:41.885Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/3）","timestamp":"2017-08-25T09:11:41.885Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（3/3）","timestamp":"2017-08-25T09:11:44.941Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:11:44.941Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（3/3）","timestamp":"2017-08-25T09:11:45.063Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:11:45.064Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/3）","timestamp":"2017-08-25T09:11:45.065Z"}
+{"level":"info","message":"机器人【2】号 => 完成工作 ","timestamp":"2017-08-25T09:11:45.065Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:12:01.264Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.949Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.949Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.949Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.964Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.964Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.964Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.964Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.964Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.964Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:12:01.964Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.048Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.116Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.241Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.241Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.241Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.241Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.241Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.241Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.241Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:12:05.241Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.104Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.350Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.539Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.541Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.541Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.542Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.543Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.543Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.544Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:12:08.544Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.254Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.500Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.615Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.615Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.785Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.785Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.785Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.785Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.785Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:12:11.785Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:14.357Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:14.630Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:14.809Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:14.809Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:14.899Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:15.042Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:15.042Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:15.042Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:15.042Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:12:15.042Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:17.539Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:17.789Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:18.013Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:18.014Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:18.064Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:18.125Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:18.131Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:18.255Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:18.255Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:12:18.255Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:20.657Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:20.937Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:21.139Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:21.199Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:21.199Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:21.310Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:21.310Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:21.310Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:21.310Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:12:21.404Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:23.823Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.086Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.294Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.296Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.407Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.539Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.539Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.539Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.539Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:12:24.604Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:26.989Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.235Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.468Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.468Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.552Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.756Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.757Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.757Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.761Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:12:27.818Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.051Z"}
+{"level":"info","message":"机器人【5】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.053Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.386Z"}
+{"level":"info","message":"机器人【4】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.387Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.665Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.665Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.665Z"}
+{"level":"info","message":"机器人【2】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.665Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.665Z"}
+{"level":"info","message":"机器人【6】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.665Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.825Z"}
+{"level":"info","message":"机器人【9】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.825Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.825Z"}
+{"level":"info","message":"机器人【3】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.825Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.825Z"}
+{"level":"info","message":"机器人【8】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.825Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:30.934Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:12:30.934Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:12:31.034Z"}
+{"level":"info","message":"机器人【7】号 => 完成工作 ","timestamp":"2017-08-25T09:12:31.034Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:13:05.230Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:13:05.246Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:13:05.247Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:13:05.247Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:13:05.247Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:13:05.248Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:13:05.248Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:13:05.248Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:13:05.248Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:13:05.248Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.000Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:13:06.016Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.081Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.323Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.323Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.324Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.325Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.325Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.326Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.329Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.330Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:13:07.330Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.212Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.421Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.423Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.425Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.425Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.609Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.609Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.609Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.609Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:13:08.609Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.356Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.627Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.627Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.627Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.627Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.819Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.819Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.819Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.819Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:13:09.819Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:10.480Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:10.832Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:10.833Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:10.833Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:10.834Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:10.869Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:10.885Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:11.010Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:11.011Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:13:11.011Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:11.487Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:11.935Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:12.093Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:12.093Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:12.093Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:12.093Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:12.093Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:12.109Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:12.225Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:13:12.226Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:12.650Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.087Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.190Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.351Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.351Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.351Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.351Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.351Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.421Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:13:13.421Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:13.805Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.209Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.366Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.431Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.431Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.564Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.564Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.564Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.626Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:13:14.626Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:14.909Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.376Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.559Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.640Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.640Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.640Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.762Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.762Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.874Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:13:15.875Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.075Z"}
+{"level":"info","message":"机器人【7】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.078Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.532Z"}
+{"level":"info","message":"机器人【2】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.532Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.737Z"}
+{"level":"info","message":"机器人【3】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.737Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.867Z"}
+{"level":"info","message":"机器人【4】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.867Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.867Z"}
+{"level":"info","message":"机器人【5】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.867Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.882Z"}
+{"level":"info","message":"机器人【8】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.882Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.906Z"}
+{"level":"info","message":"机器人【9】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.906Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.962Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.962Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.962Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.962Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:13:16.962Z"}
+{"level":"info","message":"机器人【6】号 => 完成工作 ","timestamp":"2017-08-25T09:13:16.962Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:14:07.014Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:14:07.029Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.571Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.571Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.571Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.571Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.633Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.681Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.681Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.682Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.682Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:14:07.688Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:07.899Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:07.899Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:07.900Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:07.901Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:08.111Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:08.111Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:08.111Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:08.111Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:08.111Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:14:08.111Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.272Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.273Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.273Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.275Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.276Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.277Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.429Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.429Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.429Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:14:08.429Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.429Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.429Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.603Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.603Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.604Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.604Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.606Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.764Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.764Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:14:08.764Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:08.764Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:08.764Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:08.936Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:08.936Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:08.937Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:08.937Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:08.938Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:09.101Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:09.102Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:14:09.102Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.103Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.103Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.267Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.268Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.269Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.270Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.273Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.383Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.383Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:14:09.383Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.383Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.383Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.618Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.619Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.621Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.621Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.622Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.623Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.734Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.734Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.734Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:14:09.734Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.830Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.830Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.939Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:09.939Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.939Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.939Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.939Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:09.939Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:14:10.020Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.020Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.131Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.132Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.132Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.132Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.242Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.242Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.242Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.242Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.242Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:14:10.357Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.358Z"}
+{"level":"info","message":"机器人【5】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.358Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.507Z"}
+{"level":"info","message":"机器人【8】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.507Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.508Z"}
+{"level":"info","message":"机器人【2】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.509Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.509Z"}
+{"level":"info","message":"机器人【6】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.509Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.510Z"}
+{"level":"info","message":"机器人【4】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.510Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.666Z"}
+{"level":"info","message":"机器人【3】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.666Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.667Z"}
+{"level":"info","message":"机器人【9】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.667Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.667Z"}
+{"level":"info","message":"机器人【7】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.667Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:14:10.668Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:14:10.668Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:17:54.476Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:17:54.481Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:17:54.482Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:17:54.482Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:17:54.482Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:17:54.482Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:17:54.483Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:17:54.483Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:17:54.483Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:17:54.483Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:54.966Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.204Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.206Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.207Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.207Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.208Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.208Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.209Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.210Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:17:55.210Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.069Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.361Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.362Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.435Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.435Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.435Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.435Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.435Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.435Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:17:58.450Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.250Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.533Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.533Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.729Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.729Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.729Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.729Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.729Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.729Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:18:01.729Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.369Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.720Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.720Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.841Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.842Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.997Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.997Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.998Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.998Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:18:04.999Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:19:36.725Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:19:36.741Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.315Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.315Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.331Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.456Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.456Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.456Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.456Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.456Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.456Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:19:37.456Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:21:48.818Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:21:48.837Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:21:48.837Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:21:48.837Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:21:48.838Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:21:48.838Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:21:48.838Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:21:48.838Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:21:48.838Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:21:48.838Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.751Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.751Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.751Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.751Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.751Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.751Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.751Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.767Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.767Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:21:49.767Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:52.853Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.118Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.118Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.118Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.118Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.118Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.118Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.118Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.118Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:21:53.133Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:22:02.376Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:22:02.376Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/2）","timestamp":"2017-08-25T09:22:02.869Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/2）","timestamp":"2017-08-25T09:22:02.872Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/2）","timestamp":"2017-08-25T09:22:06.053Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:22:06.053Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/2）","timestamp":"2017-08-25T09:22:06.053Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:22:06.053Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:22:55.305Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:22:55.503Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:22:55.706Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:55.821Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:22:55.912Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:55.912Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:22:56.107Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:56.107Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:22:56.312Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:56.312Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:22:56.517Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:56.522Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:22:56.705Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:56.705Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:22:56.904Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:56.910Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:22:57.104Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:57.108Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:57.297Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:22:57.488Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:22:58.935Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:22:59.125Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:22:59.300Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:22:59.396Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:22:59.569Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:22:59.856Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:23:00.068Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:23:00.265Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:23:00.446Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:23:00.638Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:02.100Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:02.306Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:02.515Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:02.582Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:02.769Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:03.005Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:03.222Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:03.431Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:03.612Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:23:03.804Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:05.274Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:05.363Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:05.673Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:05.674Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:05.921Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:06.176Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:06.373Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:06.588Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:06.778Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:23:06.969Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:08.385Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:08.575Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:08.719Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:08.832Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:09.085Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:09.334Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:09.526Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:09.753Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:09.943Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:23:10.182Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:11.445Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:11.725Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:11.924Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:12.028Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:12.251Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:12.515Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:12.621Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:12.904Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:13.110Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:23:13.338Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:14.604Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:14.875Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:15.050Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:15.131Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:15.320Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:15.681Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:15.784Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:16.069Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:16.169Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:23:16.491Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:17.764Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:17.932Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:18.104Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:18.328Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:18.520Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:18.741Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:18.934Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:19.235Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:19.347Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:23:19.642Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:20.930Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:21.112Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:21.289Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:21.525Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:21.721Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:21.938Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:22.127Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:22.401Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:22.401Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:23:22.794Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:24.089Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:23:24.089Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:24.279Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:23:24.279Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:24.470Z"}
+{"level":"info","message":"机器人【2】号 => 完成工作 ","timestamp":"2017-08-25T09:23:24.470Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:24.722Z"}
+{"level":"info","message":"机器人【3】号 => 完成工作 ","timestamp":"2017-08-25T09:23:24.723Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:24.920Z"}
+{"level":"info","message":"机器人【4】号 => 完成工作 ","timestamp":"2017-08-25T09:23:24.920Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:25.010Z"}
+{"level":"info","message":"机器人【5】号 => 完成工作 ","timestamp":"2017-08-25T09:23:25.010Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:25.312Z"}
+{"level":"info","message":"机器人【6】号 => 完成工作 ","timestamp":"2017-08-25T09:23:25.312Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:25.620Z"}
+{"level":"info","message":"机器人【7】号 => 完成工作 ","timestamp":"2017-08-25T09:23:25.621Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:25.622Z"}
+{"level":"info","message":"机器人【8】号 => 完成工作 ","timestamp":"2017-08-25T09:23:25.624Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:23:25.945Z"}
+{"level":"info","message":"机器人【9】号 => 完成工作 ","timestamp":"2017-08-25T09:23:25.946Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:23:56.408Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:23:56.846Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:23:57.418Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:23:57.795Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:23:58.406Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:23:58.786Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:23:59.405Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:23:59.777Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:00.011Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:24:00.408Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:00.785Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:00.983Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:24:01.410Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:01.776Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:01.986Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:24:02.414Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:02.780Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:02.971Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:03.176Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:24:03.406Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:03.783Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:03.985Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:04.179Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:24:04.418Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:04.788Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:04.976Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:05.183Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:24:05.406Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:05.771Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:05.976Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:06.065Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:06.327Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:06.852Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:07.140Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:07.346Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:07.942Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:08.170Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:08.395Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:08.937Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:09.174Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:09.271Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:09.384Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:10.002Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:10.306Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:10.511Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:11.095Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:11.332Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:11.548Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:12.103Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:12.330Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:12.436Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:24:12.538Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:13.184Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:13.471Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:24:13.676Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:24:28.841Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:29.316Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-25T09:24:31.847Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:32.259Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:32.359Z"}
+{"level":"info","message":"机器人【2】号 => 开始工作","timestamp":"2017-08-25T09:24:34.853Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:35.230Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:35.426Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:35.522Z"}
+{"level":"info","message":"机器人【3】号 => 开始工作","timestamp":"2017-08-25T09:24:37.844Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:38.100Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:38.385Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:38.543Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:38.735Z"}
+{"level":"info","message":"机器人【4】号 => 开始工作","timestamp":"2017-08-25T09:24:40.841Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:41.223Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:41.328Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:41.541Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:41.632Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:41.783Z"}
+{"level":"info","message":"机器人【5】号 => 开始工作","timestamp":"2017-08-25T09:24:43.842Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:44.225Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:44.415Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:44.415Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:44.693Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:44.797Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:24:44.973Z"}
+{"level":"info","message":"机器人【6】号 => 开始工作","timestamp":"2017-08-25T09:24:46.851Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:47.216Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:47.423Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:47.632Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:47.632Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:47.804Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:24:47.993Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:24:48.187Z"}
+{"level":"info","message":"机器人【7】号 => 开始工作","timestamp":"2017-08-25T09:24:49.842Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:50.208Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:50.429Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:50.621Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:50.809Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:50.809Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:24:51.003Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:24:51.193Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:24:51.272Z"}
+{"level":"info","message":"机器人【8】号 => 开始工作","timestamp":"2017-08-25T09:24:52.847Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:53.213Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:53.404Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:53.635Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:53.822Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:53.897Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:24:54.008Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:24:54.184Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:24:54.388Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:24:54.495Z"}
+{"level":"info","message":"机器人【9】号 => 开始工作","timestamp":"2017-08-25T09:24:55.854Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（1/10）","timestamp":"2017-08-25T09:24:56.224Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:56.410Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:56.607Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:56.810Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:57.016Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:24:57.125Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:24:57.208Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:24:57.398Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:24:57.485Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:24:57.685Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:24:57.685Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（2/10）","timestamp":"2017-08-25T09:24:59.385Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:24:59.612Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:24:59.689Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:24:59.974Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:25:00.182Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:25:00.298Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:25:00.298Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:25:00.563Z"}
+{"level":"info","message":"机器人【1】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:00.679Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-25T09:25:00.679Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（3/10）","timestamp":"2017-08-25T09:25:02.545Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:25:02.772Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:25:02.878Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:25:03.134Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:25:03.332Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:25:03.395Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:25:03.492Z"}
+{"level":"info","message":"机器人【2】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:03.713Z"}
+{"level":"info","message":"机器人【2】号 => 完成工作 ","timestamp":"2017-08-25T09:25:03.713Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（4/10）","timestamp":"2017-08-25T09:25:05.592Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:25:05.934Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:25:06.041Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:25:06.292Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:25:06.435Z"}
+{"level":"info","message":"机器人【3】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:06.513Z"}
+{"level":"info","message":"机器人【3】号 => 完成工作 ","timestamp":"2017-08-25T09:25:06.513Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:25:06.705Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（5/10）","timestamp":"2017-08-25T09:25:08.742Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:25:08.994Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:25:09.195Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:25:09.457Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:25:09.647Z"}
+{"level":"info","message":"机器人【4】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:09.855Z"}
+{"level":"info","message":"机器人【4】号 => 完成工作 ","timestamp":"2017-08-25T09:25:09.855Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（6/10）","timestamp":"2017-08-25T09:25:11.908Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:25:12.145Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:25:12.351Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:25:12.608Z"}
+{"level":"info","message":"机器人【5】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:12.798Z"}
+{"level":"info","message":"机器人【5】号 => 完成工作 ","timestamp":"2017-08-25T09:25:12.798Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（7/10）","timestamp":"2017-08-25T09:25:15.074Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:25:15.295Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:25:15.505Z"}
+{"level":"info","message":"机器人【6】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:15.758Z"}
+{"level":"info","message":"机器人【6】号 => 完成工作 ","timestamp":"2017-08-25T09:25:15.758Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（8/10）","timestamp":"2017-08-25T09:25:18.143Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:25:18.461Z"}
+{"level":"info","message":"机器人【7】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:18.542Z"}
+{"level":"info","message":"机器人【7】号 => 完成工作 ","timestamp":"2017-08-25T09:25:18.542Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（9/10）","timestamp":"2017-08-25T09:25:21.304Z"}
+{"level":"info","message":"机器人【8】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:21.610Z"}
+{"level":"info","message":"机器人【8】号 => 完成工作 ","timestamp":"2017-08-25T09:25:21.610Z"}
+{"level":"info","message":"机器人【9】号 => 工作进度（10/10）","timestamp":"2017-08-25T09:25:24.471Z"}
+{"level":"info","message":"机器人【9】号 => 完成工作 ","timestamp":"2017-08-25T09:25:24.471Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:41:40.304Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:41:40.859Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:41:40.859Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:41:54.961Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:41:55.421Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:41:55.421Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:42:10.073Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:42:10.514Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:42:10.514Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:42:32.712Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:42:33.147Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:42:33.150Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:42:58.773Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:42:59.246Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:42:59.246Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:43:11.560Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:43:12.009Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:43:12.010Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:43:27.124Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:43:27.554Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: this.afterStop is not a function","timestamp":"2017-08-25T09:43:27.559Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:44:08.681Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:44:09.101Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:44:09.101Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:44:32.845Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:44:33.265Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:44:33.265Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:48:36.355Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:48:36.786Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:48:36.787Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:49:15.275Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:49:15.751Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:49:15.751Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:49:29.298Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:49:29.721Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:49:29.721Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:53:44.178Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:53:44.630Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:53:44.631Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:58:44.106Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T09:59:32.943Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（1/1）","timestamp":"2017-08-25T09:59:33.438Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T09:59:33.440Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T10:17:33.163Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:17:33.598Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T10:17:33.598Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T10:17:49.261Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:17:49.692Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T10:17:49.692Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T10:18:33.311Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:18:33.737Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T10:18:33.738Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T10:19:05.385Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:19:05.808Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T10:19:05.810Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T10:20:56.769Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:20:57.199Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:21:00.348Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:21:03.496Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T10:21:03.496Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T10:25:57.136Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:25:57.572Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:26:00.716Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:26:03.902Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T10:26:03.903Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T10:26:14.981Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T10:26:15.306Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:26:15.306Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500}","timestamp":"2017-08-25T10:26:18.333Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:26:18.334Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-25T10:27:57.236Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:27:57.680Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:28:00.826Z"}
+{"level":"info","message":"机器人【0】号 => 工作进度（undefined/1）","timestamp":"2017-08-25T10:28:03.886Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-25T10:28:03.886Z"}

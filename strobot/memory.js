@@ -2,11 +2,7 @@
  * Created by HJ on 2017/8/23.
  */
 
-const consumeType = {
-    small: 20,
-    middle: 100,
-    large: 1000
-}
+const consumeType = require('./config/game-config.json').consumeType
 
 function Memory() {
 

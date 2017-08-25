@@ -2,25 +2,29 @@
  * Created by HJ on 2017/8/24.
  */
 
+global.logger = require('./util/logger')
+
 const Robot = require('./robot')
-const robotConfig = require('./user-config.json')
+const robotConfig = require('./config/user-config.json')
 
 const maxConWorkingRobotNum = 10
-const allRobotNum = 3
 
 const pipe = require('./file-writer-manager')
 pipe.start()
 
 // const robotPool = [new Robot(robotConfig), new Robot(robotConfig)]
 
-for (let i = 0;i < 2;i++) {
+let robotNum = robotConfig.robotNum
+for (let i = 0;i < robotNum;i++) {
 
     const robot = new Robot(robotConfig)
+    robot.index = i
+    robot.afterStop = () => {
+        robotNum--
+        if (robotNum === 0) {
+            pipe.stop()
+        }
+    }
     robot.run()
-
-    // setTimeout(function () {
-    //     const robot = new Robot(robotConfig)
-    //     robot.run()
-    // }, 500)
 
 }
