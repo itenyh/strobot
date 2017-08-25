@@ -2,64 +2,74 @@
  * Created by HJ on 2017/8/23.
  */
 
-require('./pomelo-cocos2d-js')
-const pomelo = createPomelo()
 const Q = require('q')
 
-function ready(cb) {
+function RobotNet(pomelo_) {
 
-    pomelo.init({
-        host: '192.168.1.218',
-        port: 8100
-    }, function (socket) {
-        cb(null)
-    })
+    const pomelo = pomelo_
 
-}
+    function ready(cb) {
 
-function login(cb) {
+        pomelo.init({
+            host: '192.168.1.218',
+            port: 8100
+        }, function (socket) {
+            cb(null)
+        })
 
-    pomelo.request('gate.loginHandler.visitorLogin', {visitorID: ''}, function (data) {
-        responseHandler(data, cb)
-    })
-
-}
-
-function pushEggArray(cb) {
-    pomelo.request('hall.catchHandler.pushEggArray', {money:20}, function (data) {
-        responseHandler(data, cb)
-    })
-}
-
-function startCatchEgg(consumeType, cb) {
-    pomelo.request('hall.catchHandler.startCatchEgg', {consumeType: consumeType}, function (data) {
-        responseHandler(data, cb)
-    })
-}
-
-function eggAward(params, cb) {
-
-    pomelo.request('hall.catchHandler.eggAward', params, function (data) {
-        responseHandler(data, cb)
-    })
-
-}
-
-function responseHandler(data, cb) {
-
-    const code = data.code
-    if (code === 200) {
-        cb(null, data)
-    }
-    else {
-        cb(data)
     }
 
+    function login(cb) {
+
+        pomelo.request('gate.loginHandler.visitorLogin', {visitorID: ''}, function (data) {
+            // console.log('eggAward: ', data)
+            responseHandler(data, cb)
+        })
+
+    }
+
+    function pushEggArray(cb) {
+        pomelo.request('hall.catchHandler.pushEggArray', {money:20}, function (data) {
+            // console.log('eggAward: ', data)
+            responseHandler(data, cb)
+        })
+    }
+
+    function startCatchEgg(consumeType, cb) {
+        pomelo.request('hall.catchHandler.startCatchEgg', {consumeType: consumeType}, function (data) {
+            responseHandler(data, cb)
+        })
+    }
+
+    function eggAward(params, cb) {
+
+        console.log(params)
+        pomelo.request('hall.catchHandler.eggAward', params, function (data) {
+            console.log('eggAward: ', data)
+            responseHandler(data, cb)
+        })
+
+    }
+
+    function responseHandler(data, cb) {
+
+        const code = data.code
+        if (code === 200) {
+            cb(null, data)
+        }
+        else {
+            cb(data)
+        }
+
+    }
+
+    this.asynReady = Q.nbind(ready)
+    this.asynLogin = Q.nbind(login)
+    this.asynPushEggArray = Q.nbind(pushEggArray)
+    this.asynStartCatchEgg = Q.nbind(startCatchEgg)
+    this.asynEggAward = Q.nbind(eggAward)
+    this.disconnect = pomelo.disconnect
+
 }
 
-exports.asynReady = Q.nbind(ready)
-exports.asynLogin = Q.nbind(login)
-exports.asynPushEggArray = Q.nbind(pushEggArray)
-exports.asynStartCatchEgg = Q.nbind(startCatchEgg)
-exports.asynEggAward = Q.nbind(eggAward)
-exports.disconnect = pomelo.disconnect
+module.exports = RobotNet
