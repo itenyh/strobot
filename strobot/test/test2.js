@@ -1,17 +1,14 @@
+const cc = require('../config/user-config.json')
 
-function A() {
+const robotConfigs = []
 
-    this.a = 1
+for (var config of cc) {
 
-    this.fuck = () => {
-        enen()
-    }
-
-    function enen() {
-        console.log(this.a)
+    const robotNum = config.robotNum
+    for (let i = 0;i < robotNum;i++) {
+        robotConfigs.push(config)
     }
 
 }
 
-const AA = new A()
-AA.fuck()
+console.log(robotConfigs)

@@ -15,6 +15,13 @@ exports.writeHis2File = (history, filename = './data/message.csv') => {
 
 }
 
+exports.writeLine = (line, filename = './data/message.csv') => {
+
+    const result = new CSV([line], { header: false }).encode();
+    fs.appendFileSync(filename, result + '\n');
+
+}
+
 // Asynchronously:
 //
 //     var fs = require('fs');

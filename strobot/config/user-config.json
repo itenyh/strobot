@@ -1,6 +1,16 @@
-{
-  "eggConsumNum": 5,
-  "consumeType": "small",
-  "playRound": 1,
-  "robotNum": 1
-}
+[
+    {
+      "eggConsumNum": 10,
+      "consumeType": "small",
+      "robotNum": 1,
+      "totalMoney": 200
+    },
+
+    {
+      "eggConsumNum": 5,
+      "consumeType": "large",
+      "robotNum": 0,
+      "totalMoney": 30
+    }
+
+]

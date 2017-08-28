@@ -5,6 +5,8 @@
     "large": 1000
   },
 
-  "playInterval": 3000
+  "playInterval": 800,
+  "interfaceRepeatInterval": 800,
+  "maxRobotNum": 10
 
 }
