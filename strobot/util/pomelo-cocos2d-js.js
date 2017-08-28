@@ -153,7 +153,6 @@
                     if (port) {
                         url += ':' + port;
                     }
-
                     handshakeBuffer.user = params.user;
                     if (params.encrypt) {
                         useCrypto = true;

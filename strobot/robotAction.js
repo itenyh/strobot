@@ -15,7 +15,7 @@ function RobotAction() {
     const net = new Net((new PP()).pomelo)
 
     this.connect = () => {
-        return net.asynReady({host: '192.168.1.218', port: 8100}).then(function () {
+        return net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort}).then(function () {
             return net.asynLogin()
         }).then(function (data) {
             return net.asynReady({host: data.server.host, port: data.server.port}).thenResolve(data)
