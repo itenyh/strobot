@@ -249,7 +249,7 @@
                         }
                     };
                     var onerror = function (event) {
-                        this.pomelo.emit('io-error', event);
+                        // this.pomelo.emit('io-error', event);
                         console.error('socket error: ', event);
                     };
 

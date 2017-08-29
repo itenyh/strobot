@@ -1,1 +1,116 @@
 {"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'asynPushEggArray' of undefined","timestamp":"2017-08-28T07:58:59.834Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"fc83379dcb8c06a1364fec964272840a","level":"error","message":"","timestamp":"2017-08-29T01:59:42.347Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T01:59:42.351Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":4,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D3","boxMulti":1,"token":"7f74212d2e77f729e8cd1a3cd4755b90","level":"error","message":"","timestamp":"2017-08-29T02:01:41.782Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:01:41.786Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":1,"multiple":0.2},{"eggType":3,"eggNumber":8,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"18bb882a74ee1bc159ab08dcf0d076f4","level":"error","message":"","timestamp":"2017-08-29T02:02:05.750Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:02:05.754Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":8,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"a1ed409880b82618db46b95a99de6bb6","level":"error","message":"","timestamp":"2017-08-29T02:07:12.080Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:07:12.084Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"79a84ce5d5ba10c846a0d2b4fc92f053","level":"error","message":"","timestamp":"2017-08-29T02:08:16.322Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:08:16.324Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"6f1833d9796d10f72f75c3250a19bd01","level":"error","message":"","timestamp":"2017-08-29T02:08:53.876Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:08:53.878Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":4,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D3","boxMulti":1,"token":"d1dea1b14f1827a08228bf3d9c6562ef","level":"error","message":"","timestamp":"2017-08-29T02:08:59.162Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:08:59.164Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D3","boxMulti":1,"token":"aecc129285569e841b7aab432d07e72e","level":"error","message":"","timestamp":"2017-08-29T02:09:02.828Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:09:02.830Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":3,"eggNumber":9,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":1,"multiple":["2"]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"5f85bf54d8a4aeb23e7e1c19625638ea","level":"error","message":"","timestamp":"2017-08-29T02:09:06.279Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:09:06.281Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.2"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"efe79ea1de1eacfc431247e1a2e34a59","level":"error","message":"","timestamp":"2017-08-29T02:09:19.057Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:09:19.060Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":3,"eggNumber":10,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"30dc207f94d2a29a5ffb27bac9f3ba0a","level":"error","message":"","timestamp":"2017-08-29T02:09:33.323Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:09:33.327Z"}
+{"egg":[{"eggType":1,"eggNumber":2,"multiple":0.5},{"eggType":2,"eggNumber":4,"multiple":0.2},{"eggType":3,"eggNumber":4,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"b1854605fbc379e8d806ff1a8ab66db6","level":"error","message":"","timestamp":"2017-08-29T02:11:18.804Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:11:18.807Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"071eb48e974afbd9d6d6c455f0267ab2","level":"error","message":"","timestamp":"2017-08-29T02:11:24.684Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:11:24.688Z"}
+{"egg":[{"eggType":1,"eggNumber":2,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":5,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.2"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"61114cfdf5b8e8d62ca15a9407a3ea53","level":"error","message":"","timestamp":"2017-08-29T02:11:32.727Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:11:32.730Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: login, {\\\"code\\\":500,\\\"error\\\":\\\"数据库出错\\\"}\"","timestamp":"2017-08-29T02:13:13.105Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: login, {\\\"code\\\":500,\\\"error\\\":\\\"数据库出错\\\"}\"","timestamp":"2017-08-29T02:13:42.406Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":6,"multiple":0.2},{"eggType":3,"eggNumber":3,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D4","boxMulti":1,"token":"5fe8799a0fe24685611c247895f14d7b","level":"error","message":"","timestamp":"2017-08-29T02:18:15.303Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:18:15.305Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":5,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.2"]},{"eggType":6,"eggNumber":1,"multiple":["1.2"]}],"bet":20,"eggGroup":"D6","boxMulti":1,"token":"6a155a0f8fc6991705457bcf5042d921","level":"error","message":"","timestamp":"2017-08-29T02:19:05.170Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:19:05.173Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":8,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"60b38710eb0ddeeb50492d74ecc7bb12","level":"error","message":"","timestamp":"2017-08-29T02:19:48.996Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:19:48.997Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D6","boxMulti":1,"token":"3ccc99a59f8c3c20b54f57190671cfb9","level":"error","message":"","timestamp":"2017-08-29T02:20:07.104Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:20:07.106Z"}
+{"egg":[{"eggType":1,"eggNumber":2,"multiple":0.5},{"eggType":2,"eggNumber":4,"multiple":0.2},{"eggType":3,"eggNumber":3,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.1"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"ff8368b5d5b1e3c2b6bbfad6d21b3668","level":"error","message":"","timestamp":"2017-08-29T02:21:35.436Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:21:35.438Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":5,"multiple":0.1},{"eggType":5,"eggNumber":2,"multiple":["0.6","0.4"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"7268beab22e60011088d3a5e3e9d6a7d","level":"error","message":"","timestamp":"2017-08-29T02:21:48.736Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:21:48.737Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":1,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":2,"multiple":["0.8","9.9"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"80a2583779b729dd2a005c05f1b43103","level":"error","message":"","timestamp":"2017-08-29T02:22:36.477Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:22:36.478Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.7"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"23732248e5e9188e1100cfa53d7e359d","level":"error","message":"","timestamp":"2017-08-29T02:23:40.512Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:23:40.515Z"}
+{"egg":[{"eggType":1,"eggNumber":3,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":3,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.8"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"acfdb1c11c05940f46fff0f11689b77a","level":"error","message":"","timestamp":"2017-08-29T02:24:30.340Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:24:30.343Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":5,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.9"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"6fe7bea651c633036636b8ff4b5a4178","level":"error","message":"","timestamp":"2017-08-29T02:24:35.754Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:24:35.755Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:42:14.781Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:42:14.782Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:42:35.617Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:42:35.619Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:44:52.703Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:44:52.704Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:45:07.698Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:45:07.700Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:45:25.969Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:45:25.971Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:47:28.826Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:47:28.828Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:47:51.889Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:47:51.891Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:49:29.823Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:49:29.825Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:55:02.176Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:55:02.178Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:56:04.844Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:56:04.845Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:56:39.314Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:56:39.316Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:56:48.042Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:56:48.044Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:57:01.486Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:57:02.418Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:57:04.204Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500,\"error\":\"金豆不足\"}","timestamp":"2017-08-29T02:57:05.900Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:58:44.878Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:58:44.880Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:59:20.819Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:59:21.752Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:59:22.684Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T03:04:21.435Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T03:04:22.370Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T03:04:24.151Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T03:17:10.537Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T03:17:10.538Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: eggAward, {\\\"code\\\":500,\\\"error\\\":\\\"参数错误\\\"}\"","timestamp":"2017-08-29T03:35:16.374Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:37:51.108Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: startCatchEgg, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:38:28.579Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: startCatchEgg, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:38:29.426Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:42:13.212Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:42:44.871Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:43:16.534Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:43:48.208Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:44:19.862Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:44:51.517Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:45:53.862Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:48:43.316Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:49:14.970Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T06:26:00.384Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T06:29:09.539Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T06:35:24.214Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:02.244Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:03.046Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:03.848Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:04.651Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:05.455Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:06.257Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:07.059Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:07.861Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:01:32.233Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:07:02.978Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:13:18.690Z"}

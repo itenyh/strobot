@@ -1,14 +1,24 @@
-const cc = require('../config/user-config.json')
 
-const robotConfigs = []
+const Q = require('q')
 
-for (var config of cc) {
+function a(cb) {
 
-    const robotNum = config.robotNum
-    for (let i = 0;i < robotNum;i++) {
-        robotConfigs.push(config)
-    }
+    //do something
+    cb(null)
 
 }
 
-console.log(robotConfigs)
+const asynA = Q.nbind(a)
+
+asynA().then(function () {
+    throw new Error("Can't bar.");
+    console.log(1)
+}).catch(function (reason) {
+    return Q.reject(123)
+}).then(function () {
+    console.log(2)
+},function () {
+    console.log(5)
+}).catch(function () {
+    console.log(4)
+})

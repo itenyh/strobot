@@ -8,7 +8,7 @@
   "playInterval": 800,
   "interfaceRepeatInterval": 800,
   "maxRobotNum": 10,
-  "gameHost": "192.168.1.218",
-  "gamePort": 8100
+  "gameHost": "116.62.174.34",
+  "gamePort": 8010
 
 }

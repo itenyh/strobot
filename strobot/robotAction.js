@@ -10,6 +10,8 @@ const Net = require('./robotNet')
 const pipe = require('./file-writer-manager')
 const gameConfig = require('./config/game-config.json')
 
+//打断的error catch后抛出reject
+//非打断的error catch后抛出resolve
 function RobotAction() {
 
     const net = new Net((new PP()).pomelo)
@@ -20,6 +22,7 @@ function RobotAction() {
         }).then(function (data) {
             return net.asynReady({host: data.server.host, port: data.server.port}).thenResolve(data)
         }).then(function (data) {
+            // 116.62.174.34
             return net.asynEnter(data.uid, data.token)
         }).catch(function (reason) {
             return Q.reject('所在 Action：connect， Action error reason: ' + JSON.stringify(reason))
@@ -39,8 +42,9 @@ function RobotAction() {
             return asynDealCatchResult(all[0], bet, eggObj, all[1])
         }).then(function (data) {
             return Q.resolve({win: data.beans})
-        }).catch(function (data) {
-            logger.error(data)
+        }).catch(function (reason) {
+            logger.error('所在 Action：connect， Action error reason: ' + JSON.stringify(reason))  //非阻塞的error需要加日志，因为不会被抛出到上层
+            return Q.resolve({win: 0})
         })
 
     }
@@ -68,18 +72,11 @@ function RobotAction() {
 
     function dealCatchResult(result, bet, eggObj, data, cb) {
 
-        if (result)
-            return net.asynEggAward({
-                egg: eggObj.egg.eggData,
-                bet: bet,
-                eggGroup: 'xxxx',
-                boxMulti: 1,
-                token: data.token
-            }).then(function (data) {
+        if (result) {
+            return net.asynEggAward(eggObj.egg.eggData, bet, 'xxxx', data.token).then(function (data) {
                 cb(null, data)
-            }, function (reason) {
-                cb({egg: eggObj.egg.eggData, bet: bet, eggGroup: eggObj.egg.eggGroup, boxMulti: 1, token: data.token})
             })
+        }
         else {
             cb(null, {beans: 0})
         }
@@ -87,23 +84,13 @@ function RobotAction() {
     }
 
     function sendWork2Pipe_(history, pipe, cb) {
-
         pipe.pushWork(history)
         cb(null)
-
     }
 
     function sendEveryWork2Pipe_(data, memory, consumeType, cb) {
-
-        if (data) {
-            // memory.addGameResult(this.index, data.win, consumeType)
-            pipe.pushHistory(memory.index, memory.round, data.win, consumeType)
-            cb(null)
-        }
-        else {
-            cb(null)
-        }
-
+        pipe.pushHistory(memory.index, memory.round, data.win, consumeType)
+        cb(null)
     }
 
     this.sendWork2Pipe = Q.nbind(sendWork2Pipe_)
@@ -123,7 +110,7 @@ function RobotAction() {
             return playOneTime(memory.bet, consumeType, eggConsumNum, memory.eggObj).then(function (data) {
 
                 memory.totalMoney += (data.win - memory.bet)
-                logger.info('机器人【%s】号 => ， 游戏完成, 收入: %s 支出：%s 返奖率：%s  总资产：%s 工作进度（%s把）',  memory.index, data.win, memory.bet, data.win / memory.bet, memory.totalMoney, memory.round)
+                logger.info('机器人【%s】号 => 玩耍了一把  收入: %s 支出：%s 返奖率：%s  总资产：%s 工作进度（%s把）',  memory.index, data.win, memory.bet, data.win / memory.bet, memory.totalMoney, memory.round)
 
                 return asynSendEveryWork2Pipe(data, memory, consumeType).then(function () {
                     return Q.delay(actionInterval).then(function () {

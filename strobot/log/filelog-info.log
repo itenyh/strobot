@@ -88,3 +88,1106 @@
 {"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-28T08:26:06.261Z"}
 {"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 36 支出：20 返奖率：1.8  总资产：216 工作进度（1把）","timestamp":"2017-08-28T08:26:07.483Z"}
 {"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 30 支出：20 返奖率：1.5  总资产：226 工作进度（2把）","timestamp":"2017-08-28T08:26:08.430Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T01:41:44.198Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T01:43:33.013Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T01:43:44.206Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T01:44:22.434Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T01:45:32.069Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：220 工作进度（1把）","timestamp":"2017-08-29T01:45:33.792Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：200 工作进度（2把）","timestamp":"2017-08-29T01:45:34.729Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（3把）","timestamp":"2017-08-29T01:45:35.625Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（4把）","timestamp":"2017-08-29T01:45:36.527Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：140 工作进度（5把）","timestamp":"2017-08-29T01:45:37.429Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T01:57:07.156Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T01:57:15.891Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T01:59:41.155Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"fc83379dcb8c06a1364fec964272840a","level":"error","message":"","timestamp":"2017-08-29T01:59:42.347Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T01:59:42.351Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:00:13.653Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：214 工作进度（1把）","timestamp":"2017-08-29T02:00:14.864Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：222 工作进度（2把）","timestamp":"2017-08-29T02:00:15.797Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:01:40.581Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":4,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D3","boxMulti":1,"token":"7f74212d2e77f729e8cd1a3cd4755b90","level":"error","message":"","timestamp":"2017-08-29T02:01:41.781Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:01:41.786Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:02:04.540Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":1,"multiple":0.2},{"eggType":3,"eggNumber":8,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"18bb882a74ee1bc159ab08dcf0d076f4","level":"error","message":"","timestamp":"2017-08-29T02:02:05.749Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:02:05.754Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:03:40.291Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:06:49.930Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:06:51.156Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:07:08.483Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:07:09.528Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T02:07:10.376Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：140 工作进度（3把）","timestamp":"2017-08-29T02:07:11.225Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":8,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"a1ed409880b82618db46b95a99de6bb6","level":"error","message":"","timestamp":"2017-08-29T02:07:12.079Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:07:12.084Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:08:13.619Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:08:14.664Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T02:08:15.475Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"79a84ce5d5ba10c846a0d2b4fc92f053","level":"error","message":"","timestamp":"2017-08-29T02:08:16.321Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:08:16.324Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:08:52.870Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"6f1833d9796d10f72f75c3250a19bd01","level":"error","message":"","timestamp":"2017-08-29T02:08:53.875Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:08:53.878Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:08:58.160Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":4,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D3","boxMulti":1,"token":"d1dea1b14f1827a08228bf3d9c6562ef","level":"error","message":"","timestamp":"2017-08-29T02:08:59.161Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:08:59.164Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:09:01.838Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D3","boxMulti":1,"token":"aecc129285569e841b7aab432d07e72e","level":"error","message":"","timestamp":"2017-08-29T02:09:02.827Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:09:02.830Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:09:04.496Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:09:05.451Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":3,"eggNumber":9,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":1,"multiple":["2"]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"5f85bf54d8a4aeb23e7e1c19625638ea","level":"error","message":"","timestamp":"2017-08-29T02:09:06.278Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:09:06.281Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:09:16.360Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:09:17.388Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T02:09:18.220Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.2"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"efe79ea1de1eacfc431247e1a2e34a59","level":"error","message":"","timestamp":"2017-08-29T02:09:19.057Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:09:19.059Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:09:26.575Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:09:27.552Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T02:09:28.372Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：140 工作进度（3把）","timestamp":"2017-08-29T02:09:29.188Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：120 工作进度（4把）","timestamp":"2017-08-29T02:09:30.018Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：100 工作进度（5把）","timestamp":"2017-08-29T02:09:30.837Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：80 工作进度（6把）","timestamp":"2017-08-29T02:09:31.663Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：60 工作进度（7把）","timestamp":"2017-08-29T02:09:32.484Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":3,"eggNumber":10,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"30dc207f94d2a29a5ffb27bac9f3ba0a","level":"error","message":"","timestamp":"2017-08-29T02:09:33.323Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:09:33.326Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:09:42.989Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：208 工作进度（1把）","timestamp":"2017-08-29T02:09:44.018Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：188 工作进度（2把）","timestamp":"2017-08-29T02:09:44.833Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：168 工作进度（3把）","timestamp":"2017-08-29T02:09:45.646Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：148 工作进度（4把）","timestamp":"2017-08-29T02:09:46.477Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：128 工作进度（5把）","timestamp":"2017-08-29T02:09:47.303Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 38 支出：20 返奖率：1.9  总资产：146 工作进度（6把）","timestamp":"2017-08-29T02:09:48.139Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：126 工作进度（7把）","timestamp":"2017-08-29T02:09:48.958Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：106 工作进度（8把）","timestamp":"2017-08-29T02:09:49.780Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：86 工作进度（9把）","timestamp":"2017-08-29T02:09:51.430Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 20 支出：20 返奖率：1  总资产：86 工作进度（10把）","timestamp":"2017-08-29T02:09:52.288Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：66 工作进度（11把）","timestamp":"2017-08-29T02:09:53.104Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:09:53.492Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:09:54.504Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T02:09:55.320Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 44 支出：20 返奖率：2.2  总资产：184 工作进度（3把）","timestamp":"2017-08-29T02:09:56.157Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：164 工作进度（4把）","timestamp":"2017-08-29T02:09:56.974Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：166 工作进度（5把）","timestamp":"2017-08-29T02:09:57.822Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:11:17.758Z"}
+{"egg":[{"eggType":1,"eggNumber":2,"multiple":0.5},{"eggType":2,"eggNumber":4,"multiple":0.2},{"eggType":3,"eggNumber":4,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"b1854605fbc379e8d806ff1a8ab66db6","level":"error","message":"","timestamp":"2017-08-29T02:11:18.803Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:11:18.806Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:11:22.856Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:11:23.851Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"071eb48e974afbd9d6d6c455f0267ab2","level":"error","message":"","timestamp":"2017-08-29T02:11:24.684Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:11:24.688Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:11:30.052Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:11:31.048Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T02:11:31.875Z"}
+{"egg":[{"eggType":1,"eggNumber":2,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":5,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.2"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"61114cfdf5b8e8d62ca15a9407a3ea53","level":"error","message":"","timestamp":"2017-08-29T02:11:32.726Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:11:32.730Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:13:12.802Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: login, {\\\"code\\\":500,\\\"error\\\":\\\"数据库出错\\\"}\"","timestamp":"2017-08-29T02:13:13.105Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:13:42.113Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: login, {\\\"code\\\":500,\\\"error\\\":\\\"数据库出错\\\"}\"","timestamp":"2017-08-29T02:13:42.406Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:18:13.603Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":6,"multiple":0.2},{"eggType":3,"eggNumber":3,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D4","boxMulti":1,"token":"5fe8799a0fe24685611c247895f14d7b","level":"error","message":"","timestamp":"2017-08-29T02:18:15.303Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:18:15.305Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:19:03.939Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":5,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.2"]},{"eggType":6,"eggNumber":1,"multiple":["1.2"]}],"bet":20,"eggGroup":"D6","boxMulti":1,"token":"6a155a0f8fc6991705457bcf5042d921","level":"error","message":"","timestamp":"2017-08-29T02:19:05.170Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:19:05.173Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:19:47.744Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":8,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"60b38710eb0ddeeb50492d74ecc7bb12","level":"error","message":"","timestamp":"2017-08-29T02:19:48.995Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:19:48.997Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:20:05.906Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":0,"multiple":[]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D6","boxMulti":1,"token":"3ccc99a59f8c3c20b54f57190671cfb9","level":"error","message":"","timestamp":"2017-08-29T02:20:07.104Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:20:07.106Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:21:13.108Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 44 支出：20 返奖率：2.2  总资产：224 工作进度（1把）","timestamp":"2017-08-29T02:21:14.312Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：244 工作进度（2把）","timestamp":"2017-08-29T02:21:15.246Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:21:34.242Z"}
+{"egg":[{"eggType":1,"eggNumber":2,"multiple":0.5},{"eggType":2,"eggNumber":4,"multiple":0.2},{"eggType":3,"eggNumber":3,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.1"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"ff8368b5d5b1e3c2b6bbfad6d21b3668","level":"error","message":"","timestamp":"2017-08-29T02:21:35.436Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:21:35.438Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:21:47.503Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":5,"multiple":0.1},{"eggType":5,"eggNumber":2,"multiple":["0.6","0.4"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"7268beab22e60011088d3a5e3e9d6a7d","level":"error","message":"","timestamp":"2017-08-29T02:21:48.735Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:21:48.737Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:22:33.568Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:22:34.689Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T02:22:35.537Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":1,"multiple":0.2},{"eggType":3,"eggNumber":6,"multiple":0.1},{"eggType":5,"eggNumber":2,"multiple":["0.8","9.9"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"80a2583779b729dd2a005c05f1b43103","level":"error","message":"","timestamp":"2017-08-29T02:22:36.477Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:22:36.478Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:22:57.084Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 240 支出：20 返奖率：12  总资产：420 工作进度（1把）","timestamp":"2017-08-29T02:22:58.294Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：400 工作进度（2把）","timestamp":"2017-08-29T02:22:59.140Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 58 支出：20 返奖率：2.9  总资产：438 工作进度（3把）","timestamp":"2017-08-29T02:23:00.075Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 20 支出：20 返奖率：1  总资产：438 工作进度（4把）","timestamp":"2017-08-29T02:23:01.016Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：418 工作进度（5把）","timestamp":"2017-08-29T02:23:01.863Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 32 支出：20 返奖率：1.6  总资产：430 工作进度（6把）","timestamp":"2017-08-29T02:23:02.799Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 46 支出：20 返奖率：2.3  总资产：456 工作进度（7把）","timestamp":"2017-08-29T02:23:03.734Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：436 工作进度（8把）","timestamp":"2017-08-29T02:23:05.474Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 152 支出：20 返奖率：7.6  总资产：568 工作进度（9把）","timestamp":"2017-08-29T02:23:06.410Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：588 工作进度（10把）","timestamp":"2017-08-29T02:23:07.347Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:23:39.309Z"}
+{"egg":[{"eggType":0,"eggNumber":0,"multiple":0},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":7,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.7"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"23732248e5e9188e1100cfa53d7e359d","level":"error","message":"","timestamp":"2017-08-29T02:23:40.510Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:23:40.515Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:24:29.144Z"}
+{"egg":[{"eggType":1,"eggNumber":3,"multiple":0.5},{"eggType":2,"eggNumber":2,"multiple":0.2},{"eggType":3,"eggNumber":3,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.8"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"","boxMulti":1,"token":"acfdb1c11c05940f46fff0f11689b77a","level":"error","message":"","timestamp":"2017-08-29T02:24:30.339Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:24:30.343Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:24:34.548Z"}
+{"egg":[{"eggType":1,"eggNumber":1,"multiple":0.5},{"eggType":2,"eggNumber":3,"multiple":0.2},{"eggType":3,"eggNumber":5,"multiple":0.1},{"eggType":5,"eggNumber":1,"multiple":["0.9"]},{"eggType":6,"eggNumber":0,"multiple":[]}],"bet":20,"eggGroup":"D5","boxMulti":1,"token":"6fe7bea651c633036636b8ff4b5a4178","level":"error","message":"","timestamp":"2017-08-29T02:24:35.753Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:24:35.755Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:25:53.563Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:31:40.382Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:31:41.583Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 36 支出：20 返奖率：1.8  总资产：196 工作进度（2把）","timestamp":"2017-08-29T02:31:42.445Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：176 工作进度（3把）","timestamp":"2017-08-29T02:31:43.273Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 62 支出：20 返奖率：3.1  总资产：218 工作进度（4把）","timestamp":"2017-08-29T02:31:44.126Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：198 工作进度（5把）","timestamp":"2017-08-29T02:31:44.942Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：178 工作进度（6把）","timestamp":"2017-08-29T02:31:45.771Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 42 支出：20 返奖率：2.1  总资产：200 工作进度（7把）","timestamp":"2017-08-29T02:31:46.631Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:42:12.734Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T02:42:13.832Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:42:14.781Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:42:14.782Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:42:34.435Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:42:35.617Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:42:35.619Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:44:51.522Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:44:52.702Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:44:52.704Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:45:06.495Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:45:07.697Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:45:07.699Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:45:24.768Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:45:25.969Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:45:25.971Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:47:27.628Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:47:28.825Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:47:28.827Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:47:50.699Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:47:51.889Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:47:51.891Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:48:06.472Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 44 支出：20 返奖率：2.2  总资产：224 工作进度（1把）","timestamp":"2017-08-29T02:48:07.655Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：204 工作进度（2把）","timestamp":"2017-08-29T02:48:08.510Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 36 支出：20 返奖率：1.8  总资产：220 工作进度（3把）","timestamp":"2017-08-29T02:48:09.446Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 42 支出：20 返奖率：2.1  总资产：242 工作进度（4把）","timestamp":"2017-08-29T02:48:10.384Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 62 支出：20 返奖率：3.1  总资产：284 工作进度（5把）","timestamp":"2017-08-29T02:48:11.322Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：264 工作进度（6把）","timestamp":"2017-08-29T02:48:12.169Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：272 工作进度（7把）","timestamp":"2017-08-29T02:48:13.109Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 46 支出：20 返奖率：2.3  总资产：298 工作进度（8把）","timestamp":"2017-08-29T02:48:14.051Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：278 工作进度（9把）","timestamp":"2017-08-29T02:48:15.788Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:48:16.974Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 44 支出：20 返奖率：2.2  总资产：224 工作进度（1把）","timestamp":"2017-08-29T02:48:18.157Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：204 工作进度（2把）","timestamp":"2017-08-29T02:48:19.004Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：224 工作进度（3把）","timestamp":"2017-08-29T02:48:19.938Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 30 支出：20 返奖率：1.5  总资产：234 工作进度（4把）","timestamp":"2017-08-29T02:48:20.877Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：236 工作进度（5把）","timestamp":"2017-08-29T02:48:21.812Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 46 支出：20 返奖率：2.3  总资产：262 工作进度（6把）","timestamp":"2017-08-29T02:48:22.745Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：242 工作进度（7把）","timestamp":"2017-08-29T02:48:24.484Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:48:36.104Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 130 支出：100 返奖率：1.3  总资产：230 工作进度（1把）","timestamp":"2017-08-29T02:48:37.291Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 150 支出：100 返奖率：1.5  总资产：280 工作进度（2把）","timestamp":"2017-08-29T02:48:38.226Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 170 支出：100 返奖率：1.7  总资产：350 工作进度（3把）","timestamp":"2017-08-29T02:48:39.159Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：250 工作进度（4把）","timestamp":"2017-08-29T02:48:40.010Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 110 支出：100 返奖率：1.1  总资产：260 工作进度（5把）","timestamp":"2017-08-29T02:48:40.946Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 229 支出：100 返奖率：2.29  总资产：389 工作进度（6把）","timestamp":"2017-08-29T02:48:41.881Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：289 工作进度（7把）","timestamp":"2017-08-29T02:48:42.730Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:48:44.274Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 740 支出：100 返奖率：7.4  总资产：840 工作进度（1把）","timestamp":"2017-08-29T02:48:45.463Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：740 工作进度（2把）","timestamp":"2017-08-29T02:48:46.312Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 190 支出：100 返奖率：1.9  总资产：830 工作进度（3把）","timestamp":"2017-08-29T02:48:47.246Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 150 支出：100 返奖率：1.5  总资产：880 工作进度（4把）","timestamp":"2017-08-29T02:48:48.185Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 280 支出：100 返奖率：2.8  总资产：1060 工作进度（5把）","timestamp":"2017-08-29T02:48:49.125Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 560 支出：100 返奖率：5.6  总资产：1520 工作进度（6把）","timestamp":"2017-08-29T02:48:50.060Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:49:08.855Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-29T02:49:09.012Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:49:28.631Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:49:29.823Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:49:29.825Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:55:00.987Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:55:02.175Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:55:02.178Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:56:03.653Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:56:04.843Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:56:04.845Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:56:38.132Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:56:39.314Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:56:39.316Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:56:46.861Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:56:48.042Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:56:48.044Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:57:00.290Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:57:01.485Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:57:02.418Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:57:04.204Z"}
+{"level":"error","message":"网络接口错误: startCatchEgg, {\"code\":500,\"error\":\"金豆不足\"}","timestamp":"2017-08-29T02:57:05.900Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:58:43.703Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:58:44.878Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T02:58:44.880Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T02:59:19.629Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:59:20.818Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:59:21.751Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T02:59:22.684Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:04:20.237Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T03:04:21.435Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T03:04:22.370Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T03:04:24.151Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:17:09.325Z"}
+{"level":"error","message":"网络接口错误: eggAward, {\"code\":500,\"error\":\"参数错误\"}","timestamp":"2017-08-29T03:17:10.536Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: Cannot read property 'win' of undefined","timestamp":"2017-08-29T03:17:10.538Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:35:15.190Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: eggAward, {\\\"code\\\":500,\\\"error\\\":\\\"参数错误\\\"}\"","timestamp":"2017-08-29T03:35:16.374Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：100 工作进度（1把）","timestamp":"2017-08-29T03:35:16.376Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：0 工作进度（2把）","timestamp":"2017-08-29T03:35:17.225Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-29T03:35:18.026Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:35:42.092Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 210 支出：100 返奖率：2.1  总资产：310 工作进度（1把）","timestamp":"2017-08-29T03:35:43.279Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 130 支出：100 返奖率：1.3  总资产：340 工作进度（2把）","timestamp":"2017-08-29T03:35:44.217Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 790 支出：100 返奖率：7.9  总资产：1030 工作进度（3把）","timestamp":"2017-08-29T03:35:45.154Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:37:51.002Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:37:51.107Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:38:05.008Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：100 工作进度（1把）","timestamp":"2017-08-29T03:38:06.114Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 320 支出：100 返奖率：3.2  总资产：320 工作进度（2把）","timestamp":"2017-08-29T03:38:07.053Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：220 工作进度（3把）","timestamp":"2017-08-29T03:38:07.902Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 190 支出：100 返奖率：1.9  总资产：310 工作进度（4把）","timestamp":"2017-08-29T03:38:08.843Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 980 支出：100 返奖率：9.8  总资产：1190 工作进度（5把）","timestamp":"2017-08-29T03:38:09.783Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 120 支出：100 返奖率：1.2  总资产：1210 工作进度（6把）","timestamp":"2017-08-29T03:38:10.718Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 120 支出：100 返奖率：1.2  总资产：1230 工作进度（7把）","timestamp":"2017-08-29T03:38:11.652Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 170 支出：100 返奖率：1.7  总资产：1300 工作进度（8把）","timestamp":"2017-08-29T03:38:12.589Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 150 支出：100 返奖率：1.5  总资产：1350 工作进度（9把）","timestamp":"2017-08-29T03:38:13.532Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:38:27.469Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: startCatchEgg, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:38:28.578Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：100 工作进度（1把）","timestamp":"2017-08-29T03:38:28.580Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: startCatchEgg, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:38:29.426Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：0 工作进度（2把）","timestamp":"2017-08-29T03:38:29.427Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-29T03:38:30.228Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:39:32.545Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 130 支出：100 返奖率：1.3  总资产：230 工作进度（1把）","timestamp":"2017-08-29T03:39:34.187Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：130 工作进度（2把）","timestamp":"2017-08-29T03:39:35.085Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 200 支出：100 返奖率：2  总资产：230 工作进度（3把）","timestamp":"2017-08-29T03:39:36.080Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 180 支出：100 返奖率：1.8  总资产：310 工作进度（4把）","timestamp":"2017-08-29T03:39:37.077Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：210 工作进度（5把）","timestamp":"2017-08-29T03:39:37.975Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 130 支出：100 返奖率：1.3  总资产：240 工作进度（6把）","timestamp":"2017-08-29T03:39:38.964Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：140 工作进度（7把）","timestamp":"2017-08-29T03:39:40.758Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 190 支出：100 返奖率：1.9  总资产：230 工作进度（8把）","timestamp":"2017-08-29T03:39:41.761Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 170 支出：100 返奖率：1.7  总资产：300 工作进度（9把）","timestamp":"2017-08-29T03:39:42.771Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：200 工作进度（10把）","timestamp":"2017-08-29T03:39:43.667Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：100 工作进度（11把）","timestamp":"2017-08-29T03:39:44.579Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：100 返奖率：0  总资产：0 工作进度（12把）","timestamp":"2017-08-29T03:39:45.476Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-29T03:39:46.279Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:40:05.535Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T03:40:07.106Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T03:40:08.005Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 48 支出：20 返奖率：2.4  总资产：188 工作进度（3把）","timestamp":"2017-08-29T03:40:08.998Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：168 工作进度（4把）","timestamp":"2017-08-29T03:40:09.897Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 38 支出：20 返奖率：1.9  总资产：186 工作进度（5把）","timestamp":"2017-08-29T03:40:10.892Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：166 工作进度（6把）","timestamp":"2017-08-29T03:40:11.789Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：146 工作进度（7把）","timestamp":"2017-08-29T03:40:12.685Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：126 工作进度（8把）","timestamp":"2017-08-29T03:40:13.580Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：106 工作进度（9把）","timestamp":"2017-08-29T03:40:15.379Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 32 支出：20 返奖率：1.6  总资产：118 工作进度（10把）","timestamp":"2017-08-29T03:40:16.380Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：98 工作进度（11把）","timestamp":"2017-08-29T03:40:17.278Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：78 工作进度（12把）","timestamp":"2017-08-29T03:40:18.174Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：80 工作进度（13把）","timestamp":"2017-08-29T03:40:19.172Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：60 工作进度（14把）","timestamp":"2017-08-29T03:40:20.078Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 36 支出：20 返奖率：1.8  总资产：76 工作进度（15把）","timestamp":"2017-08-29T03:40:21.083Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：56 工作进度（16把）","timestamp":"2017-08-29T03:40:22.882Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 24 支出：20 返奖率：1.2  总资产：60 工作进度（17把）","timestamp":"2017-08-29T03:40:23.882Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：40 工作进度（18把）","timestamp":"2017-08-29T03:40:24.787Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：20 工作进度（19把）","timestamp":"2017-08-29T03:40:25.688Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：0 工作进度（20把）","timestamp":"2017-08-29T03:40:26.590Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-29T03:40:27.391Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:40:43.388Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：180 工作进度（1把）","timestamp":"2017-08-29T03:40:44.954Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：160 工作进度（2把）","timestamp":"2017-08-29T03:40:45.851Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：140 工作进度（3把）","timestamp":"2017-08-29T03:40:46.752Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：120 工作进度（4把）","timestamp":"2017-08-29T03:40:47.649Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：100 工作进度（5把）","timestamp":"2017-08-29T03:40:48.545Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：114 工作进度（6把）","timestamp":"2017-08-29T03:40:49.544Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：94 工作进度（7把）","timestamp":"2017-08-29T03:40:50.439Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：74 工作进度（8把）","timestamp":"2017-08-29T03:40:51.335Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：54 工作进度（9把）","timestamp":"2017-08-29T03:40:52.234Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 36 支出：20 返奖率：1.8  总资产：70 工作进度（10把）","timestamp":"2017-08-29T03:40:53.231Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：50 工作进度（11把）","timestamp":"2017-08-29T03:40:55.031Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：30 工作进度（12把）","timestamp":"2017-08-29T03:40:55.929Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：38 工作进度（13把）","timestamp":"2017-08-29T03:40:56.923Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 24 支出：20 返奖率：1.2  总资产：42 工作进度（14把）","timestamp":"2017-08-29T03:40:57.918Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：22 工作进度（15把）","timestamp":"2017-08-29T03:40:58.815Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 24 支出：20 返奖率：1.2  总资产：26 工作进度（16把）","timestamp":"2017-08-29T03:40:59.808Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 66 支出：20 返奖率：3.3  总资产：72 工作进度（17把）","timestamp":"2017-08-29T03:41:00.804Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：52 工作进度（18把）","timestamp":"2017-08-29T03:41:02.599Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：32 工作进度（19把）","timestamp":"2017-08-29T03:41:03.496Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：12 工作进度（20把）","timestamp":"2017-08-29T03:41:04.390Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-29T03:41:05.192Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:41:16.601Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 42 支出：20 返奖率：2.1  总资产：522 工作进度（1把）","timestamp":"2017-08-29T03:41:18.250Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：502 工作进度（2把）","timestamp":"2017-08-29T03:41:19.148Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：482 工作进度（3把）","timestamp":"2017-08-29T03:41:20.044Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：462 工作进度（4把）","timestamp":"2017-08-29T03:41:20.943Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 30 支出：20 返奖率：1.5  总资产：472 工作进度（5把）","timestamp":"2017-08-29T03:41:21.939Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：452 工作进度（6把）","timestamp":"2017-08-29T03:41:22.835Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 20 支出：20 返奖率：1  总资产：452 工作进度（7把）","timestamp":"2017-08-29T03:41:23.829Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：432 工作进度（8把）","timestamp":"2017-08-29T03:41:25.629Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：412 工作进度（9把）","timestamp":"2017-08-29T03:41:26.526Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 38 支出：20 返奖率：1.9  总资产：430 工作进度（10把）","timestamp":"2017-08-29T03:41:27.522Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：410 工作进度（11把）","timestamp":"2017-08-29T03:41:28.418Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 30 支出：20 返奖率：1.5  总资产：420 工作进度（12把）","timestamp":"2017-08-29T03:41:29.407Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：400 工作进度（13把）","timestamp":"2017-08-29T03:41:30.302Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：380 工作进度（14把）","timestamp":"2017-08-29T03:41:31.198Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：360 工作进度（15把）","timestamp":"2017-08-29T03:41:32.094Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：368 工作进度（16把）","timestamp":"2017-08-29T03:41:33.085Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 48 支出：20 返奖率：2.4  总资产：396 工作进度（17把）","timestamp":"2017-08-29T03:41:34.078Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：376 工作进度（18把）","timestamp":"2017-08-29T03:41:35.873Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：378 工作进度（19把）","timestamp":"2017-08-29T03:41:36.864Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：358 工作进度（20把）","timestamp":"2017-08-29T03:41:37.763Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：366 工作进度（21把）","timestamp":"2017-08-29T03:41:38.755Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：346 工作进度（22把）","timestamp":"2017-08-29T03:41:39.650Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：348 工作进度（23把）","timestamp":"2017-08-29T03:41:40.643Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：328 工作进度（24把）","timestamp":"2017-08-29T03:41:41.546Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:42:13.212Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：308 工作进度（25把）","timestamp":"2017-08-29T03:42:13.213Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:42:44.871Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：288 工作进度（26把）","timestamp":"2017-08-29T03:42:44.872Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:43:16.533Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：268 工作进度（27把）","timestamp":"2017-08-29T03:43:16.536Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:43:48.207Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：248 工作进度（28把）","timestamp":"2017-08-29T03:43:48.208Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:44:19.862Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：228 工作进度（29把）","timestamp":"2017-08-29T03:44:19.863Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:44:51.517Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：208 工作进度（30把）","timestamp":"2017-08-29T03:44:51.517Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:44:57.484Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：508 工作进度（1把）","timestamp":"2017-08-29T03:44:59.087Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：516 工作进度（2把）","timestamp":"2017-08-29T03:45:00.070Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 194 支出：20 返奖率：9.7  总资产：690 工作进度（3把）","timestamp":"2017-08-29T03:45:01.051Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：670 工作进度（4把）","timestamp":"2017-08-29T03:45:01.945Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 30 支出：20 返奖率：1.5  总资产：680 工作进度（5把）","timestamp":"2017-08-29T03:45:02.928Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 32 支出：20 返奖率：1.6  总资产：692 工作进度（6把）","timestamp":"2017-08-29T03:45:03.906Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：672 工作进度（7把）","timestamp":"2017-08-29T03:45:05.695Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：686 工作进度（8把）","timestamp":"2017-08-29T03:45:06.679Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：700 工作进度（9把）","timestamp":"2017-08-29T03:45:07.660Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：680 工作进度（10把）","timestamp":"2017-08-29T03:45:08.550Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：660 工作进度（11把）","timestamp":"2017-08-29T03:45:09.441Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：640 工作进度（12把）","timestamp":"2017-08-29T03:45:10.332Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：620 工作进度（13把）","timestamp":"2017-08-29T03:45:11.223Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：600 工作进度（14把）","timestamp":"2017-08-29T03:45:12.116Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：580 工作进度（15把）","timestamp":"2017-08-29T03:45:13.005Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：560 工作进度（16把）","timestamp":"2017-08-29T03:45:14.790Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：540 工作进度（17把）","timestamp":"2017-08-29T03:45:15.683Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：520 工作进度（18把）","timestamp":"2017-08-29T03:45:16.576Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 248 支出：20 返奖率：12.4  总资产：748 工作进度（19把）","timestamp":"2017-08-29T03:45:17.557Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：728 工作进度（20把）","timestamp":"2017-08-29T03:45:18.457Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：742 工作进度（21把）","timestamp":"2017-08-29T03:45:19.440Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 24 支出：20 返奖率：1.2  总资产：746 工作进度（22把）","timestamp":"2017-08-29T03:45:20.422Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：726 工作进度（23把）","timestamp":"2017-08-29T03:45:21.311Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：706 工作进度（24把）","timestamp":"2017-08-29T03:45:22.210Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:45:53.862Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：686 工作进度（25把）","timestamp":"2017-08-29T03:45:53.863Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:46:52.320Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T03:46:53.423Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 134 支出：20 返奖率：6.7  总资产：594 工作进度（2把）","timestamp":"2017-08-29T03:46:54.361Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 56 支出：20 返奖率：2.8  总资产：630 工作进度（3把）","timestamp":"2017-08-29T03:46:55.296Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：650 工作进度（4把）","timestamp":"2017-08-29T03:46:56.234Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：670 工作进度（5把）","timestamp":"2017-08-29T03:46:57.172Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 24 支出：20 返奖率：1.2  总资产：674 工作进度（6把）","timestamp":"2017-08-29T03:46:58.107Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 60 支出：20 返奖率：3  总资产：714 工作进度（7把）","timestamp":"2017-08-29T03:46:59.046Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：694 工作进度（8把）","timestamp":"2017-08-29T03:47:00.790Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 54 支出：20 返奖率：2.7  总资产：728 工作进度（9把）","timestamp":"2017-08-29T03:47:01.725Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 30 支出：20 返奖率：1.5  总资产：738 工作进度（10把）","timestamp":"2017-08-29T03:47:02.660Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 56 支出：20 返奖率：2.8  总资产：774 工作进度（11把）","timestamp":"2017-08-29T03:47:03.609Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：754 工作进度（12把）","timestamp":"2017-08-29T03:47:04.462Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 78 支出：20 返奖率：3.9  总资产：812 工作进度（13把）","timestamp":"2017-08-29T03:47:05.401Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 46 支出：20 返奖率：2.3  总资产：838 工作进度（14把）","timestamp":"2017-08-29T03:47:06.338Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：840 工作进度（15把）","timestamp":"2017-08-29T03:47:07.280Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：820 工作进度（16把）","timestamp":"2017-08-29T03:47:09.019Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 20 支出：20 返奖率：1  总资产：820 工作进度（17把）","timestamp":"2017-08-29T03:47:09.957Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：800 工作进度（18把）","timestamp":"2017-08-29T03:47:10.805Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 154 支出：20 返奖率：7.7  总资产：934 工作进度（19把）","timestamp":"2017-08-29T03:47:11.748Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 32 支出：20 返奖率：1.6  总资产：946 工作进度（20把）","timestamp":"2017-08-29T03:47:12.684Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 38 支出：20 返奖率：1.9  总资产：964 工作进度（21把）","timestamp":"2017-08-29T03:47:13.618Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：972 工作进度（22把）","timestamp":"2017-08-29T03:47:14.556Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：952 工作进度（23把）","timestamp":"2017-08-29T03:47:16.289Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：966 工作进度（24把）","timestamp":"2017-08-29T03:47:17.230Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：946 工作进度（25把）","timestamp":"2017-08-29T03:47:18.083Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 134 支出：20 返奖率：6.7  总资产：1060 工作进度（26把）","timestamp":"2017-08-29T03:47:19.036Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 32 支出：20 返奖率：1.6  总资产：1072 工作进度（27把）","timestamp":"2017-08-29T03:47:19.978Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 52 支出：20 返奖率：2.6  总资产：1104 工作进度（28把）","timestamp":"2017-08-29T03:47:20.915Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：1084 工作进度（29把）","timestamp":"2017-08-29T03:47:21.765Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：1086 工作进度（30把）","timestamp":"2017-08-29T03:47:22.702Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 42 支出：20 返奖率：2.1  总资产：1108 工作进度（31把）","timestamp":"2017-08-29T03:47:23.644Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 220 支出：20 返奖率：11  总资产：1308 工作进度（32把）","timestamp":"2017-08-29T03:47:24.586Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 68 支出：20 返奖率：3.4  总资产：1356 工作进度（33把）","timestamp":"2017-08-29T03:47:25.528Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：1336 工作进度（34把）","timestamp":"2017-08-29T03:47:27.276Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 52 支出：20 返奖率：2.6  总资产：1368 工作进度（35把）","timestamp":"2017-08-29T03:47:28.224Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：1348 工作进度（36把）","timestamp":"2017-08-29T03:47:29.073Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：1362 工作进度（37把）","timestamp":"2017-08-29T03:47:30.009Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 116 支出：20 返奖率：5.8  总资产：1458 工作进度（38把）","timestamp":"2017-08-29T03:47:30.945Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 78 支出：20 返奖率：3.9  总资产：1516 工作进度（39把）","timestamp":"2017-08-29T03:47:31.888Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：1496 工作进度（40把）","timestamp":"2017-08-29T03:47:32.736Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 30 支出：20 返奖率：1.5  总资产：1506 工作进度（41把）","timestamp":"2017-08-29T03:47:33.675Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：1514 工作进度（42把）","timestamp":"2017-08-29T03:47:34.610Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：1494 工作进度（43把）","timestamp":"2017-08-29T03:47:35.461Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 46 支出：20 返奖率：2.3  总资产：1520 工作进度（44把）","timestamp":"2017-08-29T03:47:37.294Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 44 支出：20 返奖率：2.2  总资产：1544 工作进度（45把）","timestamp":"2017-08-29T03:47:38.229Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 48 支出：20 返奖率：2.4  总资产：1572 工作进度（46把）","timestamp":"2017-08-29T03:47:39.164Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T03:47:47.550Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T03:47:49.101Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 224 支出：20 返奖率：11.2  总资产：684 工作进度（2把）","timestamp":"2017-08-29T03:47:50.094Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：686 工作进度（3把）","timestamp":"2017-08-29T03:47:51.086Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：666 工作进度（4把）","timestamp":"2017-08-29T03:47:51.984Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：646 工作进度（5把）","timestamp":"2017-08-29T03:47:52.883Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：626 工作进度（6把）","timestamp":"2017-08-29T03:47:53.780Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：606 工作进度（7把）","timestamp":"2017-08-29T03:47:54.674Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 24 支出：20 返奖率：1.2  总资产：610 工作进度（8把）","timestamp":"2017-08-29T03:47:55.667Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：590 工作进度（9把）","timestamp":"2017-08-29T03:47:57.470Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：570 工作进度（10把）","timestamp":"2017-08-29T03:47:58.406Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：550 工作进度（11把）","timestamp":"2017-08-29T03:47:59.303Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：530 工作进度（12把）","timestamp":"2017-08-29T03:48:00.200Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：510 工作进度（13把）","timestamp":"2017-08-29T03:48:01.095Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 36 支出：20 返奖率：1.8  总资产：526 工作进度（14把）","timestamp":"2017-08-29T03:48:02.095Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：506 工作进度（15把）","timestamp":"2017-08-29T03:48:02.994Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 94 支出：20 返奖率：4.7  总资产：580 工作进度（16把）","timestamp":"2017-08-29T03:48:03.986Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：560 工作进度（17把）","timestamp":"2017-08-29T03:48:05.785Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：580 工作进度（18把）","timestamp":"2017-08-29T03:48:06.789Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 22 支出：20 返奖率：1.1  总资产：582 工作进度（19把）","timestamp":"2017-08-29T03:48:07.784Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：562 工作进度（20把）","timestamp":"2017-08-29T03:48:08.679Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 26 支出：20 返奖率：1.3  总资产：568 工作进度（21把）","timestamp":"2017-08-29T03:48:09.673Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 24 支出：20 返奖率：1.2  总资产：572 工作进度（22把）","timestamp":"2017-08-29T03:48:10.670Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：586 工作进度（23把）","timestamp":"2017-08-29T03:48:11.660Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:48:43.316Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：566 工作进度（24把）","timestamp":"2017-08-29T03:48:43.317Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T03:49:14.970Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：546 工作进度（25把）","timestamp":"2017-08-29T03:49:14.971Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:18:40.322Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T06:18:41.891Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：460 工作进度（2把）","timestamp":"2017-08-29T06:18:42.790Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：480 工作进度（3把）","timestamp":"2017-08-29T06:18:43.782Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：460 工作进度（4把）","timestamp":"2017-08-29T06:18:44.681Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 48 支出：20 返奖率：2.4  总资产：488 工作进度（5把）","timestamp":"2017-08-29T06:18:45.679Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：468 工作进度（6把）","timestamp":"2017-08-29T06:18:46.576Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 96 支出：20 返奖率：4.8  总资产：544 工作进度（7把）","timestamp":"2017-08-29T06:18:47.576Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 42 支出：20 返奖率：2.1  总资产：566 工作进度（8把）","timestamp":"2017-08-29T06:18:48.580Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 50 支出：20 返奖率：2.5  总资产：596 工作进度（9把）","timestamp":"2017-08-29T06:18:49.589Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：576 工作进度（10把）","timestamp":"2017-08-29T06:18:51.389Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 28 支出：20 返奖率：1.4  总资产：584 工作进度（11把）","timestamp":"2017-08-29T06:18:52.382Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：564 工作进度（12把）","timestamp":"2017-08-29T06:18:53.278Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 26 支出：20 返奖率：1.3  总资产：570 工作进度（13把）","timestamp":"2017-08-29T06:18:54.281Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 38 支出：20 返奖率：1.9  总资产：588 工作进度（14把）","timestamp":"2017-08-29T06:18:55.272Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：568 工作进度（15把）","timestamp":"2017-08-29T06:18:56.169Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 20 支出：20 返奖率：1  总资产：568 工作进度（16把）","timestamp":"2017-08-29T06:18:57.163Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：548 工作进度（17把）","timestamp":"2017-08-29T06:18:58.963Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：562 工作进度（18把）","timestamp":"2017-08-29T06:19:00.246Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 44 支出：20 返奖率：2.2  总资产：586 工作进度（19把）","timestamp":"2017-08-29T06:19:01.239Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：566 工作进度（20把）","timestamp":"2017-08-29T06:19:02.180Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：546 工作进度（21把）","timestamp":"2017-08-29T06:19:03.077Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：526 工作进度（22把）","timestamp":"2017-08-29T06:19:04.067Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 50 支出：20 返奖率：2.5  总资产：556 工作进度（23把）","timestamp":"2017-08-29T06:19:05.062Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:25:06.191Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：520 工作进度（1把）","timestamp":"2017-08-29T06:25:07.833Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 36 支出：20 返奖率：1.8  总资产：536 工作进度（2把）","timestamp":"2017-08-29T06:25:08.829Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：516 工作进度（3把）","timestamp":"2017-08-29T06:25:09.725Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 38 支出：20 返奖率：1.9  总资产：534 工作进度（4把）","timestamp":"2017-08-29T06:25:10.722Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 26 支出：20 返奖率：1.3  总资产：540 工作进度（5把）","timestamp":"2017-08-29T06:25:11.722Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 20 支出：20 返奖率：1  总资产：540 工作进度（6把）","timestamp":"2017-08-29T06:25:12.716Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：520 工作进度（7把）","timestamp":"2017-08-29T06:25:14.511Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：500 工作进度（8把）","timestamp":"2017-08-29T06:25:15.408Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：480 工作进度（9把）","timestamp":"2017-08-29T06:25:16.306Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：460 工作进度（10把）","timestamp":"2017-08-29T06:25:17.205Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：440 工作进度（11把）","timestamp":"2017-08-29T06:25:18.104Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 44 支出：20 返奖率：2.2  总资产：464 工作进度（12把）","timestamp":"2017-08-29T06:25:19.097Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 56 支出：20 返奖率：2.8  总资产：500 工作进度（13把）","timestamp":"2017-08-29T06:25:20.095Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：480 工作进度（14把）","timestamp":"2017-08-29T06:25:21.891Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：460 工作进度（15把）","timestamp":"2017-08-29T06:25:22.790Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：440 工作进度（16把）","timestamp":"2017-08-29T06:25:23.692Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：420 工作进度（17把）","timestamp":"2017-08-29T06:25:24.592Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：440 工作进度（18把）","timestamp":"2017-08-29T06:25:25.592Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：454 工作进度（19把）","timestamp":"2017-08-29T06:25:26.658Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：434 工作进度（20把）","timestamp":"2017-08-29T06:25:27.556Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：448 工作进度（21把）","timestamp":"2017-08-29T06:25:28.727Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T06:26:00.384Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：428 工作进度（22把）","timestamp":"2017-08-29T06:26:00.385Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:27:33.048Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：514 工作进度（1把）","timestamp":"2017-08-29T06:27:47.673Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：494 工作进度（2把）","timestamp":"2017-08-29T06:27:49.563Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 32 支出：20 返奖率：1.6  总资产：506 工作进度（3把）","timestamp":"2017-08-29T06:27:51.543Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：486 工作进度（4把）","timestamp":"2017-08-29T06:27:53.434Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 40 支出：20 返奖率：2  总资产：506 工作进度（5把）","timestamp":"2017-08-29T06:27:55.418Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 26 支出：20 返奖率：1.3  总资产：512 工作进度（6把）","timestamp":"2017-08-29T06:27:57.398Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：492 工作进度（7把）","timestamp":"2017-08-29T06:27:59.291Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：472 工作进度（8把）","timestamp":"2017-08-29T06:28:01.181Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：452 工作进度（9把）","timestamp":"2017-08-29T06:28:04.967Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 38 支出：20 返奖率：1.9  总资产：470 工作进度（10把）","timestamp":"2017-08-29T06:28:06.958Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 224 支出：20 返奖率：11.2  总资产：674 工作进度（11把）","timestamp":"2017-08-29T06:28:08.940Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：654 工作进度（12把）","timestamp":"2017-08-29T06:28:10.835Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：634 工作进度（13把）","timestamp":"2017-08-29T06:28:12.729Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：614 工作进度（14把）","timestamp":"2017-08-29T06:28:14.622Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：594 工作进度（15把）","timestamp":"2017-08-29T06:28:16.514Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 34 支出：20 返奖率：1.7  总资产：608 工作进度（16把）","timestamp":"2017-08-29T06:28:18.497Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：588 工作进度（17把）","timestamp":"2017-08-29T06:28:22.281Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：568 工作进度（18把）","timestamp":"2017-08-29T06:28:24.172Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 26 支出：20 返奖率：1.3  总资产：574 工作进度（19把）","timestamp":"2017-08-29T06:28:26.153Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 46 支出：20 返奖率：2.3  总资产：600 工作进度（20把）","timestamp":"2017-08-29T06:28:28.138Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：580 工作进度（21把）","timestamp":"2017-08-29T06:28:30.119Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 48 支出：20 返奖率：2.4  总资产：608 工作进度（22把）","timestamp":"2017-08-29T06:28:32.098Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：588 工作进度（23把）","timestamp":"2017-08-29T06:28:33.991Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：568 工作进度（24把）","timestamp":"2017-08-29T06:28:35.883Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T06:29:09.538Z"}
+{"level":"info","message":"机器人【1】号 => ， 游戏完成, 收入: 0 支出：20 返奖率：0  总资产：548 工作进度（25把）","timestamp":"2017-08-29T06:29:09.539Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:34:21.771Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T06:34:23.393Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 202 支出：20 返奖率：10.1  总资产：662 工作进度（2把）","timestamp":"2017-08-29T06:34:24.396Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：642 工作进度（3把）","timestamp":"2017-08-29T06:34:25.299Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：622 工作进度（4把）","timestamp":"2017-08-29T06:34:26.199Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：626 工作进度（5把）","timestamp":"2017-08-29T06:34:27.204Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：606 工作进度（6把）","timestamp":"2017-08-29T06:34:28.101Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：586 工作进度（7把）","timestamp":"2017-08-29T06:34:29.904Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：600 工作进度（8把）","timestamp":"2017-08-29T06:34:30.900Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：580 工作进度（9把）","timestamp":"2017-08-29T06:34:31.809Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：584 工作进度（10把）","timestamp":"2017-08-29T06:34:32.817Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：564 工作进度（11把）","timestamp":"2017-08-29T06:34:33.715Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：544 工作进度（12把）","timestamp":"2017-08-29T06:34:34.610Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：524 工作进度（13把）","timestamp":"2017-08-29T06:34:35.507Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：540 工作进度（14把）","timestamp":"2017-08-29T06:34:36.505Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：520 工作进度（15把）","timestamp":"2017-08-29T06:34:38.308Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：526 工作进度（16把）","timestamp":"2017-08-29T06:34:39.313Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 54 支出：20 返奖率：2.7  总资产：560 工作进度（17把）","timestamp":"2017-08-29T06:34:40.313Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：540 工作进度（18把）","timestamp":"2017-08-29T06:34:41.215Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：520 工作进度（19把）","timestamp":"2017-08-29T06:34:42.116Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：532 工作进度（20把）","timestamp":"2017-08-29T06:34:43.110Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 64 支出：20 返奖率：3.2  总资产：576 工作进度（21把）","timestamp":"2017-08-29T06:34:44.107Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：556 工作进度（22把）","timestamp":"2017-08-29T06:34:45.916Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 114 支出：20 返奖率：5.7  总资产：650 工作进度（23把）","timestamp":"2017-08-29T06:34:46.923Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：630 工作进度（24把）","timestamp":"2017-08-29T06:34:47.819Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：644 工作进度（25把）","timestamp":"2017-08-29T06:34:48.813Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：656 工作进度（26把）","timestamp":"2017-08-29T06:34:49.811Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：636 工作进度（27把）","timestamp":"2017-08-29T06:34:50.719Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：616 工作进度（28把）","timestamp":"2017-08-29T06:34:51.623Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：596 工作进度（29把）","timestamp":"2017-08-29T06:34:52.521Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T06:35:24.214Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：576 工作进度（30把）","timestamp":"2017-08-29T06:35:24.215Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:36:00.529Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：504 工作进度（1把）","timestamp":"2017-08-29T06:36:01.701Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：516 工作进度（2把）","timestamp":"2017-08-29T06:36:02.555Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：496 工作进度（3把）","timestamp":"2017-08-29T06:36:03.376Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：476 工作进度（4把）","timestamp":"2017-08-29T06:36:04.196Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：456 工作进度（5把）","timestamp":"2017-08-29T06:36:05.011Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：466 工作进度（6把）","timestamp":"2017-08-29T06:36:05.868Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：446 工作进度（7把）","timestamp":"2017-08-29T06:36:06.676Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：426 工作进度（8把）","timestamp":"2017-08-29T06:36:07.492Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：406 工作进度（9把）","timestamp":"2017-08-29T06:36:09.168Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：386 工作进度（10把）","timestamp":"2017-08-29T06:36:10.003Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：366 工作进度（11把）","timestamp":"2017-08-29T06:36:10.811Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：346 工作进度（12把）","timestamp":"2017-08-29T06:36:11.628Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 56 支出：20 返奖率：2.8  总资产：382 工作进度（13把）","timestamp":"2017-08-29T06:36:12.451Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：362 工作进度（14把）","timestamp":"2017-08-29T06:36:13.261Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：368 工作进度（15把）","timestamp":"2017-08-29T06:36:14.072Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：348 工作进度（16把）","timestamp":"2017-08-29T06:36:14.899Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：364 工作进度（17把）","timestamp":"2017-08-29T06:36:15.727Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：378 工作进度（18把）","timestamp":"2017-08-29T06:36:16.590Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：358 工作进度（19把）","timestamp":"2017-08-29T06:36:18.240Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：378 工作进度（20把）","timestamp":"2017-08-29T06:36:19.074Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：358 工作进度（21把）","timestamp":"2017-08-29T06:36:19.884Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：376 工作进度（22把）","timestamp":"2017-08-29T06:36:20.716Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：356 工作进度（23把）","timestamp":"2017-08-29T06:36:21.525Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：370 工作进度（24把）","timestamp":"2017-08-29T06:36:22.358Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：388 工作进度（25把）","timestamp":"2017-08-29T06:36:23.184Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：398 工作进度（26把）","timestamp":"2017-08-29T06:36:24.025Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 64 支出：20 返奖率：3.2  总资产：442 工作进度（27把）","timestamp":"2017-08-29T06:36:24.873Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:36:53.522Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T06:36:54.617Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：484 工作进度（2把）","timestamp":"2017-08-29T06:36:55.558Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：496 工作进度（3把）","timestamp":"2017-08-29T06:36:56.493Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：514 工作进度（4把）","timestamp":"2017-08-29T06:36:57.430Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：494 工作进度（5把）","timestamp":"2017-08-29T06:36:58.281Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：514 工作进度（6把）","timestamp":"2017-08-29T06:36:59.217Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：536 工作进度（7把）","timestamp":"2017-08-29T06:37:00.156Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：516 工作进度（8把）","timestamp":"2017-08-29T06:37:01.893Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 52 支出：20 返奖率：2.6  总资产：548 工作进度（9把）","timestamp":"2017-08-29T06:37:02.830Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：568 工作进度（10把）","timestamp":"2017-08-29T06:37:03.764Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：548 工作进度（11把）","timestamp":"2017-08-29T06:37:04.609Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 204 支出：20 返奖率：10.2  总资产：732 工作进度（12把）","timestamp":"2017-08-29T06:37:05.545Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：740 工作进度（13把）","timestamp":"2017-08-29T06:37:06.482Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：720 工作进度（14把）","timestamp":"2017-08-29T06:37:07.330Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 178 支出：20 返奖率：8.9  总资产：878 工作进度（15把）","timestamp":"2017-08-29T06:37:08.271Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：858 工作进度（16把）","timestamp":"2017-08-29T06:37:09.122Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：880 工作进度（17把）","timestamp":"2017-08-29T06:37:10.950Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 108 支出：20 返奖率：5.4  总资产：968 工作进度（18把）","timestamp":"2017-08-29T06:37:11.887Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：948 工作进度（19把）","timestamp":"2017-08-29T06:37:12.737Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 156 支出：20 返奖率：7.8  总资产：1084 工作进度（20把）","timestamp":"2017-08-29T06:37:13.673Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 224 支出：20 返奖率：11.2  总资产：1288 工作进度（21把）","timestamp":"2017-08-29T06:37:14.615Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1268 工作进度（22把）","timestamp":"2017-08-29T06:37:15.464Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 46 支出：20 返奖率：2.3  总资产：1294 工作进度（23把）","timestamp":"2017-08-29T06:37:16.398Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：1302 工作进度（24把）","timestamp":"2017-08-29T06:37:17.334Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1282 工作进度（25把）","timestamp":"2017-08-29T06:37:19.079Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：1304 工作进度（26把）","timestamp":"2017-08-29T06:37:20.023Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1284 工作进度（27把）","timestamp":"2017-08-29T06:37:20.874Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 230 支出：20 返奖率：11.5  总资产：1494 工作进度（28把）","timestamp":"2017-08-29T06:37:21.808Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：1504 工作进度（29把）","timestamp":"2017-08-29T06:37:22.741Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1484 工作进度（30把）","timestamp":"2017-08-29T06:37:23.587Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1464 工作进度（31把）","timestamp":"2017-08-29T06:37:24.436Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：1478 工作进度（32把）","timestamp":"2017-08-29T06:37:25.371Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:38:00.431Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T06:38:01.438Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:02.244Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：460 工作进度（2把）","timestamp":"2017-08-29T06:38:02.245Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:03.046Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：440 工作进度（3把）","timestamp":"2017-08-29T06:38:03.046Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:03.847Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：420 工作进度（4把）","timestamp":"2017-08-29T06:38:03.848Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:04.651Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：400 工作进度（5把）","timestamp":"2017-08-29T06:38:04.652Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:05.455Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：380 工作进度（6把）","timestamp":"2017-08-29T06:38:05.455Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:06.256Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：360 工作进度（7把）","timestamp":"2017-08-29T06:38:06.257Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:07.058Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：340 工作进度（8把）","timestamp":"2017-08-29T06:38:07.059Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: {}","timestamp":"2017-08-29T06:38:07.861Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：320 工作进度（9把）","timestamp":"2017-08-29T06:38:07.861Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:38:15.128Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T06:38:16.319Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：460 工作进度（2把）","timestamp":"2017-08-29T06:38:17.149Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：440 工作进度（3把）","timestamp":"2017-08-29T06:38:17.958Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：420 工作进度（4把）","timestamp":"2017-08-29T06:38:18.773Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 44 支出：20 返奖率：2.2  总资产：444 工作进度（5把）","timestamp":"2017-08-29T06:38:19.626Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：424 工作进度（6把）","timestamp":"2017-08-29T06:38:20.437Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:38:24.241Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T06:38:25.307Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：460 工作进度（2把）","timestamp":"2017-08-29T06:38:26.121Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：440 工作进度（3把）","timestamp":"2017-08-29T06:38:26.930Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：420 工作进度（4把）","timestamp":"2017-08-29T06:38:27.751Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：436 工作进度（5把）","timestamp":"2017-08-29T06:38:28.598Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：416 工作进度（6把）","timestamp":"2017-08-29T06:38:29.481Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：396 工作进度（7把）","timestamp":"2017-08-29T06:38:30.298Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：376 工作进度（8把）","timestamp":"2017-08-29T06:38:31.937Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：356 工作进度（9把）","timestamp":"2017-08-29T06:38:32.766Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：336 工作进度（10把）","timestamp":"2017-08-29T06:38:33.593Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：316 工作进度（11把）","timestamp":"2017-08-29T06:38:34.403Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：324 工作进度（12把）","timestamp":"2017-08-29T06:38:35.251Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：304 工作进度（13把）","timestamp":"2017-08-29T06:38:36.060Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：284 工作进度（14把）","timestamp":"2017-08-29T06:38:37.715Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：304 工作进度（15把）","timestamp":"2017-08-29T06:38:38.551Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：284 工作进度（16把）","timestamp":"2017-08-29T06:38:39.361Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：298 工作进度（17把）","timestamp":"2017-08-29T06:38:40.201Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：278 工作进度（18把）","timestamp":"2017-08-29T06:38:41.051Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：258 工作进度（19把）","timestamp":"2017-08-29T06:38:41.862Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：238 工作进度（20把）","timestamp":"2017-08-29T06:38:42.686Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：260 工作进度（21把）","timestamp":"2017-08-29T06:38:43.519Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：240 工作进度（22把）","timestamp":"2017-08-29T06:38:45.163Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：244 工作进度（23把）","timestamp":"2017-08-29T06:38:45.997Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：224 工作进度（24把）","timestamp":"2017-08-29T06:38:46.809Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：204 工作进度（25把）","timestamp":"2017-08-29T06:38:47.627Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：184 工作进度（26把）","timestamp":"2017-08-29T06:38:48.436Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：164 工作进度（27把）","timestamp":"2017-08-29T06:38:49.247Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：144 工作进度（28把）","timestamp":"2017-08-29T06:38:50.071Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：162 工作进度（29把）","timestamp":"2017-08-29T06:38:50.896Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：142 工作进度（30把）","timestamp":"2017-08-29T06:38:52.553Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：122 工作进度（31把）","timestamp":"2017-08-29T06:38:53.360Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 48 支出：20 返奖率：2.4  总资产：150 工作进度（32把）","timestamp":"2017-08-29T06:38:54.182Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：166 工作进度（33把）","timestamp":"2017-08-29T06:38:55.001Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：146 工作进度（34把）","timestamp":"2017-08-29T06:38:55.812Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：126 工作进度（35把）","timestamp":"2017-08-29T06:38:56.621Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：106 工作进度（36把）","timestamp":"2017-08-29T06:38:57.435Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：86 工作进度（37把）","timestamp":"2017-08-29T06:38:59.105Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 46 支出：20 返奖率：2.3  总资产：112 工作进度（38把）","timestamp":"2017-08-29T06:38:59.921Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 132 支出：20 返奖率：6.6  总资产：224 工作进度（39把）","timestamp":"2017-08-29T06:39:00.764Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 136 支出：20 返奖率：6.8  总资产：340 工作进度（40把）","timestamp":"2017-08-29T06:39:01.590Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 48 支出：20 返奖率：2.4  总资产：368 工作进度（41把）","timestamp":"2017-08-29T06:39:02.418Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 64 支出：20 返奖率：3.2  总资产：412 工作进度（42把）","timestamp":"2017-08-29T06:39:03.247Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：424 工作进度（43把）","timestamp":"2017-08-29T06:39:04.067Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：436 工作进度（44把）","timestamp":"2017-08-29T06:39:04.897Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 54 支出：20 返奖率：2.7  总资产：470 工作进度（45把）","timestamp":"2017-08-29T06:39:05.723Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 46 支出：20 返奖率：2.3  总资产：496 工作进度（46把）","timestamp":"2017-08-29T06:39:06.557Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 104 支出：20 返奖率：5.2  总资产：580 工作进度（47把）","timestamp":"2017-08-29T06:39:07.392Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:50:07.583Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T06:50:09.216Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：460 工作进度（2把）","timestamp":"2017-08-29T06:50:10.118Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：440 工作进度（3把）","timestamp":"2017-08-29T06:50:11.020Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：420 工作进度（4把）","timestamp":"2017-08-29T06:50:11.920Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：428 工作进度（5把）","timestamp":"2017-08-29T06:50:12.935Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：408 工作进度（6把）","timestamp":"2017-08-29T06:50:13.840Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：388 工作进度（7把）","timestamp":"2017-08-29T06:50:14.739Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 146 支出：20 返奖率：7.3  总资产：514 工作进度（8把）","timestamp":"2017-08-29T06:50:15.735Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：494 工作进度（9把）","timestamp":"2017-08-29T06:50:17.543Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：474 工作进度（10把）","timestamp":"2017-08-29T06:50:18.444Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：454 工作进度（11把）","timestamp":"2017-08-29T06:50:19.343Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：464 工作进度（12把）","timestamp":"2017-08-29T06:50:20.336Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：444 工作进度（13把）","timestamp":"2017-08-29T06:50:21.233Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：462 工作进度（14把）","timestamp":"2017-08-29T06:50:22.239Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：442 工作进度（15把）","timestamp":"2017-08-29T06:50:23.144Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：462 工作进度（16把）","timestamp":"2017-08-29T06:50:24.135Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：442 工作进度（17把）","timestamp":"2017-08-29T06:50:25.035Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：464 工作进度（18把）","timestamp":"2017-08-29T06:50:26.035Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：444 工作进度（19把）","timestamp":"2017-08-29T06:50:27.834Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 22 支出：20 返奖率：1.1  总资产：446 工作进度（20把）","timestamp":"2017-08-29T06:50:28.828Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：466 工作进度（21把）","timestamp":"2017-08-29T06:50:29.832Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：446 工作进度（22把）","timestamp":"2017-08-29T06:50:30.729Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：426 工作进度（23把）","timestamp":"2017-08-29T06:50:31.633Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：406 工作进度（24把）","timestamp":"2017-08-29T06:50:32.537Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：386 工作进度（25把）","timestamp":"2017-08-29T06:50:33.434Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：396 工作进度（26把）","timestamp":"2017-08-29T06:50:34.431Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：376 工作进度（27把）","timestamp":"2017-08-29T06:50:36.243Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：356 工作进度（28把）","timestamp":"2017-08-29T06:50:37.146Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 33 支出：20 返奖率：1.65  总资产：369 工作进度（29把）","timestamp":"2017-08-29T06:50:38.142Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：349 工作进度（30把）","timestamp":"2017-08-29T06:50:39.039Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：353 工作进度（31把）","timestamp":"2017-08-29T06:50:40.030Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T06:57:17.545Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：506 工作进度（1把）","timestamp":"2017-08-29T06:57:19.195Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：514 工作进度（2把）","timestamp":"2017-08-29T06:57:20.189Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：494 工作进度（3把）","timestamp":"2017-08-29T06:57:21.090Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：516 工作进度（4把）","timestamp":"2017-08-29T06:57:22.090Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：496 工作进度（5把）","timestamp":"2017-08-29T06:57:22.999Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：476 工作进度（6把）","timestamp":"2017-08-29T06:57:23.896Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：480 工作进度（7把）","timestamp":"2017-08-29T06:57:25.236Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：498 工作进度（8把）","timestamp":"2017-08-29T06:57:26.247Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：478 工作进度（9把）","timestamp":"2017-08-29T06:57:28.052Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 64 支出：20 返奖率：3.2  总资产：522 工作进度（10把）","timestamp":"2017-08-29T06:57:29.061Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：502 工作进度（11把）","timestamp":"2017-08-29T06:57:29.965Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：506 工作进度（12把）","timestamp":"2017-08-29T06:57:30.958Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：512 工作进度（13把）","timestamp":"2017-08-29T06:57:31.953Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：492 工作进度（14把）","timestamp":"2017-08-29T06:57:32.851Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：472 工作进度（15把）","timestamp":"2017-08-29T06:57:33.753Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：452 工作进度（16把）","timestamp":"2017-08-29T06:57:35.553Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：432 工作进度（17把）","timestamp":"2017-08-29T06:57:36.453Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：454 工作进度（18把）","timestamp":"2017-08-29T06:57:37.447Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：434 工作进度（19把）","timestamp":"2017-08-29T06:57:38.345Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 162 支出：20 返奖率：8.1  总资产：576 工作进度（20把）","timestamp":"2017-08-29T06:57:39.337Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：596 工作进度（21把）","timestamp":"2017-08-29T06:57:40.335Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T07:00:24.393Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 22 支出：20 返奖率：1.1  总资产：502 工作进度（1把）","timestamp":"2017-08-29T07:00:26.254Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：522 工作进度（2把）","timestamp":"2017-08-29T07:00:27.254Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：502 工作进度（3把）","timestamp":"2017-08-29T07:00:28.153Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：482 工作进度（4把）","timestamp":"2017-08-29T07:00:29.054Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：462 工作进度（5把）","timestamp":"2017-08-29T07:00:29.953Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：442 工作进度（6把）","timestamp":"2017-08-29T07:00:30.854Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：422 工作进度（7把）","timestamp":"2017-08-29T07:00:32.664Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：402 工作进度（8把）","timestamp":"2017-08-29T07:00:33.561Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：382 工作进度（9把）","timestamp":"2017-08-29T07:00:34.460Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：392 工作进度（10把）","timestamp":"2017-08-29T07:00:35.464Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：372 工作进度（11把）","timestamp":"2017-08-29T07:00:36.363Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：394 工作进度（12把）","timestamp":"2017-08-29T07:00:37.358Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：374 工作进度（13把）","timestamp":"2017-08-29T07:00:39.163Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 48 支出：20 返奖率：2.4  总资产：402 工作进度（14把）","timestamp":"2017-08-29T07:00:40.163Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：382 工作进度（15把）","timestamp":"2017-08-29T07:00:41.062Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 22 支出：20 返奖率：1.1  总资产：384 工作进度（16把）","timestamp":"2017-08-29T07:00:42.061Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：364 工作进度（17把）","timestamp":"2017-08-29T07:00:42.960Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：344 工作进度（18把）","timestamp":"2017-08-29T07:00:43.857Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：324 工作进度（19把）","timestamp":"2017-08-29T07:00:44.756Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：304 工作进度（20把）","timestamp":"2017-08-29T07:00:46.571Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 20 支出：20 返奖率：1  总资产：304 工作进度（21把）","timestamp":"2017-08-29T07:00:47.565Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：284 工作进度（22把）","timestamp":"2017-08-29T07:00:48.462Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：264 工作进度（23把）","timestamp":"2017-08-29T07:00:49.357Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：244 工作进度（24把）","timestamp":"2017-08-29T07:00:50.264Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：224 工作进度（25把）","timestamp":"2017-08-29T07:00:51.161Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：228 工作进度（26把）","timestamp":"2017-08-29T07:00:52.163Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：208 工作进度（27把）","timestamp":"2017-08-29T07:00:53.967Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：188 工作进度（28把）","timestamp":"2017-08-29T07:00:54.872Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：168 工作进度（29把）","timestamp":"2017-08-29T07:00:55.773Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：186 工作进度（30把）","timestamp":"2017-08-29T07:00:56.767Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：166 工作进度（31把）","timestamp":"2017-08-29T07:00:57.667Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：186 工作进度（32把）","timestamp":"2017-08-29T07:00:58.670Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：166 工作进度（33把）","timestamp":"2017-08-29T07:00:59.571Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 44 支出：20 返奖率：2.2  总资产：190 工作进度（34把）","timestamp":"2017-08-29T07:01:00.564Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:01:32.233Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：170 工作进度（35把）","timestamp":"2017-08-29T07:01:32.234Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T07:05:57.876Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T07:05:59.509Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：498 工作进度（2把）","timestamp":"2017-08-29T07:06:00.510Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：478 工作进度（3把）","timestamp":"2017-08-29T07:06:01.410Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：458 工作进度（4把）","timestamp":"2017-08-29T07:06:02.313Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：438 工作进度（5把）","timestamp":"2017-08-29T07:06:03.211Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：448 工作进度（6把）","timestamp":"2017-08-29T07:06:04.212Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：428 工作进度（7把）","timestamp":"2017-08-29T07:06:06.016Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：408 工作进度（8把）","timestamp":"2017-08-29T07:06:06.916Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：388 工作进度（9把）","timestamp":"2017-08-29T07:06:07.815Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：396 工作进度（10把）","timestamp":"2017-08-29T07:06:08.823Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：376 工作进度（11把）","timestamp":"2017-08-29T07:06:09.720Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：356 工作进度（12把）","timestamp":"2017-08-29T07:06:10.617Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：336 工作进度（13把）","timestamp":"2017-08-29T07:06:11.540Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：316 工作进度（14把）","timestamp":"2017-08-29T07:06:12.456Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：296 工作进度（15把）","timestamp":"2017-08-29T07:06:13.354Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：316 工作进度（16把）","timestamp":"2017-08-29T07:06:14.351Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：336 工作进度（17把）","timestamp":"2017-08-29T07:06:15.349Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：316 工作进度（18把）","timestamp":"2017-08-29T07:06:17.150Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：296 工作进度（19把）","timestamp":"2017-08-29T07:06:18.049Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：276 工作进度（20把）","timestamp":"2017-08-29T07:06:18.950Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：290 工作进度（21把）","timestamp":"2017-08-29T07:06:19.953Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：270 工作进度（22把）","timestamp":"2017-08-29T07:06:20.852Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：274 工作进度（23把）","timestamp":"2017-08-29T07:06:21.849Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 58 支出：20 返奖率：2.9  总资产：312 工作进度（24把）","timestamp":"2017-08-29T07:06:22.853Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 54 支出：20 返奖率：2.7  总资产：346 工作进度（25把）","timestamp":"2017-08-29T07:06:23.853Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：326 工作进度（26把）","timestamp":"2017-08-29T07:06:25.683Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：306 工作进度（27把）","timestamp":"2017-08-29T07:06:26.597Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：286 工作进度（28把）","timestamp":"2017-08-29T07:06:27.505Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 126 支出：20 返奖率：6.3  总资产：392 工作进度（29把）","timestamp":"2017-08-29T07:06:28.508Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：372 工作进度（30把）","timestamp":"2017-08-29T07:06:29.404Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：378 工作进度（31把）","timestamp":"2017-08-29T07:06:30.407Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：358 工作进度（32把）","timestamp":"2017-08-29T07:06:31.312Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:07:02.978Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：338 工作进度（33把）","timestamp":"2017-08-29T07:07:02.979Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T07:12:25.062Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（1把）","timestamp":"2017-08-29T07:12:26.260Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：460 工作进度（2把）","timestamp":"2017-08-29T07:12:27.081Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：480 工作进度（3把）","timestamp":"2017-08-29T07:12:27.922Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：460 工作进度（4把）","timestamp":"2017-08-29T07:12:28.743Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：440 工作进度（5把）","timestamp":"2017-08-29T07:12:29.555Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：420 工作进度（6把）","timestamp":"2017-08-29T07:12:30.372Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：426 工作进度（7把）","timestamp":"2017-08-29T07:12:31.235Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：434 工作进度（8把）","timestamp":"2017-08-29T07:12:32.078Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 356 支出：20 返奖率：17.8  总资产：770 工作进度（9把）","timestamp":"2017-08-29T07:12:32.940Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：750 工作进度（10把）","timestamp":"2017-08-29T07:12:34.581Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：762 工作进度（11把）","timestamp":"2017-08-29T07:12:35.425Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：742 工作进度（12把）","timestamp":"2017-08-29T07:12:36.259Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：722 工作进度（13把）","timestamp":"2017-08-29T07:12:37.070Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：726 工作进度（14把）","timestamp":"2017-08-29T07:12:37.903Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：734 工作进度（15把）","timestamp":"2017-08-29T07:12:38.746Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：746 工作进度（16把）","timestamp":"2017-08-29T07:12:39.629Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：726 工作进度（17把）","timestamp":"2017-08-29T07:12:41.303Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：736 工作进度（18把）","timestamp":"2017-08-29T07:12:42.133Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：716 工作进度（19把）","timestamp":"2017-08-29T07:12:42.952Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：696 工作进度（20把）","timestamp":"2017-08-29T07:12:43.764Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 56 支出：20 返奖率：2.8  总资产：732 工作进度（21把）","timestamp":"2017-08-29T07:12:44.639Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：712 工作进度（22把）","timestamp":"2017-08-29T07:12:45.457Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：692 工作进度（23把）","timestamp":"2017-08-29T07:12:46.271Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：672 工作进度（24把）","timestamp":"2017-08-29T07:12:47.078Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:13:18.690Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：652 工作进度（25把）","timestamp":"2017-08-29T07:13:18.691Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T07:13:44.895Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：514 工作进度（1把）","timestamp":"2017-08-29T07:13:46.128Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：494 工作进度（2把）","timestamp":"2017-08-29T07:13:46.985Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：474 工作进度（3把）","timestamp":"2017-08-29T07:13:47.793Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：454 工作进度（4把）","timestamp":"2017-08-29T07:13:48.615Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：434 工作进度（5把）","timestamp":"2017-08-29T07:13:49.437Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：452 工作进度（6把）","timestamp":"2017-08-29T07:13:50.322Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：432 工作进度（7把）","timestamp":"2017-08-29T07:13:51.149Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：412 工作进度（8把）","timestamp":"2017-08-29T07:13:51.967Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 122 支出：20 返奖率：6.1  总资产：514 工作进度（9把）","timestamp":"2017-08-29T07:13:53.672Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：494 工作进度（10把）","timestamp":"2017-08-29T07:13:54.504Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：508 工作进度（11把）","timestamp":"2017-08-29T07:13:55.356Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：488 工作进度（12把）","timestamp":"2017-08-29T07:13:56.179Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：500 工作进度（13把）","timestamp":"2017-08-29T07:13:57.013Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：480 工作进度（14把）","timestamp":"2017-08-29T07:13:57.823Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：460 工作进度（15把）","timestamp":"2017-08-29T07:13:59.477Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：466 工作进度（16把）","timestamp":"2017-08-29T07:14:00.308Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：446 工作进度（17把）","timestamp":"2017-08-29T07:14:01.138Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：426 工作进度（18把）","timestamp":"2017-08-29T07:14:01.967Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：406 工作进度（19把）","timestamp":"2017-08-29T07:14:02.789Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：386 工作进度（20把）","timestamp":"2017-08-29T07:14:03.608Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：366 工作进度（21把）","timestamp":"2017-08-29T07:14:04.424Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：376 工作进度（22把）","timestamp":"2017-08-29T07:14:05.240Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：356 工作进度（23把）","timestamp":"2017-08-29T07:14:06.883Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：336 工作进度（24把）","timestamp":"2017-08-29T07:14:07.739Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：316 工作进度（25把）","timestamp":"2017-08-29T07:14:08.556Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：296 工作进度（26把）","timestamp":"2017-08-29T07:14:09.366Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：304 工作进度（27把）","timestamp":"2017-08-29T07:14:10.201Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：284 工作进度（28把）","timestamp":"2017-08-29T07:14:11.020Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：264 工作进度（29把）","timestamp":"2017-08-29T07:14:11.844Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：272 工作进度（30把）","timestamp":"2017-08-29T07:14:12.670Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：278 工作进度（31把）","timestamp":"2017-08-29T07:14:13.548Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：288 工作进度（32把）","timestamp":"2017-08-29T07:14:14.385Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：268 工作进度（33把）","timestamp":"2017-08-29T07:14:16.087Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 72 支出：20 返奖率：3.6  总资产：320 工作进度（34把）","timestamp":"2017-08-29T07:14:16.929Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：300 工作进度（35把）","timestamp":"2017-08-29T07:14:17.738Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 50 支出：20 返奖率：2.5  总资产：330 工作进度（36把）","timestamp":"2017-08-29T07:14:18.616Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：310 工作进度（37把）","timestamp":"2017-08-29T07:14:19.438Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：290 工作进度（38把）","timestamp":"2017-08-29T07:14:20.259Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 64 支出：20 返奖率：3.2  总资产：334 工作进度（39把）","timestamp":"2017-08-29T07:14:21.136Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：314 工作进度（40把）","timestamp":"2017-08-29T07:14:21.972Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 64 支出：20 返奖率：3.2  总资产：358 工作进度（41把）","timestamp":"2017-08-29T07:14:22.813Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 108 支出：20 返奖率：5.4  总资产：446 工作进度（42把）","timestamp":"2017-08-29T07:14:23.650Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 114 支出：20 返奖率：5.7  总资产：540 工作进度（43把）","timestamp":"2017-08-29T07:14:24.483Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：558 工作进度（44把）","timestamp":"2017-08-29T07:14:25.304Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：568 工作进度（45把）","timestamp":"2017-08-29T07:14:26.118Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 50 支出：20 返奖率：2.5  总资产：598 工作进度（46把）","timestamp":"2017-08-29T07:14:26.938Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：578 工作进度（47把）","timestamp":"2017-08-29T07:14:27.768Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：590 工作进度（48把）","timestamp":"2017-08-29T07:14:29.419Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：570 工作进度（49把）","timestamp":"2017-08-29T07:14:30.228Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：590 工作进度（50把）","timestamp":"2017-08-29T07:14:31.052Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：570 工作进度（51把）","timestamp":"2017-08-29T07:14:31.858Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 62 支出：20 返奖率：3.1  总资产：612 工作进度（52把）","timestamp":"2017-08-29T07:14:32.698Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 44 支出：20 返奖率：2.2  总资产：636 工作进度（53把）","timestamp":"2017-08-29T07:14:33.535Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：658 工作进度（54把）","timestamp":"2017-08-29T07:14:34.354Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：666 工作进度（55把）","timestamp":"2017-08-29T07:14:35.180Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：646 工作进度（56把）","timestamp":"2017-08-29T07:14:36.813Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：664 工作进度（57把）","timestamp":"2017-08-29T07:14:37.650Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：680 工作进度（58把）","timestamp":"2017-08-29T07:14:38.469Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：700 工作进度（59把）","timestamp":"2017-08-29T07:14:39.288Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 150 支出：20 返奖率：7.5  总资产：830 工作进度（60把）","timestamp":"2017-08-29T07:14:40.110Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 168 支出：20 返奖率：8.4  总资产：978 工作进度（61把）","timestamp":"2017-08-29T07:14:40.929Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 44 支出：20 返奖率：2.2  总资产：1002 工作进度（62把）","timestamp":"2017-08-29T07:14:41.738Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：1018 工作进度（63把）","timestamp":"2017-08-29T07:14:42.564Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：1040 工作进度（64把）","timestamp":"2017-08-29T07:14:43.383Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1020 工作进度（65把）","timestamp":"2017-08-29T07:14:45.010Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 64 支出：20 返奖率：3.2  总资产：1064 工作进度（66把）","timestamp":"2017-08-29T07:14:45.843Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：1072 工作进度（67把）","timestamp":"2017-08-29T07:14:46.684Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：1094 工作进度（68把）","timestamp":"2017-08-29T07:14:47.526Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：1106 工作进度（69把）","timestamp":"2017-08-29T07:14:48.353Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 160 支出：20 返奖率：8  总资产：1246 工作进度（70把）","timestamp":"2017-08-29T07:14:49.183Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：1254 工作进度（71把）","timestamp":"2017-08-29T07:14:50.027Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1234 工作进度（72把）","timestamp":"2017-08-29T07:14:51.682Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1214 工作进度（73把）","timestamp":"2017-08-29T07:14:52.495Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：1224 工作进度（74把）","timestamp":"2017-08-29T07:14:53.349Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：1236 工作进度（75把）","timestamp":"2017-08-29T07:14:54.199Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1216 工作进度（76把）","timestamp":"2017-08-29T07:14:55.020Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1196 工作进度（77把）","timestamp":"2017-08-29T07:14:55.839Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：1206 工作进度（78把）","timestamp":"2017-08-29T07:14:56.714Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1186 工作进度（79把）","timestamp":"2017-08-29T07:14:58.378Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1166 工作进度（80把）","timestamp":"2017-08-29T07:14:59.187Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1146 工作进度（81把）","timestamp":"2017-08-29T07:14:59.996Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：1166 工作进度（82把）","timestamp":"2017-08-29T07:15:00.817Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1146 工作进度（83把）","timestamp":"2017-08-29T07:15:01.633Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 48 支出：20 返奖率：2.4  总资产：1174 工作进度（84把）","timestamp":"2017-08-29T07:15:02.452Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1154 工作进度（85把）","timestamp":"2017-08-29T07:15:03.262Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：1166 工作进度（86把）","timestamp":"2017-08-29T07:15:04.084Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1146 工作进度（87把）","timestamp":"2017-08-29T07:15:05.719Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：1166 工作进度（88把）","timestamp":"2017-08-29T07:15:06.543Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：1180 工作进度（89把）","timestamp":"2017-08-29T07:15:07.369Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 100 支出：20 返奖率：5  总资产：1260 工作进度（90把）","timestamp":"2017-08-29T07:15:08.200Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 46 支出：20 返奖率：2.3  总资产：1286 工作进度（91把）","timestamp":"2017-08-29T07:15:09.033Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 33 支出：20 返奖率：1.65  总资产：1299 工作进度（92把）","timestamp":"2017-08-29T07:15:09.873Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：1317 工作进度（93把）","timestamp":"2017-08-29T07:15:10.718Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 166 支出：20 返奖率：8.3  总资产：1463 工作进度（94把）","timestamp":"2017-08-29T07:15:11.541Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：1475 工作进度（95把）","timestamp":"2017-08-29T07:15:12.387Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：1495 工作进度（96把）","timestamp":"2017-08-29T07:15:13.209Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：1505 工作进度（97把）","timestamp":"2017-08-29T07:15:14.035Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 124 支出：20 返奖率：6.2  总资产：1609 工作进度（98把）","timestamp":"2017-08-29T07:15:14.872Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1589 工作进度（99把）","timestamp":"2017-08-29T07:15:16.510Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 48 支出：20 返奖率：2.4  总资产：1617 工作进度（100把）","timestamp":"2017-08-29T07:15:17.332Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：1597 工作进度（101把）","timestamp":"2017-08-29T07:15:18.138Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 522 支出：20 返奖率：26.1  总资产：2099 工作进度（102把）","timestamp":"2017-08-29T07:15:18.974Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 308 支出：20 返奖率：15.4  总资产：2387 工作进度（103把）","timestamp":"2017-08-29T07:15:19.792Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：2397 工作进度（104把）","timestamp":"2017-08-29T07:15:20.612Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 114 支出：20 返奖率：5.7  总资产：2491 工作进度（105把）","timestamp":"2017-08-29T07:15:21.447Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：2513 工作进度（106把）","timestamp":"2017-08-29T07:15:22.286Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：2527 工作进度（107把）","timestamp":"2017-08-29T07:15:23.103Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：2543 工作进度（108把）","timestamp":"2017-08-29T07:15:23.927Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：2553 工作进度（109把）","timestamp":"2017-08-29T07:15:24.739Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 66 支出：20 返奖率：3.3  总资产：2599 工作进度（110把）","timestamp":"2017-08-29T07:15:25.572Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：2579 工作进度（111把）","timestamp":"2017-08-29T07:15:27.225Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 186 支出：20 返奖率：9.3  总资产：2745 工作进度（112把）","timestamp":"2017-08-29T07:15:28.036Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：2751 工作进度（113把）","timestamp":"2017-08-29T07:15:28.845Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：2769 工作进度（114把）","timestamp":"2017-08-29T07:15:29.663Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 444 支出：20 返奖率：22.2  总资产：3193 工作进度（115把）","timestamp":"2017-08-29T07:15:30.494Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 40 支出：20 返奖率：2  总资产：3213 工作进度（116把）","timestamp":"2017-08-29T07:15:31.313Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：3227 工作进度（117把）","timestamp":"2017-08-29T07:15:32.137Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：3237 工作进度（118把）","timestamp":"2017-08-29T07:15:32.967Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 194 支出：20 返奖率：9.7  总资产：3411 工作进度（119把）","timestamp":"2017-08-29T07:15:33.784Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 34 支出：20 返奖率：1.7  总资产：3425 工作进度（120把）","timestamp":"2017-08-29T07:15:34.601Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 158 支出：20 返奖率：7.9  总资产：3563 工作进度（121把）","timestamp":"2017-08-29T07:15:35.422Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：3569 工作进度（122把）","timestamp":"2017-08-29T07:15:36.244Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：3549 工作进度（123把）","timestamp":"2017-08-29T07:15:37.864Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：3529 工作进度（124把）","timestamp":"2017-08-29T07:15:38.672Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：3509 工作进度（125把）","timestamp":"2017-08-29T07:15:39.488Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T07:17:42.135Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-08-29T07:18:47.499Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：504 工作进度（1把）","timestamp":"2017-08-29T07:18:58.164Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：484 工作进度（2把）","timestamp":"2017-08-29T07:18:59.059Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：464 工作进度（3把）","timestamp":"2017-08-29T07:18:59.954Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：474 工作进度（4把）","timestamp":"2017-08-29T07:19:00.976Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 44 支出：20 返奖率：2.2  总资产：498 工作进度（5把）","timestamp":"2017-08-29T07:19:01.964Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：478 工作进度（6把）","timestamp":"2017-08-29T07:19:02.857Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 50 支出：20 返奖率：2.5  总资产：508 工作进度（7把）","timestamp":"2017-08-29T07:19:03.843Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：512 工作进度（8把）","timestamp":"2017-08-29T07:19:04.829Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：492 工作进度（9把）","timestamp":"2017-08-29T07:19:05.728Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：472 工作进度（10把）","timestamp":"2017-08-29T07:19:07.513Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 202 支出：20 返奖率：10.1  总资产：654 工作进度（11把）","timestamp":"2017-08-29T07:19:08.505Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：634 工作进度（12把）","timestamp":"2017-08-29T07:19:09.413Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：644 工作进度（13把）","timestamp":"2017-08-29T07:19:10.393Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：624 工作进度（14把）","timestamp":"2017-08-29T07:19:11.286Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：628 工作进度（15把）","timestamp":"2017-08-29T07:19:12.300Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 182 支出：20 返奖率：9.1  总资产：790 工作进度（16把）","timestamp":"2017-08-29T07:19:13.283Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：770 工作进度（17把）","timestamp":"2017-08-29T07:19:15.070Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：786 工作进度（18把）","timestamp":"2017-08-29T07:19:16.052Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：766 工作进度（19把）","timestamp":"2017-08-29T07:19:16.942Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：770 工作进度（20把）","timestamp":"2017-08-29T07:19:17.926Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：750 工作进度（21把）","timestamp":"2017-08-29T07:19:18.817Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：768 工作进度（22把）","timestamp":"2017-08-29T07:19:19.797Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：748 工作进度（23把）","timestamp":"2017-08-29T07:19:20.694Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：758 工作进度（24把）","timestamp":"2017-08-29T07:19:21.672Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：738 工作进度（25把）","timestamp":"2017-08-29T07:19:23.462Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 22 支出：20 返奖率：1.1  总资产：740 工作进度（26把）","timestamp":"2017-08-29T07:19:24.458Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：720 工作进度（27把）","timestamp":"2017-08-29T07:19:25.351Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：742 工作进度（28把）","timestamp":"2017-08-29T07:19:26.345Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：722 工作进度（29把）","timestamp":"2017-08-29T07:19:27.236Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：702 工作进度（30把）","timestamp":"2017-08-29T07:19:28.125Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：682 工作进度（31把）","timestamp":"2017-08-29T07:19:29.018Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：662 工作进度（32把）","timestamp":"2017-08-29T07:19:30.800Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 22 支出：20 返奖率：1.1  总资产：664 工作进度（33把）","timestamp":"2017-08-29T07:19:31.783Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：644 工作进度（34把）","timestamp":"2017-08-29T07:19:32.681Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：666 工作进度（35把）","timestamp":"2017-08-29T07:19:33.658Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：646 工作进度（36把）","timestamp":"2017-08-29T07:19:34.562Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：626 工作进度（37把）","timestamp":"2017-08-29T07:19:35.460Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：606 工作进度（38把）","timestamp":"2017-08-29T07:19:36.353Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：586 工作进度（39把）","timestamp":"2017-08-29T07:19:37.242Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：566 工作进度（40把）","timestamp":"2017-08-29T07:19:39.032Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：546 工作进度（41把）","timestamp":"2017-08-29T07:19:39.928Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：526 工作进度（42把）","timestamp":"2017-08-29T07:19:40.823Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：506 工作进度（43把）","timestamp":"2017-08-29T07:19:41.725Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：486 工作进度（44把）","timestamp":"2017-08-29T07:19:42.614Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：466 工作进度（45把）","timestamp":"2017-08-29T07:19:43.509Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：446 工作进度（46把）","timestamp":"2017-08-29T07:19:44.400Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 42 支出：20 返奖率：2.1  总资产：468 工作进度（47把）","timestamp":"2017-08-29T07:19:45.382Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：448 工作进度（48把）","timestamp":"2017-08-29T07:19:47.173Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：428 工作进度（49把）","timestamp":"2017-08-29T07:19:48.063Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：408 工作进度（50把）","timestamp":"2017-08-29T07:19:48.953Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：424 工作进度（51把）","timestamp":"2017-08-29T07:19:49.941Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：404 工作进度（52把）","timestamp":"2017-08-29T07:19:50.831Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 48 支出：20 返奖率：2.4  总资产：432 工作进度（53把）","timestamp":"2017-08-29T07:19:51.810Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：412 工作进度（54把）","timestamp":"2017-08-29T07:19:52.701Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 22 支出：20 返奖率：1.1  总资产：414 工作进度（55把）","timestamp":"2017-08-29T07:19:53.684Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 24 支出：20 返奖率：1.2  总资产：418 工作进度（56把）","timestamp":"2017-08-29T07:19:54.661Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：398 工作进度（57把）","timestamp":"2017-08-29T07:19:56.452Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 22 支出：20 返奖率：1.1  总资产：400 工作进度（58把）","timestamp":"2017-08-29T07:19:57.446Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：380 工作进度（59把）","timestamp":"2017-08-29T07:19:58.336Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：360 工作进度（60把）","timestamp":"2017-08-29T07:19:59.231Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：340 工作进度（61把）","timestamp":"2017-08-29T07:20:00.122Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：320 工作进度（62把）","timestamp":"2017-08-29T07:20:01.012Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：300 工作进度（63把）","timestamp":"2017-08-29T07:20:01.911Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：280 工作进度（64把）","timestamp":"2017-08-29T07:20:03.697Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：298 工作进度（65把）","timestamp":"2017-08-29T07:20:04.680Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：278 工作进度（66把）","timestamp":"2017-08-29T07:20:05.569Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：258 工作进度（67把）","timestamp":"2017-08-29T07:20:06.460Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：238 工作进度（68把）","timestamp":"2017-08-29T07:20:07.350Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：218 工作进度（69把）","timestamp":"2017-08-29T07:20:08.240Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 44 支出：20 返奖率：2.2  总资产：242 工作进度（70把）","timestamp":"2017-08-29T07:20:09.223Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：222 工作进度（71把）","timestamp":"2017-08-29T07:20:10.114Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：240 工作进度（72把）","timestamp":"2017-08-29T07:20:11.093Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：220 工作进度（73把）","timestamp":"2017-08-29T07:20:12.880Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 214 支出：20 返奖率：10.7  总资产：414 工作进度（74把）","timestamp":"2017-08-29T07:20:13.890Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：394 工作进度（75把）","timestamp":"2017-08-29T07:20:14.801Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：406 工作进度（76把）","timestamp":"2017-08-29T07:20:15.853Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：386 工作进度（77把）","timestamp":"2017-08-29T07:20:16.746Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：394 工作进度（78把）","timestamp":"2017-08-29T07:20:17.726Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：374 工作进度（79把）","timestamp":"2017-08-29T07:20:18.617Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：354 工作进度（80把）","timestamp":"2017-08-29T07:20:20.400Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 30 支出：20 返奖率：1.5  总资产：364 工作进度（81把）","timestamp":"2017-08-29T07:20:21.395Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 26 支出：20 返奖率：1.3  总资产：370 工作进度（82把）","timestamp":"2017-08-29T07:20:22.383Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：350 工作进度（83把）","timestamp":"2017-08-29T07:20:23.276Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：330 工作进度（84把）","timestamp":"2017-08-29T07:20:24.178Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：310 工作进度（85把）","timestamp":"2017-08-29T07:20:25.068Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：290 工作进度（86把）","timestamp":"2017-08-29T07:20:25.961Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：270 工作进度（87把）","timestamp":"2017-08-29T07:20:26.851Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：250 工作进度（88把）","timestamp":"2017-08-29T07:20:27.745Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 38 支出：20 返奖率：1.9  总资产：268 工作进度（89把）","timestamp":"2017-08-29T07:20:29.619Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：248 工作进度（90把）","timestamp":"2017-08-29T07:20:30.510Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：228 工作进度（91把）","timestamp":"2017-08-29T07:20:31.399Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 36 支出：20 返奖率：1.8  总资产：244 工作进度（92把）","timestamp":"2017-08-29T07:20:32.381Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：224 工作进度（93把）","timestamp":"2017-08-29T07:20:33.270Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：232 工作进度（94把）","timestamp":"2017-08-29T07:20:34.248Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：212 工作进度（95把）","timestamp":"2017-08-29T07:20:35.136Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：192 工作进度（96把）","timestamp":"2017-08-29T07:20:36.916Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：172 工作进度（97把）","timestamp":"2017-08-29T07:20:37.806Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：152 工作进度（98把）","timestamp":"2017-08-29T07:20:38.694Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：132 工作进度（99把）","timestamp":"2017-08-29T07:20:39.583Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：112 工作进度（100把）","timestamp":"2017-08-29T07:20:40.473Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：124 工作进度（101把）","timestamp":"2017-08-29T07:20:41.458Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：104 工作进度（102把）","timestamp":"2017-08-29T07:20:42.347Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：84 工作进度（103把）","timestamp":"2017-08-29T07:20:43.236Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 28 支出：20 返奖率：1.4  总资产：92 工作进度（104把）","timestamp":"2017-08-29T07:20:44.212Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：72 工作进度（105把）","timestamp":"2017-08-29T07:20:45.996Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 32 支出：20 返奖率：1.6  总资产：84 工作进度（106把）","timestamp":"2017-08-29T07:20:46.976Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：64 工作进度（107把）","timestamp":"2017-08-29T07:20:47.865Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：44 工作进度（108把）","timestamp":"2017-08-29T07:20:48.758Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：24 工作进度（109把）","timestamp":"2017-08-29T07:20:49.647Z"}
+{"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：4 工作进度（110把）","timestamp":"2017-08-29T07:20:50.537Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-29T07:20:51.337Z"}

@@ -30,11 +30,9 @@ function RobotNet(pomelo_) {
     }
 
     function enter(uid, token, cb) {
-
         pomelo.request('connector.entryHandler.entry', {uid: uid, token: token, eggID: '', agencylink:'', newPlayer:1}, function (data) {
             responseHandler(data, enter, cb)
         })
-
     }
 
     function pushEggArray(cb) {
@@ -50,10 +48,17 @@ function RobotNet(pomelo_) {
         })
     }
 
-    function eggAward(params, cb) {
+    function eggAward(eggData, bet, group, token, cb) {
+
+        const params = {
+            egg: eggData,
+            bet: bet,
+            eggGroup: group,
+            boxMulti: 1,
+            token: token
+        }
 
         pomelo.request('hall.catchHandler.eggAward', params, function (data) {
-            // console.log('eggAward: ', data)
             responseHandler(data, eggAward, cb)
         })
 

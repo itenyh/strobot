@@ -7,3 +7,21 @@
 
 
 
+116.62.174.34
+
+function eggAward(eggData, bet, group, token, cb) {
+
+        const params = {
+            egg: eggData,
+                bet: bet,
+            eggGroup: group,
+            boxMulti: 1,
+            token: token
+        }
+
+        pomelo.request('hall.catchHandler.eggAward', params, function (data) {
+            console.log(data)
+            responseHandler(data, eggAward, cb)
+        })
+
+    }
