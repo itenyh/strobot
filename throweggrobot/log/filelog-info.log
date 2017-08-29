@@ -4128,3 +4128,8 @@
 {"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：30 工作进度（83把）","timestamp":"2017-08-29T09:38:57.027Z"}
 {"level":"info","message":"机器人【1】号 => 玩耍了一把  收入: 0 支出：20 返奖率：0  总资产：10 工作进度（84把）","timestamp":"2017-08-29T09:38:58.821Z"}
 {"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-08-29T09:38:59.640Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-29T10:08:52.644Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-29T10:08:53.242Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: net.disconnect is not a function","timestamp":"2017-08-29T10:08:53.245Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-08-29T10:09:31.092Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-08-29T10:09:31.943Z"}

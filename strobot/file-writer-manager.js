@@ -2,7 +2,7 @@
  * Created by HJ on 2017/8/24.
  */
 
-const util = require('./util/util')
+const util = require('../util/util')
 const consumeType = require('./config/game-config.json').consumeType
 const workQueue = []
 let stop = false

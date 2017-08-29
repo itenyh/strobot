@@ -1,0 +1,24 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "1. eggAward接口egggroup参数使用固定参数，等218服务器更新后再使用动态参数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itenyh/strobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itenyh/strobot/issues"
+  },
+  "homepage": "https://github.com/itenyh/strobot#readme",
+  "dependencies": {
+    "comma-separated-values": "^3.6.4",
+    "q": "^1.5.0",
+    "uuid": "^3.1.0"
+  }
+}

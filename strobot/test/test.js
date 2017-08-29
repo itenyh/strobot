@@ -4,7 +4,7 @@
 
 // require('./pomelo-client')
 
-require('../util/pomelo-cocos2d-js')
+require('../../util/pomelo-cocos2d-js')
 const P1 = new PP()
 const P2 = new PP()
 const pomelo1 = P1.pomelo
