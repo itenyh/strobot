@@ -1,14 +1,16 @@
 {
   "consumeType": {
-    "small": 20,
-    "middle": 100,
-    "large": 1000
+    "1": 10,
+    "2": 100,
+    "3": 1000,
+	"4": 10000,
+	"5": 100000
   },
 
   "playInterval": 800,
   "interfaceRepeatInterval": 800,
   "maxRobotNum": 50,
-  "gameHost": "116.62.174.34",
-  "gamePort": 8010
+  "gameHost": "192.168.1.218",
+  "gamePort": 8100
 
 }

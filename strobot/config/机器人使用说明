@@ -1,6 +1,6 @@
-参数说明: {
+﻿参数说明: {
     "1": "eggConsumNum 每次采集的蛋个数",
-    "2": "consumeType 每次消耗的金币  (small, middle, large)",
+    "2": "consumeType 每次消耗的金币  （1 2 3 4 5)  对应 10 100 1000 10000 100000",
     "3": "robotNum 机器人数量",
     "4": "totalMoney 初始资金"
 }
