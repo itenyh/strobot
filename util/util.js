@@ -22,18 +22,4 @@ exports.writeLine = (line, filename = './data/message.csv') => {
 
 }
 
-// Asynchronously:
-//
-//     var fs = require('fs');
-//
-// fs.appendFile('message.txt', 'data to append', function (err) {
-//     if (err) throw err;
-//     console.log('Saved!');
-// });
-//
-// Synchronously:
-//
-//     var fs = require('fs');
-//
-// fs.appendFileSync('message.txt', 'data to append');
 

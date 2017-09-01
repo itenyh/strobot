@@ -30,6 +30,12 @@ function Logger() {
     this.info = logger.info
     this.error = logger.error
 
+    this.robotInfo = (robotDes, message) => {
+
+        this.info('机器人【%s】号 => %s', robotDes, message)
+
+    }
+
 }
 
 module.exports = new Logger()
