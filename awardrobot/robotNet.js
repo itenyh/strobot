@@ -40,6 +40,12 @@ function RobotNet(pomelo_) {
         })
     }
 
+    function buildRelations(otherUID, beChild, cb) {
+        pomelo.request('hall.playerHandler.buildRelations', {otherUID: otherUID, beChild: beChild}, function (data) {
+            responseHandler(data, buildRelations, cb)
+        })
+    }
+    
     function responseHandler(data, func, cb) {
 
         if (data.code === 200) {
@@ -57,6 +63,7 @@ function RobotNet(pomelo_) {
     this.asynLogin = Q.nbind(login)
     this.asynUserLogin = Q.nbind(userLogin)
     this.asynEnter = Q.nbind(enter)
+    this.asynBuildRelation = Q.nbind(buildRelations)
     this.disconnect = pomelo.disconnect
 
 }

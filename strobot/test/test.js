@@ -2,88 +2,103 @@
  * Created by HJ on 2017/8/24.
  */
 
-// require('./pomelo-client')
+const Q = require('q')
+const timeInterval = 500
+const successRate = 0.8
 
-require('../../util/pomelo-cocos2d-js')
-const P1 = new PP()
-const P2 = new PP()
-const pomelo1 = P1.pomelo
-const pomelo2 = P2.pomelo
-//
-function ready(pomelo, cb) {
+function connetServer_(cb) {
 
-    pomelo.init({
-        host: '192.168.1.218',
-        port: 8100
-    }, function (socket) {
-        cb()
-    })
+    setTimeout(function () {
+        const success = Math.random() < successRate
+        if (success) {
+            cb(null)
+        }
+        else {
+            cb('连接服务器发生错误')
+        }
+    }, timeInterval)
 
 }
-ready(pomelo1, function () {})
 
-setTimeout(function () {
-    ready(pomelo2, function () {
+function bet_(cb) {
 
-        // pomelo1.disconnect()
-        // pomelo2.disconnect()
-        // pomelo2.disconnect()
+    setTimeout(function () {
+        const success = Math.random() < successRate
+        if (success) {
+            cb(null)
+        }
+        else {
+            cb('下注错误')
+        }
+    }, timeInterval)
 
-        // pomelo2.request('gate.loginHandler.visitorLogin', {visitorID: ''}, function (data) {
-        //     console.log(data)
-        // })
-        //
-        // console.log(12312313)
+}
 
-    })
+function play_(cb) {
 
-}, 1000)
+    setTimeout(function () {
+        const success = Math.random() < successRate
+        if (success) {
+            const win = Math.random() < 0.2
+            cb(null, win)
+        }
+        else {
+            cb('玩耍错误')
+        }
+    }, timeInterval)
 
+}
 
+function checkout_(cb) {
 
+    setTimeout(function () {
+        const success = Math.random() < successRate
+        if (success) {
+            cb(null)
+        }
+        else {
+            cb('结算错误')
+        }
+    }, timeInterval)
 
+}
 
+const connetServer = Q.nbind(connetServer_)
+const bet = Q.nbind(bet_)
+const play = Q.nbind(play_)
+const checkout = Q.nbind(checkout_)
 
-var connect = function (url, cb) {
+const connectAction = Q.async(function* () {
+    yield connetServer()
+})
 
-    console.log('connect to ' + url);
+const playAction = Q.async(function* () {
 
-    var onopen = function (event) {
+    let winTime = 0
+    while (winTime < 5) {
 
-        console.log('connect success')
+        console.log(winTime)
+        try {
+            yield bet()
+            const result = yield play()
+            if (result) winTime++
+        }
+        catch (err) {
+            console.log(err)
+        }
 
-    };
-    var onmessage = function (event) {
-    };
-    var onerror = function (event) {
-        console.error('socket error: ', event);
-    };
-    var onclose = function (event) {
-        console.error('socket close: ', event);
-    };
-    const WebSocket = require('ws')
-    const socket = new WebSocket(url);
-    socket.binaryType = 'arraybuffer';
-    socket.onopen = onopen;
-    socket.onmessage = onmessage;
-    socket.onerror = onerror;
-    socket.onclose = onclose;
+    }
 
-    return socket
+})
 
-};
+const  checkoutAction =  Q.async(function* () {
+    yield checkout()
+})
 
-// const socket1 = connect('ws://192.168.1.218:8100')
-// const socekt2 = connect('ws://192.168.1.218:8100')
-//
-// console.log(socket1 === socekt2)
-//
-// setTimeout(function () {
-//     socket1.close()
-// }, 2000)
-//
-// setTimeout(function () {
-//     socket2.close()
-// }, 4000)
+Q.spawn(function* () {
 
+    yield connectAction()
+    yield playAction()
+    yield checkoutAction()
 
+})

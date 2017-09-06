@@ -118,3 +118,51 @@
 {"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: {\"code\":\"MODULE_NOT_FOUND\"}","timestamp":"2017-08-31T03:40:18.397Z"}
 {"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: this.stop is not a function","timestamp":"2017-09-01T09:52:04.350Z"}
 {"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-01T10:24:43.320Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T01:29:16.258Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: Assignment to constant variable.","timestamp":"2017-09-04T07:52:03.783Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: Q.async(...).catch is not a function","timestamp":"2017-09-04T08:20:08.601Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: Q.async(...).catch is not a function","timestamp":"2017-09-04T08:20:23.900Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 1","timestamp":"2017-09-04T08:24:35.255Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 12323","timestamp":"2017-09-04T08:24:40.630Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-04T08:28:55.093Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-04T08:32:06.254Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-04T08:32:24.412Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-04T08:33:05.761Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500}\"","timestamp":"2017-09-04T09:28:44.912Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500}\"","timestamp":"2017-09-04T09:31:58.035Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:19:34.959Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:19:39.847Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:08.766Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:13.975Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:25.276Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:27.246Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:46.933Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:21:16.633Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:21:20.269Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:21:41.463Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:24:40.386Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:25:06.235Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:25:49.418Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:25:52.712Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:25:55.766Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:26:04.159Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:26:26.418Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:09.254Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:30.333Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:32.036Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:33.677Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:40.677Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:42.302Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:43.740Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:53.304Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:06:00.867Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:06:19.821Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 网络接口错误: buildRelations, {\"code\":500}","timestamp":"2017-09-05T02:15:52.442Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 网络接口错误: buildRelations, {\"code\":500}","timestamp":"2017-09-05T02:16:31.693Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T02:19:13.537Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T02:19:24.270Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T02:24:01.129Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T02:25:28.193Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 网络接口错误: buildRelations, {\"code\":500,\"error\":\"获取玩家出错\"}","timestamp":"2017-09-05T02:27:55.229Z"}
+{"level":"error","message":"机器人【undefined】行动失败 , 原因: TypeError: Cannot read property 'filterUids' of undefined","timestamp":"2017-09-05T06:44:33.562Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: action.scanUsers is not a function","timestamp":"2017-09-05T08:13:38.657Z"}

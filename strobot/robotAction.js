@@ -83,71 +83,88 @@ function RobotAction() {
 
     }
 
-    function sendWork2Pipe_(history, pipe, cb) {
-        pipe.pushWork(history)
-        cb(null)
-    }
-
     function sendEveryWork2Pipe_(data, memory, consumeType, cb) {
         pipe.pushHistory(memory.index, memory.round, data.win, consumeType)
         cb(null)
     }
 
-    this.sendWork2Pipe = Q.nbind(sendWork2Pipe_)
     const asynSendEveryWork2Pipe = Q.nbind(sendEveryWork2Pipe_)
     const asynCatchEggs = Q.nbind(catchEgg)
     const asynDealCatchResult = Q.nbind(dealCatchResult)
 
-    this.promisePlay2Die = (actionInterval, memory, consumeType, eggConsumNum) => {
+    this.promisePlay2Die = Q.async(function* (actionInterval, memory, consumeType, eggConsumNum) {
 
-        const totalMoney = memory.totalMoney
-        if (totalMoney < memory.bet) {
-            return Q.resolve(null)
-        }
-        else {
-            const that = this
+        while (memory.totalMoney >= memory.bet) {
+            const data = yield playOneTime(memory.bet, consumeType, eggConsumNum, memory.eggObj)
             memory.round++
-            return playOneTime(memory.bet, consumeType, eggConsumNum, memory.eggObj).then(function (data) {
-
-                memory.totalMoney += (data.win - memory.bet)
-                logger.info('机器人【%s】号 => 玩耍了一把  收入: %s 支出：%s 返奖率：%s  总资产：%s 工作进度（%s把）',  memory.index, data.win, memory.bet, data.win / memory.bet, memory.totalMoney, memory.round)
-
-                return asynSendEveryWork2Pipe(data, memory, consumeType).then(function () {
-                    return Q.delay(actionInterval).then(function () {
-                        return that.promisePlay2Die(actionInterval, memory, consumeType, eggConsumNum)
-                    })
-                })
-
-            })
+            memory.totalMoney += (data.win - memory.bet)
+            logger.info('机器人【%s】号 => 玩耍了一把  收入: %s 支出：%s 返奖率：%s  总资产：%s 工作进度（%s把）',  memory.index, data.win, memory.bet, data.win / memory.bet, memory.totalMoney, memory.round)
+            yield Q.delay(actionInterval)
+            yield asynSendEveryWork2Pipe(data, memory, consumeType)
         }
+        return null
 
-    }
-
-    this.createPlay = (actionInterval, playRound, param, eggObj, cb) => {
-
-        const result = []
-        for (let i = 0; i < playRound; i++) {
-            result.push(playOneTime)
-        }
-        return result.reduce(function (a, x, i) {
-
-            return a.then(function (data) {
-                if (i !== 0) {
-                    cb(data, i)
-                    return Q.delay(actionInterval).then(function () {
-                        return x(param, eggObj)
-                    })
-                }
-                else {
-                    return x(param, eggObj)
-                }
-            })
-
-        }, Q.resolve()).then(function (data) {
-            cb(data, playRound)
-        })
-
-    }
+    })
 
 }
 module.exports = RobotAction
+
+
+// this.createPlay = (actionInterval, playRound, param, eggObj, cb) => {
+//
+//     const result = []
+//     for (let i = 0; i < playRound; i++) {
+//         result.push(playOneTime)
+//     }
+//     return result.reduce(function (a, x, i) {
+//
+//         return a.then(function (data) {
+//             if (i !== 0) {
+//                 cb(data, i)
+//                 return Q.delay(actionInterval).then(function () {
+//                     return x(param, eggObj)
+//                 })
+//             }
+//             else {
+//                 return x(param, eggObj)
+//             }
+//         })
+//
+//     }, Q.resolve()).then(function (data) {
+//         cb(data, playRound)
+//     })
+//
+// }
+
+// (actionInterval, memory, consumeType, eggConsumNum) => {
+//
+//     // const totalMoney = memory.totalMoney
+//     // if (totalMoney < memory.bet) {
+//     //     return Q.resolve(null)
+//     // }
+//     // else {
+//     //     const that = this
+//     //     memory.round++
+//     //     return playOneTime(memory.bet, consumeType, eggConsumNum, memory.eggObj).then(function (data) {
+//     //
+//     //         memory.totalMoney += (data.win - memory.bet)
+//     //         logger.info('机器人【%s】号 => 玩耍了一把  收入: %s 支出：%s 返奖率：%s  总资产：%s 工作进度（%s把）',  memory.index, data.win, memory.bet, data.win / memory.bet, memory.totalMoney, memory.round)
+//     //
+//     //         return asynSendEveryWork2Pipe(data, memory, consumeType).then(function () {
+//     //             return Q.delay(actionInterval).then(function () {
+//     //                 return that.promisePlay2Die(actionInterval, memory, consumeType, eggConsumNum)
+//     //             })
+//     //         })
+//     //
+//     //     })
+//     // }
+//
+//     const totalMoney = memory.totalMoney
+//     while (totalMoney >= memory.bet) {
+//         const data = playOneTime(memory.bet, consumeType, eggConsumNum, memory.eggObj)
+//         memory.totalMoney += (data.win - memory.bet)
+//         logger.info('机器人【%s】号 => 玩耍了一把  收入: %s 支出：%s 返奖率：%s  总资产：%s 工作进度（%s把）',  memory.index, data.win, memory.bet, data.win / memory.bet, memory.totalMoney, memory.round)
+//     }
+//     return null
+//
+// }

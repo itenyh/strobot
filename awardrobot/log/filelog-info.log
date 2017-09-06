@@ -4384,3 +4384,325 @@
 {"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-01T10:24:43.319Z"}
 {"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-01T10:25:09.656Z"}
 {"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-01T10:25:09.827Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:28:55.084Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:28:55.479Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:29:15.908Z"}
+{"level":"info","message":"创建新的机器人 => 13368113913","timestamp":"2017-09-04T01:29:16.003Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T01:29:16.258Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:29:26.402Z"}
+{"level":"info","message":"创建新的机器人 => 13368113913","timestamp":"2017-09-04T01:29:26.491Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:29:26.729Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:29:29.056Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:29:29.226Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:29:30.936Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:29:31.099Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:29:34.885Z"}
+{"level":"info","message":"创建新的机器人 => 13368113914","timestamp":"2017-09-04T01:29:34.971Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:29:35.186Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:29:37.170Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:29:37.339Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:29:48.732Z"}
+{"level":"info","message":"创建新的机器人 => 13368113916","timestamp":"2017-09-04T01:29:48.812Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:29:49.076Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:29:52.936Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:29:53.120Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:30:03.936Z"}
+{"level":"info","message":"创建新的机器人 => 13368114901","timestamp":"2017-09-04T01:30:04.017Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:30:04.200Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:30:06.316Z"}
+{"level":"info","message":"创建新的机器人 => 13368114902","timestamp":"2017-09-04T01:30:06.418Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:30:06.622Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:31:47.670Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:31:47.834Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:31:55.693Z"}
+{"level":"info","message":"创建新的机器人 => 13368114903","timestamp":"2017-09-04T01:31:55.776Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:31:55.974Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T01:36:20.108Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T01:36:20.264Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:51:50.158Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T07:51:50.329Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:52:03.690Z"}
+{"level":"info","message":"创建新的机器人 => 13368114904","timestamp":"2017-09-04T07:52:03.768Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: Assignment to constant variable.","timestamp":"2017-09-04T07:52:03.783Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:54:02.640Z"}
+{"level":"info","message":"创建新的机器人 => 13368114904","timestamp":"2017-09-04T07:54:02.733Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:54:10.766Z"}
+{"level":"info","message":"创建新的机器人 => 13368114904","timestamp":"2017-09-04T07:54:10.859Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:55:25.899Z"}
+{"level":"info","message":"创建新的机器人 => 13368114905","timestamp":"2017-09-04T07:55:25.992Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:55:57.589Z"}
+{"level":"info","message":"创建新的机器人 => 13368114905","timestamp":"2017-09-04T07:55:57.667Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:58:14.854Z"}
+{"level":"info","message":"创建新的机器人 => 13368114905","timestamp":"2017-09-04T07:58:14.979Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:58:40.060Z"}
+{"level":"info","message":"创建新的机器人 => 13368114905","timestamp":"2017-09-04T07:58:40.169Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T07:58:40.403Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T07:58:48.108Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T07:58:48.295Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:09:11.064Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:09:24.862Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:09:25.049Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:11:02.763Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:11:02.919Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:12:48.837Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:12:49.024Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:13:00.072Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:13:08.698Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:13:08.869Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:13:22.309Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:14:00.860Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:14:00.985Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:14:13.033Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:15:17.290Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:15:17.461Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:15:27.228Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:15:27.399Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:15:33.760Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:16:34.673Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:17:21.959Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:17:33.101Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:17:56.775Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:18:08.026Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:18:08.166Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:19:39.645Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:19:43.286Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:20:08.586Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: Q.async(...).catch is not a function","timestamp":"2017-09-04T08:20:08.601Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:20:23.900Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: TypeError: Q.async(...).catch is not a function","timestamp":"2017-09-04T08:20:23.900Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:20:32.323Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:21:49.597Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:22:24.741Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:22:32.038Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:22:57.088Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:23:07.995Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:23:17.871Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:23:24.731Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:23:30.091Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:23:58.501Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:24:06.486Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:24:35.255Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 1","timestamp":"2017-09-04T08:24:35.255Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:24:40.630Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 12323","timestamp":"2017-09-04T08:24:40.630Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:24:51.037Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:28:54.922Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-04T08:28:55.093Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:29:27.348Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:29:27.535Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:29:33.208Z"}
+{"level":"info","message":"创建新的机器人 => 13368114915","timestamp":"2017-09-04T08:29:33.301Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:29:33.520Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:29:35.395Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:29:35.598Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:32:00.067Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:32:00.254Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:32:06.114Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-04T08:32:06.254Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:32:24.272Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-04T08:32:24.412Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:33:05.621Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: enter, {\\\"code\\\":500}\"","timestamp":"2017-09-04T08:33:05.761Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T08:33:12.543Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T08:33:12.714Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T09:28:44.756Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500}\"","timestamp":"2017-09-04T09:28:44.912Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T09:31:57.879Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500}\"","timestamp":"2017-09-04T09:31:58.035Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T09:32:16.961Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T09:32:17.164Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T09:59:48.738Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T09:59:51.314Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:00:25.904Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:00:26.100Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:00:29.135Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:00:29.338Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:00:36.195Z"}
+{"level":"info","message":"创建新的机器人 => 13368114916","timestamp":"2017-09-04T10:00:36.285Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:00:36.485Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:00:39.003Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:00:39.156Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:02:19.450Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:08:27.108Z"}
+{"level":"info","message":"创建新的机器人 => 13368114916","timestamp":"2017-09-04T10:08:27.173Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:08:27.337Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:08:31.863Z"}
+{"level":"info","message":"创建新的机器人 => 13368114916","timestamp":"2017-09-04T10:08:31.928Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:08:32.153Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:10:29.584Z"}
+{"level":"info","message":"创建新的机器人 => 13368114916","timestamp":"2017-09-04T10:10:29.684Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:10:29.854Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:14:29.997Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:14:30.168Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:14:56.174Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:14:56.326Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:15:01.886Z"}
+{"level":"info","message":"创建新的机器人 => 13368114917","timestamp":"2017-09-04T10:15:01.973Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:15:02.159Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:15:03.585Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:15:03.724Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:19:26.611Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:19:26.722Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:19:28.703Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-04T10:19:28.823Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:19:34.878Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:19:34.959Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:19:39.782Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:19:39.847Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:20:08.694Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:08.766Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:20:13.908Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:13.975Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:20:25.162Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:25.276Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:20:27.113Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:27.246Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:20:46.806Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:20:46.933Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:21:16.515Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:21:16.632Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:21:20.153Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:21:20.269Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:21:41.341Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:21:41.463Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:24:40.255Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:24:40.386Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:25:06.112Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:25:06.234Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:25:49.279Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:25:49.417Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:25:52.556Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:25:52.712Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:25:55.644Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:25:55.766Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:26:04.040Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:26:04.158Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-04T10:26:26.292Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-04T10:26:26.418Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:05:08.958Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:09.254Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:05:30.208Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:30.333Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:05:31.911Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:32.036Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:05:33.552Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:33.677Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:05:40.568Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:40.677Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:05:42.177Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:42.302Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:05:43.631Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:43.740Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:05:53.179Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:05:53.304Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:00.742Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:06:00.867Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:19.478Z"}
+{"level":"info","message":"创建新的机器人 => 13468114939","timestamp":"2017-09-05T01:06:19.556Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T01:06:19.821Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:22.494Z"}
+{"level":"info","message":"创建新的机器人 => 13468114939","timestamp":"2017-09-05T01:06:22.572Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:06:22.822Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:25.026Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:06:25.197Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:27.026Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:06:27.182Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:34.620Z"}
+{"level":"info","message":"创建新的机器人 => 13468114999","timestamp":"2017-09-05T01:06:34.698Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:06:34.963Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:36.651Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:06:36.823Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:38.496Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:06:38.667Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:06:44.043Z"}
+{"level":"info","message":"创建新的机器人 => 13468214999","timestamp":"2017-09-05T01:06:44.136Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:06:44.402Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:08:13.568Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:08:13.739Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:17:19.017Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:17:19.204Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:17:20.595Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:17:20.735Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:17:39.081Z"}
+{"level":"info","message":"创建新的机器人 => 13461214999","timestamp":"2017-09-05T01:17:39.159Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:17:39.377Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T01:17:40.847Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T01:17:41.003Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:12:39.934Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:12:40.100Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:15:52.200Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 网络接口错误: buildRelations, {\"code\":500}","timestamp":"2017-09-05T02:15:52.441Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:16:31.450Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 网络接口错误: buildRelations, {\"code\":500}","timestamp":"2017-09-05T02:16:31.693Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:19:13.444Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T02:19:13.537Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:19:24.174Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T02:19:24.269Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:24:01.043Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T02:24:01.129Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:25:28.097Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 所在 Action：connect， Action error reason: \"网络接口错误: userLogin, {\\\"code\\\":500,\\\"error\\\":\\\"账号不存在\\\"}\"","timestamp":"2017-09-05T02:25:28.192Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:26:46.772Z"}
+{"level":"info","message":"创建新的机器人 => 13461214999","timestamp":"2017-09-05T02:26:46.817Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:26:46.913Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:26:51.020Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:26:51.135Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:27:55.106Z"}
+{"level":"error","message":"机器人【0】行动失败 , 原因: 网络接口错误: buildRelations, {\"code\":500,\"error\":\"获取玩家出错\"}","timestamp":"2017-09-05T02:27:55.229Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:28:58.632Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:28:58.971Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:32:23.836Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:32:23.996Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:32:26.006Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:32:26.171Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:33:22.477Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:33:22.629Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:35:05.351Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T02:35:05.396Z"}
+{"level":"info","message":"尝试与  11440102  建立 非下级 关系","timestamp":"2017-09-05T02:35:05.454Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:35:05.461Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:39:36.972Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T02:39:37.018Z"}
+{"level":"info","message":"尝试与  12309662  建立 非下级 关系","timestamp":"2017-09-05T02:39:37.126Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:39:37.141Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:41:10.168Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T02:41:10.236Z"}
+{"level":"info","message":"尝试与  12309662  建立 非下级 关系","timestamp":"2017-09-05T02:41:10.361Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:41:10.371Z"}
+{"level":"info","message":"机器人【0】号 => 开始工作","timestamp":"2017-09-05T02:41:39.387Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T02:41:39.426Z"}
+{"level":"info","message":"尝试与  12309662  建立 非下级 关系","timestamp":"2017-09-05T02:41:39.571Z"}
+{"level":"info","message":"机器人【0】号 => 完成工作 ","timestamp":"2017-09-05T02:41:39.619Z"}
+{"level":"info","message":"机器人【undefined】号 => 开始工作","timestamp":"2017-09-05T06:44:33.325Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T06:44:33.369Z"}
+{"level":"error","message":"机器人【undefined】行动失败 , 原因: TypeError: Cannot read property 'filterUids' of undefined","timestamp":"2017-09-05T06:44:33.562Z"}
+{"level":"info","message":"机器人【undefined】号 => 开始工作","timestamp":"2017-09-05T06:45:11.094Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T06:45:11.137Z"}
+{"level":"info","message":"机器人【undefined】号 => 完成工作 ","timestamp":"2017-09-05T06:45:11.224Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T06:45:41.823Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T06:45:41.865Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-09-05T06:45:41.971Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T06:46:55.465Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T06:46:55.505Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-09-05T06:46:55.602Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T06:47:07.437Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T06:47:07.477Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-09-05T06:47:07.562Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T06:48:17.224Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T06:48:17.265Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-09-05T06:48:17.378Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T08:13:38.464Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T08:13:38.549Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: TypeError: action.scanUsers is not a function","timestamp":"2017-09-05T08:13:38.657Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T08:32:30.938Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T08:32:31.026Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-09-05T08:32:31.166Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T10:19:06.594Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T10:19:06.686Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-09-05T10:19:06.945Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T10:19:40.204Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T10:19:40.269Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-09-05T10:19:40.409Z"}
+{"level":"info","message":"机器人【1】号 => 开始工作","timestamp":"2017-09-05T10:20:11.973Z"}
+{"level":"info","message":"我的uid:  17352732","timestamp":"2017-09-05T10:20:12.041Z"}
+{"level":"info","message":"机器人【1】号 => 完成工作 ","timestamp":"2017-09-05T10:20:12.167Z"}

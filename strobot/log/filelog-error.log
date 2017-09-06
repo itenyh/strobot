@@ -114,3 +114,7 @@
 {"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:01:32.233Z"}
 {"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:07:02.978Z"}
 {"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: pushEggArray, {\\\"code\\\":500}\"","timestamp":"2017-08-29T07:13:18.690Z"}
+{"level":"error","message":"机器人【1】行动失败 , 原因: a error!!","timestamp":"2017-09-04T07:35:29.240Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: startCatchEgg, {\\\"code\\\":500}\"","timestamp":"2017-09-04T07:36:11.264Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: startCatchEgg, {\\\"code\\\":500}\"","timestamp":"2017-09-04T07:36:12.109Z"}
+{"level":"error","message":"所在 Action：connect， Action error reason: \"网络接口错误: startCatchEgg, {\\\"code\\\":500}\"","timestamp":"2017-09-04T07:36:12.953Z"}
