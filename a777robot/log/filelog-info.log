@@ -1,0 +1,1314 @@
+{"level":"info","message":"管理机器人【08d212b0-b212-11e7-83b2-65b856d590ff】号 => 开始工作","timestamp":"2017-10-16T01:33:38.523Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 0, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:33:49.149Z"}
+{"level":"info","message":"有新的房间空出来 roomCode: 001, 现在开始加入机器人","timestamp":"2017-10-16T01:33:49.149Z"}
+{"level":"info","message":"向空房间 001 添加机器人 3 个，任务开始！","timestamp":"2017-10-16T01:33:49.164Z"}
+{"level":"info","message":"机器人【0f29c2c0b21211e783b265b856d590ff-001】号 => 开始工作","timestamp":"2017-10-16T01:33:49.164Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:33:49.258Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 成功进入房间： 001","timestamp":"2017-10-16T01:33:49.258Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 8750 剩余金币：52500","timestamp":"2017-10-16T01:33:49.274Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:33:51.879Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 0, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:34:02.068Z"}
+{"level":"info","message":"有新的房间空出来 roomCode: 003, 现在开始加入机器人","timestamp":"2017-10-16T01:34:02.068Z"}
+{"level":"info","message":"向空房间 003 添加机器人 2 个，任务开始！","timestamp":"2017-10-16T01:34:02.068Z"}
+{"level":"info","message":"机器人【16dac140b21211e783b265b856d590ff-003】号 => 开始工作","timestamp":"2017-10-16T01:34:02.068Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:34:02.161Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 成功进入房间： 003","timestamp":"2017-10-16T01:34:02.161Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 8750 剩余金币：102500","timestamp":"2017-10-16T01:34:02.177Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 9250 剩余金币：55500","timestamp":"2017-10-16T01:34:09.306Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:34:14.443Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 1500 剩余金币：97750","timestamp":"2017-10-16T01:34:19.201Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 0, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:34:24.303Z"}
+{"level":"info","message":"有新的房间空出来 roomCode: 004, 现在开始加入机器人","timestamp":"2017-10-16T01:34:24.303Z"}
+{"level":"info","message":"向空房间 004 添加机器人 2 个，任务开始！","timestamp":"2017-10-16T01:34:24.303Z"}
+{"level":"info","message":"机器人【241b8bf0b21211e783b265b856d590ff-004】号 => 开始工作","timestamp":"2017-10-16T01:34:24.303Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:34:24.396Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 成功进入房间： 004","timestamp":"2017-10-16T01:34:24.396Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：993750","timestamp":"2017-10-16T01:34:24.412Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 6000 剩余金币：55250","timestamp":"2017-10-16T01:34:25.332Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 5000 剩余金币：992500","timestamp":"2017-10-16T01:34:34.447Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 11500 剩余金币：103000","timestamp":"2017-10-16T01:34:35.211Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:34:35.601Z"}
+{"level":"info","message":"有新玩家进入房间 roomCode: 004, 现在开始尝试移除机器人","timestamp":"2017-10-16T01:34:35.601Z"}
+{"level":"info","message":"向空房间 004 添加机器人，任务【打断】！","timestamp":"2017-10-16T01:34:35.601Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：49000","timestamp":"2017-10-16T01:34:45.353Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 13250 剩余金币：999500","timestamp":"2017-10-16T01:34:51.468Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：96750","timestamp":"2017-10-16T01:34:53.249Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 1500 剩余金币：44250","timestamp":"2017-10-16T01:34:55.386Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 11250 剩余金币：101750","timestamp":"2017-10-16T01:35:03.281Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 24000 剩余金币：1017250","timestamp":"2017-10-16T01:35:06.495Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 1, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:35:15.340Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 7000 剩余金币：45000","timestamp":"2017-10-16T01:35:15.418Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：95500","timestamp":"2017-10-16T01:35:23.314Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1011000","timestamp":"2017-10-16T01:35:23.532Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 750 剩余金币：39500","timestamp":"2017-10-16T01:35:31.459Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 26250 剩余金币：115500","timestamp":"2017-10-16T01:35:33.347Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 10000 剩余金币：1014750","timestamp":"2017-10-16T01:35:33.549Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:35:44.235Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 2, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:35:49.151Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：33250","timestamp":"2017-10-16T01:35:49.463Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 30000 剩余金币：1038500","timestamp":"2017-10-16T01:35:50.571Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 14000 剩余金币：123250","timestamp":"2017-10-16T01:35:53.379Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：27000","timestamp":"2017-10-16T01:35:59.496Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:35:59.949Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1032250","timestamp":"2017-10-16T01:36:06.610Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 17500 剩余金币：134500","timestamp":"2017-10-16T01:36:09.418Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 4500 剩余金币：25250","timestamp":"2017-10-16T01:36:09.527Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 750 剩余金币：1026750","timestamp":"2017-10-16T01:36:16.641Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 11500 剩余金币：30500","timestamp":"2017-10-16T01:36:27.548Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 23750 剩余金币：152000","timestamp":"2017-10-16T01:36:28.484Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:36:30.156Z"}
+{"level":"info","message":"有新玩家进入房间 roomCode: 003, 现在开始尝试移除机器人","timestamp":"2017-10-16T01:36:30.156Z"}
+{"level":"info","message":"向空房间 003 添加机器人，任务【打断】！","timestamp":"2017-10-16T01:36:30.156Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 22500 剩余金币：1043000","timestamp":"2017-10-16T01:36:31.669Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 1, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:36:40.780Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：24250","timestamp":"2017-10-16T01:36:42.574Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 15000 剩余金币：160750","timestamp":"2017-10-16T01:36:46.521Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 2500 剩余金币：1039250","timestamp":"2017-10-16T01:36:47.693Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 25000 剩余金币：43000","timestamp":"2017-10-16T01:36:52.606Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 15000 剩余金币：169500","timestamp":"2017-10-16T01:37:02.545Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1033000","timestamp":"2017-10-16T01:37:05.696Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 0, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:37:06.960Z"}
+{"level":"info","message":"有新的房间空出来 roomCode: 005, 现在开始加入机器人","timestamp":"2017-10-16T01:37:06.960Z"}
+{"level":"info","message":"向空房间 005 添加机器人 3 个，任务开始！","timestamp":"2017-10-16T01:37:06.960Z"}
+{"level":"info","message":"机器人【850f0900b21211e783b265b856d590ff-005】号 => 开始工作","timestamp":"2017-10-16T01:37:06.960Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:37:07.038Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 成功进入房间： 005","timestamp":"2017-10-16T01:37:07.038Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：995250","timestamp":"2017-10-16T01:37:07.053Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 13000 剩余金币：49750","timestamp":"2017-10-16T01:37:09.627Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1026750","timestamp":"2017-10-16T01:37:15.711Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 15000 剩余金币：178250","timestamp":"2017-10-16T01:37:17.568Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1020500","timestamp":"2017-10-16T01:37:25.744Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 18000 剩余金币：1007000","timestamp":"2017-10-16T01:37:26.087Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：43500","timestamp":"2017-10-16T01:37:27.632Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1014250","timestamp":"2017-10-16T01:37:35.761Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 6500 剩余金币：178500","timestamp":"2017-10-16T01:37:36.588Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 4500 剩余金币：41750","timestamp":"2017-10-16T01:37:37.649Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 69500 剩余金币：1070250","timestamp":"2017-10-16T01:37:45.121Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 6250 剩余金币：1014250","timestamp":"2017-10-16T01:37:45.808Z"}
+{"level":"info","message":"机器人【9e39c0f0b21211e783b265b856d590ff-001】号 => 开始工作","timestamp":"2017-10-16T01:37:49.183Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:37:49.261Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 成功进入房间： 001","timestamp":"2017-10-16T01:37:49.261Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：1993750","timestamp":"2017-10-16T01:37:49.292Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：172250","timestamp":"2017-10-16T01:37:54.597Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 3250 剩余金币：38750","timestamp":"2017-10-16T01:37:57.671Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：1987500","timestamp":"2017-10-16T01:37:59.309Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1064000","timestamp":"2017-10-16T01:38:03.133Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 127500 剩余金币：293500","timestamp":"2017-10-16T01:38:04.630Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1008000","timestamp":"2017-10-16T01:38:04.833Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：1981250","timestamp":"2017-10-16T01:38:09.326Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：1059250","timestamp":"2017-10-16T01:38:13.163Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 2250 剩余金币：34750","timestamp":"2017-10-16T01:38:13.709Z"}
+{"level":"info","message":"机器人 241b8bf0b21211e783b265b856d590ff-004 totalWin: 17500 剩余金币：1019250","timestamp":"2017-10-16T01:38:14.864Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 12750 剩余金币：1987750","timestamp":"2017-10-16T01:38:19.357Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：287250","timestamp":"2017-10-16T01:38:20.653Z"}
+{"level":"info","message":"向空房间 004 添加机器人，任务完成！","timestamp":"2017-10-16T01:38:24.319Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 0, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:38:24.382Z"}
+{"level":"info","message":"有新的房间空出来 roomCode: 004, 现在开始加入机器人","timestamp":"2017-10-16T01:38:24.382Z"}
+{"level":"info","message":"机器人【241b8bf0b21211e783b265b856d590ff-004】stop ","timestamp":"2017-10-16T01:38:24.382Z"}
+{"level":"info","message":"从房间 roomCode: 004 移除了一个机器人, 任务完成","timestamp":"2017-10-16T01:38:24.382Z"}
+{"level":"info","message":"向空房间 004 添加机器人 3 个，任务开始！","timestamp":"2017-10-16T01:38:24.382Z"}
+{"level":"info","message":"机器人【b334b1e0b21211e783b265b856d590ff-004】号 => 开始工作","timestamp":"2017-10-16T01:38:24.382Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:38:24.475Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 成功进入房间： 004","timestamp":"2017-10-16T01:38:24.491Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：3750","timestamp":"2017-10-16T01:38:24.507Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 7500 剩余金币：1060500","timestamp":"2017-10-16T01:38:29.187Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 1500 剩余金币：282500","timestamp":"2017-10-16T01:38:30.684Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 6000 剩余金币：34500","timestamp":"2017-10-16T01:38:30.715Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 550 剩余金币：3050","timestamp":"2017-10-16T01:38:34.539Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 25750 剩余金币：2007250","timestamp":"2017-10-16T01:38:39.375Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：276250","timestamp":"2017-10-16T01:38:47.706Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1054250","timestamp":"2017-10-16T01:38:48.205Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：28250","timestamp":"2017-10-16T01:38:49.749Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 14750 剩余金币：2015750","timestamp":"2017-10-16T01:38:54.416Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1800","timestamp":"2017-10-16T01:38:54.572Z"}
+{"level":"info","message":"机器人 16dac140b21211e783b265b856d590ff-003 totalWin: 1500 剩余金币：271500","timestamp":"2017-10-16T01:38:57.723Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1048000","timestamp":"2017-10-16T01:38:58.238Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 17500 剩余金币：39500","timestamp":"2017-10-16T01:38:59.782Z"}
+{"level":"info","message":"向空房间 003 添加机器人，任务完成！","timestamp":"2017-10-16T01:39:02.091Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 0, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:39:02.091Z"}
+{"level":"info","message":"有新的房间空出来 roomCode: 003, 现在开始加入机器人","timestamp":"2017-10-16T01:39:02.091Z"}
+{"level":"info","message":"机器人【16dac140b21211e783b265b856d590ff-003】stop ","timestamp":"2017-10-16T01:39:02.091Z"}
+{"level":"info","message":"从房间 roomCode: 003 移除了一个机器人, 任务完成","timestamp":"2017-10-16T01:39:02.107Z"}
+{"level":"info","message":"向空房间 003 添加机器人 3 个，任务开始！","timestamp":"2017-10-16T01:39:02.107Z"}
+{"level":"info","message":"机器人【c9b112b0b21211e783b265b856d590ff-003】号 => 开始工作","timestamp":"2017-10-16T01:39:02.107Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:39:02.185Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 成功进入房间： 003","timestamp":"2017-10-16T01:39:02.185Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 4000 剩余金币：97750","timestamp":"2017-10-16T01:39:02.200Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：550","timestamp":"2017-10-16T01:39:04.605Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1041750","timestamp":"2017-10-16T01:39:08.239Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：2009500","timestamp":"2017-10-16T01:39:13.450Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：425","timestamp":"2017-10-16T01:39:14.635Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 1500 剩余金币：34750","timestamp":"2017-10-16T01:39:15.805Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 25000 剩余金币：116500","timestamp":"2017-10-16T01:39:17.225Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 3250 剩余金币：1038750","timestamp":"2017-10-16T01:39:18.255Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 3, robotNumInRoom: 2 ","timestamp":"2017-10-16T01:39:22.016Z"}
+{"level":"info","message":"有新玩家进入房间 roomCode: 001, 现在开始尝试移除机器人","timestamp":"2017-10-16T01:39:22.016Z"}
+{"level":"info","message":"向空房间 001 添加机器人，任务【打断】！","timestamp":"2017-10-16T01:39:22.016Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 1500 剩余金币：2004750","timestamp":"2017-10-16T01:39:23.483Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：300","timestamp":"2017-10-16T01:39:24.668Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：28500","timestamp":"2017-10-16T01:39:31.813Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 7500 剩余金币：117750","timestamp":"2017-10-16T01:39:33.248Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1032500","timestamp":"2017-10-16T01:39:34.296Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：175","timestamp":"2017-10-16T01:39:34.702Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 3250 剩余金币：2001750","timestamp":"2017-10-16T01:39:39.507Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 5000 剩余金币：27250","timestamp":"2017-10-16T01:39:41.831Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 27500 剩余金币：1053750","timestamp":"2017-10-16T01:39:44.327Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：50","timestamp":"2017-10-16T01:39:44.733Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：111500","timestamp":"2017-10-16T01:39:48.836Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 75 剩余金币：80","timestamp":"2017-10-16T01:39:54.766Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 68750 剩余金币：174000","timestamp":"2017-10-16T01:39:58.868Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：21000","timestamp":"2017-10-16T01:39:58.868Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：1995500","timestamp":"2017-10-16T01:39:59.524Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1047500","timestamp":"2017-10-16T01:40:03.330Z"}
+{"level":"info","message":"机器人【f05c0f50b21211e783b265b856d590ff-005】号 => 开始工作","timestamp":"2017-10-16T01:40:06.981Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:40:07.059Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 成功进入房间： 005","timestamp":"2017-10-16T01:40:07.059Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：3750","timestamp":"2017-10-16T01:40:07.075Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 5000 剩余金币：19750","timestamp":"2017-10-16T01:40:08.885Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 36500 剩余金币：2025750","timestamp":"2017-10-16T01:40:09.555Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：1042000","timestamp":"2017-10-16T01:40:13.362Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：5","timestamp":"2017-10-16T01:40:14.797Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 6250 剩余金币：174000","timestamp":"2017-10-16T01:40:14.891Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 2000 剩余金币：4500","timestamp":"2017-10-16T01:40:17.090Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 剩余金币：5 余额不足","timestamp":"2017-10-16T01:40:24.814Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 8500 剩余金币：12250","timestamp":"2017-10-16T01:40:24.830Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 9000 剩余金币：22500","timestamp":"2017-10-16T01:40:25.922Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 25000 剩余金币：2044500","timestamp":"2017-10-16T01:40:27.560Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 2, robotNumInRoom: 2 ","timestamp":"2017-10-16T01:40:28.121Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 64000 剩余金币：1099750","timestamp":"2017-10-16T01:40:30.399Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 7000 剩余金币：174750","timestamp":"2017-10-16T01:40:32.911Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：3250","timestamp":"2017-10-16T01:40:37.109Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 5000 剩余金币：11000","timestamp":"2017-10-16T01:40:40.850Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 4500 剩余金币：2042750","timestamp":"2017-10-16T01:40:42.594Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 32000 剩余金币：48250","timestamp":"2017-10-16T01:40:42.940Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：2000","timestamp":"2017-10-16T01:40:47.144Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 11250 剩余金币：1104750","timestamp":"2017-10-16T01:40:50.413Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 1500 剩余金币：170000","timestamp":"2017-10-16T01:40:51.917Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：4750","timestamp":"2017-10-16T01:40:55.867Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 600 剩余金币：1350","timestamp":"2017-10-16T01:40:57.159Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 2250 剩余金币：2038750","timestamp":"2017-10-16T01:40:57.613Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 750 剩余金币：42750","timestamp":"2017-10-16T01:41:01.949Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 25750 剩余金币：1124250","timestamp":"2017-10-16T01:41:05.436Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：3500","timestamp":"2017-10-16T01:41:05.899Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 1500 剩余金币：165250","timestamp":"2017-10-16T01:41:11.949Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 0 剩余金币：2032500","timestamp":"2017-10-16T01:41:15.646Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：2250","timestamp":"2017-10-16T01:41:15.908Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 1250 剩余金币：1350","timestamp":"2017-10-16T01:41:17.189Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 2500 剩余金币：39000","timestamp":"2017-10-16T01:41:18.971Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1118000","timestamp":"2017-10-16T01:41:23.448Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 3250 剩余金币：2029500","timestamp":"2017-10-16T01:41:25.656Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 1300 剩余金币：2300","timestamp":"2017-10-16T01:41:25.937Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 12500 剩余金币：171500","timestamp":"2017-10-16T01:41:26.952Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5750 剩余金币：1117500","timestamp":"2017-10-16T01:41:33.488Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 900 剩余金币：1000","timestamp":"2017-10-16T01:41:37.217Z"}
+{"level":"info","message":"机器人 0f29c2c0b21211e783b265b856d590ff-001 totalWin: 14250 剩余金币：47000","timestamp":"2017-10-16T01:41:37.997Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 18750 剩余金币：2042000","timestamp":"2017-10-16T01:41:40.695Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 35000 剩余金币：200250","timestamp":"2017-10-16T01:41:44.970Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 1000 剩余金币：2050","timestamp":"2017-10-16T01:41:45.968Z"}
+{"level":"info","message":"向空房间 001 添加机器人，任务完成！","timestamp":"2017-10-16T01:41:49.197Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 1, robotNumInRoom: 2 ","timestamp":"2017-10-16T01:41:49.213Z"}
+{"level":"info","message":"机器人【0f29c2c0b21211e783b265b856d590ff-001】stop ","timestamp":"2017-10-16T01:41:49.213Z"}
+{"level":"info","message":"从房间 roomCode: 001 移除了一个机器人, 任务完成","timestamp":"2017-10-16T01:41:49.213Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1111250","timestamp":"2017-10-16T01:41:49.509Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 3750 剩余金币：2039500","timestamp":"2017-10-16T01:41:56.717Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 250 剩余金币：625","timestamp":"2017-10-16T01:41:57.247Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 93750 剩余金币：1198750","timestamp":"2017-10-16T01:41:59.540Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：194000","timestamp":"2017-10-16T01:42:02.005Z"}
+{"level":"info","message":"机器人【34fe6720b21311e783b265b856d590ff-003】号 => 开始工作","timestamp":"2017-10-16T01:42:02.130Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:42:02.223Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 成功进入房间： 003","timestamp":"2017-10-16T01:42:02.223Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 71500 剩余金币：2065250","timestamp":"2017-10-16T01:42:02.239Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 7400 剩余金币：8200","timestamp":"2017-10-16T01:42:06.001Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：187750","timestamp":"2017-10-16T01:42:12.022Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 12500 剩余金币：1205000","timestamp":"2017-10-16T01:42:14.549Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 1500 剩余金币：2034750","timestamp":"2017-10-16T01:42:14.721Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：500","timestamp":"2017-10-16T01:42:17.264Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 20000 剩余金币：2079000","timestamp":"2017-10-16T01:42:18.262Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 750 剩余金币：182250","timestamp":"2017-10-16T01:42:22.053Z"}
+{"level":"info","message":"机器人【4244fe30b21311e783b265b856d590ff-004】号 => 开始工作","timestamp":"2017-10-16T01:42:24.403Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:42:24.487Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 成功进入房间： 004","timestamp":"2017-10-16T01:42:24.489Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：1994500","timestamp":"2017-10-16T01:42:24.503Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：1950","timestamp":"2017-10-16T01:42:26.030Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 250 剩余金币：625","timestamp":"2017-10-16T01:42:27.294Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 4500 剩余金币：1203250","timestamp":"2017-10-16T01:42:30.585Z"}
+{"level":"info","message":"机器人 9e39c0f0b21211e783b265b856d590ff-001 totalWin: 7500 剩余金币：2036000","timestamp":"2017-10-16T01:42:31.749Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 600 剩余金币：1300","timestamp":"2017-10-16T01:42:36.037Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 7500 剩余金币：2080250","timestamp":"2017-10-16T01:42:36.302Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：176000","timestamp":"2017-10-16T01:42:41.060Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:42:43.774Z"}
+{"level":"info","message":"有新玩家进入房间 roomCode: 001, 现在开始尝试移除机器人","timestamp":"2017-10-16T01:42:43.774Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 1, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:42:43.774Z"}
+{"level":"info","message":"机器人【9e39c0f0b21211e783b265b856d590ff-001】stop ","timestamp":"2017-10-16T01:42:43.790Z"}
+{"level":"info","message":"从房间 roomCode: 001 移除了一个机器人, 任务完成","timestamp":"2017-10-16T01:42:43.790Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：1989750","timestamp":"2017-10-16T01:42:44.523Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 180 剩余金币：680","timestamp":"2017-10-16T01:42:47.315Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 4500 剩余金币：1201500","timestamp":"2017-10-16T01:42:47.596Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 5000 剩余金币：174750","timestamp":"2017-10-16T01:42:51.075Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 825 剩余金币：1500","timestamp":"2017-10-16T01:42:56.068Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2074000","timestamp":"2017-10-16T01:42:56.318Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 0, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:42:56.910Z"}
+{"level":"info","message":"有新的房间空出来 roomCode: 001, 现在开始加入机器人","timestamp":"2017-10-16T01:42:56.910Z"}
+{"level":"info","message":"向空房间 001 添加机器人 4 个，任务开始！","timestamp":"2017-10-16T01:42:56.910Z"}
+{"level":"info","message":"机器人【55a52ae0b21311e783b265b856d590ff-001】号 => 开始工作","timestamp":"2017-10-16T01:42:56.910Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:42:56.988Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 成功进入房间： 001","timestamp":"2017-10-16T01:42:56.988Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1993750","timestamp":"2017-10-16T01:42:57.004Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：1985000","timestamp":"2017-10-16T01:42:59.539Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1195250","timestamp":"2017-10-16T01:43:05.639Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 2500 剩余金币：2070250","timestamp":"2017-10-16T01:43:06.356Z"}
+{"level":"info","message":"机器人【5ba82b40b21311e783b265b856d590ff-005】号 => 开始工作","timestamp":"2017-10-16T01:43:06.996Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 3000 剩余金币：1990500","timestamp":"2017-10-16T01:43:07.027Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 3, robotNumInRoom: 2 ","timestamp":"2017-10-16T01:43:07.074Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 成功进入房间： 005","timestamp":"2017-10-16T01:43:07.074Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 750 剩余金币：4500","timestamp":"2017-10-16T01:43:07.089Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 825 剩余金币：880","timestamp":"2017-10-16T01:43:07.323Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 4500 剩余金币：173000","timestamp":"2017-10-16T01:43:11.099Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 18750 剩余金币：1207750","timestamp":"2017-10-16T01:43:15.669Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：250","timestamp":"2017-10-16T01:43:16.091Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 5000 剩余金币：1983750","timestamp":"2017-10-16T01:43:18.555Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 7500 剩余金币：1991750","timestamp":"2017-10-16T01:43:23.033Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 4000 剩余金币：2068000","timestamp":"2017-10-16T01:43:23.360Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 125 剩余金币：250","timestamp":"2017-10-16T01:43:26.121Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 5000 剩余金币：171750","timestamp":"2017-10-16T01:43:26.137Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 300 剩余金币：3550","timestamp":"2017-10-16T01:43:27.120Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 5375 剩余金币：5630","timestamp":"2017-10-16T01:43:27.369Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1201500","timestamp":"2017-10-16T01:43:32.691Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：1979000","timestamp":"2017-10-16T01:43:38.574Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1985500","timestamp":"2017-10-16T01:43:40.056Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2061750","timestamp":"2017-10-16T01:43:41.382Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 1500 剩余金币：167000","timestamp":"2017-10-16T01:43:42.147Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 2500 剩余金币：1197750","timestamp":"2017-10-16T01:43:42.724Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：125","timestamp":"2017-10-16T01:43:46.156Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 1000 剩余金币：3300","timestamp":"2017-10-16T01:43:47.123Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 1000 剩余金币：5380","timestamp":"2017-10-16T01:43:48.792Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 1500 剩余金币：1980750","timestamp":"2017-10-16T01:43:50.087Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 750 剩余金币：2056250","timestamp":"2017-10-16T01:43:51.397Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：1977250","timestamp":"2017-10-16T01:43:53.581Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 125 剩余金币：175","timestamp":"2017-10-16T01:43:56.187Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 8500 剩余金币：169250","timestamp":"2017-10-16T01:44:00.187Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1191500","timestamp":"2017-10-16T01:44:02.729Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 1150 剩余金币：3200","timestamp":"2017-10-16T01:44:07.155Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2050000","timestamp":"2017-10-16T01:44:07.436Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：4130","timestamp":"2017-10-16T01:44:08.812Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1974500","timestamp":"2017-10-16T01:44:09.093Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1971000","timestamp":"2017-10-16T01:44:12.618Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1185250","timestamp":"2017-10-16T01:44:12.774Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 150 剩余金币：200","timestamp":"2017-10-16T01:44:16.222Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2043750","timestamp":"2017-10-16T01:44:17.470Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：2880","timestamp":"2017-10-16T01:44:18.827Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1968250","timestamp":"2017-10-16T01:44:19.108Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：163000","timestamp":"2017-10-16T01:44:20.215Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1964750","timestamp":"2017-10-16T01:44:22.649Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 7000 剩余金币：1186000","timestamp":"2017-10-16T01:44:22.805Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 650 剩余金币：2600","timestamp":"2017-10-16T01:44:27.189Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 18750 剩余金币：2056250","timestamp":"2017-10-16T01:44:27.501Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 1000 剩余金币：2630","timestamp":"2017-10-16T01:44:28.844Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1962000","timestamp":"2017-10-16T01:44:29.125Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：156750","timestamp":"2017-10-16T01:44:30.233Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：1961000","timestamp":"2017-10-16T01:44:32.682Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 60 剩余金币：135","timestamp":"2017-10-16T01:44:36.256Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 16500 剩余金币：1196250","timestamp":"2017-10-16T01:44:38.830Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1955750","timestamp":"2017-10-16T01:44:39.142Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 750 剩余金币：151250","timestamp":"2017-10-16T01:44:40.265Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2050000","timestamp":"2017-10-16T01:44:46.521Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 1500 剩余金币：2850","timestamp":"2017-10-16T01:44:47.207Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3250 剩余金币：1958000","timestamp":"2017-10-16T01:44:48.689Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 500 剩余金币：1880","timestamp":"2017-10-16T01:44:48.877Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 6500 剩余金币：1956000","timestamp":"2017-10-16T01:44:49.157Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 totalWin: 0 剩余金币：10","timestamp":"2017-10-16T01:44:56.287Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2043750","timestamp":"2017-10-16T01:44:56.552Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1190000","timestamp":"2017-10-16T01:44:57.862Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：145000","timestamp":"2017-10-16T01:44:58.285Z"}
+{"level":"info","message":"机器人【a04998b0b21311e783b265b856d590ff-003】号 => 开始工作","timestamp":"2017-10-16T01:45:02.139Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 3, robotNumInRoom: 2 ","timestamp":"2017-10-16T01:45:02.217Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 成功进入房间： 003","timestamp":"2017-10-16T01:45:02.217Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：43750","timestamp":"2017-10-16T01:45:02.232Z"}
+{"level":"info","message":"机器人 b334b1e0b21211e783b265b856d590ff-004 剩余金币：10 余额不足, 已加过钱，不再加了","timestamp":"2017-10-16T01:45:06.290Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2037500","timestamp":"2017-10-16T01:45:06.555Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1951750","timestamp":"2017-10-16T01:45:06.711Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：1600","timestamp":"2017-10-16T01:45:07.226Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1183750","timestamp":"2017-10-16T01:45:07.897Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 10750 剩余金币：1960500","timestamp":"2017-10-16T01:45:08.178Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 8500 剩余金币：147250","timestamp":"2017-10-16T01:45:08.318Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 1550 剩余金币：2180","timestamp":"2017-10-16T01:45:08.895Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 21250 剩余金币：58750","timestamp":"2017-10-16T01:45:12.265Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 14000 剩余金币：2045250","timestamp":"2017-10-16T01:45:16.602Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 19000 剩余金币：1964500","timestamp":"2017-10-16T01:45:16.729Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 8050 剩余金币：8400","timestamp":"2017-10-16T01:45:17.259Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：1182500","timestamp":"2017-10-16T01:45:17.930Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1954250","timestamp":"2017-10-16T01:45:23.218Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：141000","timestamp":"2017-10-16T01:45:27.337Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：52500","timestamp":"2017-10-16T01:45:28.276Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：930","timestamp":"2017-10-16T01:45:28.900Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1958250","timestamp":"2017-10-16T01:45:32.768Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 5750 剩余金币：1953750","timestamp":"2017-10-16T01:45:33.236Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 750 剩余金币：2039750","timestamp":"2017-10-16T01:45:33.626Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 11500 剩余金币：1187750","timestamp":"2017-10-16T01:45:36.951Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：2150","timestamp":"2017-10-16T01:45:37.279Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 6500 剩余金币：141250","timestamp":"2017-10-16T01:45:37.341Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 26500 剩余金币：72750","timestamp":"2017-10-16T01:45:38.308Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 1150 剩余金币：1455","timestamp":"2017-10-16T01:45:38.932Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：1953500","timestamp":"2017-10-16T01:45:42.801Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 4000 剩余金币：4900","timestamp":"2017-10-16T01:45:49.057Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 6250 剩余金币：1953750","timestamp":"2017-10-16T01:45:49.057Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 5250 剩余金币：2038750","timestamp":"2017-10-16T01:45:51.662Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：68000","timestamp":"2017-10-16T01:45:54.345Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1181500","timestamp":"2017-10-16T01:45:54.985Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 12000 剩余金币：147000","timestamp":"2017-10-16T01:45:55.359Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：205","timestamp":"2017-10-16T01:45:58.965Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1947250","timestamp":"2017-10-16T01:46:00.821Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1250 剩余金币：1176500","timestamp":"2017-10-16T01:46:05.051Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 1500 剩余金币：1949000","timestamp":"2017-10-16T01:46:05.082Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 150 剩余金币：230","timestamp":"2017-10-16T01:46:08.984Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 650 剩余金币：4300","timestamp":"2017-10-16T01:46:09.078Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 9250 剩余金币：150000","timestamp":"2017-10-16T01:46:10.435Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2032500","timestamp":"2017-10-16T01:46:10.684Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1941000","timestamp":"2017-10-16T01:46:10.825Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 6250 剩余金币：68000","timestamp":"2017-10-16T01:46:14.366Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:46:18.796Z"}
+{"level":"info","message":"有新玩家进入房间 roomCode: 001, 现在开始尝试移除机器人","timestamp":"2017-10-16T01:46:18.796Z"}
+{"level":"info","message":"向空房间 001 添加机器人，任务【打断】！","timestamp":"2017-10-16T01:46:18.796Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 3750 剩余金币：2030000","timestamp":"2017-10-16T01:46:20.715Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 18750 剩余金币：1953500","timestamp":"2017-10-16T01:46:20.856Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1170250","timestamp":"2017-10-16T01:46:21.074Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 8250 剩余金币：1951000","timestamp":"2017-10-16T01:46:22.104Z"}
+{"level":"info","message":"机器人【d155e6c0b21311e783b265b856d590ff-004】号 => 开始工作","timestamp":"2017-10-16T01:46:24.428Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 3, robotNumInRoom: 2 ","timestamp":"2017-10-16T01:46:24.568Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 成功进入房间： 004","timestamp":"2017-10-16T01:46:24.568Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 5000 剩余金币：98750","timestamp":"2017-10-16T01:46:24.662Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：143750","timestamp":"2017-10-16T01:46:26.472Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 300 剩余金币：405","timestamp":"2017-10-16T01:46:29.017Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 2500 剩余金币：5550","timestamp":"2017-10-16T01:46:29.111Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1164000","timestamp":"2017-10-16T01:46:31.108Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 7750 剩余金币：69500","timestamp":"2017-10-16T01:46:31.389Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 1, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:46:34.540Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 2000 剩余金币：1949250","timestamp":"2017-10-16T01:46:35.883Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：137500","timestamp":"2017-10-16T01:46:36.507Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1944750","timestamp":"2017-10-16T01:46:38.130Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2023750","timestamp":"2017-10-16T01:46:38.723Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 8500 剩余金币：1166250","timestamp":"2017-10-16T01:46:41.125Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 15000 剩余金币：107500","timestamp":"2017-10-16T01:46:43.699Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 5000 剩余金币：136250","timestamp":"2017-10-16T01:46:46.538Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 6500 剩余金币：69750","timestamp":"2017-10-16T01:46:47.412Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 0 剩余金币：1938500","timestamp":"2017-10-16T01:46:48.161Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：2019000","timestamp":"2017-10-16T01:46:48.753Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 325 剩余金币：605","timestamp":"2017-10-16T01:46:49.050Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 450 剩余金币：4750","timestamp":"2017-10-16T01:46:49.143Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 6250 剩余金币：1949250","timestamp":"2017-10-16T01:46:53.903Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1160000","timestamp":"2017-10-16T01:46:58.144Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 15000 剩余金币：1947250","timestamp":"2017-10-16T01:46:58.183Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：101250","timestamp":"2017-10-16T01:47:00.716Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：130000","timestamp":"2017-10-16T01:47:02.556Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 6250 剩余金币：69750","timestamp":"2017-10-16T01:47:03.436Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：1158750","timestamp":"2017-10-16T01:47:08.160Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 7750 剩余金币：2020500","timestamp":"2017-10-16T01:47:08.770Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 200 剩余金币：680","timestamp":"2017-10-16T01:47:09.069Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：3500","timestamp":"2017-10-16T01:47:09.159Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：95000","timestamp":"2017-10-16T01:47:10.749Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 3750 剩余金币：127500","timestamp":"2017-10-16T01:47:12.589Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 9000 剩余金币：1952000","timestamp":"2017-10-16T01:47:12.919Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 2500 剩余金币：1943500","timestamp":"2017-10-16T01:47:15.223Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：2250","timestamp":"2017-10-16T01:47:19.185Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：88750","timestamp":"2017-10-16T01:47:20.772Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 15500 剩余金币：79000","timestamp":"2017-10-16T01:47:22.462Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 23750 剩余金币：1176250","timestamp":"2017-10-16T01:47:25.204Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 2500 剩余金币：2016750","timestamp":"2017-10-16T01:47:26.794Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 700 剩余金币：755","timestamp":"2017-10-16T01:47:29.104Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 1500 剩余金币：2500","timestamp":"2017-10-16T01:47:29.214Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 7000 剩余金币：89500","timestamp":"2017-10-16T01:47:30.802Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 5000 剩余金币：1942250","timestamp":"2017-10-16T01:47:31.252Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 7500 剩余金币：128750","timestamp":"2017-10-16T01:47:31.602Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：1946500","timestamp":"2017-10-16T01:47:32.942Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 4, robotNumInRoom: 3 ","timestamp":"2017-10-16T01:47:37.730Z"}
+{"level":"info","message":"有新玩家进入房间 roomCode: 003, 现在开始尝试移除机器人","timestamp":"2017-10-16T01:47:37.730Z"}
+{"level":"info","message":"向空房间 003 添加机器人，任务【打断】！","timestamp":"2017-10-16T01:47:37.730Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 6250 剩余金币：2016750","timestamp":"2017-10-16T01:47:41.830Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 3000 剩余金币：1173000","timestamp":"2017-10-16T01:47:42.220Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：72750","timestamp":"2017-10-16T01:47:42.480Z"}
+{"level":"info","message":"机器人 55a52ae0b21311e783b265b856d590ff-001 totalWin: 7500 剩余金币：1943500","timestamp":"2017-10-16T01:47:46.270Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 45000 剩余金币：128250","timestamp":"2017-10-16T01:47:46.830Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 1500 剩余金币：124000","timestamp":"2017-10-16T01:47:50.100Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：130","timestamp":"2017-10-16T01:47:50.110Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 1750 剩余金币：3000","timestamp":"2017-10-16T01:47:50.130Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1940250","timestamp":"2017-10-16T01:47:50.140Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 3, robotNumInRoom: 3 ","timestamp":"2017-10-16T01:47:50.960Z"}
+{"level":"info","message":"机器人 a04998b0b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：68000","timestamp":"2017-10-16T01:47:52.500Z"}
+{"level":"info","message":"向空房间 001 添加机器人，任务完成！","timestamp":"2017-10-16T01:47:56.940Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 0, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:47:56.940Z"}
+{"level":"info","message":"有新的房间空出来 roomCode: 001, 现在开始加入机器人","timestamp":"2017-10-16T01:47:56.940Z"}
+{"level":"info","message":"机器人【55a52ae0b21311e783b265b856d590ff-001】stop ","timestamp":"2017-10-16T01:47:56.950Z"}
+{"level":"info","message":"从房间 roomCode: 001 移除了一个机器人, 任务完成","timestamp":"2017-10-16T01:47:56.950Z"}
+{"level":"info","message":"向空房间 001 添加机器人 4 个，任务开始！","timestamp":"2017-10-16T01:47:56.950Z"}
+{"level":"info","message":"机器人【087ba360b21411e783b265b856d590ff-001】号 => 开始工作","timestamp":"2017-10-16T01:47:56.950Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 0 ","timestamp":"2017-10-16T01:47:57.040Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 成功进入房间： 001","timestamp":"2017-10-16T01:47:57.040Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：93750","timestamp":"2017-10-16T01:47:57.060Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 100 剩余金币：155","timestamp":"2017-10-16T01:48:00.130Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 12500 剩余金币：1946500","timestamp":"2017-10-16T01:48:00.160Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 15250 剩余金币：1182000","timestamp":"2017-10-16T01:48:00.240Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 13000 剩余金币：2023500","timestamp":"2017-10-16T01:48:00.850Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 16500 剩余金币：138500","timestamp":"2017-10-16T01:48:01.850Z"}
+{"level":"info","message":"向空房间 003 添加机器人，任务完成！","timestamp":"2017-10-16T01:48:02.150Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 2, robotNumInRoom: 3 ","timestamp":"2017-10-16T01:48:02.160Z"}
+{"level":"info","message":"机器人【a04998b0b21311e783b265b856d590ff-003】stop ","timestamp":"2017-10-16T01:48:02.170Z"}
+{"level":"info","message":"从房间 roomCode: 003 移除了一个机器人, 任务完成","timestamp":"2017-10-16T01:48:02.170Z"}
+{"level":"info","message":"向空房间 005 添加机器人，任务完成！","timestamp":"2017-10-16T01:48:07.012Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 13500 剩余金币：101000","timestamp":"2017-10-16T01:48:07.082Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 5000 剩余金币：122750","timestamp":"2017-10-16T01:48:08.132Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 2300 剩余金币：4050","timestamp":"2017-10-16T01:48:10.152Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 5250 剩余金币：2022500","timestamp":"2017-10-16T01:48:15.872Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 29250 剩余金币：161500","timestamp":"2017-10-16T01:48:18.872Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 22500 剩余金币：1962750","timestamp":"2017-10-16T01:48:19.182Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 200 剩余金币：230","timestamp":"2017-10-16T01:48:20.162Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 2000 剩余金币：1177750","timestamp":"2017-10-16T01:48:20.272Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：94750","timestamp":"2017-10-16T01:48:23.102Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：116500","timestamp":"2017-10-16T01:48:27.154Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 6000 剩余金币：8800","timestamp":"2017-10-16T01:48:30.174Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2016250","timestamp":"2017-10-16T01:48:32.894Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 14000 剩余金币：102500","timestamp":"2017-10-16T01:48:33.124Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 30000 剩余金币：185250","timestamp":"2017-10-16T01:48:33.894Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1956500","timestamp":"2017-10-16T01:48:36.204Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：110250","timestamp":"2017-10-16T01:48:37.173Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 50 剩余金币：155","timestamp":"2017-10-16T01:48:40.185Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：1176500","timestamp":"2017-10-16T01:48:40.305Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2010000","timestamp":"2017-10-16T01:48:42.919Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3750 剩余金币：1954000","timestamp":"2017-10-16T01:48:46.229Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 6500 剩余金币：110500","timestamp":"2017-10-16T01:48:47.199Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 38250 剩余金币：134500","timestamp":"2017-10-16T01:48:48.149Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：2550","timestamp":"2017-10-16T01:48:50.199Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：179750","timestamp":"2017-10-16T01:48:52.919Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 8750 剩余金币：2012500","timestamp":"2017-10-16T01:48:52.949Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 6250 剩余金币：1176500","timestamp":"2017-10-16T01:48:58.337Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 130 剩余金币：160","timestamp":"2017-10-16T01:49:00.207Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 450 剩余金币：1750","timestamp":"2017-10-16T01:49:00.227Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 12750 剩余金币：1960500","timestamp":"2017-10-16T01:49:03.247Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 12500 剩余金币：140750","timestamp":"2017-10-16T01:49:04.167Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：104250","timestamp":"2017-10-16T01:49:05.217Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 2250 剩余金币：2008500","timestamp":"2017-10-16T01:49:08.964Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 11250 剩余金币：184750","timestamp":"2017-10-16T01:49:12.944Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5500 剩余金币：1175750","timestamp":"2017-10-16T01:49:14.354Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 18750 剩余金币：116750","timestamp":"2017-10-16T01:49:15.244Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 13750 剩余金币：148250","timestamp":"2017-10-16T01:49:19.187Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 155 剩余金币：190","timestamp":"2017-10-16T01:49:20.227Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 450 剩余金币：950","timestamp":"2017-10-16T01:49:20.247Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 22500 剩余金币：1976750","timestamp":"2017-10-16T01:49:21.267Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 11750 剩余金币：2014000","timestamp":"2017-10-16T01:49:25.992Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 5000 剩余金币：115500","timestamp":"2017-10-16T01:49:30.272Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 7500 剩余金币：186000","timestamp":"2017-10-16T01:49:31.962Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 19500 剩余金币：1189000","timestamp":"2017-10-16T01:49:32.372Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 6250 剩余金币：148250","timestamp":"2017-10-16T01:49:36.222Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 7750 剩余金币：1978250","timestamp":"2017-10-16T01:49:38.285Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：65","timestamp":"2017-10-16T01:49:40.255Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 750 剩余金币：1075","timestamp":"2017-10-16T01:49:40.275Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 6500 剩余金币：2014250","timestamp":"2017-10-16T01:49:42.015Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 7500 剩余金币：1190250","timestamp":"2017-10-16T01:49:49.035Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 25000 剩余金币：134250","timestamp":"2017-10-16T01:49:49.305Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 50 剩余金币：70","timestamp":"2017-10-16T01:49:50.275Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 750 剩余金币：142750","timestamp":"2017-10-16T01:49:51.245Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：184250","timestamp":"2017-10-16T01:49:51.995Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 7000 剩余金币：1979000","timestamp":"2017-10-16T01:49:57.320Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 3750 剩余金币：4200","timestamp":"2017-10-16T01:50:00.350Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 8250 剩余金币：2016250","timestamp":"2017-10-16T01:50:02.040Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：136500","timestamp":"2017-10-16T01:50:07.270Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：128000","timestamp":"2017-10-16T01:50:07.320Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：1185500","timestamp":"2017-10-16T01:50:09.067Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：178000","timestamp":"2017-10-16T01:50:10.017Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 155 剩余金币：180","timestamp":"2017-10-16T01:50:10.297Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3250 剩余金币：1976000","timestamp":"2017-10-16T01:50:13.337Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 11250 剩余金币：141500","timestamp":"2017-10-16T01:50:17.297Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 2500 剩余金币：124250","timestamp":"2017-10-16T01:50:17.347Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 9250 剩余金币：2019250","timestamp":"2017-10-16T01:50:19.067Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 28250 剩余金币：200000","timestamp":"2017-10-16T01:50:20.037Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 7500 剩余金币：10450","timestamp":"2017-10-16T01:50:20.367Z"}
+{"level":"info","message":"向空房间 004 添加机器人，任务完成！","timestamp":"2017-10-16T01:50:24.447Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1179250","timestamp":"2017-10-16T01:50:29.083Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 2000 剩余金币：1971750","timestamp":"2017-10-16T01:50:29.363Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 390 剩余金币：445","timestamp":"2017-10-16T01:50:30.323Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 11250 剩余金币：129250","timestamp":"2017-10-16T01:50:32.373Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：135250","timestamp":"2017-10-16T01:50:34.323Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 20000 剩余金币：213750","timestamp":"2017-10-16T01:50:35.073Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：4200","timestamp":"2017-10-16T01:50:35.393Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2013000","timestamp":"2017-10-16T01:50:39.089Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1173000","timestamp":"2017-10-16T01:50:39.109Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：129000","timestamp":"2017-10-16T01:50:44.349Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 650 剩余金币：3600","timestamp":"2017-10-16T01:50:45.419Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1965500","timestamp":"2017-10-16T01:50:47.389Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 750 剩余金币：2007500","timestamp":"2017-10-16T01:50:49.119Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 6250 剩余金币：1173000","timestamp":"2017-10-16T01:50:49.129Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 115 剩余金币：435","timestamp":"2017-10-16T01:50:50.339Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 0 剩余金币：123000","timestamp":"2017-10-16T01:50:50.399Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：212000","timestamp":"2017-10-16T01:50:53.089Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3000 剩余金币：125750","timestamp":"2017-10-16T01:50:54.369Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 25000 剩余金币：1984250","timestamp":"2017-10-16T01:50:57.410Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 16250 剩余金币：133000","timestamp":"2017-10-16T01:51:00.412Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 500 剩余金币：2850","timestamp":"2017-10-16T01:51:05.442Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2001250","timestamp":"2017-10-16T01:51:06.132Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：1167500","timestamp":"2017-10-16T01:51:08.152Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 100 剩余金币：410","timestamp":"2017-10-16T01:51:10.360Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：205750","timestamp":"2017-10-16T01:51:12.110Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 16000 剩余金币：135500","timestamp":"2017-10-16T01:51:14.390Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 2000 剩余金币：1980000","timestamp":"2017-10-16T01:51:14.430Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：1995000","timestamp":"2017-10-16T01:51:16.150Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 2750 剩余金币：129500","timestamp":"2017-10-16T01:51:20.450Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 7500 剩余金币：207000","timestamp":"2017-10-16T01:51:22.130Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 3000 剩余金币：1164250","timestamp":"2017-10-16T01:51:23.170Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 2000 剩余金币：3600","timestamp":"2017-10-16T01:51:25.479Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 9250 剩余金币：1998000","timestamp":"2017-10-16T01:51:26.169Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 1000 剩余金币：1285","timestamp":"2017-10-16T01:51:30.379Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1973750","timestamp":"2017-10-16T01:51:31.449Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 5000 剩余金币：134250","timestamp":"2017-10-16T01:51:33.419Z"}
+{"level":"info","message":"机器人 c9b112b0b21211e783b265b856d590ff-003 totalWin: 3750 剩余金币：127000","timestamp":"2017-10-16T01:51:36.469Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 14000 剩余金币：214750","timestamp":"2017-10-16T01:51:40.151Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 12500 剩余金币：1170500","timestamp":"2017-10-16T01:51:40.191Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1967500","timestamp":"2017-10-16T01:51:41.471Z"}
+{"level":"info","message":"isRobot: false, isIncrement: true, num: 3, robotNumInRoom: 2 ","timestamp":"2017-10-16T01:51:43.421Z"}
+{"level":"info","message":"有新玩家进入房间 roomCode: 003, 现在开始尝试移除机器人","timestamp":"2017-10-16T01:51:43.421Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 2, robotNumInRoom: 2 ","timestamp":"2017-10-16T01:51:43.431Z"}
+{"level":"info","message":"机器人【c9b112b0b21211e783b265b856d590ff-003】stop ","timestamp":"2017-10-16T01:51:43.441Z"}
+{"level":"info","message":"从房间 roomCode: 003 移除了一个机器人, 任务完成","timestamp":"2017-10-16T01:51:43.441Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 1500 剩余金币：3850","timestamp":"2017-10-16T01:51:45.491Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 7500 剩余金币：1999250","timestamp":"2017-10-16T01:51:46.191Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：128000","timestamp":"2017-10-16T01:51:49.601Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 1250 剩余金币：1910","timestamp":"2017-10-16T01:51:50.401Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 11250 剩余金币：1972500","timestamp":"2017-10-16T01:51:51.501Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 12500 剩余金币：134250","timestamp":"2017-10-16T01:51:59.618Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 5000 剩余金币：213500","timestamp":"2017-10-16T01:52:00.178Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：1169250","timestamp":"2017-10-16T01:52:00.228Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 1, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:52:01.808Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 37500 剩余金币：2030500","timestamp":"2017-10-16T01:52:05.218Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 8750 剩余金币：11350","timestamp":"2017-10-16T01:52:05.528Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 15250 剩余金币：1981500","timestamp":"2017-10-16T01:52:08.518Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 4200 剩余金币：4860","timestamp":"2017-10-16T01:52:10.422Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：128000","timestamp":"2017-10-16T01:52:14.642Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 6250 剩余金币：1169250","timestamp":"2017-10-16T01:52:18.252Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 15000 剩余金币：222250","timestamp":"2017-10-16T01:52:20.192Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1250 剩余金币：2025500","timestamp":"2017-10-16T01:52:21.242Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：5100","timestamp":"2017-10-16T01:52:21.572Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 35250 剩余金币：157000","timestamp":"2017-10-16T01:52:24.664Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 2250 剩余金币：1977500","timestamp":"2017-10-16T01:52:27.538Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：3610","timestamp":"2017-10-16T01:52:30.448Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 1650 剩余金币：5500","timestamp":"2017-10-16T01:52:31.588Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 15000 剩余金币：1178000","timestamp":"2017-10-16T01:52:35.278Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：216000","timestamp":"2017-10-16T01:52:37.218Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 21250 剩余金币：2040500","timestamp":"2017-10-16T01:52:37.278Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 3500 剩余金币：5860","timestamp":"2017-10-16T01:52:40.468Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 8250 剩余金币：159000","timestamp":"2017-10-16T01:52:42.683Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1971250","timestamp":"2017-10-16T01:52:46.573Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：209750","timestamp":"2017-10-16T01:52:47.243Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 300 剩余金币：4550","timestamp":"2017-10-16T01:52:51.613Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 750 剩余金币：2035000","timestamp":"2017-10-16T01:52:54.303Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 12500 剩余金币：1184250","timestamp":"2017-10-16T01:52:55.303Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 6750 剩余金币：1971750","timestamp":"2017-10-16T01:52:56.589Z"}
+{"level":"info","message":"机器人【bb4ee790b21411e783b265b856d590ff-001】号 => 开始工作","timestamp":"2017-10-16T01:52:56.969Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 2, robotNumInRoom: 1 ","timestamp":"2017-10-16T01:52:57.069Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 成功进入房间： 001","timestamp":"2017-10-16T01:52:57.079Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：93750","timestamp":"2017-10-16T01:52:57.099Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 10500 剩余金币：214000","timestamp":"2017-10-16T01:52:57.279Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：152750","timestamp":"2017-10-16T01:52:58.709Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 150 剩余金币：4760","timestamp":"2017-10-16T01:53:00.489Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 33000 剩余金币：120500","timestamp":"2017-10-16T01:53:07.139Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：146500","timestamp":"2017-10-16T01:53:08.739Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：2030250","timestamp":"2017-10-16T01:53:10.329Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：3300","timestamp":"2017-10-16T01:53:11.634Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1178000","timestamp":"2017-10-16T01:53:13.334Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：207750","timestamp":"2017-10-16T01:53:16.294Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1965500","timestamp":"2017-10-16T01:53:16.614Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：140250","timestamp":"2017-10-16T01:53:18.754Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：4260","timestamp":"2017-10-16T01:53:20.514Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 5000 剩余金币：7050","timestamp":"2017-10-16T01:53:21.664Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 4500 剩余金币：1176250","timestamp":"2017-10-16T01:53:23.354Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：114250","timestamp":"2017-10-16T01:53:26.159Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 5750 剩余金币：207250","timestamp":"2017-10-16T01:53:26.319Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3000 剩余金币：1962250","timestamp":"2017-10-16T01:53:26.649Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：2025500","timestamp":"2017-10-16T01:53:28.349Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 5000 剩余金币：139000","timestamp":"2017-10-16T01:53:28.779Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：108000","timestamp":"2017-10-16T01:53:36.179Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 650 剩余金币：3660","timestamp":"2017-10-16T01:53:40.539Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：800","timestamp":"2017-10-16T01:53:41.679Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：201000","timestamp":"2017-10-16T01:53:42.345Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1170000","timestamp":"2017-10-16T01:53:42.375Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 5000 剩余金币：2024250","timestamp":"2017-10-16T01:53:44.385Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 31500 剩余金币：133250","timestamp":"2017-10-16T01:53:46.205Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：1958500","timestamp":"2017-10-16T01:53:46.665Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：132750","timestamp":"2017-10-16T01:53:46.805Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：175","timestamp":"2017-10-16T01:53:51.695Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 37500 剩余金币：232250","timestamp":"2017-10-16T01:53:52.365Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 6500 剩余金币：1170250","timestamp":"2017-10-16T01:53:52.405Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 11250 剩余金币：137750","timestamp":"2017-10-16T01:53:56.827Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2018000","timestamp":"2017-10-16T01:53:59.417Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 3650 剩余金币：6060","timestamp":"2017-10-16T01:54:00.567Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 7500 剩余金币：1959750","timestamp":"2017-10-16T01:54:01.697Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 90 剩余金币：140","timestamp":"2017-10-16T01:54:01.727Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 10000 剩余金币：137000","timestamp":"2017-10-16T01:54:05.227Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：228500","timestamp":"2017-10-16T01:54:09.387Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 12500 剩余金币：1176500","timestamp":"2017-10-16T01:54:09.417Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 3000 剩余金币：2014750","timestamp":"2017-10-16T01:54:09.437Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：131500","timestamp":"2017-10-16T01:54:11.857Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 28750 剩余金币：1982250","timestamp":"2017-10-16T01:54:19.710Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：4810","timestamp":"2017-10-16T01:54:20.590Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：15","timestamp":"2017-10-16T01:54:21.740Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 8250 剩余金币：133500","timestamp":"2017-10-16T01:54:21.880Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 12250 剩余金币：143000","timestamp":"2017-10-16T01:54:23.250Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 7750 剩余金币：2016250","timestamp":"2017-10-16T01:54:24.460Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 22500 剩余金币：244750","timestamp":"2017-10-16T01:54:25.410Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1170250","timestamp":"2017-10-16T01:54:26.450Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 150 剩余金币：3710","timestamp":"2017-10-16T01:54:30.627Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 剩余金币：15 余额不足","timestamp":"2017-10-16T01:54:31.747Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 7500 剩余金币：11250","timestamp":"2017-10-16T01:54:31.767Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 7750 剩余金币：1171750","timestamp":"2017-10-16T01:54:36.477Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 5000 剩余金币：1981000","timestamp":"2017-10-16T01:54:36.727Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2010000","timestamp":"2017-10-16T01:54:40.477Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 15000 剩余金币：142250","timestamp":"2017-10-16T01:54:41.917Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 9000 剩余金币：145750","timestamp":"2017-10-16T01:54:42.287Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 18750 剩余金币：257250","timestamp":"2017-10-16T01:54:44.437Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 19500 剩余金币：2023250","timestamp":"2017-10-16T01:54:50.497Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 500 剩余金币：2960","timestamp":"2017-10-16T01:54:50.647Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 2500 剩余金币：7500","timestamp":"2017-10-16T01:54:51.797Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 11250 剩余金币：1176750","timestamp":"2017-10-16T01:54:52.497Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 20000 剩余金币：1994750","timestamp":"2017-10-16T01:54:53.757Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：136000","timestamp":"2017-10-16T01:54:57.941Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：139500","timestamp":"2017-10-16T01:55:00.302Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：252500","timestamp":"2017-10-16T01:55:00.471Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：129750","timestamp":"2017-10-16T01:55:07.960Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 10250 剩余金币：2027250","timestamp":"2017-10-16T01:55:09.530Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 2500 剩余金币：1173000","timestamp":"2017-10-16T01:55:09.540Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：133250","timestamp":"2017-10-16T01:55:10.320Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 3000 剩余金币：4710","timestamp":"2017-10-16T01:55:10.670Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：1250","timestamp":"2017-10-16T01:55:11.820Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1988500","timestamp":"2017-10-16T01:55:13.780Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：246250","timestamp":"2017-10-16T01:55:16.499Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 1250 剩余金币：124750","timestamp":"2017-10-16T01:55:17.979Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 20000 剩余金币：147000","timestamp":"2017-10-16T01:55:20.339Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 150 剩余金币：775","timestamp":"2017-10-16T01:55:21.839Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 68750 剩余金币：2051000","timestamp":"2017-10-16T01:55:23.809Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2021000","timestamp":"2017-10-16T01:55:24.549Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 12500 剩余金币：252500","timestamp":"2017-10-16T01:55:26.509Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1166750","timestamp":"2017-10-16T01:55:26.559Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：3460","timestamp":"2017-10-16T01:55:30.699Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 4250 剩余金币：2019000","timestamp":"2017-10-16T01:55:34.569Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 12500 剩余金币：1173000","timestamp":"2017-10-16T01:55:36.579Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 6250 剩余金币：124750","timestamp":"2017-10-16T01:55:38.010Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 4500 剩余金币：145250","timestamp":"2017-10-16T01:55:40.372Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：2210","timestamp":"2017-10-16T01:55:40.722Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：2049250","timestamp":"2017-10-16T01:55:41.832Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 225 剩余金币：375","timestamp":"2017-10-16T01:55:41.872Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：246250","timestamp":"2017-10-16T01:55:44.532Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：1710","timestamp":"2017-10-16T01:55:50.761Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2012750","timestamp":"2017-10-16T01:55:51.591Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 4000 剩余金币：1170750","timestamp":"2017-10-16T01:55:52.611Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：118500","timestamp":"2017-10-16T01:55:54.031Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 3750 剩余金币：243750","timestamp":"2017-10-16T01:55:54.551Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 7500 剩余金币：2050500","timestamp":"2017-10-16T01:55:58.851Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：139000","timestamp":"2017-10-16T01:56:00.391Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 2500 剩余金币：2009000","timestamp":"2017-10-16T01:56:01.611Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 300 剩余金币：550","timestamp":"2017-10-16T01:56:01.901Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 6250 剩余金币：118500","timestamp":"2017-10-16T01:56:04.053Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1164500","timestamp":"2017-10-16T01:56:07.623Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 12000 剩余金币：144750","timestamp":"2017-10-16T01:56:10.413Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 2750 剩余金币：3210","timestamp":"2017-10-16T01:56:10.783Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：240000","timestamp":"2017-10-16T01:56:11.573Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：2044250","timestamp":"2017-10-16T01:56:13.873Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：1159000","timestamp":"2017-10-16T01:56:17.641Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 6250 剩余金币：2009000","timestamp":"2017-10-16T01:56:19.651Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：112250","timestamp":"2017-10-16T01:56:21.081Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 30 剩余金币：455","timestamp":"2017-10-16T01:56:21.921Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：2040500","timestamp":"2017-10-16T01:56:23.901Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：236250","timestamp":"2017-10-16T01:56:26.601Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 2250 剩余金币：140750","timestamp":"2017-10-16T01:56:30.441Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 150 剩余金币：2110","timestamp":"2017-10-16T01:56:30.801Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：106000","timestamp":"2017-10-16T01:56:31.111Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 8250 剩余金币：1161000","timestamp":"2017-10-16T01:56:32.661Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1250 剩余金币：2004000","timestamp":"2017-10-16T01:56:37.666Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：2035750","timestamp":"2017-10-16T01:56:38.926Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 12750 剩余金币：112500","timestamp":"2017-10-16T01:56:41.136Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：330","timestamp":"2017-10-16T01:56:41.986Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：230000","timestamp":"2017-10-16T01:56:46.626Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 1500 剩余金币：136000","timestamp":"2017-10-16T01:56:48.462Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：860","timestamp":"2017-10-16T01:56:50.832Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 60 剩余金币：265","timestamp":"2017-10-16T01:56:52.002Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 2250 剩余金币：1157000","timestamp":"2017-10-16T01:56:52.682Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 12500 剩余金币：2042000","timestamp":"2017-10-16T01:56:54.952Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 6250 剩余金币：230000","timestamp":"2017-10-16T01:56:56.652Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 3500 剩余金币：2001250","timestamp":"2017-10-16T01:56:57.692Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：235","timestamp":"2017-10-16T01:57:00.852Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 7500 剩余金币：113750","timestamp":"2017-10-16T01:57:01.152Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 3250 剩余金币：133000","timestamp":"2017-10-16T01:57:03.481Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 14500 剩余金币：1165250","timestamp":"2017-10-16T01:57:10.721Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 175 剩余金币：285","timestamp":"2017-10-16T01:57:10.881Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 60 剩余金币：200","timestamp":"2017-10-16T01:57:12.031Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：2035750","timestamp":"2017-10-16T01:57:12.981Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：1995000","timestamp":"2017-10-16T01:57:14.751Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：226250","timestamp":"2017-10-16T01:57:16.681Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 21750 剩余金币：148500","timestamp":"2017-10-16T01:57:18.503Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3000 剩余金币：110500","timestamp":"2017-10-16T01:57:20.173Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：2029500","timestamp":"2017-10-16T01:57:23.003Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 7000 剩余金币：1995750","timestamp":"2017-10-16T01:57:24.773Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 2250 剩余金币：1161250","timestamp":"2017-10-16T01:57:30.733Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 105 剩余金币：265","timestamp":"2017-10-16T01:57:30.913Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 3000 剩余金币：223000","timestamp":"2017-10-16T01:57:31.713Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 0 剩余金币：75","timestamp":"2017-10-16T01:57:32.053Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：2024750","timestamp":"2017-10-16T01:57:33.033Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 5000 剩余金币：147250","timestamp":"2017-10-16T01:57:37.526Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 10000 剩余金币：114250","timestamp":"2017-10-16T01:57:40.196Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 105 剩余金币：135","timestamp":"2017-10-16T01:57:42.076Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：1989500","timestamp":"2017-10-16T01:57:42.796Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1155000","timestamp":"2017-10-16T01:57:45.780Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 16250 剩余金币：233000","timestamp":"2017-10-16T01:57:46.750Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：2018500","timestamp":"2017-10-16T01:57:49.395Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：140","timestamp":"2017-10-16T01:57:50.945Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 4500 剩余金币：1987750","timestamp":"2017-10-16T01:57:52.875Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 750 剩余金币：108750","timestamp":"2017-10-16T01:57:55.215Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1148750","timestamp":"2017-10-16T01:57:55.795Z"}
+{"level":"info","message":"机器人【6e21b690b21511e783b265b856d590ff-001】号 => 开始工作","timestamp":"2017-10-16T01:57:56.985Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 成功进入房间： 001","timestamp":"2017-10-16T01:57:57.085Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 3, robotNumInRoom: 3 ","timestamp":"2017-10-16T01:57:57.095Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 6250 剩余金币：10000","timestamp":"2017-10-16T01:57:57.105Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 5500 剩余金币：146500","timestamp":"2017-10-16T01:57:57.555Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3250 剩余金币：2015500","timestamp":"2017-10-16T01:57:59.425Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 250 剩余金币：265","timestamp":"2017-10-16T01:58:00.965Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 50 剩余金币：60","timestamp":"2017-10-16T01:58:02.095Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 6250 剩余金币：233000","timestamp":"2017-10-16T01:58:05.772Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1142500","timestamp":"2017-10-16T01:58:05.832Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 15000 剩余金币：155250","timestamp":"2017-10-16T01:58:12.582Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 6500 剩余金币：1988000","timestamp":"2017-10-16T01:58:12.892Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 8750 剩余金币：111250","timestamp":"2017-10-16T01:58:13.252Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1136250","timestamp":"2017-10-16T01:58:15.852Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 1500 剩余金币：5250","timestamp":"2017-10-16T01:58:17.132Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：2009250","timestamp":"2017-10-16T01:58:17.452Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：227500","timestamp":"2017-10-16T01:58:20.807Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：140","timestamp":"2017-10-16T01:58:21.047Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 totalWin: 15 剩余金币：30","timestamp":"2017-10-16T01:58:22.117Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 4000 剩余金币：1134000","timestamp":"2017-10-16T01:58:25.887Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 6000 剩余金币：2009000","timestamp":"2017-10-16T01:58:27.487Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 18750 剩余金币：123750","timestamp":"2017-10-16T01:58:28.277Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 3750 剩余金币：152750","timestamp":"2017-10-16T01:58:30.667Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：15","timestamp":"2017-10-16T01:58:31.077Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 11250 剩余金币：1993000","timestamp":"2017-10-16T01:58:31.927Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 1300 剩余金币：5300","timestamp":"2017-10-16T01:58:37.159Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：222750","timestamp":"2017-10-16T01:58:38.829Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 8750 剩余金币：1136500","timestamp":"2017-10-16T01:58:40.909Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 剩余金币：15 余额不足","timestamp":"2017-10-16T01:58:41.089Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 32000 剩余金币：35750","timestamp":"2017-10-16T01:58:41.119Z"}
+{"level":"info","message":"机器人 5ba82b40b21311e783b265b856d590ff-005 剩余金币：30 余额不足, 已加过钱，不再加了","timestamp":"2017-10-16T01:58:42.129Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 9000 剩余金币：2011750","timestamp":"2017-10-16T01:58:45.509Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 8250 剩余金币：125750","timestamp":"2017-10-16T01:58:47.299Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 20000 剩余金币：166500","timestamp":"2017-10-16T01:58:47.689Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 17500 剩余金币：2004250","timestamp":"2017-10-16T01:58:47.959Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：216500","timestamp":"2017-10-16T01:58:54.859Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 800 剩余金币：4850","timestamp":"2017-10-16T01:58:57.179Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 2500 剩余金币：1132750","timestamp":"2017-10-16T01:58:58.939Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：29500","timestamp":"2017-10-16T01:58:59.159Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：1998000","timestamp":"2017-10-16T01:59:02.999Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 5000 剩余金币：165250","timestamp":"2017-10-16T01:59:03.719Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 7750 剩余金币：2013250","timestamp":"2017-10-16T01:59:04.538Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：210250","timestamp":"2017-10-16T01:59:04.888Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：119500","timestamp":"2017-10-16T01:59:07.328Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：24000","timestamp":"2017-10-16T01:59:09.188Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：1991750","timestamp":"2017-10-16T01:59:13.028Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 3250 剩余金币：1129750","timestamp":"2017-10-16T01:59:13.968Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 10000 剩余金币：214000","timestamp":"2017-10-16T01:59:14.908Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 450 剩余金币：4050","timestamp":"2017-10-16T01:59:17.208Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 6500 剩余金币：119750","timestamp":"2017-10-16T01:59:17.348Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 750 剩余金币：159750","timestamp":"2017-10-16T01:59:18.748Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 5000 剩余金币：2012000","timestamp":"2017-10-16T01:59:20.558Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1250 剩余金币：1986750","timestamp":"2017-10-16T01:59:23.060Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 2500 剩余金币：20250","timestamp":"2017-10-16T01:59:29.220Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：207750","timestamp":"2017-10-16T01:59:29.930Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1123500","timestamp":"2017-10-16T01:59:30.990Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：113500","timestamp":"2017-10-16T01:59:33.370Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 6250 剩余金币：159750","timestamp":"2017-10-16T01:59:33.780Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：2005750","timestamp":"2017-10-16T01:59:35.577Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 500 剩余金币：3300","timestamp":"2017-10-16T01:59:37.227Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 11500 剩余金币：1992000","timestamp":"2017-10-16T01:59:38.077Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 13750 剩余金币：215250","timestamp":"2017-10-16T01:59:39.957Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 11500 剩余金币：1128750","timestamp":"2017-10-16T01:59:41.027Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 6500 剩余金币：113750","timestamp":"2017-10-16T01:59:43.407Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：14000","timestamp":"2017-10-16T01:59:45.237Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1999500","timestamp":"2017-10-16T01:59:45.607Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 7000 剩余金币：160500","timestamp":"2017-10-16T01:59:53.802Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：209000","timestamp":"2017-10-16T01:59:54.992Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 12500 剩余金币：20250","timestamp":"2017-10-16T01:59:55.272Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1993250","timestamp":"2017-10-16T01:59:55.622Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 2500 剩余金币：1125000","timestamp":"2017-10-16T01:59:56.052Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 10500 剩余金币：1996250","timestamp":"2017-10-16T01:59:57.112Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 1750 剩余金币：3800","timestamp":"2017-10-16T01:59:57.252Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：107500","timestamp":"2017-10-16T02:00:01.422Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：202750","timestamp":"2017-10-16T02:00:05.027Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：1991500","timestamp":"2017-10-16T02:00:05.657Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 7750 剩余金币：21750","timestamp":"2017-10-16T02:00:10.287Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：1123750","timestamp":"2017-10-16T02:00:11.087Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：101250","timestamp":"2017-10-16T02:00:11.447Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 19000 剩余金币：2009000","timestamp":"2017-10-16T02:00:12.137Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 10000 剩余金币：164250","timestamp":"2017-10-16T02:00:12.837Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 37500 剩余金币：234000","timestamp":"2017-10-16T02:00:15.047Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：2550","timestamp":"2017-10-16T02:00:17.277Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3000 剩余金币：98000","timestamp":"2017-10-16T02:00:21.467Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 10000 剩余金币：1995250","timestamp":"2017-10-16T02:00:21.687Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 11500 剩余金币：2014250","timestamp":"2017-10-16T02:00:27.153Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 1250 剩余金币：2550","timestamp":"2017-10-16T02:00:27.303Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 15000 剩余金币：30500","timestamp":"2017-10-16T02:00:28.313Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：158000","timestamp":"2017-10-16T02:00:29.853Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1117500","timestamp":"2017-10-16T02:00:31.113Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 6250 剩余金币：234000","timestamp":"2017-10-16T02:00:34.073Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：91750","timestamp":"2017-10-16T02:00:36.558Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1989000","timestamp":"2017-10-16T02:00:38.708Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 750 剩余金币：152500","timestamp":"2017-10-16T02:00:39.878Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1111250","timestamp":"2017-10-16T02:00:41.138Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 8250 剩余金币：2016250","timestamp":"2017-10-16T02:00:43.188Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 2250 剩余金币：26500","timestamp":"2017-10-16T02:00:46.338Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：85500","timestamp":"2017-10-16T02:00:46.588Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 2000 剩余金币：3300","timestamp":"2017-10-16T02:00:47.328Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：1985250","timestamp":"2017-10-16T02:00:48.728Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1250 剩余金币：1106250","timestamp":"2017-10-16T02:00:51.168Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 5250 剩余金币：233000","timestamp":"2017-10-16T02:00:52.108Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：79250","timestamp":"2017-10-16T02:00:56.605Z"}
+{"level":"info","message":"机器人【d96d0f30b21511e783b265b856d590ff-001】号 => 开始工作","timestamp":"2017-10-16T02:00:56.995Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 4, robotNumInRoom: 3 ","timestamp":"2017-10-16T02:00:57.115Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 成功进入房间： 001","timestamp":"2017-10-16T02:00:57.115Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 21250 剩余金币：65000","timestamp":"2017-10-16T02:00:57.135Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 2250 剩余金币：148500","timestamp":"2017-10-16T02:00:58.905Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：2011500","timestamp":"2017-10-16T02:01:01.215Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1979000","timestamp":"2017-10-16T02:01:05.748Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：21000","timestamp":"2017-10-16T02:01:06.358Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 12750 剩余金币：85750","timestamp":"2017-10-16T02:01:06.628Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 3500 剩余金币：5550","timestamp":"2017-10-16T02:01:07.358Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1100000","timestamp":"2017-10-16T02:01:08.198Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 7500 剩余金币：234250","timestamp":"2017-10-16T02:01:10.128Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 1500 剩余金币：60250","timestamp":"2017-10-16T02:01:14.158Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3750 剩余金币：1976500","timestamp":"2017-10-16T02:01:15.768Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 5750 剩余金币：148000","timestamp":"2017-10-16T02:01:15.938Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1093750","timestamp":"2017-10-16T02:01:18.228Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 5000 剩余金币：2010250","timestamp":"2017-10-16T02:01:19.248Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 15000 剩余金币：94500","timestamp":"2017-10-16T02:01:21.648Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：228000","timestamp":"2017-10-16T02:01:25.158Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：16250","timestamp":"2017-10-16T02:01:25.388Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：4300","timestamp":"2017-10-16T02:01:27.376Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1087500","timestamp":"2017-10-16T02:01:28.246Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：141750","timestamp":"2017-10-16T02:01:30.956Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：54000","timestamp":"2017-10-16T02:01:31.186Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 18750 剩余金币：1989000","timestamp":"2017-10-16T02:01:32.796Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 9500 剩余金币：231250","timestamp":"2017-10-16T02:01:35.176Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2004000","timestamp":"2017-10-16T02:01:35.276Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 450 剩余金币：3500","timestamp":"2017-10-16T02:01:37.398Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 13500 剩余金币：1094750","timestamp":"2017-10-16T02:01:38.278Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 16250 剩余金币：104500","timestamp":"2017-10-16T02:01:40.668Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 3000 剩余金币：138500","timestamp":"2017-10-16T02:01:40.978Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 17250 剩余金币：65000","timestamp":"2017-10-16T02:01:41.218Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：10000","timestamp":"2017-10-16T02:01:44.418Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 6250 剩余金币：2004000","timestamp":"2017-10-16T02:01:45.298Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：1983500","timestamp":"2017-10-16T02:01:52.878Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 3000 剩余金币：6750","timestamp":"2017-10-16T02:01:54.448Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：229500","timestamp":"2017-10-16T02:01:55.198Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1088500","timestamp":"2017-10-16T02:01:55.308Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 4150 剩余金币：6400","timestamp":"2017-10-16T02:01:57.418Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：98250","timestamp":"2017-10-16T02:01:57.688Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 13250 剩余金币：145500","timestamp":"2017-10-16T02:01:57.997Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：58750","timestamp":"2017-10-16T02:02:00.237Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 16500 剩余金币：2014250","timestamp":"2017-10-16T02:02:00.327Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1250 剩余金币：1083500","timestamp":"2017-10-16T02:02:05.327Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 6250 剩余金币：98250","timestamp":"2017-10-16T02:02:07.718Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 12500 剩余金币：65000","timestamp":"2017-10-16T02:02:10.268Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 6000 剩余金币：1983250","timestamp":"2017-10-16T02:02:12.908Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 3750 剩余金币：143000","timestamp":"2017-10-16T02:02:14.018Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 6250 剩余金币：229500","timestamp":"2017-10-16T02:02:14.218Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 13750 剩余金币：14250","timestamp":"2017-10-16T02:02:14.468Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 1850 剩余金币：7000","timestamp":"2017-10-16T02:02:17.448Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2008000","timestamp":"2017-10-16T02:02:18.358Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1077250","timestamp":"2017-10-16T02:02:22.348Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 6250 剩余金币：98250","timestamp":"2017-10-16T02:02:26.748Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 39500 剩余金币：98250","timestamp":"2017-10-16T02:02:27.298Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 2250 剩余金币：2004000","timestamp":"2017-10-16T02:02:28.378Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3250 剩余金币：1980250","timestamp":"2017-10-16T02:02:28.938Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 8000 剩余金币：231250","timestamp":"2017-10-16T02:02:29.238Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：136750","timestamp":"2017-10-16T02:02:32.048Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 10000 剩余金币：1081000","timestamp":"2017-10-16T02:02:32.378Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：8000","timestamp":"2017-10-16T02:02:33.488Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 3250 剩余金币：4000","timestamp":"2017-10-16T02:02:37.489Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 6250 剩余金币：136750","timestamp":"2017-10-16T02:02:42.069Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：2500","timestamp":"2017-10-16T02:02:43.509Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 2250 剩余金币：227250","timestamp":"2017-10-16T02:02:44.269Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 1500 剩余金币：93500","timestamp":"2017-10-16T02:02:44.329Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：1999250","timestamp":"2017-10-16T02:02:44.409Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 4500 剩余金币：96500","timestamp":"2017-10-16T02:02:44.779Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1974000","timestamp":"2017-10-16T02:02:47.969Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1074750","timestamp":"2017-10-16T02:02:50.409Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 300 剩余金币：3050","timestamp":"2017-10-16T02:02:57.509Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1967750","timestamp":"2017-10-16T02:02:57.999Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：90250","timestamp":"2017-10-16T02:02:59.809Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 4500 剩余金币：135000","timestamp":"2017-10-16T02:03:00.089Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1068500","timestamp":"2017-10-16T02:03:00.429Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：87250","timestamp":"2017-10-16T02:03:02.350Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：1993000","timestamp":"2017-10-16T02:03:03.430Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 16750 剩余金币：18000","timestamp":"2017-10-16T02:03:03.530Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：222500","timestamp":"2017-10-16T02:03:04.290Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1961500","timestamp":"2017-10-16T02:03:08.019Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3750 剩余金币：87750","timestamp":"2017-10-16T02:03:09.829Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：1063750","timestamp":"2017-10-16T02:03:10.449Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：81000","timestamp":"2017-10-16T02:03:12.379Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 9750 剩余金币：1996500","timestamp":"2017-10-16T02:03:13.459Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：128750","timestamp":"2017-10-16T02:03:16.109Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 5650 剩余金币：7450","timestamp":"2017-10-16T02:03:17.539Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 6250 剩余金币：1961500","timestamp":"2017-10-16T02:03:18.039Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 2500 剩余金币：14250","timestamp":"2017-10-16T02:03:18.559Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：216250","timestamp":"2017-10-16T02:03:21.319Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 13750 剩余金币：88500","timestamp":"2017-10-16T02:03:22.399Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 7750 剩余金币：130250","timestamp":"2017-10-16T02:03:26.139Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：1062500","timestamp":"2017-10-16T02:03:28.479Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：81500","timestamp":"2017-10-16T02:03:28.859Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 10000 剩余金币：2000250","timestamp":"2017-10-16T02:03:29.479Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 7750 剩余金币：217750","timestamp":"2017-10-16T02:03:31.339Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：13000","timestamp":"2017-10-16T02:03:36.583Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：1956000","timestamp":"2017-10-16T02:03:37.063Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 9000 剩余金币：91250","timestamp":"2017-10-16T02:03:37.429Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 9000 剩余金币：10200","timestamp":"2017-10-16T02:03:37.569Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 9000 剩余金币：84250","timestamp":"2017-10-16T02:03:38.889Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 2500 剩余金币：126500","timestamp":"2017-10-16T02:03:43.169Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1056250","timestamp":"2017-10-16T02:03:44.509Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 80000 剩余金币：2074000","timestamp":"2017-10-16T02:03:46.509Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：216000","timestamp":"2017-10-16T02:03:49.249Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：1051500","timestamp":"2017-10-16T02:03:54.539Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：78000","timestamp":"2017-10-16T02:03:54.919Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 4000 剩余金币：89000","timestamp":"2017-10-16T02:03:55.449Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：6750","timestamp":"2017-10-16T02:03:55.609Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 22500 剩余金币：1972250","timestamp":"2017-10-16T02:03:56.089Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 62500 剩余金币：66450","timestamp":"2017-10-16T02:03:56.589Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 1250 剩余金币：121500","timestamp":"2017-10-16T02:04:01.189Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 8750 剩余金币：2076500","timestamp":"2017-10-16T02:04:01.529Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 8750 剩余金币：80500","timestamp":"2017-10-16T02:04:04.953Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 10750 剩余金币：11250","timestamp":"2017-10-16T02:04:05.643Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：211250","timestamp":"2017-10-16T02:04:08.270Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 3750 剩余金币：63950","timestamp":"2017-10-16T02:04:11.610Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 13000 剩余金币：1979000","timestamp":"2017-10-16T02:04:14.120Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1045250","timestamp":"2017-10-16T02:04:14.560Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 8250 剩余金币：91000","timestamp":"2017-10-16T02:04:15.480Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：115250","timestamp":"2017-10-16T02:04:18.210Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 1250 剩余金币：75500","timestamp":"2017-10-16T02:04:19.980Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2070250","timestamp":"2017-10-16T02:04:21.550Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：5000","timestamp":"2017-10-16T02:04:22.670Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 12500 剩余金币：1051500","timestamp":"2017-10-16T02:04:24.590Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 2500 剩余金币：111500","timestamp":"2017-10-16T02:04:28.230Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：205000","timestamp":"2017-10-16T02:04:28.300Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 2250 剩余金币：59950","timestamp":"2017-10-16T02:04:29.630Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 23500 剩余金币：108250","timestamp":"2017-10-16T02:04:31.500Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 11500 剩余金币：2075500","timestamp":"2017-10-16T02:04:31.570Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：1973500","timestamp":"2017-10-16T02:04:32.150Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：3750","timestamp":"2017-10-16T02:04:32.690Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：198750","timestamp":"2017-10-16T02:04:38.340Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 4500 剩余金币：73750","timestamp":"2017-10-16T02:04:40.010Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 450 剩余金币：2950","timestamp":"2017-10-16T02:04:42.720Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1045250","timestamp":"2017-10-16T02:04:44.620Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1250 剩余金币：2070500","timestamp":"2017-10-16T02:04:46.610Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：53700","timestamp":"2017-10-16T02:04:46.660Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 3750 剩余金币：109000","timestamp":"2017-10-16T02:04:47.260Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 7000 剩余金币：199500","timestamp":"2017-10-16T02:04:48.410Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：102000","timestamp":"2017-10-16T02:04:50.520Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 17500 剩余金币：1984750","timestamp":"2017-10-16T02:04:52.180Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1039000","timestamp":"2017-10-16T02:04:54.640Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 10000 剩余金币：57450","timestamp":"2017-10-16T02:04:56.680Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3250 剩余金币：70750","timestamp":"2017-10-16T02:04:58.030Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：95750","timestamp":"2017-10-16T02:05:00.540Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 300 剩余金币：2000","timestamp":"2017-10-16T02:05:02.740Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：102750","timestamp":"2017-10-16T02:05:04.290Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1032750","timestamp":"2017-10-16T02:05:04.670Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 6750 剩余金币：2071000","timestamp":"2017-10-16T02:05:05.640Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 19000 剩余金币：212250","timestamp":"2017-10-16T02:05:06.426Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1978500","timestamp":"2017-10-16T02:05:10.200Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 1500 剩余金币：91000","timestamp":"2017-10-16T02:05:10.560Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 2500 剩余金币：99000","timestamp":"2017-10-16T02:05:14.320Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1026500","timestamp":"2017-10-16T02:05:14.700Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 8250 剩余金币：59450","timestamp":"2017-10-16T02:05:14.720Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 13250 剩余金币：77750","timestamp":"2017-10-16T02:05:17.050Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3250 剩余金币：1975500","timestamp":"2017-10-16T02:05:20.220Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2064750","timestamp":"2017-10-16T02:05:22.670Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：750","timestamp":"2017-10-16T02:05:22.780Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 13750 剩余金币：1034000","timestamp":"2017-10-16T02:05:24.720Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：206000","timestamp":"2017-10-16T02:05:25.460Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：92750","timestamp":"2017-10-16T02:05:30.340Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：84750","timestamp":"2017-10-16T02:05:30.580Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 2500 剩余金币：2061000","timestamp":"2017-10-16T02:05:32.700Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：125","timestamp":"2017-10-16T02:05:32.810Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3750 剩余金币：75250","timestamp":"2017-10-16T02:05:34.070Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 1500 剩余金币：54700","timestamp":"2017-10-16T02:05:34.750Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：199750","timestamp":"2017-10-16T02:05:35.490Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：1970750","timestamp":"2017-10-16T02:05:39.236Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 13750 剩余金币：100250","timestamp":"2017-10-16T02:05:40.370Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：78500","timestamp":"2017-10-16T02:05:40.600Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1027750","timestamp":"2017-10-16T02:05:41.740Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：50","timestamp":"2017-10-16T02:05:42.840Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：193500","timestamp":"2017-10-16T02:05:45.510Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 3000 剩余金币：2057750","timestamp":"2017-10-16T02:05:49.430Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 2000 剩余金币：74250","timestamp":"2017-10-16T02:05:50.620Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 9000 剩余金币：78000","timestamp":"2017-10-16T02:05:51.090Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1021500","timestamp":"2017-10-16T02:05:51.770Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 totalWin: 15 剩余金币：20","timestamp":"2017-10-16T02:05:52.920Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 750 剩余金币：49200","timestamp":"2017-10-16T02:05:54.770Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：187250","timestamp":"2017-10-16T02:05:55.530Z"}
+{"level":"info","message":"向空房间 001 添加机器人，任务完成！","timestamp":"2017-10-16T02:05:57.010Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 10000 剩余金币：104000","timestamp":"2017-10-16T02:05:57.400Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1964500","timestamp":"2017-10-16T02:05:58.260Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1015250","timestamp":"2017-10-16T02:06:01.800Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：185500","timestamp":"2017-10-16T02:06:05.560Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 3250 剩余金币：71250","timestamp":"2017-10-16T02:06:05.650Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2051500","timestamp":"2017-10-16T02:06:07.460Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 7500 剩余金币：1965750","timestamp":"2017-10-16T02:06:08.290Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3750 剩余金币：75500","timestamp":"2017-10-16T02:06:10.123Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 8500 剩余金币：51450","timestamp":"2017-10-16T02:06:10.801Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：1009000","timestamp":"2017-10-16T02:06:11.831Z"}
+{"level":"info","message":"机器人 f05c0f50b21211e783b265b856d590ff-005 剩余金币：20 余额不足, 已加过钱，不再加了","timestamp":"2017-10-16T02:06:12.931Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 12500 剩余金币：110250","timestamp":"2017-10-16T02:06:14.421Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 2500 剩余金币：2047750","timestamp":"2017-10-16T02:06:17.481Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1250 剩余金币：1004000","timestamp":"2017-10-16T02:06:21.851Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 3750 剩余金币：68750","timestamp":"2017-10-16T02:06:22.671Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：1960250","timestamp":"2017-10-16T02:06:23.311Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 16500 剩余金币：195750","timestamp":"2017-10-16T02:06:23.591Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：45200","timestamp":"2017-10-16T02:06:25.831Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3000 剩余金币：72250","timestamp":"2017-10-16T02:06:26.141Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 7750 剩余金币：111750","timestamp":"2017-10-16T02:06:30.451Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 6250 剩余金币：2047750","timestamp":"2017-10-16T02:06:32.501Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 10000 剩余金币：48950","timestamp":"2017-10-16T02:06:35.881Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 12500 剩余金币：1966500","timestamp":"2017-10-16T02:06:38.331Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：1002750","timestamp":"2017-10-16T02:06:38.871Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 6250 剩余金币：195750","timestamp":"2017-10-16T02:06:39.621Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 7500 剩余金币：70000","timestamp":"2017-10-16T02:06:39.701Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：66000","timestamp":"2017-10-16T02:06:41.171Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 9000 剩余金币：114500","timestamp":"2017-10-16T02:06:49.481Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：59750","timestamp":"2017-10-16T02:06:51.211Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 7500 剩余金币：2049000","timestamp":"2017-10-16T02:06:52.531Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 3750 剩余金币：46450","timestamp":"2017-10-16T02:06:52.911Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 11250 剩余金币：200750","timestamp":"2017-10-16T02:06:54.651Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 35000 剩余金币：1995250","timestamp":"2017-10-16T02:06:57.361Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 750 剩余金币：64500","timestamp":"2017-10-16T02:06:58.731Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 3000 剩余金币：999500","timestamp":"2017-10-16T02:06:58.911Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 2500 剩余金币：56000","timestamp":"2017-10-16T02:07:01.241Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 2750 剩余金币：111000","timestamp":"2017-10-16T02:07:08.511Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2042750","timestamp":"2017-10-16T02:07:12.549Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：194500","timestamp":"2017-10-16T02:07:12.669Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 6250 剩余金币：46450","timestamp":"2017-10-16T02:07:12.939Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1989000","timestamp":"2017-10-16T02:07:14.389Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 10000 剩余金币：68250","timestamp":"2017-10-16T02:07:15.759Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：993250","timestamp":"2017-10-16T02:07:15.929Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 9000 剩余金币：58750","timestamp":"2017-10-16T02:07:17.259Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2036500","timestamp":"2017-10-16T02:07:22.579Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：189000","timestamp":"2017-10-16T02:07:22.699Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1250 剩余金币：1984000","timestamp":"2017-10-16T02:07:24.409Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：104750","timestamp":"2017-10-16T02:07:25.539Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 12500 剩余金币：999500","timestamp":"2017-10-16T02:07:25.969Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 1250 剩余金币：41450","timestamp":"2017-10-16T02:07:31.959Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 22500 剩余金币：75000","timestamp":"2017-10-16T02:07:32.289Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2030250","timestamp":"2017-10-16T02:07:32.609Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 1250 剩余金币：99750","timestamp":"2017-10-16T02:07:35.569Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 7000 剩余金币：69000","timestamp":"2017-10-16T02:07:35.779Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 3000 剩余金币：1980750","timestamp":"2017-10-16T02:07:41.439Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2024000","timestamp":"2017-10-16T02:07:42.622Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 1500 剩余金币：184250","timestamp":"2017-10-16T02:07:42.732Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：993250","timestamp":"2017-10-16T02:07:44.994Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：35200","timestamp":"2017-10-16T02:07:46.984Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 6000 剩余金币：99500","timestamp":"2017-10-16T02:07:50.604Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 24500 剩余金币：87250","timestamp":"2017-10-16T02:07:50.814Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 3750 剩余金币：72500","timestamp":"2017-10-16T02:07:52.324Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：2019250","timestamp":"2017-10-16T02:07:52.644Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 7000 剩余金币：994000","timestamp":"2017-10-16T02:07:55.034Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 25000 剩余金币：1999500","timestamp":"2017-10-16T02:07:56.454Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：28950","timestamp":"2017-10-16T02:07:57.004Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 1250 剩余金币：179250","timestamp":"2017-10-16T02:08:00.744Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 11250 剩余金币：33950","timestamp":"2017-10-16T02:08:07.024Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：93250","timestamp":"2017-10-16T02:08:07.624Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 5250 剩余金币：86250","timestamp":"2017-10-16T02:08:08.844Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 15000 剩余金币：81250","timestamp":"2017-10-16T02:08:11.354Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1250 剩余金币：2014250","timestamp":"2017-10-16T02:08:11.664Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：987750","timestamp":"2017-10-16T02:08:13.052Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1993250","timestamp":"2017-10-16T02:08:13.482Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 10000 剩余金币：97000","timestamp":"2017-10-16T02:08:17.649Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：173000","timestamp":"2017-10-16T02:08:19.779Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：981500","timestamp":"2017-10-16T02:08:23.089Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 9250 剩余金币：1996250","timestamp":"2017-10-16T02:08:23.509Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 2500 剩余金币：30200","timestamp":"2017-10-16T02:08:24.049Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 12500 剩余金币：2020500","timestamp":"2017-10-16T02:08:26.699Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：80000","timestamp":"2017-10-16T02:08:28.929Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 12250 剩余金币：179000","timestamp":"2017-10-16T02:08:29.809Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 5250 剩余金币：80250","timestamp":"2017-10-16T02:08:30.389Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：975250","timestamp":"2017-10-16T02:08:33.119Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 15000 剩余金币：105750","timestamp":"2017-10-16T02:08:36.729Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：73750","timestamp":"2017-10-16T02:08:38.950Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 10000 剩余金币：33950","timestamp":"2017-10-16T02:08:40.090Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 10750 剩余金币：2000750","timestamp":"2017-10-16T02:08:41.530Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2014250","timestamp":"2017-10-16T02:08:41.730Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：969000","timestamp":"2017-10-16T02:08:43.150Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 7750 剩余金币：81750","timestamp":"2017-10-16T02:08:45.422Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：172750","timestamp":"2017-10-16T02:08:48.823Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 6250 剩余金币：73750","timestamp":"2017-10-16T02:08:48.973Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 750 剩余金币：2008750","timestamp":"2017-10-16T02:08:51.743Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 7500 剩余金币：970250","timestamp":"2017-10-16T02:08:53.173Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 1500 剩余金币：101000","timestamp":"2017-10-16T02:08:54.743Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 1250 剩余金币：167750","timestamp":"2017-10-16T02:08:58.843Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 10000 剩余金币：37700","timestamp":"2017-10-16T02:08:59.113Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：1994500","timestamp":"2017-10-16T02:09:00.563Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：75500","timestamp":"2017-10-16T02:09:01.453Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 2250 剩余金币：69750","timestamp":"2017-10-16T02:09:03.993Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 5000 剩余金币：969000","timestamp":"2017-10-16T02:09:08.203Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 6250 剩余金币：1994500","timestamp":"2017-10-16T02:09:10.593Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 18750 剩余金币：2021250","timestamp":"2017-10-16T02:09:10.773Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 2250 剩余金币：71500","timestamp":"2017-10-16T02:09:11.483Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 2500 剩余金币：97250","timestamp":"2017-10-16T02:09:12.763Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：161500","timestamp":"2017-10-16T02:09:14.863Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：31450","timestamp":"2017-10-16T02:09:15.143Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 6250 剩余金币：69750","timestamp":"2017-10-16T02:09:19.025Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：964250","timestamp":"2017-10-16T02:09:24.225Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 2500 剩余金币：157750","timestamp":"2017-10-16T02:09:24.885Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 2250 剩余金币：27450","timestamp":"2017-10-16T02:09:25.175Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：65250","timestamp":"2017-10-16T02:09:26.495Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 3000 剩余金币：2018000","timestamp":"2017-10-16T02:09:26.805Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 5750 剩余金币：96750","timestamp":"2017-10-16T02:09:28.795Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 4500 剩余金币：1992750","timestamp":"2017-10-16T02:09:29.615Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 1500 剩余金币：60500","timestamp":"2017-10-16T02:09:36.525Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 5000 剩余金币：68500","timestamp":"2017-10-16T02:09:39.055Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 3750 剩余金币：961750","timestamp":"2017-10-16T02:09:39.255Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：151500","timestamp":"2017-10-16T02:09:40.915Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 16500 剩余金币：107000","timestamp":"2017-10-16T02:09:43.815Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 3750 剩余金币：24950","timestamp":"2017-10-16T02:09:44.205Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1250 剩余金币：2013000","timestamp":"2017-10-16T02:09:45.833Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 1250 剩余金币：1987750","timestamp":"2017-10-16T02:09:49.283Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 8250 剩余金币：153500","timestamp":"2017-10-16T02:09:50.947Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 10000 剩余金币：64250","timestamp":"2017-10-16T02:09:51.547Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 750 剩余金币：956250","timestamp":"2017-10-16T02:09:55.707Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 1500 剩余金币：63750","timestamp":"2017-10-16T02:09:59.067Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 12000 剩余金币：30700","timestamp":"2017-10-16T02:09:59.217Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 12500 剩余金币：113250","timestamp":"2017-10-16T02:10:00.837Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 81250 剩余金币：2088000","timestamp":"2017-10-16T02:10:01.857Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 750 剩余金币：1982250","timestamp":"2017-10-16T02:10:05.317Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：58000","timestamp":"2017-10-16T02:10:10.577Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 7250 剩余金币：154500","timestamp":"2017-10-16T02:10:10.977Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 1500 剩余金币：59000","timestamp":"2017-10-16T02:10:14.097Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：24450","timestamp":"2017-10-16T02:10:15.247Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：951500","timestamp":"2017-10-16T02:10:15.737Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 8000 剩余金币：115000","timestamp":"2017-10-16T02:10:17.873Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：51750","timestamp":"2017-10-16T02:10:20.613Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 1500 剩余金币：2083250","timestamp":"2017-10-16T02:10:21.898Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 6000 剩余金币：1982000","timestamp":"2017-10-16T02:10:22.348Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 8750 剩余金币：26950","timestamp":"2017-10-16T02:10:25.308Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：148250","timestamp":"2017-10-16T02:10:30.008Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 12500 剩余金币：65250","timestamp":"2017-10-16T02:10:30.118Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 2500 剩余金币：48000","timestamp":"2017-10-16T02:10:30.788Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：108750","timestamp":"2017-10-16T02:10:32.898Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：945250","timestamp":"2017-10-16T02:10:34.828Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 17500 剩余金币：2094500","timestamp":"2017-10-16T02:10:36.928Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：142000","timestamp":"2017-10-16T02:10:40.028Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 31250 剩余金币：2007000","timestamp":"2017-10-16T02:10:40.378Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：102500","timestamp":"2017-10-16T02:10:42.928Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 0 剩余金币：939000","timestamp":"2017-10-16T02:10:44.858Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 3000 剩余金币：62000","timestamp":"2017-10-16T02:10:45.148Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 5000 剩余金币：25700","timestamp":"2017-10-16T02:10:45.348Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 6250 剩余金币：48000","timestamp":"2017-10-16T02:10:48.853Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 10000 剩余金币：145750","timestamp":"2017-10-16T02:10:50.053Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：96250","timestamp":"2017-10-16T02:10:52.953Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 270000 剩余金币：2358250","timestamp":"2017-10-16T02:10:53.961Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 1500 剩余金币：934250","timestamp":"2017-10-16T02:10:54.891Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 7500 剩余金币：2008250","timestamp":"2017-10-16T02:10:58.391Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 7500 剩余金币：26950","timestamp":"2017-10-16T02:11:00.371Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 3750 剩余金币：59500","timestamp":"2017-10-16T02:11:01.181Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 6000 剩余金币：96000","timestamp":"2017-10-16T02:11:02.981Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：41750","timestamp":"2017-10-16T02:11:03.891Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 2250 剩余金币：141750","timestamp":"2017-10-16T02:11:10.081Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 3750 剩余金币：931750","timestamp":"2017-10-16T02:11:10.921Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 5750 剩余金币：2357750","timestamp":"2017-10-16T02:11:11.991Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：35500","timestamp":"2017-10-16T02:11:13.921Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：20700","timestamp":"2017-10-16T02:11:16.401Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 12500 剩余金币：2014500","timestamp":"2017-10-16T02:11:18.424Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 0 剩余金币：89750","timestamp":"2017-10-16T02:11:19.014Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 0 剩余金币：53250","timestamp":"2017-10-16T02:11:20.214Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 2500 剩余金币：31750","timestamp":"2017-10-16T02:11:23.934Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 6250 剩余金币：931750","timestamp":"2017-10-16T02:11:25.946Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 3000 剩余金币：138500","timestamp":"2017-10-16T02:11:26.116Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 12500 剩余金币：26950","timestamp":"2017-10-16T02:11:26.426Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2351500","timestamp":"2017-10-16T02:11:28.016Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 3000 剩余金币：86500","timestamp":"2017-10-16T02:11:29.036Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 9750 剩余金币：56750","timestamp":"2017-10-16T02:11:30.236Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 6500 剩余金币：2014750","timestamp":"2017-10-16T02:11:37.456Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 750 剩余金币：2346000","timestamp":"2017-10-16T02:11:38.036Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：132250","timestamp":"2017-10-16T02:11:43.146Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 25000 剩余金币：50500","timestamp":"2017-10-16T02:11:43.966Z"}
+{"level":"info","message":"机器人 850f0900b21211e783b265b856d590ff-005 totalWin: 10000 剩余金币：935500","timestamp":"2017-10-16T02:11:44.976Z"}
+{"level":"info","message":"机器人 6e21b690b21511e783b265b856d590ff-001 totalWin: 3250 剩余金币：23950","timestamp":"2017-10-16T02:11:46.456Z"}
+{"level":"info","message":"机器人 d96d0f30b21511e783b265b856d590ff-001 totalWin: 17000 剩余金币：67500","timestamp":"2017-10-16T02:11:49.484Z"}
+{"level":"info","message":"机器人 bb4ee790b21411e783b265b856d590ff-001 totalWin: 1500 剩余金币：81750","timestamp":"2017-10-16T02:11:49.484Z"}
+{"level":"info","message":"机器人 d155e6c0b21311e783b265b856d590ff-004 totalWin: 6500 剩余金币：132500","timestamp":"2017-10-16T02:11:53.174Z"}
+{"level":"info","message":"机器人 34fe6720b21311e783b265b856d590ff-003 totalWin: 0 剩余金币：2339750","timestamp":"2017-10-16T02:11:56.074Z"}
+{"level":"info","message":"机器人 4244fe30b21311e783b265b856d590ff-004 totalWin: 0 剩余金币：2008500","timestamp":"2017-10-16T02:11:57.484Z"}
+{"level":"info","message":"机器人 087ba360b21411e783b265b856d590ff-001 totalWin: 16250 剩余金币：60500","timestamp":"2017-10-16T02:11:58.994Z"}
+{"level":"info","message":"机器人【2b803070b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b710b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b711b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b712b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b713b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b714b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b715b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b716b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b717b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人【2b81b718b21811e78b98e182d6e9ada5-001】号 => 开始工作","timestamp":"2017-10-16T02:17:33.697Z"}
+{"level":"info","message":"机器人 2b81b710b21811e78b98e182d6e9ada5-001 成功进入房间： 001","timestamp":"2017-10-16T02:17:34.107Z"}
+{"level":"info","message":"机器人 2b81b710b21811e78b98e182d6e9ada5-001 totalWin: 2250 剩余金币：6000","timestamp":"2017-10-16T02:17:34.157Z"}
+{"level":"info","message":"机器人 2b803070b21811e78b98e182d6e9ada5-001 成功进入房间： 001","timestamp":"2017-10-16T02:17:34.157Z"}
+{"level":"info","message":"机器人 2b803070b21811e78b98e182d6e9ada5-001 totalWin: 17500 剩余金币：1011250","timestamp":"2017-10-16T02:17:34.207Z"}
+{"level":"info","message":"机器人 2b81b711b21811e78b98e182d6e9ada5-001 成功进入房间： 001","timestamp":"2017-10-16T02:17:34.257Z"}
+{"level":"info","message":"机器人 2b81b718b21811e78b98e182d6e9ada5-001 成功进入房间： 001","timestamp":"2017-10-16T02:17:34.267Z"}
+{"level":"info","message":"机器人 2b81b715b21811e78b98e182d6e9ada5-001 成功进入房间： 001","timestamp":"2017-10-16T02:17:34.267Z"}
+{"level":"error","message":"机器人【2b81b714b21811e78b98e182d6e9ada5-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:17:34.277Z"}
+{"level":"error","message":"机器人【2b81b713b21811e78b98e182d6e9ada5-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:17:34.287Z"}
+{"level":"error","message":"机器人【2b81b717b21811e78b98e182d6e9ada5-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:17:34.287Z"}
+{"level":"error","message":"机器人【2b81b712b21811e78b98e182d6e9ada5-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:17:34.287Z"}
+{"level":"error","message":"机器人【2b81b716b21811e78b98e182d6e9ada5-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:17:34.297Z"}
+{"level":"info","message":"机器人 2b81b711b21811e78b98e182d6e9ada5-001 totalWin: 1500 剩余金币：1995250","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"info","message":"机器人 2b81b718b21811e78b98e182d6e9ada5-001 totalWin: 4750 剩余金币：1998500","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"error","message":"机器人【2b81b714b21811e78b98e182d6e9ada5-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"info","message":"机器人【2b81b714b21811e78b98e182d6e9ada5-001】stop ","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"error","message":"机器人【2b81b713b21811e78b98e182d6e9ada5-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"info","message":"机器人【2b81b713b21811e78b98e182d6e9ada5-001】stop ","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"error","message":"机器人【2b81b717b21811e78b98e182d6e9ada5-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"info","message":"机器人【2b81b717b21811e78b98e182d6e9ada5-001】stop ","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"error","message":"机器人【2b81b712b21811e78b98e182d6e9ada5-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"info","message":"机器人【2b81b712b21811e78b98e182d6e9ada5-001】stop ","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"error","message":"机器人【2b81b716b21811e78b98e182d6e9ada5-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"info","message":"机器人【2b81b716b21811e78b98e182d6e9ada5-001】stop ","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"info","message":"机器人 2b81b715b21811e78b98e182d6e9ada5-001 totalWin: 0 剩余金币：993750","timestamp":"2017-10-16T02:17:34.317Z"}
+{"level":"info","message":"机器人 2b81b715b21811e78b98e182d6e9ada5-001 totalWin: 0 剩余金币：987500","timestamp":"2017-10-16T02:17:44.337Z"}
+{"level":"info","message":"机器人 2b803070b21811e78b98e182d6e9ada5-001 totalWin: 15500 剩余金币：1020500","timestamp":"2017-10-16T02:17:49.389Z"}
+{"level":"info","message":"机器人 2b81b711b21811e78b98e182d6e9ada5-001 totalWin: 3000 剩余金币：1992000","timestamp":"2017-10-16T02:17:53.339Z"}
+{"level":"info","message":"机器人 2b81b710b21811e78b98e182d6e9ada5-001 totalWin: 500 剩余金币：5250","timestamp":"2017-10-16T02:17:54.179Z"}
+{"level":"info","message":"机器人 2b81b718b21811e78b98e182d6e9ada5-001 totalWin: 3000 剩余金币：1995250","timestamp":"2017-10-16T02:17:54.329Z"}
+{"level":"info","message":"机器人 2b81b715b21811e78b98e182d6e9ada5-001 totalWin: 4500 剩余金币：985750","timestamp":"2017-10-16T02:17:54.369Z"}
+{"level":"info","message":"机器人【65583bd0b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd1b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd2b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd3b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd4b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd5b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd6b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd7b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd8b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人【65583bd9b21811e780ef1dc19133aa85-001】号 => 开始工作","timestamp":"2017-10-16T02:19:10.733Z"}
+{"level":"info","message":"机器人 65583bd2b21811e780ef1dc19133aa85-001 成功进入房间： 001","timestamp":"2017-10-16T02:19:11.205Z"}
+{"level":"info","message":"机器人 65583bd3b21811e780ef1dc19133aa85-001 成功进入房间： 001","timestamp":"2017-10-16T02:19:11.205Z"}
+{"level":"info","message":"机器人 65583bd4b21811e780ef1dc19133aa85-001 成功进入房间： 001","timestamp":"2017-10-16T02:19:11.275Z"}
+{"level":"info","message":"机器人 65583bd0b21811e780ef1dc19133aa85-001 成功进入房间： 001","timestamp":"2017-10-16T02:19:11.275Z"}
+{"level":"info","message":"机器人 65583bd6b21811e780ef1dc19133aa85-001 成功进入房间： 001","timestamp":"2017-10-16T02:19:11.315Z"}
+{"level":"info","message":"机器人 65583bd2b21811e780ef1dc19133aa85-001 totalWin: 750 剩余金币：4500","timestamp":"2017-10-16T02:19:11.315Z"}
+{"level":"info","message":"机器人 65583bd3b21811e780ef1dc19133aa85-001 totalWin: 18750 剩余金币：2012500","timestamp":"2017-10-16T02:19:11.315Z"}
+{"level":"error","message":"机器人【65583bd1b21811e780ef1dc19133aa85-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:19:11.315Z"}
+{"level":"error","message":"机器人【65583bd5b21811e780ef1dc19133aa85-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:19:11.315Z"}
+{"level":"error","message":"机器人【65583bd8b21811e780ef1dc19133aa85-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:19:11.325Z"}
+{"level":"error","message":"机器人【65583bd7b21811e780ef1dc19133aa85-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:19:11.325Z"}
+{"level":"error","message":"机器人【65583bd9b21811e780ef1dc19133aa85-001】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-16T02:19:11.325Z"}
+{"level":"info","message":"机器人 65583bd4b21811e780ef1dc19133aa85-001 totalWin: 2500 剩余金币：996250","timestamp":"2017-10-16T02:19:11.325Z"}
+{"level":"info","message":"机器人 65583bd0b21811e780ef1dc19133aa85-001 totalWin: 0 剩余金币：43750","timestamp":"2017-10-16T02:19:11.325Z"}
+{"level":"error","message":"机器人【65583bd1b21811e780ef1dc19133aa85-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:19:11.345Z"}
+{"level":"info","message":"机器人【65583bd1b21811e780ef1dc19133aa85-001】stop ","timestamp":"2017-10-16T02:19:11.345Z"}
+{"level":"error","message":"机器人【65583bd5b21811e780ef1dc19133aa85-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:19:11.345Z"}
+{"level":"info","message":"机器人【65583bd5b21811e780ef1dc19133aa85-001】stop ","timestamp":"2017-10-16T02:19:11.345Z"}
+{"level":"error","message":"机器人【65583bd8b21811e780ef1dc19133aa85-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:19:11.345Z"}
+{"level":"info","message":"机器人【65583bd8b21811e780ef1dc19133aa85-001】stop ","timestamp":"2017-10-16T02:19:11.355Z"}
+{"level":"error","message":"机器人【65583bd7b21811e780ef1dc19133aa85-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:19:11.355Z"}
+{"level":"info","message":"机器人【65583bd7b21811e780ef1dc19133aa85-001】stop ","timestamp":"2017-10-16T02:19:11.355Z"}
+{"level":"error","message":"机器人【65583bd9b21811e780ef1dc19133aa85-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:19:11.355Z"}
+{"level":"info","message":"机器人【65583bd9b21811e780ef1dc19133aa85-001】stop ","timestamp":"2017-10-16T02:19:11.355Z"}
+{"level":"info","message":"机器人 65583bd6b21811e780ef1dc19133aa85-001 totalWin: 7500 剩余金币：51250","timestamp":"2017-10-16T02:19:11.355Z"}

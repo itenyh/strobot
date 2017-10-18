@@ -95,9 +95,9 @@
                     };
                 }
 
-                // var root = this;
+                var root = this;
                 this.pomelo = Object.create(EventEmitter.prototype); // object extend from object
-                // root.pomelo = pomelo;
+                root.pomelo = this.pomelo;
                 var socket = null;
                 var reqId = 0;
                 var callbacks = {};
@@ -249,14 +249,13 @@
                         }
                     };
                     var onerror = function (event) {
-                        // this.pomelo.emit('io-error', event);
+                        root.pomelo.emit('io-error', event);
                         console.error('socket error: ', event);
                     };
 
                     var onclose = function (event) {
-                    	// console.log(asdfasd)
-                        // this.pomelo.emit('close', event);
-                        // this.pomelo.emit('disconnect', event);
+                        root.pomelo.emit('close', event);
+                        root.pomelo.emit('disconnect', event);
                         // console.error('socket close: ', event);
                         if (!!params.reconnect && reconnectAttempts < maxReconnectAttempts) {
                             reconnect = true;
@@ -411,7 +410,7 @@
                     if (decode) {
                         msg = decode(msg);
                     }
-                    processMessage(this.pomelo, msg);
+                    processMessage(root.pomelo, msg);
                 };
 
                 var onKick = function (data) {
@@ -438,7 +437,7 @@
                 var processMessage = function (pomelo, msg) {
                     if (!msg.id) {
                         // server push message
-                        // this.pomelo.emit(msg.route, msg.body);
+                        pomelo.emit(msg.route, msg.body);
                         return;
                     }
 

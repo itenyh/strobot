@@ -1,0 +1,17 @@
+{
+  "consumeType": {
+    "small": 20,
+    "middle": 100,
+    "large": 1000
+  },
+
+  "playInterval": 800,
+  "interfaceRepeatInterval": 800,
+  "maxRobotNum": 50,
+  "gameHost": "192.168.1.244",
+  "gamePort": 8100,
+
+  "database1": "mongodb://egg:123@192.168.1.218:27017/eggDatabase",
+  "database2": "mongodb://192.168.1.244:27017/eggDatabase"
+
+}
