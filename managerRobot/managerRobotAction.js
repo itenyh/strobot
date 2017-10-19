@@ -14,6 +14,7 @@ function ManagerRobotAction(nid, PlayerRobot) {
     const memory = new Memory()
     const pomelo = (new PP()).pomelo
     const net = new Net(pomelo)
+    let hasConnected = false
 
     this.disconnect = () => {
         net.disconnect()
@@ -29,6 +30,12 @@ function ManagerRobotAction(nid, PlayerRobot) {
             addRobotIntoNewRoom(data)
         })
 
+        pomelo.on('close', function (data) {
+            if (hasConnected) {
+                logger.error('机器人【%s】 socket close , 原因: %s %s', 'managerRobot', data.code, data.reason)
+            }
+        }.bind(this))
+
     }
 
     this.connect = Q.async(function* () {
@@ -38,6 +45,7 @@ function ManagerRobotAction(nid, PlayerRobot) {
         const userLoginData = yield net.asynUserLogin(loginData.id)
         yield net.asynReady({host: userLoginData.server.host, port: userLoginData.server.port})
         yield net.asynEnter(userLoginData.uid, userLoginData.token)
+        hasConnected = true
 
     })
 

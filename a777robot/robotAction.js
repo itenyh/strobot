@@ -61,8 +61,9 @@ function RobotAction(net) {
                 const totalWin = result.totalWin
                 const profit = totalWin - pay[0] * pay[1]
                 memory.gold += profit
+                memory.profit += profit
 
-                logger.info('机器人 %s totalWin: %s 剩余金币：%s', this.getId(), totalWin, memory.gold)
+                logger.info('机器人 %s totalWin: %s 剩余金币：%s 到目前为止总利润: %s', this.getId(), totalWin, memory.gold, memory.profit)
 
                 let waitTime = global.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, memory.gold)
                 yield Q.delay(waitTime)

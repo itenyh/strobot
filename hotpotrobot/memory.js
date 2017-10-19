@@ -12,7 +12,7 @@ function Memory() {
     this.isDealer = false
     this.betGoldthisTound = 0
     this.isLastBetWin = false
-    this.continueWin = false
+    this.isContinueWinBet = false
     this.addedMoney = false
 
     this.dealerRoundNum = 0

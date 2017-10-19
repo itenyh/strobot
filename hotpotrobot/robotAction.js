@@ -78,8 +78,13 @@ function RobotAction(net) {
         const profit = totalWin - memory.betGoldthisTound
         memory.betGoldthisTound = 0
         memory.gold += profit
-        memory.isLastBetWin = totalWin > 0
-        memory.continueWin = totalWin > 0
+        if (data.isBeted) {
+            memory.isContinueWinBet = totalWin > 0
+            memory.isLastBetWin = totalWin > 0
+        }
+        else {
+            memory.isContinueWinBet = false
+        }
         memory.dealerRoundWin += profit
         logger.info('机器人 %s profit: %s, totalWin: %s 剩余金币：%s', this.getId(), profit, totalWin, memory.gold)
     }
@@ -137,13 +142,11 @@ function RobotAction(net) {
             }
 
             if (!isDealerSelf) {
-                // logger.info('机器人 %s 押注', this.getId())
-                if (!memory.continueWin) {
+                if (!memory.isContinueWinBet) {
                     yield play()
                 }
                 else {
                     logger.info('机器人 %s 上局赢了，这局不押' , this.getId())
-                    memory.continueWin = false
                 }
             }
 

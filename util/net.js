@@ -58,8 +58,8 @@ function RobotNet(pomelo_) {
         })
     }
 
-    function addRoom(nid, cb) {
-        pomelo.request('hall.mainHandler.addGameRoom', {nid: nid}, function (data) {
+    function addRoom(num, nid, cb) {
+        pomelo.request('hall.mainHandler.addGameRoom', {num: num, nid: nid}, function (data) {
             responseHandler(data, addRoom, cb)
         })
     }

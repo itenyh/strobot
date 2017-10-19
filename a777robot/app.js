@@ -2,6 +2,8 @@
  * Created by HJ on 2017/8/24.
  */
 
+const Q = require('q')
+
 global.logger = require('../util/logger')
 global.robotsInfo = require('../managerRobot/robotsInfo')
 global.rules = require('./rules')

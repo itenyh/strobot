@@ -5,12 +5,11 @@
 function Memory() {
 
     this.id = ''
-    this.index = 1
     this.gold = 0
     this.isNotified2Leave = false
     this.type = 0
-    this.roomInfo = {}
     this.addedMoney = false
+    this.profit = 0
 
 }
 

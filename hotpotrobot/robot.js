@@ -38,7 +38,7 @@ function Robot(room) {
                 yield this.action.enterRoom(room)
             }
             catch (reason) {
-                logger.error('机器人【%s】行动失败 , 原因: %s', this.action.getId(), reason)
+                logger.error('机器人【%s】行动失败 , 原因: %s', 'managerRobot', reason)
                 yield this.stop()
             }
 
@@ -56,6 +56,7 @@ function Robot(room) {
         catch (reason) {
             logger.error('机器人【%s】stop 退出房间失败 , 原因: %s', this.action.getId(), reason)
         }
+
         this.action.disconnect()
         logger.info('机器人【%s】stop ', this.action.getId())
         if (this.afterStop && typeof this.afterStop === 'function') {
