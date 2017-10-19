@@ -12,6 +12,8 @@ const Net = require('./robotNet')
 const gameConfig = require('./config/game-config.json')
 const PlayerRobot = require('./robot/robot')
 const ManagerRobot = require('./robot/manageRobot')
+const RobotAction = require('./action/managerRobotAction')
+const Memory = require('./memory/managerRobotMemory')
 
 const robot = new ManagerRobot()
 robot.run()

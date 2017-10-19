@@ -1312,3 +1312,4 @@
 {"level":"error","message":"机器人【65583bd9b21811e780ef1dc19133aa85-001】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-16T02:19:11.355Z"}
 {"level":"info","message":"机器人【65583bd9b21811e780ef1dc19133aa85-001】stop ","timestamp":"2017-10-16T02:19:11.355Z"}
 {"level":"info","message":"机器人 65583bd6b21811e780ef1dc19133aa85-001 totalWin: 7500 剩余金币：51250","timestamp":"2017-10-16T02:19:11.355Z"}
+{"level":"info","message":"管理机器人【3e3783b0-b46d-11e7-bc5d-5ddada978815】号 => 开始工作","timestamp":"2017-10-19T01:31:34.636Z"}

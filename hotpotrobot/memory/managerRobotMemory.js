@@ -40,7 +40,7 @@ function ManagerRobotMemory() {
         let isRobot = false
 
         if (num == oldnum) {
-            logger.error('num 和 oldnum 相等了 ===> %s', num)
+            logger.error('num 和 oldnum 相等了 ===> %s  roomCode: %s', num, roomCode)
         }
 
         if (isIncrement) {
@@ -56,7 +56,7 @@ function ManagerRobotMemory() {
         roomInfo[roomCode] = {}
         roomInfo[roomCode]['num'] = num
 
-        logger.info('isRobot: %s, isIncrement: %s, num: %s, robotNumInRoom: %s ', isRobot, isIncrement, num, robotNumInRoom)
+        logger.info('isRobot: %s, isIncrement: %s, num: %s, robotNumInRoom: %s === roomCode: %s', isRobot, isIncrement, num, robotNumInRoom, roomCode)
 
         return [isIncrement && !isRobot && robotNumInRoom > 0, num === 0, roomCode]
 

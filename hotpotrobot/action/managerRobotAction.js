@@ -21,11 +21,25 @@ function ManagerRobotAction(net, memory) {
         const userLoginData = yield net.asynUserLogin(loginData.id)
         yield net.asynReady({host: userLoginData.server.host, port: userLoginData.server.port})
         yield net.asynEnter(userLoginData.uid, userLoginData.token)
-        const initRoomInfo = yield net.asynEnterGame()
 
+    })
+
+    this.enterGame = Q.async(function* () {
+
+        const initRoomInfo = yield net.asynEnterGame()
         memory.initialRoomInfo(initRoomInfo)
 
-        addRobotsIntoInitEmptyRooms()
+    })
+
+    this.addRobotsIntoInitEmptyRooms = Q.async(function* () {
+
+        const emptyRooms = memory.findInitEmptyRoom()
+        for (roomCode of emptyRooms) {
+            global.logger.info('初始化，向空房间 %s 加入机器人', roomCode)
+            const taskDealer = taskDealerManager.getTaskDealer(roomCode)
+            const task = new Task(taskDealer, roomCode)
+            taskDealer.setTask(task)
+        }
 
     })
 
@@ -55,18 +69,6 @@ function ManagerRobotAction(net, memory) {
         logger.info('有新的房间 roomCode: %s, 现在开始加入机器人', roomCode)
         const task = new Task(taskDealer, roomCode)
         taskDealer.setTask(task)
-    }
-
-    const addRobotsIntoInitEmptyRooms = function () {
-
-        const emptyRooms = memory.findInitEmptyRoom()
-        for (roomCode of emptyRooms) {
-            global.logger.info('初始化，向空房间 %s 加入机器人', roomCode)
-            const taskDealer = taskDealerManager.getTaskDealer(roomCode)
-            const task = new Task(taskDealer, roomCode)
-            taskDealer.setTask(task)
-        }
-
     }
 
 

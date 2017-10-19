@@ -29,3 +29,26 @@
 {"level":"error","message":"机器人【b12be010b3b311e7930419aa22ed7dc3-001-clever-游客474】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-18T03:30:21.136Z"}
 {"level":"error","message":"num 和 oldnum 相等了 ===> 2","timestamp":"2017-10-18T06:13:17.243Z"}
 {"level":"error","message":"num 和 oldnum 相等了 ===> 2","timestamp":"2017-10-18T06:15:30.284Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 3","timestamp":"2017-10-18T07:42:20.826Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 1","timestamp":"2017-10-18T08:04:23.194Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 1","timestamp":"2017-10-18T08:05:41.769Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 2","timestamp":"2017-10-18T08:07:43.363Z"}
+{"level":"error","message":"机器人【33af84c0b3db11e78a3b111b9610b3ef-001-dummy-游客995】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-18T08:10:10.464Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 1","timestamp":"2017-10-18T08:32:13.884Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 1","timestamp":"2017-10-18T08:34:46.304Z"}
+{"level":"error","message":"机器人【1a952e40b3e011e7904d03e6d532565f-005-clever-游客941】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"}","timestamp":"2017-10-18T08:41:19.953Z"}
+{"level":"error","message":"机器人【1a952e40b3e011e7904d03e6d532565f-005-clever-游客941】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-18T08:41:19.985Z"}
+{"level":"error","message":"机器人【621ccbb0b3e011e7904d03e6d532565f-008-dummy-游客438】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"}","timestamp":"2017-10-18T08:43:16.260Z"}
+{"level":"error","message":"机器人【621c7d91b3e011e7904d03e6d532565f-004-clever-游客349】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"}","timestamp":"2017-10-18T08:43:16.272Z"}
+{"level":"error","message":"机器人【621ccbb0b3e011e7904d03e6d532565f-008-dummy-游客438】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-18T08:43:16.314Z"}
+{"level":"error","message":"机器人【621c7d91b3e011e7904d03e6d532565f-004-clever-游客349】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-18T08:43:16.316Z"}
+{"level":"error","message":"机器人【621ccbb1b3e011e7904d03e6d532565f-012-clever-游客722】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"}","timestamp":"2017-10-18T08:43:16.379Z"}
+{"level":"error","message":"机器人【621ccbb1b3e011e7904d03e6d532565f-012-clever-游客722】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-18T08:43:16.443Z"}
+{"level":"error","message":"机器人【cd68c090b3e011e7904d03e6d532565f-011-clever-游客679】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"}","timestamp":"2017-10-18T08:46:16.048Z"}
+{"level":"error","message":"机器人【cd68c090b3e011e7904d03e6d532565f-011-clever-游客679】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-18T08:46:16.087Z"}
+{"level":"error","message":"机器人【14f08510b3e111e7904d03e6d532565f-012-clever-游客561】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"}","timestamp":"2017-10-18T08:48:16.038Z"}
+{"level":"error","message":"机器人【14f08510b3e111e7904d03e6d532565f-012-clever-游客561】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-18T08:48:16.041Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 2","timestamp":"2017-10-18T09:07:56.972Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 2","timestamp":"2017-10-18T09:10:31.743Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 3  roomCode: 010","timestamp":"2017-10-18T09:20:01.350Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 2  roomCode: 001","timestamp":"2017-10-18T09:20:55.147Z"}

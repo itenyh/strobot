@@ -25,16 +25,17 @@ function ManageRobot() {
             logger.info('管理机器人【%s】号 => 开始工作', this.id)
 
             pomelo.on('changeRoomInfo', function (data) {
-                // console.log(data)
                 action.dealWithRoomInfoChange(data)
             })
 
             pomelo.on('addRoom', function (data) {
-                // action.addRobotIntoNewRoom(data)
+                action.addRobotIntoNewRoom(data)
             })
 
             Q.spawn(function* () {
                 yield action.connect()
+                yield action.enterGame()
+                yield action.addRobotsIntoInitEmptyRooms()
             }.bind(this))
 
         }

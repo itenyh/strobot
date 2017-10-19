@@ -48,12 +48,14 @@ function A777Rules() {
             const elements = baseElements.concat(groupElements)
 
             const result = {}
+            const infomation = []
 
             for (ele of elements) {
                 result[ele.id] = bet
+                infomation.push(ele.name)
             }
 
-            return {'bets': result, 'total': elements.length * bet}
+            return {'bets': result, 'total': elements.length * bet, 'info': infomation}
 
         }
 
@@ -61,11 +63,13 @@ function A777Rules() {
 
             const minOddElement = [base[4]]
             const result = {}
+            const infomation = []
             for (ele of minOddElement) {
                 result[ele.id] = bet
+                infomation.push(ele.name)
             }
 
-            return {'bets': result, 'total': minOddElement.length * bet}
+            return {'bets': result, 'total': minOddElement.length * bet, 'info': infomation}
 
         }
 
@@ -82,12 +86,14 @@ function A777Rules() {
         if (bet == 0) { return false }
 
         const result = {}
+        const infomation = []
 
         for (ele of elements) {
             result[ele.id] = bet
+            infomation.push(ele.name)
         }
 
-        return {'bets': result, 'total': elements.length * bet}
+        return {'bets': result, 'total': elements.length * bet, 'info': infomation}
 
     }
 
@@ -152,6 +158,10 @@ function A777Rules() {
                 return (winGold / gold) > 0.3
             }
         }
+    }
+
+    this.isAble2OnDealer = function (gold) {
+        return gold > 5000000
     }
 
     this.getRandomAddedRobotNum = function () {

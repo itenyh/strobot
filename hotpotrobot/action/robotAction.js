@@ -52,6 +52,7 @@ function RobotAction(net) {
 
         const betInfo = global.rules.getRandomBetElements(memory.type, memory.isLastBetWin, memory.gold)
         if (betInfo) {
+            logger.info('机器人 %s 押注：%s', this.getId(), JSON.stringify(betInfo))
             yield net.asynPlay(betInfo.bets)
             memory.betGoldthisTound = betInfo.total
         }
@@ -72,11 +73,13 @@ function RobotAction(net) {
     }.bind(this))
 
     this.dealWithPlayResult = function (data) {
+        // console.log(data)
         const totalWin = data.self
         const profit = totalWin - memory.betGoldthisTound
         memory.betGoldthisTound = 0
         memory.gold += profit
         memory.isLastBetWin = totalWin > 0
+        memory.continueWin = totalWin > 0
         memory.dealerRoundWin += profit
         logger.info('机器人 %s profit: %s, totalWin: %s 剩余金币：%s', this.getId(), profit, totalWin, memory.gold)
     }
@@ -122,7 +125,7 @@ function RobotAction(net) {
             }
 
             if(!isDealerSelf && isDealerRobot && !isInQueue) {
-                if (global.rules.isOnDealer(memory.type)) {
+                if (global.rules.isOnDealer(memory.type) && global.rules.isAble2OnDealer(memory.gold)) {
                     logger.info('机器人 %s 上庄', this.getId())
                     try {
                         yield net.asynApplyDealer()
@@ -134,13 +137,13 @@ function RobotAction(net) {
             }
 
             if (!isDealerSelf) {
-                logger.info('机器人 %s 押注', this.getId())
-                if (!memory.isLastBetWin) {
+                // logger.info('机器人 %s 押注', this.getId())
+                if (!memory.continueWin) {
                     yield play()
                 }
                 else {
                     logger.info('机器人 %s 上局赢了，这局不押' , this.getId())
-                    memory.isLastBetWin = false
+                    memory.continueWin = false
                 }
             }
 
@@ -151,9 +154,6 @@ function RobotAction(net) {
                     yield net.asynOffDealer()
                 }
             }
-
-
-
 
         }.bind(this))
 
