@@ -2,14 +2,14 @@
  * Created by HJ on 2017/8/22.
  */
 
-require('../../util/pomelo-cocos2d-js')
+require('../util/pomelo-cocos2d-js')
 const Q = require('q')
 const v1 = require('uuid/v1');
-const Memory = require('../memory/managerRobotMemory')
-const RobotAction = require('../action/managerRobotAction')
-const Net = require('../robotNet')
+const Memory = require('./a777ManagerRobotMemory')
+const RobotAction = require('./a777ManagerRobotAction')
+const Net = require('../a777robot/robotNet')
 
-function ManageRobot() {
+function A777ManageRobot() {
 
     const pomelo = (new PP()).pomelo
     const net = new Net(pomelo)
@@ -33,9 +33,9 @@ function ManageRobot() {
             })
 
             Q.spawn(function* () {
+
                 yield action.connect()
-                yield action.enterGame()
-                yield action.addRobotsIntoInitEmptyRooms()
+
             }.bind(this))
 
         }
@@ -59,4 +59,4 @@ function ManageRobot() {
 
 }
 
-module.exports = ManageRobot
+module.exports = A777ManageRobot

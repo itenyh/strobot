@@ -2,18 +2,15 @@
  * Created by HJ on 2017/8/22.
  */
 
-require('../util/pomelo-cocos2d-js')
 const Q = require('q')
 const v1 = require('uuid/v1');
-const Memory = require('./a777ManagerRobotMemory')
-const RobotAction = require('./a777ManagerRobotAction')
-const Net = require('./robotNet')
+const Memory = require('./managerRobotMemory')
+const RobotAction = require('./managerRobotAction')
+const Net = require('../util/net')
 
-function A777ManageRobot() {
+function ManageRobot(nid, PlayerRobot) {
 
-    const pomelo = (new PP()).pomelo
-    const net = new Net(pomelo)
-    const action = new RobotAction(net, new Memory())
+    const action = new RobotAction(nid, PlayerRobot)
 
     this.id = v1()
     this.afterStop = null
@@ -24,18 +21,12 @@ function A777ManageRobot() {
 
             logger.info('管理机器人【%s】号 => 开始工作', this.id)
 
-            pomelo.on('changeRoomInfo', function (data) {
-                action.dealWithRoomInfoChange(data)
-            })
-
-            pomelo.on('addRoom', function (data) {
-                action.addRobotIntoNewRoom(data)
-            })
+            action.addListener()
 
             Q.spawn(function* () {
-
                 yield action.connect()
-
+                yield action.enterGame()
+                yield action.addRobotsIntoInitEmptyRooms()
             }.bind(this))
 
         }
@@ -59,4 +50,4 @@ function A777ManageRobot() {
 
 }
 
-module.exports = A777ManageRobot
+module.exports = ManageRobot

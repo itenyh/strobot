@@ -2,16 +2,33 @@
  * Created by HJ on 2017/8/23.
  */
 
+require('../util/pomelo-cocos2d-js')
 const Q = require('q')
-const PlayerRobot = require('../robot/robot')
 const gameConfig = require('../config/game-config.json')
+const Memory = require('./managerRobotMemory')
+const Net = require('../util/net')
 
-function ManagerRobotAction(net, memory) {
+function ManagerRobotAction(nid, PlayerRobot) {
 
     const taskDealerManager = new TaskDealerManager()
+    const memory = new Memory()
+    const pomelo = (new PP()).pomelo
+    const net = new Net(pomelo)
 
     this.disconnect = () => {
         net.disconnect()
+    }
+
+    this.addListener = () => {
+
+        pomelo.on('changeRoomInfo', function (data) {
+            dealWithRoomInfoChange(data)
+        })
+
+        pomelo.on('addRoom', function (data) {
+            addRobotIntoNewRoom(data)
+        })
+
     }
 
     this.connect = Q.async(function* () {
@@ -26,7 +43,7 @@ function ManagerRobotAction(net, memory) {
 
     this.enterGame = Q.async(function* () {
 
-        const initRoomInfo = yield net.asynEnterGame()
+        const initRoomInfo = yield net.asynEnterGame(nid)
         memory.initialRoomInfo(initRoomInfo)
 
     })
@@ -37,13 +54,13 @@ function ManagerRobotAction(net, memory) {
         for (roomCode of emptyRooms) {
             global.logger.info('初始化，向空房间 %s 加入机器人', roomCode)
             const taskDealer = taskDealerManager.getTaskDealer(roomCode)
-            const task = new Task(taskDealer, roomCode)
+            const task = new Task(taskDealer, roomCode, PlayerRobot)
             taskDealer.setTask(task)
         }
 
     })
 
-    this.dealWithRoomInfoChange = function (data) {
+    const dealWithRoomInfoChange = function (data) {
 
         const result = memory.dealRoomInfoChange(data)
         const roomCode = result[result.length - 1]
@@ -56,18 +73,18 @@ function ManagerRobotAction(net, memory) {
         }
         else if (result[1]) { //空房间出现
             logger.info('有新的房间空出来 roomCode: %s, 现在开始加入机器人', roomCode)
-            const task = new Task(taskDealer, roomCode)
+            const task = new Task(taskDealer, roomCode, PlayerRobot)
             taskDealer.setTask(task)
         }
 
     }
 
-    this.addRobotIntoNewRoom = function (data) {
+    const addRobotIntoNewRoom = function (data) {
         const newRoom = data['addRooms'][0]
         const roomCode = newRoom['roomCode']
         const taskDealer = taskDealerManager.getTaskDealer(roomCode)
         logger.info('有新的房间 roomCode: %s, 现在开始加入机器人', roomCode)
-        const task = new Task(taskDealer, roomCode)
+        const task = new Task(taskDealer, roomCode, PlayerRobot)
         taskDealer.setTask(task)
     }
 
@@ -136,7 +153,7 @@ function RemoveRobotNewPlayerTask(taskDealer, roomCode) {
 
 }
 
-function Task(taskDealer, roomCode) {
+function Task(taskDealer, roomCode, PlayerRobot) {
 
     let isContinueAdding = true
 

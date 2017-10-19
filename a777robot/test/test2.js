@@ -21,7 +21,7 @@ require('./../../util/pomelo-cocos2d-js')
 const Q = require('q')
 const Memory = require('./../memory')
 const RobotAction = require('./../robotAction')
-const Net = require('./../robotNet')
+const Net = require('../../temp/robotNet')
 
 // addRobot('001')
 addRoom()

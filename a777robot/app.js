@@ -3,18 +3,14 @@
  */
 
 global.logger = require('../util/logger')
-global.robotsInfo = require('./robotsInfo')
-global.a777Rules = require('./rules')
+global.robotsInfo = require('../managerRobot/robotsInfo')
+global.rules = require('./rules')
 
 const PlayerRobot = require('./robot')
-const ManagerRobot = require('./a777ManageRobot')
+const ManagerRobot = require('../managerRobot/manageRobot')
 
-const robot = new ManagerRobot()
+const robot = new ManagerRobot('1', PlayerRobot)
 robot.run()
-
-
-// const robot = new ManagerRobot()
-// robot.run()
 
 // addRobot('001', 10)
 

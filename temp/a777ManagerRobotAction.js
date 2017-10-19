@@ -3,8 +3,8 @@
  */
 
 const Q = require('q')
-const PlayerRobot = require('./robot')
-const gameConfig = require('./config/game-config.json')
+const PlayerRobot = require('../a777robot/robot')
+const gameConfig = require('../a777robot/config/game-config.json')
 
 function A777ManagerRobotAction(net, memory) {
 

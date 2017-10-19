@@ -19522,3 +19522,798 @@
 {"level":"info","message":"机器人 da0e4520b46e11e7a2847d1a06b64598-001-dummy-游客559 =========== 开始新的一局 =========","timestamp":"2017-10-19T01:43:13.826Z"}
 {"level":"info","message":"机器人 da0e4520b46e11e7a2847d1a06b64598-001-dummy-游客559 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T01:43:13.833Z"}
 {"level":"info","message":"机器人 da0e4520b46e11e7a2847d1a06b64598-001-dummy-游客559 押注：{\"bets\":{\"r\":500,\"l2\":500,\"s2\":500},\"total\":1500,\"info\":[\"素菜\",\"鸡爪\",\"霸王蟹\"]}","timestamp":"2017-10-19T01:43:13.833Z"}
+{"level":"info","message":"管理机器人【bfbdb560-b46f-11e7-b40d-4ba6805d0f92】号 => 开始工作","timestamp":"2017-10-19T01:49:30.936Z"}
+{"level":"info","message":"初始化，向空房间 001 加入机器人","timestamp":"2017-10-19T01:49:31.052Z"}
+{"level":"info","message":"向空房间 001 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:49:31.053Z"}
+{"level":"info","message":"机器人【bfd02bf0b46f11e7b40d4ba6805d0f92-001-clever】号 => 开始工作","timestamp":"2017-10-19T01:49:31.056Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T01:49:31.056Z"}
+{"level":"info","message":"向空房间 002 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:49:31.057Z"}
+{"level":"info","message":"机器人【bfd07a10b46f11e7b40d4ba6805d0f92-002-dummy】号 => 开始工作","timestamp":"2017-10-19T01:49:31.057Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T01:49:31.057Z"}
+{"level":"info","message":"向空房间 003 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:49:31.057Z"}
+{"level":"info","message":"机器人【bfd07a11b46f11e7b40d4ba6805d0f92-003-clever】号 => 开始工作","timestamp":"2017-10-19T01:49:31.057Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T01:49:31.057Z"}
+{"level":"info","message":"向空房间 004 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T01:49:31.057Z"}
+{"level":"info","message":"机器人【bfd0a120b46f11e7b40d4ba6805d0f92-004-clever】号 => 开始工作","timestamp":"2017-10-19T01:49:31.058Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T01:49:31.058Z"}
+{"level":"info","message":"向空房间 005 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:49:31.058Z"}
+{"level":"info","message":"机器人【bfd0a121b46f11e7b40d4ba6805d0f92-005-clever】号 => 开始工作","timestamp":"2017-10-19T01:49:31.058Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T01:49:31.058Z"}
+{"level":"info","message":"向空房间 006 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T01:49:31.058Z"}
+{"level":"info","message":"机器人【bfd0a122b46f11e7b40d4ba6805d0f92-006-clever】号 => 开始工作","timestamp":"2017-10-19T01:49:31.058Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T01:49:31.058Z"}
+{"level":"info","message":"向空房间 007 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T01:49:31.059Z"}
+{"level":"info","message":"机器人【bfd0c830b46f11e7b40d4ba6805d0f92-007-clever】号 => 开始工作","timestamp":"2017-10-19T01:49:31.059Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T01:49:31.059Z"}
+{"level":"info","message":"向空房间 008 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T01:49:31.059Z"}
+{"level":"info","message":"机器人【bfd0c831b46f11e7b40d4ba6805d0f92-008-clever】号 => 开始工作","timestamp":"2017-10-19T01:49:31.059Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T01:49:31.059Z"}
+{"level":"info","message":"向空房间 009 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T01:49:31.059Z"}
+{"level":"info","message":"机器人【bfd0ef40b46f11e7b40d4ba6805d0f92-009-dummy】号 => 开始工作","timestamp":"2017-10-19T01:49:31.060Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T01:49:31.060Z"}
+{"level":"info","message":"向空房间 010 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:49:31.060Z"}
+{"level":"info","message":"机器人【bfd0ef41b46f11e7b40d4ba6805d0f92-010-clever】号 => 开始工作","timestamp":"2017-10-19T01:49:31.060Z"}
+{"level":"info","message":"机器人 bfd0ef41b46f11e7b40d4ba6805d0f92-010-clever-游客621 加入金币：50000","timestamp":"2017-10-19T01:49:31.432Z"}
+{"level":"info","message":"机器人 bfd0ef40b46f11e7b40d4ba6805d0f92-009-dummy-游客318 加入金币：1000000","timestamp":"2017-10-19T01:49:31.434Z"}
+{"level":"info","message":"机器人 bfd07a10b46f11e7b40d4ba6805d0f92-002-dummy-游客998 加入金币：1000000","timestamp":"2017-10-19T01:49:31.435Z"}
+{"level":"info","message":"机器人 bfd0c830b46f11e7b40d4ba6805d0f92-007-clever-游客335 加入金币：10000","timestamp":"2017-10-19T01:49:31.467Z"}
+{"level":"info","message":"机器人 bfd02bf0b46f11e7b40d4ba6805d0f92-001-clever-游客378 加入金币：500000","timestamp":"2017-10-19T01:49:31.467Z"}
+{"level":"info","message":"机器人 bfd0a120b46f11e7b40d4ba6805d0f92-004-clever-游客130 加入金币：100000","timestamp":"2017-10-19T01:49:31.503Z"}
+{"level":"info","message":"机器人 bfd0a122b46f11e7b40d4ba6805d0f92-006-clever-游客585 加入金币：100000","timestamp":"2017-10-19T01:49:31.504Z"}
+{"level":"info","message":"机器人 bfd0c831b46f11e7b40d4ba6805d0f92-008-clever-游客812 加入金币：50000","timestamp":"2017-10-19T01:49:31.520Z"}
+{"level":"info","message":"机器人 bfd0a121b46f11e7b40d4ba6805d0f92-005-clever-游客722 加入金币：1000000","timestamp":"2017-10-19T01:49:31.521Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T01:49:31.521Z"}
+{"level":"info","message":"机器人 bfd07a11b46f11e7b40d4ba6805d0f92-003-clever-游客119 加入金币：50000","timestamp":"2017-10-19T01:49:31.555Z"}
+{"level":"info","message":"机器人 bfd0ef41b46f11e7b40d4ba6805d0f92-010-clever-游客621 成功进入房间： 010","timestamp":"2017-10-19T01:49:31.590Z"}
+{"level":"info","message":"机器人 bfd0ef40b46f11e7b40d4ba6805d0f92-009-dummy-游客318 成功进入房间： 009","timestamp":"2017-10-19T01:49:31.590Z"}
+{"level":"info","message":"机器人 bfd07a10b46f11e7b40d4ba6805d0f92-002-dummy-游客998 成功进入房间： 002","timestamp":"2017-10-19T01:49:31.590Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T01:49:31.590Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T01:49:31.610Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T01:49:31.616Z"}
+{"level":"info","message":"机器人 bfd0c830b46f11e7b40d4ba6805d0f92-007-clever-游客335 成功进入房间： 007","timestamp":"2017-10-19T01:49:31.617Z"}
+{"level":"info","message":"机器人 bfd02bf0b46f11e7b40d4ba6805d0f92-001-clever-游客378 成功进入房间： 001","timestamp":"2017-10-19T01:49:31.618Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 001","timestamp":"2017-10-19T01:49:31.618Z"}
+{"level":"info","message":"机器人 bfd0a120b46f11e7b40d4ba6805d0f92-004-clever-游客130 成功进入房间： 004","timestamp":"2017-10-19T01:49:31.618Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T01:49:31.619Z"}
+{"level":"info","message":"机器人 bfd0c831b46f11e7b40d4ba6805d0f92-008-clever-游客812 成功进入房间： 008","timestamp":"2017-10-19T01:49:31.620Z"}
+{"level":"info","message":"机器人 bfd0a121b46f11e7b40d4ba6805d0f92-005-clever-游客722 成功进入房间： 005","timestamp":"2017-10-19T01:49:31.620Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T01:49:31.621Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T01:49:31.628Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T01:49:31.632Z"}
+{"level":"info","message":"机器人 bfd0a122b46f11e7b40d4ba6805d0f92-006-clever-游客585 成功进入房间： 006","timestamp":"2017-10-19T01:49:31.635Z"}
+{"level":"info","message":"机器人 bfd07a11b46f11e7b40d4ba6805d0f92-003-clever-游客119 成功进入房间： 003","timestamp":"2017-10-19T01:49:31.635Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T01:49:31.636Z"}
+{"level":"info","message":"机器人 bfd02bf0b46f11e7b40d4ba6805d0f92-001-clever-游客378 =========== 开始新的一局 =========","timestamp":"2017-10-19T01:49:31.881Z"}
+{"level":"info","message":"机器人 bfd02bf0b46f11e7b40d4ba6805d0f92-001-clever-游客378 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T01:49:31.886Z"}
+{"level":"info","message":"机器人 bfd02bf0b46f11e7b40d4ba6805d0f92-001-clever-游客378 押注：{\"bets\":{\"r1\":5000},\"total\":5000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T01:49:31.887Z"}
+{"level":"info","message":"管理机器人【dabd5460-b46f-11e7-8eff-851c9d612500】号 => 开始工作","timestamp":"2017-10-19T01:50:16.231Z"}
+{"level":"info","message":"初始化，向空房间 001 加入机器人","timestamp":"2017-10-19T01:50:16.355Z"}
+{"level":"info","message":"向空房间 001 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T01:50:16.355Z"}
+{"level":"info","message":"机器人【dad08e40b46f11e78eff851c9d612500-001-clever】号 => 开始工作","timestamp":"2017-10-19T01:50:16.356Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T01:50:16.357Z"}
+{"level":"info","message":"向空房间 002 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T01:50:16.357Z"}
+{"level":"info","message":"机器人【dad0b550b46f11e78eff851c9d612500-002-dummy】号 => 开始工作","timestamp":"2017-10-19T01:50:16.357Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T01:50:16.357Z"}
+{"level":"info","message":"向空房间 003 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:50:16.357Z"}
+{"level":"info","message":"机器人【dad0b551b46f11e78eff851c9d612500-003-clever】号 => 开始工作","timestamp":"2017-10-19T01:50:16.357Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T01:50:16.357Z"}
+{"level":"info","message":"向空房间 004 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T01:50:16.357Z"}
+{"level":"info","message":"机器人【dad0b552b46f11e78eff851c9d612500-004-dummy】号 => 开始工作","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"向空房间 005 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"机器人【dad0dc60b46f11e78eff851c9d612500-005-clever】号 => 开始工作","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"向空房间 006 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"机器人【dad0dc61b46f11e78eff851c9d612500-006-dummy】号 => 开始工作","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"向空房间 007 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"机器人【dad0dc62b46f11e78eff851c9d612500-007-dummy】号 => 开始工作","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T01:50:16.358Z"}
+{"level":"info","message":"向空房间 008 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T01:50:16.359Z"}
+{"level":"info","message":"机器人【dad10370b46f11e78eff851c9d612500-008-dummy】号 => 开始工作","timestamp":"2017-10-19T01:50:16.359Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T01:50:16.359Z"}
+{"level":"info","message":"向空房间 009 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T01:50:16.359Z"}
+{"level":"info","message":"机器人【dad10371b46f11e78eff851c9d612500-009-clever】号 => 开始工作","timestamp":"2017-10-19T01:50:16.359Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T01:50:16.359Z"}
+{"level":"info","message":"向空房间 010 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T01:50:16.359Z"}
+{"level":"info","message":"机器人【dad10372b46f11e78eff851c9d612500-010-clever】号 => 开始工作","timestamp":"2017-10-19T01:50:16.359Z"}
+{"level":"info","message":"机器人 dad0b552b46f11e78eff851c9d612500-004-dummy-游客883 加入金币：50000","timestamp":"2017-10-19T01:50:16.754Z"}
+{"level":"info","message":"机器人 dad0b551b46f11e78eff851c9d612500-003-clever-游客501 加入金币：50000","timestamp":"2017-10-19T01:50:16.755Z"}
+{"level":"info","message":"机器人 dad0b550b46f11e78eff851c9d612500-002-dummy-游客755 加入金币：1000000","timestamp":"2017-10-19T01:50:16.756Z"}
+{"level":"info","message":"机器人 dad08e40b46f11e78eff851c9d612500-001-clever-游客862 加入金币：500000","timestamp":"2017-10-19T01:50:16.756Z"}
+{"level":"info","message":"机器人 dad10370b46f11e78eff851c9d612500-008-dummy-游客919 加入金币：50000","timestamp":"2017-10-19T01:50:16.758Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T01:50:16.924Z"}
+{"level":"info","message":"机器人 dad10372b46f11e78eff851c9d612500-010-clever-游客113 加入金币：100000","timestamp":"2017-10-19T01:50:16.926Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T01:50:16.928Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T01:50:16.947Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 001","timestamp":"2017-10-19T01:50:16.976Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T01:50:16.983Z"}
+{"level":"info","message":"机器人 dad0dc61b46f11e78eff851c9d612500-006-dummy-游客615 加入金币：1000000","timestamp":"2017-10-19T01:50:16.983Z"}
+{"level":"info","message":"机器人 dad10371b46f11e78eff851c9d612500-009-clever-游客883 加入金币：500000","timestamp":"2017-10-19T01:50:16.984Z"}
+{"level":"info","message":"机器人 dad0dc62b46f11e78eff851c9d612500-007-dummy-游客484 加入金币：50000","timestamp":"2017-10-19T01:50:16.984Z"}
+{"level":"info","message":"机器人 dad0dc60b46f11e78eff851c9d612500-005-clever-游客393 加入金币：1000000","timestamp":"2017-10-19T01:50:16.984Z"}
+{"level":"info","message":"机器人 dad10372b46f11e78eff851c9d612500-010-clever-游客113 成功进入房间： 010","timestamp":"2017-10-19T01:50:16.985Z"}
+{"level":"info","message":"机器人 dad0b552b46f11e78eff851c9d612500-004-dummy-游客883 成功进入房间： 004","timestamp":"2017-10-19T01:50:16.985Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T01:50:16.985Z"}
+{"level":"info","message":"机器人 dad0b551b46f11e78eff851c9d612500-003-clever-游客501 成功进入房间： 003","timestamp":"2017-10-19T01:50:16.987Z"}
+{"level":"info","message":"机器人 dad0b550b46f11e78eff851c9d612500-002-dummy-游客755 成功进入房间： 002","timestamp":"2017-10-19T01:50:16.989Z"}
+{"level":"info","message":"机器人 dad08e40b46f11e78eff851c9d612500-001-clever-游客862 成功进入房间： 001","timestamp":"2017-10-19T01:50:16.990Z"}
+{"level":"info","message":"机器人 dad10370b46f11e78eff851c9d612500-008-dummy-游客919 成功进入房间： 008","timestamp":"2017-10-19T01:50:16.990Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T01:50:17.152Z"}
+{"level":"info","message":"机器人 dad0dc61b46f11e78eff851c9d612500-006-dummy-游客615 成功进入房间： 006","timestamp":"2017-10-19T01:50:17.153Z"}
+{"level":"info","message":"机器人 dad10371b46f11e78eff851c9d612500-009-clever-游客883 成功进入房间： 009","timestamp":"2017-10-19T01:50:17.156Z"}
+{"level":"info","message":"机器人 dad0dc62b46f11e78eff851c9d612500-007-dummy-游客484 成功进入房间： 007","timestamp":"2017-10-19T01:50:17.160Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T01:50:17.161Z"}
+{"level":"info","message":"机器人 dad0dc60b46f11e78eff851c9d612500-005-clever-游客393 成功进入房间： 005","timestamp":"2017-10-19T01:50:17.161Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T01:50:17.163Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T01:50:17.166Z"}
+{"level":"info","message":"管理机器人【e891cc30-b472-11e7-b6df-738e193a2543】号 => 开始工作","timestamp":"2017-10-19T02:12:07.924Z"}
+{"level":"info","message":"管理机器人【16d7a740-b473-11e7-a198-17c13743eb3c】号 => 开始工作","timestamp":"2017-10-19T02:13:25.557Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:13:25.662Z"}
+{"level":"info","message":"向空房间 002 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:13:25.663Z"}
+{"level":"info","message":"机器人【16e82200b47311e7a19817c13743eb3c-002-dummy】号 => 开始工作","timestamp":"2017-10-19T02:13:25.664Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T02:13:25.664Z"}
+{"level":"info","message":"向空房间 003 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:13:25.664Z"}
+{"level":"info","message":"机器人【16e84910b47311e7a19817c13743eb3c-003-clever】号 => 开始工作","timestamp":"2017-10-19T02:13:25.665Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T02:13:25.665Z"}
+{"level":"info","message":"向空房间 004 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"机器人【16e87020b47311e7a19817c13743eb3c-004-clever】号 => 开始工作","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"向空房间 005 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"机器人【16e87021b47311e7a19817c13743eb3c-005-dummy】号 => 开始工作","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"向空房间 006 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"机器人【16e87022b47311e7a19817c13743eb3c-006-clever】号 => 开始工作","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"向空房间 007 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:13:25.666Z"}
+{"level":"info","message":"机器人【16e89730b47311e7a19817c13743eb3c-007-clever】号 => 开始工作","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"向空房间 008 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"机器人【16e89731b47311e7a19817c13743eb3c-008-dummy】号 => 开始工作","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"向空房间 009 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"机器人【16e89732b47311e7a19817c13743eb3c-009-dummy】号 => 开始工作","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"向空房间 010 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"机器人【16e89733b47311e7a19817c13743eb3c-010-clever】号 => 开始工作","timestamp":"2017-10-19T02:13:25.667Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 加入金币：500000","timestamp":"2017-10-19T02:13:25.835Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 加入金币：50000","timestamp":"2017-10-19T02:13:25.837Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T02:13:25.851Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 成功进入房间： 002","timestamp":"2017-10-19T02:13:25.853Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T02:13:25.853Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 成功进入房间： 003","timestamp":"2017-10-19T02:13:25.854Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 加入金币：10000","timestamp":"2017-10-19T02:13:25.917Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T02:13:25.935Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 成功进入房间： 004","timestamp":"2017-10-19T02:13:25.976Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 加入金币：500000","timestamp":"2017-10-19T02:13:25.986Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 加入金币：50000","timestamp":"2017-10-19T02:13:25.989Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 加入金币：100000","timestamp":"2017-10-19T02:13:25.990Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 加入金币：500000","timestamp":"2017-10-19T02:13:25.991Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 加入金币：50000","timestamp":"2017-10-19T02:13:25.992Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 加入金币：100000","timestamp":"2017-10-19T02:13:26.007Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T02:13:26.019Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 成功进入房间： 008","timestamp":"2017-10-19T02:13:26.037Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T02:13:26.037Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T02:13:26.053Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T02:13:26.063Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T02:13:26.066Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 成功进入房间： 006","timestamp":"2017-10-19T02:13:26.068Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T02:13:26.069Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 成功进入房间： 005","timestamp":"2017-10-19T02:13:26.072Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 成功进入房间： 007","timestamp":"2017-10-19T02:13:26.072Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 成功进入房间： 010","timestamp":"2017-10-19T02:13:26.072Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 成功进入房间： 009","timestamp":"2017-10-19T02:13:26.073Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 profit: 0, totalWin: 0 剩余金币：500000","timestamp":"2017-10-19T02:13:31.317Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 profit: 0, totalWin: 0 剩余金币：50000","timestamp":"2017-10-19T02:13:31.359Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 profit: 0, totalWin: 0 剩余金币：500000","timestamp":"2017-10-19T02:13:31.361Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 profit: 0, totalWin: 0 剩余金币：10000","timestamp":"2017-10-19T02:13:31.387Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 profit: 0, totalWin: 0 剩余金币：100000","timestamp":"2017-10-19T02:13:31.470Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 profit: 0, totalWin: 0 剩余金币：50000","timestamp":"2017-10-19T02:13:31.489Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 profit: 0, totalWin: 0 剩余金币：100000","timestamp":"2017-10-19T02:13:31.534Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 profit: 0, totalWin: 0 剩余金币：500000","timestamp":"2017-10-19T02:13:31.564Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 profit: 0, totalWin: 0 剩余金币：50000","timestamp":"2017-10-19T02:13:31.593Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.308Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.313Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 押注：{\"bets\":{\"l\":5000,\"l2\":5000,\"r2\":5000,\"s1\":5000},\"total\":20000,\"info\":[\"荤菜\",\"鸡爪\",\"莲藕\",\"人参\"]}","timestamp":"2017-10-19T02:13:47.315Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.354Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.358Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.366Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 押注：{\"bets\":{\"r1\":500},\"total\":500,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:13:47.367Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.368Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 押注：{\"bets\":{\"r3\":5000,\"r1\":5000,\"l1\":5000,\"l\":5000},\"total\":20000,\"info\":[\"黄瓜\",\"白菜\",\"耗儿鱼\",\"荤菜\"]}","timestamp":"2017-10-19T02:13:47.369Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.385Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.392Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 押注：{\"bets\":{\"r1\":100},\"total\":100,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:13:47.392Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.469Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.476Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 押注：{\"bets\":{\"r1\":1000,\"r3\":1000},\"total\":2000,\"info\":[\"白菜\",\"黄瓜\"]}","timestamp":"2017-10-19T02:13:47.476Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.487Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.494Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 押注：{\"bets\":{\"r1\":500},\"total\":500,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:13:47.494Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.529Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.536Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 押注：{\"bets\":{\"r\":1000,\"l1\":1000},\"total\":2000,\"info\":[\"素菜\",\"耗儿鱼\"]}","timestamp":"2017-10-19T02:13:47.536Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.560Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.568Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 押注：{\"bets\":{\"r1\":5000},\"total\":5000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:13:47.568Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:13:47.594Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:13:47.600Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 押注：{\"bets\":{\"r1\":500},\"total\":500,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:13:47.601Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 profit: -10000, totalWin: 10000 剩余金币：490000","timestamp":"2017-10-19T02:14:21.291Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 profit: 1500, totalWin: 2000 剩余金币：51500","timestamp":"2017-10-19T02:14:21.301Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 profit: -20000, totalWin: 0 剩余金币：480000","timestamp":"2017-10-19T02:14:21.458Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 profit: 300, totalWin: 400 剩余金币：10300","timestamp":"2017-10-19T02:14:21.463Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 profit: -500, totalWin: 0 剩余金币：49500","timestamp":"2017-10-19T02:14:21.489Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 profit: 0, totalWin: 2000 剩余金币：100000","timestamp":"2017-10-19T02:14:21.493Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 profit: 2000, totalWin: 4000 剩余金币：102000","timestamp":"2017-10-19T02:14:21.520Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 profit: -5000, totalWin: 0 剩余金币：495000","timestamp":"2017-10-19T02:14:21.558Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 profit: -500, totalWin: 0 剩余金币：49500","timestamp":"2017-10-19T02:14:21.627Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 1  roomCode: 001","timestamp":"2017-10-19T02:14:26.960Z"}
+{"level":"info","message":"isRobot: false, isIncrement: false, num: 1, robotNumInRoom: 0 === roomCode: 001","timestamp":"2017-10-19T02:14:26.961Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.289Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.292Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 上局赢了，这局不押","timestamp":"2017-10-19T02:14:37.293Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.298Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.306Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 上局赢了，这局不押","timestamp":"2017-10-19T02:14:37.306Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.454Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.461Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.465Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 押注：{\"bets\":{\"r4\":4800,\"l4\":4800,\"r\":4800,\"l\":4800},\"total\":19200,\"info\":[\"香菇\",\"香菜丸子\",\"素菜\",\"荤菜\"]}","timestamp":"2017-10-19T02:14:37.466Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.469Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 上局赢了，这局不押","timestamp":"2017-10-19T02:14:37.469Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.489Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.490Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.506Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 押注：{\"bets\":{\"r1\":400},\"total\":400,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:14:37.506Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.507Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 上局赢了，这局不押","timestamp":"2017-10-19T02:14:37.507Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.518Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.524Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 上局赢了，这局不押","timestamp":"2017-10-19T02:14:37.525Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.557Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.567Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 押注：{\"bets\":{\"r1\":4900},\"total\":4900,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:14:37.568Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:14:37.629Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:14:37.636Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 押注：{\"bets\":{\"r1\":400},\"total\":400,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:14:37.637Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 profit: 0, totalWin: 0 剩余金币：490000","timestamp":"2017-10-19T02:15:11.316Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 profit: 0, totalWin: 0 剩余金币：51500","timestamp":"2017-10-19T02:15:11.352Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 profit: -9600, totalWin: 9600 剩余金币：470400","timestamp":"2017-10-19T02:15:11.370Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 profit: 0, totalWin: 0 剩余金币：10300","timestamp":"2017-10-19T02:15:11.383Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 profit: 0, totalWin: 0 剩余金币：100000","timestamp":"2017-10-19T02:15:11.471Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 profit: -400, totalWin: 0 剩余金币：49100","timestamp":"2017-10-19T02:15:11.489Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 profit: 0, totalWin: 0 剩余金币：102000","timestamp":"2017-10-19T02:15:11.533Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 profit: -4900, totalWin: 0 剩余金币：490100","timestamp":"2017-10-19T02:15:11.550Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 profit: -400, totalWin: 0 剩余金币：49100","timestamp":"2017-10-19T02:15:11.596Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.315Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.322Z"}
+{"level":"info","message":"机器人 16e82200b47311e7a19817c13743eb3c-002-dummy-游客397 押注：{\"bets\":{\"s2\":4900,\"l\":4900},\"total\":9800,\"info\":[\"霸王蟹\",\"荤菜\"]}","timestamp":"2017-10-19T02:15:27.323Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.351Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.355Z"}
+{"level":"info","message":"机器人 16e84910b47311e7a19817c13743eb3c-003-clever-游客965 押注：{\"bets\":{\"r1\":500},\"total\":500,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:15:27.356Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.364Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.372Z"}
+{"level":"info","message":"机器人 16e89731b47311e7a19817c13743eb3c-008-dummy-游客755 上局赢了，这局不押","timestamp":"2017-10-19T02:15:27.372Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.380Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.386Z"}
+{"level":"info","message":"机器人 16e87020b47311e7a19817c13743eb3c-004-clever-游客885 押注：{\"bets\":{\"r1\":100},\"total\":100,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:15:27.386Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.470Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.474Z"}
+{"level":"info","message":"机器人 16e87021b47311e7a19817c13743eb3c-005-dummy-游客411 押注：{\"bets\":{\"s1\":1000,\"s2\":1000,\"r3\":1000,\"r\":1000},\"total\":4000,\"info\":[\"人参\",\"霸王蟹\",\"黄瓜\",\"素菜\"]}","timestamp":"2017-10-19T02:15:27.475Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.486Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.495Z"}
+{"level":"info","message":"机器人 16e87022b47311e7a19817c13743eb3c-006-clever-游客889 押注：{\"bets\":{\"r1\":400},\"total\":400,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:15:27.495Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.532Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.540Z"}
+{"level":"info","message":"机器人 16e89732b47311e7a19817c13743eb3c-009-dummy-游客855 押注：{\"bets\":{\"r2\":1000,\"r1\":1000},\"total\":2000,\"info\":[\"莲藕\",\"白菜\"]}","timestamp":"2017-10-19T02:15:27.541Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.549Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.556Z"}
+{"level":"info","message":"机器人 16e89730b47311e7a19817c13743eb3c-007-clever-游客691 押注：{\"bets\":{\"r1\":4900},\"total\":4900,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:15:27.556Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:15:27.590Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:15:27.599Z"}
+{"level":"info","message":"机器人 16e89733b47311e7a19817c13743eb3c-010-clever-游客694 押注：{\"bets\":{\"r1\":400},\"total\":400,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:15:27.599Z"}
+{"level":"info","message":"管理机器人【93650780-b473-11e7-9f74-e9fa91b3f49e】号 => 开始工作","timestamp":"2017-10-19T02:16:54.521Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:16:54.636Z"}
+{"level":"info","message":"向空房间 002 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:16:54.637Z"}
+{"level":"info","message":"机器人【9376e1d0b47311e79f74e9fa91b3f49e-002-dummy】号 => 开始工作","timestamp":"2017-10-19T02:16:54.638Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T02:16:54.638Z"}
+{"level":"info","message":"向空房间 003 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:16:54.638Z"}
+{"level":"info","message":"机器人【937708e0b47311e79f74e9fa91b3f49e-003-clever】号 => 开始工作","timestamp":"2017-10-19T02:16:54.638Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T02:16:54.639Z"}
+{"level":"info","message":"向空房间 004 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:16:54.639Z"}
+{"level":"info","message":"机器人【93772ff0b47311e79f74e9fa91b3f49e-004-dummy】号 => 开始工作","timestamp":"2017-10-19T02:16:54.639Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T02:16:54.639Z"}
+{"level":"info","message":"向空房间 005 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:16:54.639Z"}
+{"level":"info","message":"机器人【93772ff1b47311e79f74e9fa91b3f49e-005-dummy】号 => 开始工作","timestamp":"2017-10-19T02:16:54.639Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T02:16:54.639Z"}
+{"level":"info","message":"向空房间 006 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:16:54.639Z"}
+{"level":"info","message":"机器人【93772ff2b47311e79f74e9fa91b3f49e-006-dummy】号 => 开始工作","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"向空房间 007 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"机器人【93775700b47311e79f74e9fa91b3f49e-007-clever】号 => 开始工作","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"向空房间 008 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"机器人【93775701b47311e79f74e9fa91b3f49e-008-dummy】号 => 开始工作","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"向空房间 009 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:16:54.640Z"}
+{"level":"info","message":"机器人【93777e10b47311e79f74e9fa91b3f49e-009-dummy】号 => 开始工作","timestamp":"2017-10-19T02:16:54.641Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T02:16:54.641Z"}
+{"level":"info","message":"向空房间 010 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:16:54.641Z"}
+{"level":"info","message":"机器人【93777e11b47311e79f74e9fa91b3f49e-010-clever】号 => 开始工作","timestamp":"2017-10-19T02:16:54.641Z"}
+{"level":"info","message":"机器人 93772ff1b47311e79f74e9fa91b3f49e-005-dummy-游客096 加入金币：1000000","timestamp":"2017-10-19T02:16:54.915Z"}
+{"level":"info","message":"机器人 93775701b47311e79f74e9fa91b3f49e-008-dummy-游客026 加入金币：500000","timestamp":"2017-10-19T02:16:54.917Z"}
+{"level":"info","message":"机器人 937708e0b47311e79f74e9fa91b3f49e-003-clever-游客195 加入金币：1000000","timestamp":"2017-10-19T02:16:54.919Z"}
+{"level":"info","message":"机器人 93772ff0b47311e79f74e9fa91b3f49e-004-dummy-游客568 加入金币：100000","timestamp":"2017-10-19T02:16:54.930Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T02:16:54.945Z"}
+{"level":"info","message":"机器人 93772ff2b47311e79f74e9fa91b3f49e-006-dummy-游客437 加入金币：10000","timestamp":"2017-10-19T02:16:54.953Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T02:16:54.969Z"}
+{"level":"info","message":"机器人 9376e1d0b47311e79f74e9fa91b3f49e-002-dummy-游客993 加入金币：100000","timestamp":"2017-10-19T02:16:54.981Z"}
+{"level":"info","message":"机器人 93777e11b47311e79f74e9fa91b3f49e-010-clever-游客610 加入金币：50000","timestamp":"2017-10-19T02:16:54.981Z"}
+{"level":"info","message":"机器人 93775700b47311e79f74e9fa91b3f49e-007-clever-游客331 加入金币：100000","timestamp":"2017-10-19T02:16:54.982Z"}
+{"level":"info","message":"机器人 93772ff1b47311e79f74e9fa91b3f49e-005-dummy-游客096 成功进入房间： 005","timestamp":"2017-10-19T02:16:54.984Z"}
+{"level":"info","message":"机器人 93777e10b47311e79f74e9fa91b3f49e-009-dummy-游客909 加入金币：500000","timestamp":"2017-10-19T02:16:54.986Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T02:16:55.028Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T02:16:55.069Z"}
+{"level":"info","message":"机器人 93775701b47311e79f74e9fa91b3f49e-008-dummy-游客026 成功进入房间： 008","timestamp":"2017-10-19T02:16:55.070Z"}
+{"level":"info","message":"机器人 937708e0b47311e79f74e9fa91b3f49e-003-clever-游客195 成功进入房间： 003","timestamp":"2017-10-19T02:16:55.070Z"}
+{"level":"info","message":"机器人 93772ff2b47311e79f74e9fa91b3f49e-006-dummy-游客437 成功进入房间： 006","timestamp":"2017-10-19T02:16:55.081Z"}
+{"level":"info","message":"机器人 9376e1d0b47311e79f74e9fa91b3f49e-002-dummy-游客993 成功进入房间： 002","timestamp":"2017-10-19T02:16:55.082Z"}
+{"level":"info","message":"机器人 93777e11b47311e79f74e9fa91b3f49e-010-clever-游客610 成功进入房间： 010","timestamp":"2017-10-19T02:16:55.083Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T02:16:55.083Z"}
+{"level":"info","message":"机器人 93775700b47311e79f74e9fa91b3f49e-007-clever-游客331 成功进入房间： 007","timestamp":"2017-10-19T02:16:55.084Z"}
+{"level":"info","message":"机器人 93772ff0b47311e79f74e9fa91b3f49e-004-dummy-游客568 成功进入房间： 004","timestamp":"2017-10-19T02:16:55.085Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T02:16:55.086Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T02:16:55.088Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T02:16:55.090Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T02:16:55.091Z"}
+{"level":"info","message":"机器人 93777e10b47311e79f74e9fa91b3f49e-009-dummy-游客909 成功进入房间： 009","timestamp":"2017-10-19T02:16:55.092Z"}
+{"level":"info","message":"管理机器人【c21452c0-b473-11e7-b504-cb6f07cc16bd】号 => 开始工作","timestamp":"2017-10-19T02:18:12.846Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:18:12.957Z"}
+{"level":"info","message":"管理机器人【db0b9ea0-b473-11e7-9e1e-cb599e115ccf】号 => 开始工作","timestamp":"2017-10-19T02:18:54.731Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:18:54.814Z"}
+{"level":"info","message":"管理机器人【f1869fe0-b473-11e7-9a57-51c768957c59】号 => 开始工作","timestamp":"2017-10-19T02:19:32.447Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:19:32.541Z"}
+{"level":"info","message":"管理机器人【0ea6fc00-b474-11e7-a68f-5538fff86041】号 => 开始工作","timestamp":"2017-10-19T02:20:21.313Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:20:21.410Z"}
+{"level":"info","message":"向空房间 002 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:20:21.411Z"}
+{"level":"info","message":"机器人【0eb61730b47411e7a68f5538fff86041-002-clever】号 => 开始工作","timestamp":"2017-10-19T02:20:21.411Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"向空房间 003 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"机器人【0eb63e40b47411e7a68f5538fff86041-003-dummy】号 => 开始工作","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"向空房间 004 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"机器人【0eb63e41b47411e7a68f5538fff86041-004-clever】号 => 开始工作","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"向空房间 005 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"机器人【0eb63e42b47411e7a68f5538fff86041-005-dummy】号 => 开始工作","timestamp":"2017-10-19T02:20:21.412Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"向空房间 006 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"机器人【0eb66550b47411e7a68f5538fff86041-006-clever】号 => 开始工作","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"向空房间 007 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"机器人【0eb66551b47411e7a68f5538fff86041-007-dummy】号 => 开始工作","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"向空房间 008 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"机器人【0eb66552b47411e7a68f5538fff86041-008-dummy】号 => 开始工作","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"向空房间 009 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:20:21.413Z"}
+{"level":"info","message":"机器人【0eb68c60b47411e7a68f5538fff86041-009-dummy】号 => 开始工作","timestamp":"2017-10-19T02:20:21.414Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T02:20:21.414Z"}
+{"level":"info","message":"向空房间 010 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:20:21.414Z"}
+{"level":"info","message":"机器人【0eb68c61b47411e7a68f5538fff86041-010-dummy】号 => 开始工作","timestamp":"2017-10-19T02:20:21.414Z"}
+{"level":"info","message":"机器人 0eb61730b47411e7a68f5538fff86041-002-clever-游客985 加入金币：50000","timestamp":"2017-10-19T02:20:21.621Z"}
+{"level":"info","message":"机器人 0eb63e40b47411e7a68f5538fff86041-003-dummy-游客459 加入金币：1000000","timestamp":"2017-10-19T02:20:21.622Z"}
+{"level":"info","message":"机器人 0eb63e41b47411e7a68f5538fff86041-004-clever-游客000 加入金币：100000","timestamp":"2017-10-19T02:20:21.625Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T02:20:21.646Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T02:20:21.650Z"}
+{"level":"info","message":"机器人 0eb61730b47411e7a68f5538fff86041-002-clever-游客985 成功进入房间： 002","timestamp":"2017-10-19T02:20:21.652Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T02:20:21.652Z"}
+{"level":"info","message":"机器人 0eb63e40b47411e7a68f5538fff86041-003-dummy-游客459 成功进入房间： 003","timestamp":"2017-10-19T02:20:21.656Z"}
+{"level":"info","message":"机器人 0eb63e41b47411e7a68f5538fff86041-004-clever-游客000 成功进入房间： 004","timestamp":"2017-10-19T02:20:21.657Z"}
+{"level":"info","message":"机器人 0eb66550b47411e7a68f5538fff86041-006-clever-游客289 加入金币：100000","timestamp":"2017-10-19T02:20:21.771Z"}
+{"level":"info","message":"机器人 0eb66552b47411e7a68f5538fff86041-008-dummy-游客029 加入金币：50000","timestamp":"2017-10-19T02:20:21.780Z"}
+{"level":"info","message":"机器人 0eb68c61b47411e7a68f5538fff86041-010-dummy-游客470 加入金币：500000","timestamp":"2017-10-19T02:20:21.804Z"}
+{"level":"info","message":"机器人 0eb66551b47411e7a68f5538fff86041-007-dummy-游客354 加入金币：500000","timestamp":"2017-10-19T02:20:21.992Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T02:20:21.999Z"}
+{"level":"info","message":"机器人 0eb66550b47411e7a68f5538fff86041-006-clever-游客289 成功进入房间： 006","timestamp":"2017-10-19T02:20:22.017Z"}
+{"level":"info","message":"机器人 0eb66552b47411e7a68f5538fff86041-008-dummy-游客029 成功进入房间： 008","timestamp":"2017-10-19T02:20:22.019Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T02:20:22.021Z"}
+{"level":"info","message":"机器人 0eb63e42b47411e7a68f5538fff86041-005-dummy-游客218 加入金币：50000","timestamp":"2017-10-19T02:20:22.056Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T02:20:22.068Z"}
+{"level":"info","message":"机器人 0eb68c60b47411e7a68f5538fff86041-009-dummy-游客402 加入金币：500000","timestamp":"2017-10-19T02:20:22.069Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T02:20:22.138Z"}
+{"level":"info","message":"机器人 0eb66551b47411e7a68f5538fff86041-007-dummy-游客354 成功进入房间： 007","timestamp":"2017-10-19T02:20:22.146Z"}
+{"level":"info","message":"机器人 0eb68c61b47411e7a68f5538fff86041-010-dummy-游客470 成功进入房间： 010","timestamp":"2017-10-19T02:20:22.147Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T02:20:22.150Z"}
+{"level":"info","message":"机器人 0eb63e42b47411e7a68f5538fff86041-005-dummy-游客218 成功进入房间： 005","timestamp":"2017-10-19T02:20:22.153Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T02:20:22.156Z"}
+{"level":"info","message":"机器人 0eb68c60b47411e7a68f5538fff86041-009-dummy-游客402 成功进入房间： 009","timestamp":"2017-10-19T02:20:22.171Z"}
+{"level":"info","message":"管理机器人【320892a0-b477-11e7-8ed1-551c795a1b17】号 => 开始工作","timestamp":"2017-10-19T02:42:49.163Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:42:49.254Z"}
+{"level":"info","message":"向空房间 002 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:42:49.254Z"}
+{"level":"info","message":"机器人【3216c370b47711e78ed1551c795a1b17-002-clever】号 => 开始工作","timestamp":"2017-10-19T02:42:49.255Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T02:42:49.255Z"}
+{"level":"info","message":"向空房间 003 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:42:49.255Z"}
+{"level":"info","message":"机器人【3216c371b47711e78ed1551c795a1b17-003-dummy】号 => 开始工作","timestamp":"2017-10-19T02:42:49.255Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"向空房间 004 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"机器人【3216ea80b47711e78ed1551c795a1b17-004-dummy】号 => 开始工作","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"向空房间 005 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"机器人【3216ea81b47711e78ed1551c795a1b17-005-dummy】号 => 开始工作","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"向空房间 006 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"机器人【3216ea82b47711e78ed1551c795a1b17-006-clever】号 => 开始工作","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"向空房间 007 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"机器人【3216ea83b47711e78ed1551c795a1b17-007-clever】号 => 开始工作","timestamp":"2017-10-19T02:42:49.256Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"向空房间 008 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"机器人【32171190b47711e78ed1551c795a1b17-008-dummy】号 => 开始工作","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"向空房间 009 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"机器人【32171191b47711e78ed1551c795a1b17-009-dummy】号 => 开始工作","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"向空房间 010 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"机器人【32171192b47711e78ed1551c795a1b17-010-clever】号 => 开始工作","timestamp":"2017-10-19T02:42:49.257Z"}
+{"level":"info","message":"机器人 3216ea81b47711e78ed1551c795a1b17-005-dummy-游客764 加入金币：50000","timestamp":"2017-10-19T02:42:49.366Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T02:42:49.380Z"}
+{"level":"info","message":"机器人 3216ea81b47711e78ed1551c795a1b17-005-dummy-游客764 成功进入房间： 005","timestamp":"2017-10-19T02:42:49.382Z"}
+{"level":"info","message":"机器人 3216c371b47711e78ed1551c795a1b17-003-dummy-游客080 加入金币：500000","timestamp":"2017-10-19T02:42:49.424Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T02:42:49.436Z"}
+{"level":"info","message":"机器人 3216c371b47711e78ed1551c795a1b17-003-dummy-游客080 成功进入房间： 003","timestamp":"2017-10-19T02:42:49.437Z"}
+{"level":"info","message":"机器人 3216ea80b47711e78ed1551c795a1b17-004-dummy-游客852 加入金币：1000000","timestamp":"2017-10-19T02:42:49.554Z"}
+{"level":"info","message":"机器人 3216ea82b47711e78ed1551c795a1b17-006-clever-游客657 加入金币：500000","timestamp":"2017-10-19T02:42:49.555Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T02:42:49.594Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T02:42:49.596Z"}
+{"level":"info","message":"机器人 32171191b47711e78ed1551c795a1b17-009-dummy-游客493 加入金币：10000","timestamp":"2017-10-19T02:42:49.597Z"}
+{"level":"info","message":"机器人 3216ea82b47711e78ed1551c795a1b17-006-clever-游客657 成功进入房间： 006","timestamp":"2017-10-19T02:42:49.598Z"}
+{"level":"info","message":"机器人 3216ea80b47711e78ed1551c795a1b17-004-dummy-游客852 成功进入房间： 004","timestamp":"2017-10-19T02:42:49.598Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T02:42:49.630Z"}
+{"level":"info","message":"机器人 32171190b47711e78ed1551c795a1b17-008-dummy-游客707 加入金币：50000","timestamp":"2017-10-19T02:42:49.632Z"}
+{"level":"info","message":"机器人 32171191b47711e78ed1551c795a1b17-009-dummy-游客493 成功进入房间： 009","timestamp":"2017-10-19T02:42:49.632Z"}
+{"level":"info","message":"机器人 32171192b47711e78ed1551c795a1b17-010-clever-游客402 加入金币：50000","timestamp":"2017-10-19T02:42:49.633Z"}
+{"level":"info","message":"机器人 3216c370b47711e78ed1551c795a1b17-002-clever-游客069 加入金币：100000","timestamp":"2017-10-19T02:42:49.643Z"}
+{"level":"info","message":"机器人 3216ea83b47711e78ed1551c795a1b17-007-clever-游客805 加入金币：500000","timestamp":"2017-10-19T02:42:49.644Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T02:42:49.696Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T02:42:49.713Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T02:42:49.716Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T02:42:49.720Z"}
+{"level":"info","message":"机器人 32171190b47711e78ed1551c795a1b17-008-dummy-游客707 成功进入房间： 008","timestamp":"2017-10-19T02:42:49.728Z"}
+{"level":"info","message":"机器人 32171192b47711e78ed1551c795a1b17-010-clever-游客402 成功进入房间： 010","timestamp":"2017-10-19T02:42:49.735Z"}
+{"level":"info","message":"机器人 3216c370b47711e78ed1551c795a1b17-002-clever-游客069 成功进入房间： 002","timestamp":"2017-10-19T02:42:49.737Z"}
+{"level":"info","message":"机器人 3216ea83b47711e78ed1551c795a1b17-007-clever-游客805 成功进入房间： 007","timestamp":"2017-10-19T02:42:49.739Z"}
+{"level":"info","message":"机器人 3216ea81b47711e78ed1551c795a1b17-005-dummy-游客764 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.384Z"}
+{"level":"info","message":"机器人 3216ea81b47711e78ed1551c795a1b17-005-dummy-游客764 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.389Z"}
+{"level":"info","message":"机器人 3216ea81b47711e78ed1551c795a1b17-005-dummy-游客764 押注：{\"bets\":{\"l\":500,\"r2\":500},\"total\":1000,\"info\":[\"荤菜\",\"莲藕\"]}","timestamp":"2017-10-19T02:42:51.390Z"}
+{"level":"info","message":"机器人 3216c371b47711e78ed1551c795a1b17-003-dummy-游客080 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.437Z"}
+{"level":"info","message":"机器人 3216c371b47711e78ed1551c795a1b17-003-dummy-游客080 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.446Z"}
+{"level":"info","message":"机器人 3216c371b47711e78ed1551c795a1b17-003-dummy-游客080 押注：{\"bets\":{\"r3\":5000,\"l3\":5000},\"total\":10000,\"info\":[\"黄瓜\",\"牛肉\"]}","timestamp":"2017-10-19T02:42:51.446Z"}
+{"level":"info","message":"机器人 3216ea80b47711e78ed1551c795a1b17-004-dummy-游客852 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.583Z"}
+{"level":"info","message":"机器人 3216ea82b47711e78ed1551c795a1b17-006-clever-游客657 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.590Z"}
+{"level":"info","message":"机器人 3216ea80b47711e78ed1551c795a1b17-004-dummy-游客852 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.600Z"}
+{"level":"info","message":"机器人 3216ea80b47711e78ed1551c795a1b17-004-dummy-游客852 押注：{\"bets\":{\"r4\":10000,\"r\":10000,\"l1\":10000},\"total\":30000,\"info\":[\"香菇\",\"素菜\",\"耗儿鱼\"]}","timestamp":"2017-10-19T02:42:51.601Z"}
+{"level":"info","message":"机器人 3216ea82b47711e78ed1551c795a1b17-006-clever-游客657 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.603Z"}
+{"level":"info","message":"机器人 3216ea82b47711e78ed1551c795a1b17-006-clever-游客657 押注：{\"bets\":{\"r1\":5000},\"total\":5000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:42:51.603Z"}
+{"level":"info","message":"机器人 32171191b47711e78ed1551c795a1b17-009-dummy-游客493 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.624Z"}
+{"level":"info","message":"机器人 32171191b47711e78ed1551c795a1b17-009-dummy-游客493 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.632Z"}
+{"level":"info","message":"机器人 32171191b47711e78ed1551c795a1b17-009-dummy-游客493 押注：{\"bets\":{\"l\":100,\"l1\":100,\"r3\":100},\"total\":300,\"info\":[\"荤菜\",\"耗儿鱼\",\"黄瓜\"]}","timestamp":"2017-10-19T02:42:51.632Z"}
+{"level":"info","message":"机器人 32171190b47711e78ed1551c795a1b17-008-dummy-游客707 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.713Z"}
+{"level":"info","message":"机器人 32171192b47711e78ed1551c795a1b17-010-clever-游客402 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.713Z"}
+{"level":"info","message":"机器人 3216c370b47711e78ed1551c795a1b17-002-clever-游客069 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.724Z"}
+{"level":"info","message":"机器人 32171192b47711e78ed1551c795a1b17-010-clever-游客402 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.733Z"}
+{"level":"info","message":"机器人 32171192b47711e78ed1551c795a1b17-010-clever-游客402 押注：{\"bets\":{\"r1\":500},\"total\":500,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:42:51.733Z"}
+{"level":"info","message":"机器人 3216ea83b47711e78ed1551c795a1b17-007-clever-游客805 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:42:51.735Z"}
+{"level":"info","message":"机器人 32171190b47711e78ed1551c795a1b17-008-dummy-游客707 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.736Z"}
+{"level":"info","message":"机器人 32171190b47711e78ed1551c795a1b17-008-dummy-游客707 押注：{\"bets\":{\"l4\":500,\"r4\":500,\"s1\":500,\"r3\":500},\"total\":2000,\"info\":[\"香菜丸子\",\"香菇\",\"人参\",\"黄瓜\"]}","timestamp":"2017-10-19T02:42:51.737Z"}
+{"level":"info","message":"机器人 3216c370b47711e78ed1551c795a1b17-002-clever-游客069 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.738Z"}
+{"level":"info","message":"机器人 3216c370b47711e78ed1551c795a1b17-002-clever-游客069 押注：{\"bets\":{\"r1\":1000},\"total\":1000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:42:51.739Z"}
+{"level":"info","message":"机器人 3216ea83b47711e78ed1551c795a1b17-007-clever-游客805 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:42:51.744Z"}
+{"level":"info","message":"机器人 3216ea83b47711e78ed1551c795a1b17-007-clever-游客805 押注：{\"bets\":{\"r1\":5000},\"total\":5000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:42:51.745Z"}
+{"level":"info","message":"机器人 3216ea81b47711e78ed1551c795a1b17-005-dummy-游客764 profit: 0, totalWin: 1000 剩余金币：50000","timestamp":"2017-10-19T02:43:23.385Z"}
+{"level":"info","message":"机器人 3216c371b47711e78ed1551c795a1b17-003-dummy-游客080 profit: -10000, totalWin: 0 剩余金币：490000","timestamp":"2017-10-19T02:43:23.435Z"}
+{"level":"info","message":"机器人 3216ea80b47711e78ed1551c795a1b17-004-dummy-游客852 profit: -30000, totalWin: 0 剩余金币：970000","timestamp":"2017-10-19T02:43:23.585Z"}
+{"level":"info","message":"机器人 3216ea82b47711e78ed1551c795a1b17-006-clever-游客657 profit: -5000, totalWin: 0 剩余金币：495000","timestamp":"2017-10-19T02:43:23.594Z"}
+{"level":"info","message":"机器人 32171191b47711e78ed1551c795a1b17-009-dummy-游客493 profit: 900, totalWin: 1200 剩余金币：10900","timestamp":"2017-10-19T02:43:23.622Z"}
+{"level":"info","message":"机器人 32171190b47711e78ed1551c795a1b17-008-dummy-游客707 profit: 7000, totalWin: 9000 剩余金币：57000","timestamp":"2017-10-19T02:43:23.717Z"}
+{"level":"info","message":"机器人 32171192b47711e78ed1551c795a1b17-010-clever-游客402 profit: 2500, totalWin: 3000 剩余金币：52500","timestamp":"2017-10-19T02:43:23.723Z"}
+{"level":"info","message":"机器人 3216ea83b47711e78ed1551c795a1b17-007-clever-游客805 profit: -5000, totalWin: 0 剩余金币：495000","timestamp":"2017-10-19T02:43:23.731Z"}
+{"level":"info","message":"机器人 3216c370b47711e78ed1551c795a1b17-002-clever-游客069 profit: -1000, totalWin: 0 剩余金币：99000","timestamp":"2017-10-19T02:43:23.734Z"}
+{"level":"info","message":"管理机器人【b62d27d0-b477-11e7-8521-c598f94d3ce6】号 => 开始工作","timestamp":"2017-10-19T02:46:30.862Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:46:30.955Z"}
+{"level":"info","message":"向空房间 002 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:46:30.955Z"}
+{"level":"info","message":"机器人【b63ba6c0b47711e78521c598f94d3ce6-002-dummy】号 => 开始工作","timestamp":"2017-10-19T02:46:30.956Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T02:46:30.956Z"}
+{"level":"info","message":"向空房间 003 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:46:30.956Z"}
+{"level":"info","message":"机器人【b63bcdd0b47711e78521c598f94d3ce6-003-dummy】号 => 开始工作","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"向空房间 004 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"机器人【b63bcdd1b47711e78521c598f94d3ce6-004-clever】号 => 开始工作","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"向空房间 005 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"机器人【b63bcdd2b47711e78521c598f94d3ce6-005-dummy】号 => 开始工作","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"向空房间 006 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"机器人【b63bcdd3b47711e78521c598f94d3ce6-006-dummy】号 => 开始工作","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T02:46:30.957Z"}
+{"level":"info","message":"向空房间 007 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"机器人【b63bf4e0b47711e78521c598f94d3ce6-007-clever】号 => 开始工作","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"向空房间 008 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"机器人【b63bf4e1b47711e78521c598f94d3ce6-008-clever】号 => 开始工作","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"向空房间 009 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"机器人【b63bf4e2b47711e78521c598f94d3ce6-009-dummy】号 => 开始工作","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"向空房间 010 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"机器人【b63bf4e3b47711e78521c598f94d3ce6-010-clever】号 => 开始工作","timestamp":"2017-10-19T02:46:30.958Z"}
+{"level":"info","message":"机器人 b63bcdd1b47711e78521c598f94d3ce6-004-clever-游客256 加入金币：500000","timestamp":"2017-10-19T02:46:31.106Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T02:46:31.144Z"}
+{"level":"info","message":"机器人 b63bcdd0b47711e78521c598f94d3ce6-003-dummy-游客757 加入金币：100000","timestamp":"2017-10-19T02:46:31.165Z"}
+{"level":"info","message":"机器人 b63bcdd1b47711e78521c598f94d3ce6-004-clever-游客256 成功进入房间： 004","timestamp":"2017-10-19T02:46:31.167Z"}
+{"level":"info","message":"机器人 b63ba6c0b47711e78521c598f94d3ce6-002-dummy-游客897 加入金币：500000","timestamp":"2017-10-19T02:46:31.169Z"}
+{"level":"info","message":"机器人 b63bf4e2b47711e78521c598f94d3ce6-009-dummy-游客053 加入金币：100000","timestamp":"2017-10-19T02:46:31.170Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T02:46:31.193Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T02:46:31.211Z"}
+{"level":"info","message":"机器人 b63bcdd0b47711e78521c598f94d3ce6-003-dummy-游客757 成功进入房间： 003","timestamp":"2017-10-19T02:46:31.228Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T02:46:31.228Z"}
+{"level":"info","message":"机器人 b63ba6c0b47711e78521c598f94d3ce6-002-dummy-游客897 成功进入房间： 002","timestamp":"2017-10-19T02:46:31.231Z"}
+{"level":"info","message":"机器人 b63bf4e1b47711e78521c598f94d3ce6-008-clever-游客054 加入金币：1000000","timestamp":"2017-10-19T02:46:31.233Z"}
+{"level":"info","message":"机器人 b63bf4e2b47711e78521c598f94d3ce6-009-dummy-游客053 成功进入房间： 009","timestamp":"2017-10-19T02:46:31.235Z"}
+{"level":"info","message":"机器人 b63bcdd3b47711e78521c598f94d3ce6-006-dummy-游客597 加入金币：50000","timestamp":"2017-10-19T02:46:31.300Z"}
+{"level":"info","message":"机器人 b63bcdd2b47711e78521c598f94d3ce6-005-dummy-游客533 加入金币：1000000","timestamp":"2017-10-19T02:46:31.303Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T02:46:31.304Z"}
+{"level":"info","message":"机器人 b63bf4e0b47711e78521c598f94d3ce6-007-clever-游客743 加入金币：1000000","timestamp":"2017-10-19T02:46:31.326Z"}
+{"level":"info","message":"机器人 b63bf4e1b47711e78521c598f94d3ce6-008-clever-游客054 成功进入房间： 008","timestamp":"2017-10-19T02:46:31.342Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T02:46:31.343Z"}
+{"level":"info","message":"机器人 b63bf4e3b47711e78521c598f94d3ce6-010-clever-游客195 加入金币：10000","timestamp":"2017-10-19T02:46:31.345Z"}
+{"level":"info","message":"机器人 b63bcdd3b47711e78521c598f94d3ce6-006-dummy-游客597 成功进入房间： 006","timestamp":"2017-10-19T02:46:31.352Z"}
+{"level":"info","message":"机器人 b63bcdd2b47711e78521c598f94d3ce6-005-dummy-游客533 成功进入房间： 005","timestamp":"2017-10-19T02:46:31.353Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T02:46:31.361Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T02:46:31.371Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T02:46:31.374Z"}
+{"level":"info","message":"机器人 b63bf4e0b47711e78521c598f94d3ce6-007-clever-游客743 成功进入房间： 007","timestamp":"2017-10-19T02:46:31.374Z"}
+{"level":"info","message":"机器人 b63bf4e3b47711e78521c598f94d3ce6-010-clever-游客195 成功进入房间： 010","timestamp":"2017-10-19T02:46:31.375Z"}
+{"level":"info","message":"机器人 b63bcdd2b47711e78521c598f94d3ce6-005-dummy-游客533 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:46:31.393Z"}
+{"level":"info","message":"机器人 b63bcdd2b47711e78521c598f94d3ce6-005-dummy-游客533 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:46:31.398Z"}
+{"level":"info","message":"机器人 b63bcdd2b47711e78521c598f94d3ce6-005-dummy-游客533 押注：{\"bets\":{\"s2\":10000,\"l4\":10000,\"r4\":10000},\"total\":30000,\"info\":[\"霸王蟹\",\"香菜丸子\",\"香菇\"]}","timestamp":"2017-10-19T02:46:31.398Z"}
+{"level":"info","message":"机器人 b63bcdd0b47711e78521c598f94d3ce6-003-dummy-游客757 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:46:31.459Z"}
+{"level":"info","message":"机器人 b63bcdd0b47711e78521c598f94d3ce6-003-dummy-游客757 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:46:31.464Z"}
+{"level":"info","message":"机器人 b63bcdd0b47711e78521c598f94d3ce6-003-dummy-游客757 押注：{\"bets\":{\"l\":1000,\"r4\":1000,\"r1\":1000,\"r\":1000},\"total\":4000,\"info\":[\"荤菜\",\"香菇\",\"白菜\",\"素菜\"]}","timestamp":"2017-10-19T02:46:31.464Z"}
+{"level":"info","message":"机器人 b63bcdd1b47711e78521c598f94d3ce6-004-clever-游客256 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:46:31.603Z"}
+{"level":"info","message":"机器人 b63bcdd3b47711e78521c598f94d3ce6-006-dummy-游客597 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:46:31.604Z"}
+{"level":"info","message":"机器人 b63bcdd1b47711e78521c598f94d3ce6-004-clever-游客256 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:46:31.612Z"}
+{"level":"info","message":"机器人 b63bcdd1b47711e78521c598f94d3ce6-004-clever-游客256 押注：{\"bets\":{\"r1\":5000},\"total\":5000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:46:31.612Z"}
+{"level":"info","message":"机器人 b63bcdd3b47711e78521c598f94d3ce6-006-dummy-游客597 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:46:31.613Z"}
+{"level":"info","message":"机器人 b63bcdd3b47711e78521c598f94d3ce6-006-dummy-游客597 押注：{\"bets\":{\"s2\":500,\"l\":500,\"r1\":500},\"total\":1500,\"info\":[\"霸王蟹\",\"荤菜\",\"白菜\"]}","timestamp":"2017-10-19T02:46:31.613Z"}
+{"level":"info","message":"机器人 b63bf4e2b47711e78521c598f94d3ce6-009-dummy-游客053 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:46:31.628Z"}
+{"level":"info","message":"机器人 b63bf4e2b47711e78521c598f94d3ce6-009-dummy-游客053 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:46:31.634Z"}
+{"level":"info","message":"机器人 b63bf4e2b47711e78521c598f94d3ce6-009-dummy-游客053 押注：{\"bets\":{\"r3\":1000,\"r4\":1000},\"total\":2000,\"info\":[\"黄瓜\",\"香菇\"]}","timestamp":"2017-10-19T02:46:31.634Z"}
+{"level":"info","message":"管理机器人【03e45e70-b479-11e7-a061-9bad8d563a27】号 => 开始工作","timestamp":"2017-10-19T02:55:50.744Z"}
+{"level":"error","message":"管理机器人【03e45e70-b479-11e7-a061-9bad8d563a27】行动失败 , 原因: TypeError: Cannot read property 'addListener' of undefined","timestamp":"2017-10-19T02:55:50.747Z"}
+{"level":"info","message":"管理机器人【0abe0fc0-b479-11e7-b431-cf6cfdb92d09】号 => 开始工作","timestamp":"2017-10-19T02:56:02.238Z"}
+{"level":"info","message":"初始化，向空房间 001 加入机器人","timestamp":"2017-10-19T02:56:02.342Z"}
+{"level":"info","message":"向空房间 001 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:56:02.343Z"}
+{"level":"info","message":"机器人【0aceb190b47911e7b431cf6cfdb92d09-001-clever】号 => 开始工作","timestamp":"2017-10-19T02:56:02.345Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T02:56:02.346Z"}
+{"level":"info","message":"向空房间 002 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:56:02.346Z"}
+{"level":"info","message":"机器人【0aceffb0b47911e7b431cf6cfdb92d09-002-dummy】号 => 开始工作","timestamp":"2017-10-19T02:56:02.347Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T02:56:02.347Z"}
+{"level":"info","message":"向空房间 003 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:56:02.347Z"}
+{"level":"info","message":"机器人【0aceffb1b47911e7b431cf6cfdb92d09-003-dummy】号 => 开始工作","timestamp":"2017-10-19T02:56:02.347Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T02:56:02.348Z"}
+{"level":"info","message":"向空房间 004 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:56:02.348Z"}
+{"level":"info","message":"机器人【0acf26c0b47911e7b431cf6cfdb92d09-004-clever】号 => 开始工作","timestamp":"2017-10-19T02:56:02.348Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T02:56:02.348Z"}
+{"level":"info","message":"向空房间 005 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:56:02.348Z"}
+{"level":"info","message":"机器人【0acf26c1b47911e7b431cf6cfdb92d09-005-clever】号 => 开始工作","timestamp":"2017-10-19T02:56:02.348Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T02:56:02.349Z"}
+{"level":"info","message":"向空房间 006 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:56:02.349Z"}
+{"level":"info","message":"机器人【0acf4dd0b47911e7b431cf6cfdb92d09-006-dummy】号 => 开始工作","timestamp":"2017-10-19T02:56:02.349Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T02:56:02.349Z"}
+{"level":"info","message":"向空房间 007 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:56:02.349Z"}
+{"level":"info","message":"机器人【0acf4dd1b47911e7b431cf6cfdb92d09-007-dummy】号 => 开始工作","timestamp":"2017-10-19T02:56:02.350Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T02:56:02.350Z"}
+{"level":"info","message":"向空房间 008 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T02:56:02.350Z"}
+{"level":"info","message":"机器人【0acf74e0b47911e7b431cf6cfdb92d09-008-dummy】号 => 开始工作","timestamp":"2017-10-19T02:56:02.350Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T02:56:02.350Z"}
+{"level":"info","message":"向空房间 009 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T02:56:02.351Z"}
+{"level":"info","message":"机器人【0acf9bf0b47911e7b431cf6cfdb92d09-009-clever】号 => 开始工作","timestamp":"2017-10-19T02:56:02.351Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T02:56:02.351Z"}
+{"level":"info","message":"向空房间 010 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T02:56:02.351Z"}
+{"level":"info","message":"机器人【0acf9bf1b47911e7b431cf6cfdb92d09-010-clever】号 => 开始工作","timestamp":"2017-10-19T02:56:02.351Z"}
+{"level":"info","message":"机器人 0aceffb1b47911e7b431cf6cfdb92d09-003-dummy-游客238 加入金币：100000","timestamp":"2017-10-19T02:56:02.541Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T02:56:02.563Z"}
+{"level":"info","message":"机器人 0aceffb1b47911e7b431cf6cfdb92d09-003-dummy-游客238 成功进入房间： 003","timestamp":"2017-10-19T02:56:02.563Z"}
+{"level":"info","message":"机器人 0aceffb0b47911e7b431cf6cfdb92d09-002-dummy-游客141 加入金币：100000","timestamp":"2017-10-19T02:56:02.583Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T02:56:02.622Z"}
+{"level":"info","message":"机器人 0acf4dd1b47911e7b431cf6cfdb92d09-007-dummy-游客909 加入金币：1000000","timestamp":"2017-10-19T02:56:02.627Z"}
+{"level":"info","message":"机器人 0acf74e0b47911e7b431cf6cfdb92d09-008-dummy-游客223 加入金币：100000","timestamp":"2017-10-19T02:56:02.629Z"}
+{"level":"info","message":"机器人 0aceffb0b47911e7b431cf6cfdb92d09-002-dummy-游客141 成功进入房间： 002","timestamp":"2017-10-19T02:56:02.630Z"}
+{"level":"info","message":"机器人 0acf4dd0b47911e7b431cf6cfdb92d09-006-dummy-游客099 加入金币：1000000","timestamp":"2017-10-19T02:56:02.630Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T02:56:02.689Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T02:56:02.691Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T02:56:02.700Z"}
+{"level":"info","message":"机器人 0acf4dd1b47911e7b431cf6cfdb92d09-007-dummy-游客909 成功进入房间： 007","timestamp":"2017-10-19T02:56:02.704Z"}
+{"level":"info","message":"机器人 0acf74e0b47911e7b431cf6cfdb92d09-008-dummy-游客223 成功进入房间： 008","timestamp":"2017-10-19T02:56:02.704Z"}
+{"level":"info","message":"机器人 0acf4dd0b47911e7b431cf6cfdb92d09-006-dummy-游客099 成功进入房间： 006","timestamp":"2017-10-19T02:56:02.715Z"}
+{"level":"info","message":"机器人 0acf9bf0b47911e7b431cf6cfdb92d09-009-clever-游客972 加入金币：10000","timestamp":"2017-10-19T02:56:02.716Z"}
+{"level":"info","message":"机器人 0aceb190b47911e7b431cf6cfdb92d09-001-clever-游客273 加入金币：500000","timestamp":"2017-10-19T02:56:02.720Z"}
+{"level":"info","message":"机器人 0acf26c1b47911e7b431cf6cfdb92d09-005-clever-游客888 加入金币：1000000","timestamp":"2017-10-19T02:56:02.726Z"}
+{"level":"info","message":"机器人 0acf26c0b47911e7b431cf6cfdb92d09-004-clever-游客313 加入金币：50000","timestamp":"2017-10-19T02:56:02.730Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T02:56:02.754Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 001","timestamp":"2017-10-19T02:56:02.756Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T02:56:02.757Z"}
+{"level":"info","message":"机器人 0acf9bf0b47911e7b431cf6cfdb92d09-009-clever-游客972 成功进入房间： 009","timestamp":"2017-10-19T02:56:02.766Z"}
+{"level":"info","message":"机器人 0aceb190b47911e7b431cf6cfdb92d09-001-clever-游客273 成功进入房间： 001","timestamp":"2017-10-19T02:56:02.766Z"}
+{"level":"info","message":"机器人 0acf26c1b47911e7b431cf6cfdb92d09-005-clever-游客888 成功进入房间： 005","timestamp":"2017-10-19T02:56:02.766Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T02:56:02.774Z"}
+{"level":"info","message":"机器人 0acf26c0b47911e7b431cf6cfdb92d09-004-clever-游客313 成功进入房间： 004","timestamp":"2017-10-19T02:56:02.783Z"}
+{"level":"info","message":"机器人 0acf9bf1b47911e7b431cf6cfdb92d09-010-clever-游客576 加入金币：100000","timestamp":"2017-10-19T02:56:02.783Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T02:56:02.794Z"}
+{"level":"info","message":"机器人 0acf9bf1b47911e7b431cf6cfdb92d09-010-clever-游客576 成功进入房间： 010","timestamp":"2017-10-19T02:56:02.803Z"}
+{"level":"info","message":"机器人 0aceb190b47911e7b431cf6cfdb92d09-001-clever-游客273 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:08.298Z"}
+{"level":"info","message":"机器人 0aceb190b47911e7b431cf6cfdb92d09-001-clever-游客273 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:08.305Z"}
+{"level":"info","message":"机器人 0aceb190b47911e7b431cf6cfdb92d09-001-clever-游客273 押注：{\"bets\":{\"r1\":5000},\"total\":5000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:56:08.306Z"}
+{"level":"info","message":"机器人 0acf26c1b47911e7b431cf6cfdb92d09-005-clever-游客888 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.447Z"}
+{"level":"info","message":"机器人 0acf26c1b47911e7b431cf6cfdb92d09-005-clever-游客888 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.456Z"}
+{"level":"info","message":"机器人 0acf26c1b47911e7b431cf6cfdb92d09-005-clever-游客888 押注：{\"bets\":{\"r1\":10000},\"total\":10000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:56:09.459Z"}
+{"level":"info","message":"机器人 0aceffb1b47911e7b431cf6cfdb92d09-003-dummy-游客238 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.470Z"}
+{"level":"info","message":"机器人 0aceffb1b47911e7b431cf6cfdb92d09-003-dummy-游客238 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.476Z"}
+{"level":"info","message":"机器人 0aceffb1b47911e7b431cf6cfdb92d09-003-dummy-游客238 押注：{\"bets\":{\"l1\":1000,\"l\":1000},\"total\":2000,\"info\":[\"耗儿鱼\",\"荤菜\"]}","timestamp":"2017-10-19T02:56:09.478Z"}
+{"level":"info","message":"机器人 0acf26c0b47911e7b431cf6cfdb92d09-004-clever-游客313 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.614Z"}
+{"level":"info","message":"机器人 0acf4dd0b47911e7b431cf6cfdb92d09-006-dummy-游客099 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.619Z"}
+{"level":"info","message":"机器人 0acf26c0b47911e7b431cf6cfdb92d09-004-clever-游客313 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.623Z"}
+{"level":"info","message":"机器人 0acf26c0b47911e7b431cf6cfdb92d09-004-clever-游客313 押注：{\"bets\":{\"r1\":500},\"total\":500,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:56:09.623Z"}
+{"level":"info","message":"机器人 0acf4dd0b47911e7b431cf6cfdb92d09-006-dummy-游客099 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.626Z"}
+{"level":"info","message":"机器人 0acf4dd0b47911e7b431cf6cfdb92d09-006-dummy-游客099 押注：{\"bets\":{\"l\":10000,\"l1\":10000,\"s2\":10000},\"total\":30000,\"info\":[\"荤菜\",\"耗儿鱼\",\"霸王蟹\"]}","timestamp":"2017-10-19T02:56:09.626Z"}
+{"level":"info","message":"机器人 0acf9bf0b47911e7b431cf6cfdb92d09-009-clever-游客972 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.673Z"}
+{"level":"info","message":"机器人 0acf9bf0b47911e7b431cf6cfdb92d09-009-clever-游客972 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.681Z"}
+{"level":"info","message":"机器人 0acf9bf0b47911e7b431cf6cfdb92d09-009-clever-游客972 押注：{\"bets\":{\"r1\":100},\"total\":100,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:56:09.682Z"}
+{"level":"info","message":"机器人 0acf74e0b47911e7b431cf6cfdb92d09-008-dummy-游客223 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.785Z"}
+{"level":"info","message":"机器人 0acf74e0b47911e7b431cf6cfdb92d09-008-dummy-游客223 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.794Z"}
+{"level":"info","message":"机器人 0acf74e0b47911e7b431cf6cfdb92d09-008-dummy-游客223 押注：{\"bets\":{\"l1\":1000,\"l3\":1000,\"r1\":1000},\"total\":3000,\"info\":[\"耗儿鱼\",\"牛肉\",\"白菜\"]}","timestamp":"2017-10-19T02:56:09.794Z"}
+{"level":"info","message":"机器人 0acf9bf1b47911e7b431cf6cfdb92d09-010-clever-游客576 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.799Z"}
+{"level":"info","message":"机器人 0acf9bf1b47911e7b431cf6cfdb92d09-010-clever-游客576 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.806Z"}
+{"level":"info","message":"机器人 0acf9bf1b47911e7b431cf6cfdb92d09-010-clever-游客576 押注：{\"bets\":{\"r1\":1000},\"total\":1000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T02:56:09.806Z"}
+{"level":"info","message":"机器人 0acf4dd1b47911e7b431cf6cfdb92d09-007-dummy-游客909 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.860Z"}
+{"level":"info","message":"机器人 0acf4dd1b47911e7b431cf6cfdb92d09-007-dummy-游客909 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.865Z"}
+{"level":"info","message":"机器人 0acf4dd1b47911e7b431cf6cfdb92d09-007-dummy-游客909 押注：{\"bets\":{\"r\":10000,\"l2\":10000,\"l\":10000,\"r1\":10000},\"total\":40000,\"info\":[\"素菜\",\"鸡爪\",\"荤菜\",\"白菜\"]}","timestamp":"2017-10-19T02:56:09.865Z"}
+{"level":"info","message":"机器人 0aceffb0b47911e7b431cf6cfdb92d09-002-dummy-游客141 =========== 开始新的一局 =========","timestamp":"2017-10-19T02:56:09.906Z"}
+{"level":"info","message":"机器人 0aceffb0b47911e7b431cf6cfdb92d09-002-dummy-游客141 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T02:56:09.914Z"}
+{"level":"info","message":"机器人 0aceffb0b47911e7b431cf6cfdb92d09-002-dummy-游客141 押注：{\"bets\":{\"s2\":1000,\"r\":1000},\"total\":2000,\"info\":[\"霸王蟹\",\"素菜\"]}","timestamp":"2017-10-19T02:56:09.915Z"}
+{"level":"info","message":"管理机器人【9bb2ac70-b479-11e7-97e6-2fe2bff14e84】号 => 开始工作","timestamp":"2017-10-19T03:00:05.432Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T03:00:05.579Z"}
+{"level":"info","message":"向空房间 002 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T03:00:05.581Z"}
+{"level":"info","message":"机器人【9bc9b6e0b47911e797e62fe2bff14e84-002-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:05.582Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T03:00:05.582Z"}
+{"level":"info","message":"向空房间 003 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T03:00:05.583Z"}
+{"level":"info","message":"机器人【9bc9ddf0b47911e797e62fe2bff14e84-003-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:05.583Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T03:00:05.583Z"}
+{"level":"info","message":"向空房间 004 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T03:00:05.583Z"}
+{"level":"info","message":"机器人【9bc9ddf1b47911e797e62fe2bff14e84-004-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:05.583Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T03:00:05.584Z"}
+{"level":"info","message":"向空房间 005 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T03:00:05.584Z"}
+{"level":"info","message":"机器人【9bca0500b47911e797e62fe2bff14e84-005-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:05.584Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T03:00:05.584Z"}
+{"level":"info","message":"向空房间 006 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T03:00:05.584Z"}
+{"level":"info","message":"机器人【9bca0501b47911e797e62fe2bff14e84-006-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:05.584Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T03:00:05.584Z"}
+{"level":"info","message":"向空房间 007 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T03:00:05.584Z"}
+{"level":"info","message":"机器人【9bca2c10b47911e797e62fe2bff14e84-007-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:05.585Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T03:00:05.585Z"}
+{"level":"info","message":"向空房间 008 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T03:00:05.585Z"}
+{"level":"info","message":"机器人【9bca2c11b47911e797e62fe2bff14e84-008-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:05.585Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T03:00:05.585Z"}
+{"level":"info","message":"向空房间 009 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T03:00:05.585Z"}
+{"level":"info","message":"机器人【9bca2c12b47911e797e62fe2bff14e84-009-clever】号 => 开始工作","timestamp":"2017-10-19T03:00:05.585Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T03:00:05.586Z"}
+{"level":"info","message":"向空房间 010 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T03:00:05.586Z"}
+{"level":"info","message":"机器人【9bca5320b47911e797e62fe2bff14e84-010-clever】号 => 开始工作","timestamp":"2017-10-19T03:00:05.586Z"}
+{"level":"info","message":"机器人 9bc9ddf0b47911e797e62fe2bff14e84-003-dummy-游客059 加入金币：100000","timestamp":"2017-10-19T03:00:05.842Z"}
+{"level":"info","message":"机器人 9bca0501b47911e797e62fe2bff14e84-006-dummy-游客856 加入金币：500000","timestamp":"2017-10-19T03:00:05.860Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T03:00:05.871Z"}
+{"level":"info","message":"机器人 9bca2c10b47911e797e62fe2bff14e84-007-dummy-游客049 加入金币：1000000","timestamp":"2017-10-19T03:00:05.878Z"}
+{"level":"info","message":"机器人 9bc9ddf0b47911e797e62fe2bff14e84-003-dummy-游客059 成功进入房间： 003","timestamp":"2017-10-19T03:00:05.882Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T03:00:05.988Z"}
+{"level":"info","message":"机器人 9bc9ddf1b47911e797e62fe2bff14e84-004-dummy-游客577 加入金币：500000","timestamp":"2017-10-19T03:00:05.992Z"}
+{"level":"info","message":"机器人 9bca2c11b47911e797e62fe2bff14e84-008-dummy-游客195 加入金币：1000000","timestamp":"2017-10-19T03:00:05.994Z"}
+{"level":"info","message":"机器人 9bc9b6e0b47911e797e62fe2bff14e84-002-dummy-游客358 加入金币：500000","timestamp":"2017-10-19T03:00:05.996Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T03:00:05.997Z"}
+{"level":"info","message":"机器人 9bca5320b47911e797e62fe2bff14e84-010-clever-游客203 加入金币：10000","timestamp":"2017-10-19T03:00:05.998Z"}
+{"level":"info","message":"机器人 9bca2c12b47911e797e62fe2bff14e84-009-clever-游客086 加入金币：50000","timestamp":"2017-10-19T03:00:06.000Z"}
+{"level":"info","message":"机器人 9bca0501b47911e797e62fe2bff14e84-006-dummy-游客856 成功进入房间： 006","timestamp":"2017-10-19T03:00:06.004Z"}
+{"level":"info","message":"机器人 9bca2c10b47911e797e62fe2bff14e84-007-dummy-游客049 成功进入房间： 007","timestamp":"2017-10-19T03:00:06.004Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T03:00:06.013Z"}
+{"level":"info","message":"机器人 9bc9ddf1b47911e797e62fe2bff14e84-004-dummy-游客577 成功进入房间： 004","timestamp":"2017-10-19T03:00:06.030Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T03:00:06.078Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T03:00:06.085Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T03:00:06.093Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T03:00:06.095Z"}
+{"level":"info","message":"机器人 9bca2c11b47911e797e62fe2bff14e84-008-dummy-游客195 成功进入房间： 008","timestamp":"2017-10-19T03:00:06.098Z"}
+{"level":"info","message":"机器人 9bc9b6e0b47911e797e62fe2bff14e84-002-dummy-游客358 成功进入房间： 002","timestamp":"2017-10-19T03:00:06.104Z"}
+{"level":"info","message":"机器人 9bca5320b47911e797e62fe2bff14e84-010-clever-游客203 成功进入房间： 010","timestamp":"2017-10-19T03:00:06.105Z"}
+{"level":"info","message":"机器人 9bca2c12b47911e797e62fe2bff14e84-009-clever-游客086 成功进入房间： 009","timestamp":"2017-10-19T03:00:06.108Z"}
+{"level":"info","message":"机器人 9bca0500b47911e797e62fe2bff14e84-005-dummy-游客145 加入金币：50000","timestamp":"2017-10-19T03:00:06.114Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T03:00:06.137Z"}
+{"level":"info","message":"机器人 9bca0500b47911e797e62fe2bff14e84-005-dummy-游客145 成功进入房间： 005","timestamp":"2017-10-19T03:00:06.147Z"}
+{"level":"info","message":"管理机器人【ad498ad0-b479-11e7-841f-d9e162f2ec56】号 => 开始工作","timestamp":"2017-10-19T03:00:34.942Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-19T03:00:35.052Z"}
+{"level":"info","message":"向空房间 002 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T03:00:35.052Z"}
+{"level":"info","message":"机器人【ad5aa1d0b47911e7841fd9e162f2ec56-002-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:35.053Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-19T03:00:35.053Z"}
+{"level":"info","message":"向空房间 003 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"机器人【ad5ac8e0b47911e7841fd9e162f2ec56-003-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"向空房间 004 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"机器人【ad5ac8e1b47911e7841fd9e162f2ec56-004-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"向空房间 005 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"机器人【ad5ac8e2b47911e7841fd9e162f2ec56-005-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"向空房间 006 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T03:00:35.054Z"}
+{"level":"info","message":"机器人【ad5aeff0b47911e7841fd9e162f2ec56-006-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"初始化，向空房间 007 加入机器人","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"向空房间 007 添加机器人 4 个，任务开始！","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"机器人【ad5aeff1b47911e7841fd9e162f2ec56-007-clever】号 => 开始工作","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"初始化，向空房间 008 加入机器人","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"向空房间 008 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"机器人【ad5aeff2b47911e7841fd9e162f2ec56-008-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"初始化，向空房间 009 加入机器人","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"向空房间 009 添加机器人 2 个，任务开始！","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"机器人【ad5aeff3b47911e7841fd9e162f2ec56-009-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"初始化，向空房间 010 加入机器人","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"向空房间 010 添加机器人 3 个，任务开始！","timestamp":"2017-10-19T03:00:35.055Z"}
+{"level":"info","message":"机器人【ad5b1700b47911e7841fd9e162f2ec56-010-dummy】号 => 开始工作","timestamp":"2017-10-19T03:00:35.056Z"}
+{"level":"info","message":"机器人 ad5aa1d0b47911e7841fd9e162f2ec56-002-dummy-游客139 加入金币：1000000","timestamp":"2017-10-19T03:00:35.299Z"}
+{"level":"info","message":"机器人 ad5ac8e0b47911e7841fd9e162f2ec56-003-dummy-游客971 加入金币：50000","timestamp":"2017-10-19T03:00:35.300Z"}
+{"level":"info","message":"机器人 ad5ac8e1b47911e7841fd9e162f2ec56-004-dummy-游客467 加入金币：1000000","timestamp":"2017-10-19T03:00:35.300Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-19T03:00:35.382Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-19T03:00:35.395Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-19T03:00:35.407Z"}
+{"level":"info","message":"机器人 ad5ac8e0b47911e7841fd9e162f2ec56-003-dummy-游客971 成功进入房间： 003","timestamp":"2017-10-19T03:00:35.410Z"}
+{"level":"info","message":"机器人 ad5aa1d0b47911e7841fd9e162f2ec56-002-dummy-游客139 成功进入房间： 002","timestamp":"2017-10-19T03:00:35.411Z"}
+{"level":"info","message":"机器人 ad5ac8e1b47911e7841fd9e162f2ec56-004-dummy-游客467 成功进入房间： 004","timestamp":"2017-10-19T03:00:35.412Z"}
+{"level":"info","message":"机器人 ad5b1700b47911e7841fd9e162f2ec56-010-dummy-游客902 加入金币：50000","timestamp":"2017-10-19T03:00:35.414Z"}
+{"level":"info","message":"机器人 ad5aeff1b47911e7841fd9e162f2ec56-007-clever-游客592 加入金币：1000000","timestamp":"2017-10-19T03:00:35.420Z"}
+{"level":"info","message":"机器人 ad5aeff3b47911e7841fd9e162f2ec56-009-dummy-游客671 加入金币：1000000","timestamp":"2017-10-19T03:00:35.422Z"}
+{"level":"info","message":"机器人 ad5aeff2b47911e7841fd9e162f2ec56-008-dummy-游客558 加入金币：50000","timestamp":"2017-10-19T03:00:35.437Z"}
+{"level":"info","message":"机器人 ad5aeff0b47911e7841fd9e162f2ec56-006-dummy-游客503 加入金币：500000","timestamp":"2017-10-19T03:00:35.439Z"}
+{"level":"info","message":"机器人 ad5ac8e2b47911e7841fd9e162f2ec56-005-dummy-游客173 加入金币：50000","timestamp":"2017-10-19T03:00:35.440Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 010","timestamp":"2017-10-19T03:00:35.472Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 007","timestamp":"2017-10-19T03:00:35.477Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 009","timestamp":"2017-10-19T03:00:35.483Z"}
+{"level":"info","message":"机器人 ad5b1700b47911e7841fd9e162f2ec56-010-dummy-游客902 成功进入房间： 010","timestamp":"2017-10-19T03:00:35.487Z"}
+{"level":"info","message":"机器人 ad5aeff3b47911e7841fd9e162f2ec56-009-dummy-游客671 成功进入房间： 009","timestamp":"2017-10-19T03:00:35.488Z"}
+{"level":"info","message":"机器人 ad5aeff1b47911e7841fd9e162f2ec56-007-clever-游客592 成功进入房间： 007","timestamp":"2017-10-19T03:00:35.488Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 008","timestamp":"2017-10-19T03:00:35.508Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-19T03:00:35.514Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-19T03:00:35.519Z"}
+{"level":"info","message":"机器人 ad5aeff2b47911e7841fd9e162f2ec56-008-dummy-游客558 成功进入房间： 008","timestamp":"2017-10-19T03:00:35.524Z"}
+{"level":"info","message":"机器人 ad5aeff0b47911e7841fd9e162f2ec56-006-dummy-游客503 成功进入房间： 006","timestamp":"2017-10-19T03:00:35.525Z"}
+{"level":"info","message":"机器人 ad5ac8e2b47911e7841fd9e162f2ec56-005-dummy-游客173 成功进入房间： 005","timestamp":"2017-10-19T03:00:35.530Z"}
+{"level":"info","message":"机器人 ad5ac8e0b47911e7841fd9e162f2ec56-003-dummy-游客971 =========== 开始新的一局 =========","timestamp":"2017-10-19T03:00:35.551Z"}
+{"level":"info","message":"机器人 ad5ac8e0b47911e7841fd9e162f2ec56-003-dummy-游客971 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T03:00:35.556Z"}
+{"level":"info","message":"机器人 ad5ac8e0b47911e7841fd9e162f2ec56-003-dummy-游客971 押注：{\"bets\":{\"r\":500,\"l4\":500},\"total\":1000,\"info\":[\"素菜\",\"香菜丸子\"]}","timestamp":"2017-10-19T03:00:35.557Z"}
+{"level":"info","message":"机器人 ad5ac8e1b47911e7841fd9e162f2ec56-004-dummy-游客467 =========== 开始新的一局 =========","timestamp":"2017-10-19T03:00:35.648Z"}
+{"level":"info","message":"机器人 ad5ac8e1b47911e7841fd9e162f2ec56-004-dummy-游客467 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T03:00:35.653Z"}
+{"level":"info","message":"机器人 ad5ac8e1b47911e7841fd9e162f2ec56-004-dummy-游客467 押注：{\"bets\":{\"l1\":10000,\"s2\":10000,\"r3\":10000},\"total\":30000,\"info\":[\"耗儿鱼\",\"霸王蟹\",\"黄瓜\"]}","timestamp":"2017-10-19T03:00:35.653Z"}
+{"level":"info","message":"机器人 ad5aeff3b47911e7841fd9e162f2ec56-009-dummy-游客671 =========== 开始新的一局 =========","timestamp":"2017-10-19T03:00:35.805Z"}
+{"level":"info","message":"机器人 ad5aeff3b47911e7841fd9e162f2ec56-009-dummy-游客671 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T03:00:35.812Z"}
+{"level":"info","message":"机器人 ad5aeff3b47911e7841fd9e162f2ec56-009-dummy-游客671 押注：{\"bets\":{\"s1\":10000,\"r\":10000,\"r2\":10000},\"total\":30000,\"info\":[\"人参\",\"素菜\",\"莲藕\"]}","timestamp":"2017-10-19T03:00:35.812Z"}
+{"level":"info","message":"机器人 ad5aeff0b47911e7841fd9e162f2ec56-006-dummy-游客503 =========== 开始新的一局 =========","timestamp":"2017-10-19T03:00:35.818Z"}
+{"level":"info","message":"机器人 ad5b1700b47911e7841fd9e162f2ec56-010-dummy-游客902 =========== 开始新的一局 =========","timestamp":"2017-10-19T03:00:35.820Z"}
+{"level":"info","message":"机器人 ad5aeff2b47911e7841fd9e162f2ec56-008-dummy-游客558 =========== 开始新的一局 =========","timestamp":"2017-10-19T03:00:35.827Z"}
+{"level":"info","message":"机器人 ad5aeff1b47911e7841fd9e162f2ec56-007-clever-游客592 =========== 开始新的一局 =========","timestamp":"2017-10-19T03:00:35.828Z"}
+{"level":"info","message":"机器人 ad5aa1d0b47911e7841fd9e162f2ec56-002-dummy-游客139 =========== 开始新的一局 =========","timestamp":"2017-10-19T03:00:35.828Z"}
+{"level":"info","message":"机器人 ad5aeff0b47911e7841fd9e162f2ec56-006-dummy-游客503 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T03:00:35.829Z"}
+{"level":"info","message":"机器人 ad5aeff0b47911e7841fd9e162f2ec56-006-dummy-游客503 押注：{\"bets\":{\"l1\":5000,\"l\":5000,\"r\":5000,\"r2\":5000},\"total\":20000,\"info\":[\"耗儿鱼\",\"荤菜\",\"素菜\",\"莲藕\"]}","timestamp":"2017-10-19T03:00:35.829Z"}
+{"level":"info","message":"机器人 ad5b1700b47911e7841fd9e162f2ec56-010-dummy-游客902 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T03:00:35.829Z"}
+{"level":"info","message":"机器人 ad5b1700b47911e7841fd9e162f2ec56-010-dummy-游客902 押注：{\"bets\":{\"r4\":500,\"s1\":500},\"total\":1000,\"info\":[\"香菇\",\"人参\"]}","timestamp":"2017-10-19T03:00:35.829Z"}
+{"level":"info","message":"机器人 ad5aeff2b47911e7841fd9e162f2ec56-008-dummy-游客558 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T03:00:35.836Z"}
+{"level":"info","message":"机器人 ad5aeff2b47911e7841fd9e162f2ec56-008-dummy-游客558 押注：{\"bets\":{\"r3\":500,\"s2\":500,\"l2\":500},\"total\":1500,\"info\":[\"黄瓜\",\"霸王蟹\",\"鸡爪\"]}","timestamp":"2017-10-19T03:00:35.836Z"}
+{"level":"info","message":"机器人 ad5aeff1b47911e7841fd9e162f2ec56-007-clever-游客592 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T03:00:35.837Z"}
+{"level":"info","message":"机器人 ad5aeff1b47911e7841fd9e162f2ec56-007-clever-游客592 押注：{\"bets\":{\"r1\":10000},\"total\":10000,\"info\":[\"白菜\"]}","timestamp":"2017-10-19T03:00:35.837Z"}
+{"level":"info","message":"机器人 ad5aa1d0b47911e7841fd9e162f2ec56-002-dummy-游客139 当前庄家状态 {\"nickname\":\"系统\",\"willOff\":false,\"isRobot\":true,\"remainRound\":9}","timestamp":"2017-10-19T03:00:35.846Z"}
+{"level":"info","message":"机器人 ad5aa1d0b47911e7841fd9e162f2ec56-002-dummy-游客139 押注：{\"bets\":{\"l1\":10000,\"r\":10000,\"l2\":10000},\"total\":30000,\"info\":[\"耗儿鱼\",\"素菜\",\"鸡爪\"]}","timestamp":"2017-10-19T03:00:35.846Z"}

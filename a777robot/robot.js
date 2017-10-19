@@ -5,7 +5,7 @@
 require('../util/pomelo-cocos2d-js')
 const Q = require('q')
 const RobotAction = require('./robotAction')
-const Net = require('./robotNet')
+const Net = require('../util/net')
 
 function Robot(room) {
 
@@ -24,8 +24,8 @@ function Robot(room) {
 
             try {
                 yield this.action.connect()
+                global.robotsInfo.registerRef(this.action.getUid(), this)
                 yield this.action.enterRoom(room)
-                global.robotsInfo.register(room, this)
                 yield this.action.play()
             }
             catch (reason) {
@@ -39,13 +39,15 @@ function Robot(room) {
 
     this.stop = Q.async(function* () {
 
+        global.robotsInfo.removeRobot(room, this.action.getUid())
+
         try {
             yield this.action.leaveRoom2Game()
         }
         catch (reason) {
             logger.error('机器人【%s】stop 退出房间失败 , 原因: %s', this.action.getId(), reason)
         }
-        global.robotsInfo.removeRobot(room, this)
+
         this.action.disconnect()
         logger.info('机器人【%s】stop ', this.action.getId())
         if (this.afterStop && typeof this.afterStop === 'function') {
@@ -53,6 +55,8 @@ function Robot(room) {
         }
 
     })
+
+
 
     this.getRobotInfo = function () {
         return action.getMemory

@@ -1,6 +1,6 @@
 
 const Q = require('q')
-require('../util/util')
+require('../../util/util')
 const gameConfig = require('./config/game-config.json')
 
 const mongoUrl = gameConfig.database2

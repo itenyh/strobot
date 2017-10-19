@@ -52,3 +52,5 @@
 {"level":"error","message":"num 和 oldnum 相等了 ===> 2","timestamp":"2017-10-18T09:10:31.743Z"}
 {"level":"error","message":"num 和 oldnum 相等了 ===> 3  roomCode: 010","timestamp":"2017-10-18T09:20:01.350Z"}
 {"level":"error","message":"num 和 oldnum 相等了 ===> 2  roomCode: 001","timestamp":"2017-10-18T09:20:55.147Z"}
+{"level":"error","message":"num 和 oldnum 相等了 ===> 1  roomCode: 001","timestamp":"2017-10-19T02:14:26.960Z"}
+{"level":"error","message":"管理机器人【03e45e70-b479-11e7-a061-9bad8d563a27】行动失败 , 原因: TypeError: Cannot read property 'addListener' of undefined","timestamp":"2017-10-19T02:55:50.747Z"}

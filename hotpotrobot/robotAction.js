@@ -4,8 +4,8 @@
 
 const Q = require('q')
 const v1 = require('uuid/v1');
-const Memory = require('../memory/memory')
-const gameConfig = require('../config/game-config.json')
+const Memory = require('./memory')
+const gameConfig = require('./config/game-config.json')
 
 function RobotAction(net) {
 
@@ -38,7 +38,7 @@ function RobotAction(net) {
         const user = userData.user
         memory.uid = user.uid
         memory.id += '-' + user.nickname
-        yield net.asynEnterGame()
+        yield net.asynEnterGame('3')
         yield addMoney()
 
     })
@@ -53,7 +53,7 @@ function RobotAction(net) {
         const betInfo = global.rules.getRandomBetElements(memory.type, memory.isLastBetWin, memory.gold)
         if (betInfo) {
             logger.info('机器人 %s 押注：%s', this.getId(), JSON.stringify(betInfo))
-            yield net.asynPlay(betInfo.bets)
+            yield net.asynPlayHuoGuo(betInfo.bets)
             memory.betGoldthisTound = betInfo.total
         }
         else {
@@ -90,7 +90,7 @@ function RobotAction(net) {
 
             logger.info('机器人 %s =========== 开始新的一局 =========' , this.getId())
 
-            const dealerData = yield net.asynGetDealerInfo()
+            const dealerData = yield net.asynGetHuoGuoDealerInfo()
             const dealer = dealerData.dealer
             const queue = dealerData.queue
 
@@ -128,7 +128,7 @@ function RobotAction(net) {
                 if (global.rules.isOnDealer(memory.type) && global.rules.isAble2OnDealer(memory.gold)) {
                     logger.info('机器人 %s 上庄', this.getId())
                     try {
-                        yield net.asynApplyDealer()
+                        yield net.asynApplyHuoGuoDealer()
                     }
                     catch (err) {
                         logger.info('机器人 %s 上庄 error : %s', this.getId(), err)
@@ -151,7 +151,7 @@ function RobotAction(net) {
                 logger.info('机器人 %s 庄家不押注', this.getId())
                 memory.dealerRoundNum += 1
                 if (global.rules.isOffDealer(memory.type, memory.dealerRoundNum, memory.dealerRoundLimit, memory.dealerRoundWin, memory.gold)) {
-                    yield net.asynOffDealer()
+                    yield net.asynOffHuoGuoDealer()
                 }
             }
 

@@ -2,9 +2,9 @@
  * Created by HJ on 2017/8/23.
  */
 
-require('../util/pomelo-cocos2d-js')
+require('../../util/pomelo-cocos2d-js')
 
-const util = require('../util/util')
+const util = require('../../util/util')
 const Q = require('q')
 const Net = require('./robotNet')
 const pipe = require('./file-writer-manager')

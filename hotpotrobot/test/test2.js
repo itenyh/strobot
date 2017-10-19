@@ -19,8 +19,8 @@ global.logger = require('../../util/logger')
 //
 require('./../../util/pomelo-cocos2d-js')
 const Q = require('q')
-const Memory = require('../memory/memory')
-const RobotAction = require('../action/robotAction')
+const Memory = require('../memory')
+const RobotAction = require('../robotAction')
 const Net = require('./../robotNet')
 
 // addRobot('001')

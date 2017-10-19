@@ -3,19 +3,19 @@
  */
 
 global.logger = require('../util/logger')
-global.robotsInfo = require('./robotsInfo')
+global.robotsInfo = require('../managerRobot/robotsInfo')
 global.rules = require('./rules')
 require('../util/pomelo-cocos2d-js')
 
 const Q = require('q')
-const Net = require('./robotNet')
+const Net = require('../util/net')
 const gameConfig = require('./config/game-config.json')
-const PlayerRobot = require('./robot/robot')
-const ManagerRobot = require('./robot/manageRobot')
-const RobotAction = require('./action/managerRobotAction')
-const Memory = require('./memory/managerRobotMemory')
+const PlayerRobot = require('./robot')
+const ManagerRobot = require('../managerRobot/manageRobot')
+const RobotAction = require('../managerRobot/managerRobotAction')
+const Memory = require('../managerRobot/managerRobotMemory')
 
-const robot = new ManagerRobot()
+const robot = new ManagerRobot('3', PlayerRobot)
 robot.run()
 //
 // addRoom()

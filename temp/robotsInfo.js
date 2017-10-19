@@ -37,21 +37,6 @@ function RobotsInfo() {
 
     }
 
-    // this.isInRoom = function(roomCode, uid) {
-    //
-    //     if (!infos.hasOwnProperty(roomCode)) { return false }
-    //
-    //     const robots = infos[roomCode]
-    //     for (robot of robots) {
-    //         if (robot.action.getRobotInfo().uid === uid) {
-    //             return true
-    //         }
-    //     }
-    //
-    //     return false
-    //
-    // }
-
     this.getRobotNumInRoom = function (roomCode) {
         if (!infos.hasOwnProperty(roomCode)) { return 0 }
         else return infos[roomCode].length

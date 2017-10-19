@@ -5,19 +5,23 @@
 const Q = require('q')
 const v1 = require('uuid/v1');
 const Memory = require('./memory')
-const gameConfig = require('./config/game-config.json')
+const gameConfig = require('../config/game-config.json')
 
 function RobotAction(net) {
 
     const memory = new Memory()
 
     this.initMemeory = function (room) {
-        memory.id = v1().replace(/-/g, '') + '-' + room
-        memory.type = global.a777Rules.getRandomType()
+        memory.type = global.rules.getRandomType()
+        memory.id = v1().replace(/-/g, '') + '-' + room + '-' + memory.type
     }
 
     this.getId = function () {
         return memory.id
+    }
+
+    this.getUid = function () {
+        return memory.uid
     }
 
     this.disconnect = () => {
@@ -26,15 +30,17 @@ function RobotAction(net) {
 
     this.connect = Q.async(function* () {
 
-        yield net.asynReady({host: '192.168.1.105', port: '3010'})
+        yield net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort})
         const loginData = yield net.asynLogin()
         const userLoginData = yield net.asynUserLogin(loginData.id)
         yield net.asynReady({host: userLoginData.server.host, port: userLoginData.server.port})
         const userData = yield net.asynEnter(userLoginData.uid, userLoginData.token)
         const user = userData.user
         memory.uid = user.uid
-        yield net.asynEnterGame()
-        yield addMoney(global.a777Rules.getGold(memory.type))
+        memory.id += '-' + user.nickname
+        yield net.asynEnterGame('1')
+        yield addMoney(global.rules.getGold(memory.type))
+
     })
 
     this.enterRoom = Q.async(function* (roomCode) {
@@ -58,14 +64,14 @@ function RobotAction(net) {
 
                 logger.info('机器人 %s totalWin: %s 剩余金币：%s', this.getId(), totalWin, memory.gold)
 
-                let waitTime = global.a777Rules.getWait2PlayDurationSecondsInMill(totalWin > 0, memory.gold)
+                let waitTime = global.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, memory.gold)
                 yield Q.delay(waitTime)
             }
             else {
 
                 if (!memory.addedMoney) {
                     logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
-                    yield addMoney(global.a777Rules.getGold(memory.type))
+                    yield addMoney(global.rules.getGold(memory.type))
                     memory.addedMoney = true
                 }
                 else {
