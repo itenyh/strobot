@@ -123,3 +123,21 @@
 {"level":"error","message":"机器人【df3a4f31b4aa11e783b69b94bcb3f057-020-1-游客845】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"errro\":\"该机器无法容纳更多玩家\"}","timestamp":"2017-10-19T08:52:44.237Z"}
 {"level":"error","message":"机器人【df3a4f30b4aa11e783b69b94bcb3f057-020-1-游客432】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-19T08:52:44.241Z"}
 {"level":"error","message":"机器人【df3a4f31b4aa11e783b69b94bcb3f057-020-1-游客845】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-19T08:52:44.242Z"}
+{"level":"error","message":"机器人【09b5d830b79211e785564b9dae21d8ce-008-5-游客014】行动失败 , 原因: Error: Incompatible format!","timestamp":"2017-10-23T01:32:31.582Z"}
+{"level":"error","message":"机器人【09b5d832b79211e785564b9dae21d8ce-008-4-游客710】行动失败 , 原因: Error: Incompatible format!","timestamp":"2017-10-23T01:32:31.582Z"}
+{"level":"error","message":"机器人【09b5d835b79211e785564b9dae21d8ce-008-1-游客013】行动失败 , 原因: Error: Incompatible format!","timestamp":"2017-10-23T01:32:31.614Z"}
+{"level":"error","message":"机器人【09b5d833b79211e785564b9dae21d8ce-008-3-游客500】行动失败 , 原因: Error: Incompatible format!","timestamp":"2017-10-23T01:32:31.614Z"}
+{"level":"error","message":"机器人【09b5d831b79211e785564b9dae21d8ce-008-2-游客582】行动失败 , 原因: Error: Incompatible format!","timestamp":"2017-10-23T01:32:31.629Z"}
+{"level":"error","message":"机器人【09b5d834b79211e785564b9dae21d8ce-008-4-游客721】行动失败 , 原因: Error: Incompatible format!","timestamp":"2017-10-23T01:32:31.645Z"}
+{"level":"error","message":"机器人【c4c90180b79f11e7ba7e235f0f328961-012-1-游客480】行动失败 , 原因: Error: EBUSY: resource busy or locked, open 'E:\\Code\\strobot\\a777robot\\message.csv'","timestamp":"2017-10-23T03:10:48.968Z"}
+{"level":"error","message":"机器人【c4ca8821b79f11e7ba7e235f0f328961-012-2-游客328】行动失败 , 原因: Error: EBUSY: resource busy or locked, open 'E:\\Code\\strobot\\a777robot\\message.csv'","timestamp":"2017-10-23T03:10:49.018Z"}
+{"level":"error","message":"机器人【c4ca8822b79f11e7ba7e235f0f328961-012-2-游客440】行动失败 , 原因: Error: EBUSY: resource busy or locked, open 'E:\\Code\\strobot\\a777robot\\message.csv'","timestamp":"2017-10-23T03:10:49.018Z"}
+{"level":"error","message":"机器人【c4ca8823b79f11e7ba7e235f0f328961-012-1-游客446】行动失败 , 原因: Error: EBUSY: resource busy or locked, open 'E:\\Code\\strobot\\a777robot\\message.csv'","timestamp":"2017-10-23T03:10:49.048Z"}
+{"level":"error","message":"机器人【c4ca8820b79f11e7ba7e235f0f328961-012-5-游客549】行动失败 , 原因: Error: EBUSY: resource busy or locked, open 'E:\\Code\\strobot\\a777robot\\message.csv'","timestamp":"2017-10-23T03:10:49.058Z"}
+{"level":"error","message":"机器人【c4ca8824b79f11e7ba7e235f0f328961-012-5-游客898】行动失败 , 原因: Error: EBUSY: resource busy or locked, open 'E:\\Code\\strobot\\a777robot\\message.csv'","timestamp":"2017-10-23T03:10:49.058Z"}
+{"level":"error","message":"机器人【4edd55d0b7a311e7bcddd1a78eb554f3-015-4-游客543】行动失败 , 原因: Error: ENOENT: no such file or directory, open 'E:\\Code\\strobot\\a777robot\\data\\message.csv'","timestamp":"2017-10-23T03:36:09.033Z"}
+{"level":"error","message":"机器人【4edb0be0b7a311e7bcddd1a78eb554f3-015-5-游客497】行动失败 , 原因: Error: ENOENT: no such file or directory, open 'E:\\Code\\strobot\\a777robot\\data\\message.csv'","timestamp":"2017-10-23T03:36:09.049Z"}
+{"level":"error","message":"机器人【4edd55d1b7a311e7bcddd1a78eb554f3-015-2-游客280】行动失败 , 原因: Error: ENOENT: no such file or directory, open 'E:\\Code\\strobot\\a777robot\\data\\message.csv'","timestamp":"2017-10-23T03:36:09.049Z"}
+{"level":"error","message":"机器人【4edd55d2b7a311e7bcddd1a78eb554f3-015-2-游客340】行动失败 , 原因: Error: ENOENT: no such file or directory, open 'E:\\Code\\strobot\\a777robot\\data\\message.csv'","timestamp":"2017-10-23T03:36:09.049Z"}
+{"level":"error","message":"机器人【4edd55d4b7a311e7bcddd1a78eb554f3-015-4-游客475】行动失败 , 原因: Error: ENOENT: no such file or directory, open 'E:\\Code\\strobot\\a777robot\\data\\message.csv'","timestamp":"2017-10-23T03:36:09.049Z"}
+{"level":"error","message":"机器人【4edd55d3b7a311e7bcddd1a78eb554f3-015-4-游客127】行动失败 , 原因: Error: ENOENT: no such file or directory, open 'E:\\Code\\strobot\\a777robot\\data\\message.csv'","timestamp":"2017-10-23T03:36:09.049Z"}

@@ -8,9 +8,6 @@ const fs = require('fs');
 exports.writeHis2File = (history, filename = './data/message.csv') => {
 
     const result = new CSV(history, { header: false }).encode();
-    // const ws = fs.createWriteStream(filename);
-    // ws.write(result);
-    // ws.end();
     fs.appendFileSync(filename, result + '\n');
 
 }

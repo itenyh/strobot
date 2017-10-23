@@ -1,16 +1,4 @@
-[
-    {
-      "eggConsumNum": 10,
-      "consumeType": "small",
-      "robotNum": 1,
-      "totalMoney": 200
-    },
+{
+  "robotNum": 100
+}
 
-    {
-      "eggConsumNum": 5,
-      "consumeType": "large",
-      "robotNum": 0,
-      "totalMoney": 30
-    }
-
-]

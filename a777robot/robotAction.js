@@ -6,10 +6,12 @@ const Q = require('q')
 const v1 = require('uuid/v1');
 const Memory = require('./memory')
 const gameConfig = require('../config/game-config.json')
+const EventEmitter = require('events')
 
 function RobotAction(net) {
 
     const memory = new Memory()
+    const event = new EventEmitter()
 
     this.initMemeory = function (room) {
         memory.type = global.rules.getRandomType()
@@ -26,6 +28,10 @@ function RobotAction(net) {
 
     this.disconnect = () => {
         net.disconnect()
+    }
+
+    this.on = function (eventName, data) {
+        event.on(eventName, data)
     }
 
     this.connect = Q.async(function* () {
@@ -49,6 +55,7 @@ function RobotAction(net) {
     })
 
     this.play = Q.async(function* () {
+
         while (true) {
 
             if (memory.isNotified2Leave) {
@@ -62,8 +69,10 @@ function RobotAction(net) {
                 const profit = totalWin - pay[0] * pay[1]
                 memory.gold += profit
                 memory.profit += profit
+                memory.round += 1
 
                 logger.info('机器人 %s totalWin: %s 剩余金币：%s 到目前为止总利润: %s', this.getId(), totalWin, memory.gold, memory.profit)
+                event.emit('round', [this.getUid(), memory.profit, memory.round])
 
                 let waitTime = global.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, memory.gold)
                 yield Q.delay(waitTime)

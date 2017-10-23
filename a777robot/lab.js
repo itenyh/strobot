@@ -9,11 +9,15 @@ global.rules = require('./rules')
 const Net = require('../util/net')
 const RobotAction = require('./robotAction')
 const PlayerRobot = require('./robot')
+const util = require('../util/util')
+const userConfig = require('./config/user-config.json')
 
+const robotNum = userConfig.robotNum  //写6的倍数
+const roomNum = robotNum / 6
 
 Q.spawn(function* () {
-    const roomCodes = yield addRoom(1, '1')
-    // console.log(roomCodes)
+    util.writeLine(['uid', 'profit', 'round'])
+    const roomCodes = yield addRoom(roomNum, '1')
     yield addRobot2Room(roomCodes)
 })
 
@@ -31,7 +35,6 @@ function addRoom(num, nid) {
         for (room of addRooms) {
             roomCodes.push(room.roomCode)
         }
-        console.log(roomCodes)
         return roomCodes
     })()
 
@@ -45,6 +48,9 @@ function addRobot2Room(roomCodes) {
             for (let i = 0; i < uplimit; i++) {
                 const robot = new PlayerRobot(roomCode)
                 robot.run()
+                robot.action.on('round', function (data) {
+                    util.writeLine(data)
+                })
             }
         }
     })()

@@ -10,6 +10,7 @@ function Memory() {
     this.type = 0
     this.addedMoney = false
     this.profit = 0
+    this.round = 0
 
 }
 

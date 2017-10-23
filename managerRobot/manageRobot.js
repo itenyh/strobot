@@ -4,9 +4,7 @@
 
 const Q = require('q')
 const v1 = require('uuid/v1');
-const Memory = require('./managerRobotMemory')
 const RobotAction = require('./managerRobotAction')
-const Net = require('../util/net')
 
 function ManageRobot(nid, PlayerRobot) {
 
