@@ -49,3 +49,7 @@ module.exports = new A777Rules()
 
 const r = new A777Rules()
 // console.log(r.getRandomLevel())
+
+// for (let i = 0;i < 100;i++) {
+//     console.log(r.getRandomType())
+// }

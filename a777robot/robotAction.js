@@ -35,7 +35,6 @@ function RobotAction(net) {
     }
 
     this.connect = Q.async(function* () {
-
         yield net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort})
         const loginData = yield net.asynLogin()
         const userLoginData = yield net.asynUserLogin(loginData.id)
@@ -43,10 +42,14 @@ function RobotAction(net) {
         const userData = yield net.asynEnter(userLoginData.uid, userLoginData.token)
         const user = userData.user
         memory.uid = user.uid
-        memory.id += '-' + user.nickname
+        memory.id += '-' + user.nickname + '-' + memory.uid
         yield net.asynEnterGame('1')
-        yield addMoney(global.rules.getGold(memory.type))
+    })
 
+    this.addInitMoney = Q.async(function* () {
+        const newGold = global.rules.getGold(memory.type)
+        logger.info('机器人 %s 加入金币： %s', this.getId(), newGold)
+        yield addMoney(newGold)
     })
 
     this.enterRoom = Q.async(function* (roomCode) {
@@ -63,6 +66,7 @@ function RobotAction(net) {
             }
 
             const pay = caculatePay(memory.gold)
+            // logger.info('机器人 %s try play gold: %s', this.getId(), memory.gold)
             if (pay) {
                 const result = yield net.asynPlay777(pay[0], pay[1])
                 const totalWin = result.totalWin
@@ -78,7 +82,6 @@ function RobotAction(net) {
                 yield Q.delay(waitTime)
             }
             else {
-
                 if (!memory.addedMoney) {
                     logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
                     yield addMoney(global.rules.getGold(memory.type))
@@ -88,6 +91,8 @@ function RobotAction(net) {
                     logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), memory.gold)
                     break
                 }
+
+                break
 
             }
 

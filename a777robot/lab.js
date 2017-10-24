@@ -11,6 +11,7 @@ const RobotAction = require('./robotAction')
 const PlayerRobot = require('./robot')
 const util = require('../util/util')
 const userConfig = require('./config/user-config.json')
+let total = 0
 
 const robotNum = userConfig.robotNum  //写6的倍数
 const roomNum = robotNum / 6
@@ -46,6 +47,9 @@ function addRobot2Room(roomCodes) {
         for (roomCode of roomCodes) {
             const uplimit = 6
             for (let i = 0; i < uplimit; i++) {
+                // console.log('机器人进入 ' + total)
+                total += 1
+                yield Q.delay(500)
                 const robot = new PlayerRobot(roomCode)
                 robot.run()
                 robot.action.on('round', function (data) {
@@ -56,3 +60,4 @@ function addRobot2Room(roomCodes) {
     })()
 
 }
+

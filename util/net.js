@@ -105,6 +105,7 @@ function RobotNet(pomelo_) {
     //============ 777 ===========
 
     function play777(lineNum, bet, cb) {
+        // console.log(lineNum, bet)
         pomelo.request('games.slots777Handler.start', {lineNum: lineNum, bet: bet}, function (data) {
             responseHandler(data, play777, cb)
         })
