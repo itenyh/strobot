@@ -250,7 +250,7 @@
                     };
                     var onerror = function (event) {
                         root.pomelo.emit('io-error', event);
-                        console.error('socket error: ', event);
+                        // console.error('socket error: ', event);
                     };
 
                     var onclose = function (event) {

@@ -19,8 +19,12 @@ function Robot(room) {
 
         pomelo.on('close', function (data) {
             if (hasConnected) {
-                logger.error('机器人【%s】 socket close , 原因: %s %s', 'managerRobot', this.action.getId(), data.code, data.reason)
+                logger.error('机器人【%s】 socket close , 原因: %s %s', this.action.getId(), data.code, data.reason)
             }
+        }.bind(this))
+
+        pomelo.on('io-error', function (data) {
+            logger.error('机器人【%s】 socket error , 原因: %s %s', this.action.getId(), data.code, data.reason)
         }.bind(this))
 
         this.action.initMemeory(room)

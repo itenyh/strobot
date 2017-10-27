@@ -1,65 +1,25 @@
 
 const Q = require('q')
 
-const r = '--1--'
-// console.log(r.replace(/-/g, '0'))
-
-// const asynWork = Q.nbind(function (cb) {
-//
-//     setTimeout(function () {
-//        cb(null, 'ok')
-//     },1500)
-//
-// })
-//
-// try {
-//
-// }
-// catch(error) {
-//     console.log(error)
-// }
-// finally {
-//     console.log(123)
-//     throw '1'
-// }
-
-// Q.spawn(function* () {
-//
-//     while (true) {
-//
-//         console.log(123)
-//         yield asynWork()
-//         console.log(234)
-//
-//     }
-//
-// })
-
-console.log('anther thing')
-
-// const a = Q.async(function* () {
-//
-//     try {
-//         const result = yield asynWork()
-//         console.log(result)
-//     }
-//     catch(err) {
-//         console.log(err)
-//     }
-//
-// })
-//
-// a()
-
-// Q.when(123, function (data) {
-//     console.log(data)
-// })
-
-try {
-    setTimeout(function () {
-        throw 1
-    }, 1000)
+const allPlayerNum = 10
+const player1 = {
+    wolf:0,
+    preditor:0
 }
-catch (e) {
+
+const player2 = {
+    wolf:0,
+    preditor:0
+}
+
+
+function applyPredictor(player) {
+
+    player.preditor = 1 / allPlayerNum
 
 }
+
+//1. EveryOne have a chance of 1/num as Predictor, applying as Predictor gives no information
+//2. One predict a Wolf, it has big chance a wolf
+//3. One predict a non-wolf, it has big chance a wolf
+//4.

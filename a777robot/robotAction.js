@@ -12,6 +12,7 @@ function RobotAction(net) {
 
     const memory = new Memory()
     const event = new EventEmitter()
+    const netRequestInterval = 500
 
     this.initMemeory = function (room) {
         memory.type = global.rules.getRandomType()
@@ -36,24 +37,34 @@ function RobotAction(net) {
 
     this.connect = Q.async(function* () {
         yield net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort})
+        yield Q.delay(netRequestInterval)
         const loginData = yield net.asynLogin()
+        yield Q.delay(netRequestInterval)
         const userLoginData = yield net.asynUserLogin(loginData.id)
+        yield Q.delay(netRequestInterval)
         yield net.asynReady({host: userLoginData.server.host, port: userLoginData.server.port})
+        yield Q.delay(netRequestInterval)
         const userData = yield net.asynEnter(userLoginData.uid, userLoginData.token)
+        yield Q.delay(netRequestInterval)
         const user = userData.user
         memory.uid = user.uid
         memory.id += '-' + user.nickname + '-' + memory.uid
+        yield Q.delay(netRequestInterval)
         yield net.asynEnterGame('1')
+        yield Q.delay(netRequestInterval)
     })
 
     this.addInitMoney = Q.async(function* () {
         const newGold = global.rules.getGold(memory.type)
         logger.info('机器人 %s 加入金币： %s', this.getId(), newGold)
+        yield Q.delay(netRequestInterval)
         yield addMoney(newGold)
+        yield Q.delay(netRequestInterval)
     })
 
     this.enterRoom = Q.async(function* (roomCode) {
-        yield (net.asynEnterRoom(roomCode))
+        yield net.asynEnterRoom(roomCode)
+        yield Q.delay(netRequestInterval)
         logger.info('机器人 %s 成功进入房间： %s', this.getId(), roomCode)
     })
 
@@ -80,17 +91,22 @@ function RobotAction(net) {
 
                 let waitTime = global.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, memory.gold)
                 yield Q.delay(waitTime)
+
+                // yield Q.delay(1000)
+
             }
             else {
-                if (!memory.addedMoney) {
-                    logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
-                    yield addMoney(global.rules.getGold(memory.type))
-                    memory.addedMoney = true
-                }
-                else {
-                    logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), memory.gold)
-                    break
-                }
+                // if (!memory.addedMoney) {
+                //     logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
+                //     yield Q.delay(netRequestInterval)
+                //     yield addMoney(global.rules.getGold(memory.type))
+                //     yield Q.delay(netRequestInterval)
+                //     memory.addedMoney = true
+                // }
+                // else {
+                //     logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), memory.gold)
+                //     break
+                // }
 
                 break
 
