@@ -7,12 +7,12 @@ const Q = require('q')
 const RobotAction = require('./robotAction')
 const Net = require('./net')
 
-function Robot() {
+function Robot(userName) {
 
     const pomelo = (new PP()).pomelo
     const net = new Net(pomelo)
     let hasConnected = false
-    this.action = new RobotAction(net)
+    this.action = new RobotAction(userName, net)
 
     this.afterStop = null
     this.run = () => {
@@ -34,7 +34,7 @@ function Robot() {
                 // hasConnected = true
                 // global.robotsInfo.registerRef(this.action.getUid(), this)
                 // yield this.action.enterRoom(room)
-                // yield this.action.play()
+                yield this.action.play()
             }
             catch (reason) {
                 logger.error('机器人【%s】行动失败 , 原因: %s', this.action.getId(), reason)

@@ -96,17 +96,17 @@ function RobotAction(net) {
 
             }
             else {
-                // if (!memory.addedMoney) {
-                //     logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
-                //     yield Q.delay(netRequestInterval)
-                //     yield addMoney(global.rules.getGold(memory.type))
-                //     yield Q.delay(netRequestInterval)
-                //     memory.addedMoney = true
-                // }
-                // else {
-                //     logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), memory.gold)
-                //     break
-                // }
+                if (!memory.addedMoney) {
+                    logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
+                    yield Q.delay(netRequestInterval)
+                    yield addMoney(global.rules.getGold(memory.type))
+                    yield Q.delay(netRequestInterval)
+                    memory.addedMoney = true
+                }
+                else {
+                    logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), memory.gold)
+                    break
+                }
 
                 break
 

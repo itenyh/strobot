@@ -8,7 +8,7 @@ const Memory = require('./memory')
 const gameConfig = require('./config/game-config.json')
 const EventEmitter = require('events')
 
-function RobotAction(net) {
+function RobotAction(userName, net) {
 
     const memory = new Memory()
     const event = new EventEmitter()
@@ -36,7 +36,6 @@ function RobotAction(net) {
     }
 
     this.connect = Q.async(function* () {
-        const userName = 'j1aa31'
         const room = 3
 
         yield net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort})
@@ -45,8 +44,6 @@ function RobotAction(net) {
         yield net.asynReady({host:data.host, port: data.port})
         yield net.asynEnter(room, userName)
         // yield net.asynChat(userName, '', 'hello', room)
-        const data1 = yield net.asynPlay()
-        console.log(data1)
 
     })
 
@@ -57,42 +54,9 @@ function RobotAction(net) {
 
         while (true) {
 
-            if (memory.isNotified2Leave) {
-                return
-            }
-
-            const pay = caculatePay(memory.gold)
-            // logger.info('机器人 %s try play gold: %s', this.getId(), memory.gold)
-            if (pay) {
-                const result = yield net.asynPlay777(pay[0], pay[1])
-                const totalWin = result.totalWin
-                const profit = totalWin - pay[0] * pay[1]
-                memory.gold += profit
-                memory.profit += profit
-                memory.round += 1
-
-                logger.info('机器人 %s totalWin: %s 剩余金币：%s 到目前为止总利润: %s', this.getId(), totalWin, memory.gold, memory.profit)
-                event.emit('round', [this.getUid(), memory.profit, memory.round])
-
-                let waitTime = global.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, memory.gold)
-                yield Q.delay(waitTime)
-            }
-            else {
-                // if (!memory.addedMoney) {
-                //     logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
-                //     yield Q.delay(netRequestInterval)
-                //     yield addMoney(global.rules.getGold(memory.type))
-                //     yield Q.delay(netRequestInterval)
-                //     memory.addedMoney = true
-                // }
-                // else {
-                //     logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), memory.gold)
-                //     break
-                // }
-
-                break
-
-            }
+            const data1 = yield net.asynPlay()
+            console.log(data1)
+            yield Q.delay(3000)
 
         }
 

@@ -7,16 +7,22 @@ const Q = require('q')
 global.logger = require('../util/logger')
 const PlayerRobot = require('./robot')
 
-addRobot(1)
+addRobot(100000)
 
-function addRobot( num) {
+function addRobot(num) {
 
-    for (let i = 0;i < num;i++) {
+    Q.spawn(function* () {
 
-        const robot = new PlayerRobot()
-        robot.run()
-        console.log(i)
+        for (let i = 0;i < num;i++) {
 
-    }
+            const robot = new PlayerRobot(i + "jjjj")
+            robot.run()
+            console.log(i)
+            yield Q.delay(500)
+
+        }
+
+    })
 
 }
+
