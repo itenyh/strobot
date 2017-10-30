@@ -36,10 +36,6 @@ function RobotAction(net) {
         event.on(eventName, data)
     }
 
-    this.emit = function (eventName, data) {
-        event.emit(eventName, data)
-    }
-
     this.connect = Q.async(function* () {
         yield net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort})
         const loginData = yield net.asynLogin()
@@ -76,9 +72,7 @@ function RobotAction(net) {
 
             const pay = caculatePay(memory.gold)
             if (pay) {
-
-                logger.info('机器人 %s 玩一把 %s', this.getId(), Date.now())
-                const result = yield net.asynPlay777(pay[0], pay[1])
+                const result = yield net.asynPlayHambouger(pay[0], pay[1])
                 const totalWin = result.totalWin
                 const profit = totalWin - pay[0] * pay[1]
                 memory.gold += profit
@@ -86,9 +80,7 @@ function RobotAction(net) {
                 memory.round += 1
 
                 logger.info('机器人 %s totalWin: %s 剩余金币：%s 到目前为止总利润: %s', this.getId(), totalWin, memory.gold, memory.profit)
-
-                const potData = yield net.asynQuery777JackPot()
-                this.emit('round', [+this.getUid(), pay[0] * pay[1], memory.profit, memory.round, potData.jackpotFund, potData.runningPool, potData.profitPool])
+                event.emit('round', [+this.getUid(), pay[0] * pay[1], memory.profit, memory.round])
 
                 let waitTime = global.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, memory.gold)
                 yield Q.delay(waitTime)
@@ -127,9 +119,9 @@ function RobotAction(net) {
         let finalline = -1
 
         const lineNums = [9, 15, 25]
-        const bets = [5, 25, 50, 250]
-
+        const bets = [5, 50, 250, 1000, 4000, 10000]
         const maxPay = gold * 0.95
+
         const lineNumsCat = lineNums.length
         const betsCat = bets.length
 

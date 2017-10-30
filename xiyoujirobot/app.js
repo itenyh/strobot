@@ -6,42 +6,26 @@ const Q = require('q')
 
 global.logger = require('../util/logger')
 global.robotsInfo = require('../managerRobot/robotsInfo')
+global.rules = require('./rules')
 
 const PlayerRobot = require('./robot')
 const ManagerRobot = require('../managerRobot/manageRobot')
 
-// const robot = new ManagerRobot('1')
+// const robot = new ManagerRobot(7, PlayerRobot)
 // robot.run()
 
-addRobot('001', 1)
-// add2SixRoom()
-
-
-function add2SixRoom() {
-
-    for (let i = 1;i <= 6;i++) {
-
-        const roomCode = "00" + i
-        addRobot(roomCode, 6)
-    }
-
-}
+addRobot('004', 1)
 
 function addRobot(roomCode, num) {
 
-    // for (let i = 0;i < num;i++) {
-    //     const robot = new PlayerRobot(roomCode)
-    //     robot.run()
-    // }
+    for (let i = 0;i < num;i++) {
 
-    return Q.async(function* () {
-        for (let i = 0; i < num; i++) {
-            yield Q.delay(1000)
-            const robot = new PlayerRobot(roomCode)
-            robot.run()
-        }
-    })()
+        const robot = new PlayerRobot(roomCode)
+        robot.run()
+        console.log(i)
 
+    }
+    // console.log(robot.action)
 }
 
 function addRoom() {

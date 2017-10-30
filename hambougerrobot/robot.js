@@ -5,14 +5,14 @@
 require('../util/pomelo-cocos2d-js')
 const Q = require('q')
 const RobotAction = require('./robotAction')
-const Net = require('./net')
+const Net = require('../util/net')
 
-function Robot(userName) {
+function Robot(room) {
 
     const pomelo = (new PP()).pomelo
     const net = new Net(pomelo)
     let hasConnected = false
-    this.action = new RobotAction(userName, net)
+    this.action = new RobotAction(net)
 
     this.afterStop = null
     this.run = () => {
@@ -23,17 +23,22 @@ function Robot(userName) {
             }
         }.bind(this))
 
-        // this.action.initMemeory(room)
+        pomelo.on('io-error', function (data) {
+            logger.error('机器人【%s】 socket error , 原因: %s %s', this.action.getId(), data.code, data.reason)
+        }.bind(this))
+
+        this.action.initMemeory(room)
 
         logger.info('机器人【%s】号 => 开始工作', this.action.getId())
 
         Q.spawn(function* () {
             try {
                 yield this.action.connect()
-                // yield this.action.addInitMoney()
-                // hasConnected = true
-                // global.robotsInfo.registerRef(this.action.getUid(), this)
-                // yield this.action.enterRoom(room)
+                yield this.action.enterGame()
+                yield this.action.addInitMoney()
+                hasConnected = true
+                global.robotsInfo.registerRef(this.action.getUid(), this)
+                yield this.action.enterRoom()
                 yield this.action.play()
             }
             catch (reason) {
@@ -47,6 +52,15 @@ function Robot(userName) {
 
     this.stop = Q.async(function* () {
 
+        global.robotsInfo.removeRobot(room, this.action.getUid())
+
+        try {
+            yield this.action.leaveRoom2Game()
+        }
+        catch (reason) {
+            logger.error('机器人【%s】stop 退出房间失败 , 原因: %s', this.action.getId(), reason)
+        }
+
         this.action.disconnect()
         logger.info('机器人【%s】stop ', this.action.getId())
         if (this.afterStop && typeof this.afterStop === 'function') {
@@ -55,6 +69,12 @@ function Robot(userName) {
 
     })
 
+
+
+    this.getRobotInfo = function () {
+        return action.getMemory
+
+    }
 
 }
 

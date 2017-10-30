@@ -8,12 +8,13 @@ const gameConfig = require('../config/game-config.json')
 const Memory = require('./managerRobotMemory')
 const Net = require('../util/net')
 
-function ManagerRobotAction(nid, PlayerRobot) {
+function ManagerRobotAction(nid) {
 
     const taskDealerManager = new TaskDealerManager()
     const memory = new Memory()
     const pomelo = (new PP()).pomelo
     const net = new Net(pomelo)
+    const PlayerRobot = global.robotsInfo.getRobotByNid(nid)
     let hasConnected = false
 
     this.disconnect = () => {
@@ -174,6 +175,14 @@ function Task(taskDealer, roomCode, PlayerRobot) {
             for (let i = 0;i < randomRobotNum;i++) {
                 if (!isContinueAdding) { break }
                 const robot = new PlayerRobot(roomCode)
+                robot.action.on('robotEnterGame', function () {
+                    logger.info('机器人%s进入房间%s 事件', robot.action.getId(), roomCode)
+                    global.robotsInfo.registerRef(robot.action.getUid(), robot)
+                })
+                robot.action.on('robotLeaveGame', function () {
+                    logger.info('机器人%s离开房间%s 事件', robot.action.getId(), roomCode)
+                    global.robotsInfo.removeRobot(roomCode, robot.action.getUid())
+                })
                 robot.run()
                 const interval = global.rules.getRandomAddedRobotIntervalMinuteInMill()
                 yield Q.delay(interval)

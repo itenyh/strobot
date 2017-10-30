@@ -15,7 +15,7 @@ const ManagerRobot = require('../managerRobot/manageRobot')
 const RobotAction = require('../managerRobot/managerRobotAction')
 const Memory = require('../managerRobot/managerRobotMemory')
 
-const robot = new ManagerRobot('3', PlayerRobot)
+const robot = new ManagerRobot('7')
 robot.run()
 //
 // addRoom()

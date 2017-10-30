@@ -111,7 +111,44 @@ function RobotNet(pomelo_) {
         })
     }
 
-    //=============================
+    function query777JackPot(cb) {
+        pomelo.request('games.slots777Handler.jackpotFund', function (data) {
+            responseHandler(data, query777JackPot, cb)
+        })
+    }
+
+    //============= 汉堡 ============
+    function playHanbouger(lineNum, bet, cb) {
+        // console.log(lineNum, bet)
+        pomelo.request('games.hamburgerHandler.start', {lineNum: lineNum, bet: bet}, function (data) {
+            responseHandler(data, playHanbouger, cb)
+        })
+    }
+
+    //============= 西游记 ============
+    function playXiyouji(lineNum, bet, cb) {
+        pomelo.request('games.xiyoujiHandler.start', {lineNum: lineNum, bet: bet}, function (data) {
+            responseHandler(data, playXiyouji, cb)
+        })
+    }
+
+    function gainedScatter(cb) {
+        pomelo.request('games.xiyoujiHandler.gainedScatter', function (data) {
+            responseHandler(data, gainedScatter, cb)
+        })
+    }
+
+    function playSlots(nid, lineNum, bet, cb) {
+        if (nid === 1) {
+            play777(lineNum, bet, cb)
+        }
+        else if (nid === 2) {
+            playHanbouger(lineNum, bet, cb)
+        }
+        else if (nid === 7) {
+            playXiyouji(lineNum, bet, cb)
+        }
+    }
 
     function responseHandler(data, func, cb) {
 
@@ -128,9 +165,7 @@ function RobotNet(pomelo_) {
         }
 
     }
-
-
-
+    
     this.asynReady = Q.nbind(ready)
     this.asynLogin = Q.nbind(login)
     this.asynUserLogin = Q.nbind(userLogin)
@@ -150,6 +185,12 @@ function RobotNet(pomelo_) {
     this.asynOffHuoGuoDealer = Q.nbind(offHuoGuoDealer)
 
     this.asynPlay777 = Q.nbind(play777)
+    this.asynPlayHambouger = Q.nbind(playHanbouger)
+    this.asynPlayXiyouji = Q.nbind(playXiyouji)
+    this.asynPlaySlots = Q.nbind(playSlots)
+    this.asynGainedScatter = Q.nbind(gainedScatter)
+
+    this.asynQuery777JackPot = Q.nbind(query777JackPot)
 
     this.disconnect = pomelo.disconnect
 

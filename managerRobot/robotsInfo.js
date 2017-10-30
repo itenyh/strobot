@@ -83,6 +83,22 @@ function RobotsInfo() {
 
         });
     }
+    
+    this.getRobotByNid = function (nid) {
+
+        if (nid === '1') {
+            return require('../a777robot/robot')
+        }
+        else if (nid === '2') {
+            return require('../hambougerrobot/robot')
+        }
+        else if (nid === '7') {
+            return require('../hotpotrobot/robot')
+        }
+
+        return null
+
+    }
 
     const getRobotRefsByRoomCode = function(roomCode) {
 

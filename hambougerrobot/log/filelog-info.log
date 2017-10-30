@@ -1,0 +1,146 @@
+{"level":"info","message":"机器人【630632f0bb8311e7bce6ad617b950918-001-3】号 => 开始工作","timestamp":"2017-10-28T01:57:43.455Z"}
+{"level":"info","message":"机器人 630632f0bb8311e7bce6ad617b950918-001-3-游客587-277607 加入金币： 100000","timestamp":"2017-10-28T01:57:43.585Z"}
+{"level":"info","message":"机器人 630632f0bb8311e7bce6ad617b950918-001-3-游客587-277607 成功进入房间： 001","timestamp":"2017-10-28T01:57:43.595Z"}
+{"level":"info","message":"机器人 630632f0bb8311e7bce6ad617b950918-001-3-游客587-277607 开始玩一把","timestamp":"2017-10-28T01:57:43.595Z"}
+{"level":"error","message":"机器人【630632f0bb8311e7bce6ad617b950918-001-3-游客587-277607】行动失败 , 原因: TypeError: Cannot read property 'apply' of undefined","timestamp":"2017-10-28T01:57:43.595Z"}
+{"level":"info","message":"机器人【630632f0bb8311e7bce6ad617b950918-001-3-游客587-277607】stop ","timestamp":"2017-10-28T01:57:43.605Z"}
+{"level":"error","message":"机器人【630632f0bb8311e7bce6ad617b950918-001-3-游客587-277607】 socket close , 原因: 1000 ","timestamp":"2017-10-28T01:57:43.605Z"}
+{"level":"info","message":"机器人【823bb9d0bb8b11e7bd8e615c00423556-001-3】号 => 开始工作","timestamp":"2017-10-28T02:55:51.789Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 加入金币： 100000","timestamp":"2017-10-28T02:55:51.889Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 成功进入房间： 001","timestamp":"2017-10-28T02:55:51.889Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 开始玩一把","timestamp":"2017-10-28T02:55:51.889Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 totalWin: 0 剩余金币：75000 到目前为止总利润: -25000","timestamp":"2017-10-28T02:55:51.909Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 开始玩一把","timestamp":"2017-10-28T02:56:01.919Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 totalWin: 8000 剩余金币：58000 到目前为止总利润: -42000","timestamp":"2017-10-28T02:56:01.929Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 开始玩一把","timestamp":"2017-10-28T02:56:16.946Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 totalWin: 0 剩余金币：33000 到目前为止总利润: -67000","timestamp":"2017-10-28T02:56:16.956Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 开始玩一把","timestamp":"2017-10-28T02:56:26.971Z"}
+{"level":"info","message":"机器人 823bb9d0bb8b11e7bd8e615c00423556-001-3-游客274-239864 totalWin: 0 剩余金币：8000 到目前为止总利润: -92000","timestamp":"2017-10-28T02:56:26.981Z"}
+{"level":"info","message":"机器人【94d3b5b0bba511e7b8f9fdfbf7152dc6-001-3】号 => 开始工作","timestamp":"2017-10-28T06:02:29.899Z"}
+{"level":"info","message":"机器人 94d3b5b0bba511e7b8f9fdfbf7152dc6-001-3-游客011-266081 加入金币： 100000","timestamp":"2017-10-28T06:02:30.029Z"}
+{"level":"info","message":"机器人 94d3b5b0bba511e7b8f9fdfbf7152dc6-001-3-游客011-266081 成功进入房间： 001","timestamp":"2017-10-28T06:02:30.039Z"}
+{"level":"info","message":"机器人 94d3b5b0bba511e7b8f9fdfbf7152dc6-001-3-游客011-266081 开始玩一把","timestamp":"2017-10-28T06:02:30.039Z"}
+{"level":"info","message":"机器人 94d3b5b0bba511e7b8f9fdfbf7152dc6-001-3-游客011-266081 totalWin: 0 剩余金币：75000 到目前为止总利润: -25000","timestamp":"2017-10-28T06:02:30.049Z"}
+{"level":"info","message":"机器人 94d3b5b0bba511e7b8f9fdfbf7152dc6-001-3-游客011-266081 开始玩一把","timestamp":"2017-10-28T06:02:40.059Z"}
+{"level":"info","message":"机器人 94d3b5b0bba511e7b8f9fdfbf7152dc6-001-3-游客011-266081 totalWin: 8000 剩余金币：58000 到目前为止总利润: -42000","timestamp":"2017-10-28T06:02:40.079Z"}
+{"level":"info","message":"机器人【ddc6fba0bba611e7aae897f06ee3706c-001-2】号 => 开始工作","timestamp":"2017-10-28T06:11:41.786Z"}
+{"level":"error","message":"机器人【ddc6fba0bba611e7aae897f06ee3706c-001-2-游客332-271107】行动失败 , 原因: 网络接口错误: enterGame, {\"code\":500,\"error\":\"玩家已在游戏中\"}","timestamp":"2017-10-28T06:11:41.876Z"}
+{"level":"error","message":"机器人【ddc6fba0bba611e7aae897f06ee3706c-001-2-游客332-271107】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:11:41.886Z"}
+{"level":"info","message":"机器人【ddc6fba0bba611e7aae897f06ee3706c-001-2-游客332-271107】stop ","timestamp":"2017-10-28T06:11:41.886Z"}
+{"level":"info","message":"机器人【e7a5d6a0bba611e79df1fb95fad50268-001-2】号 => 开始工作","timestamp":"2017-10-28T06:11:58.346Z"}
+{"level":"info","message":"机器人 e7a5d6a0bba611e79df1fb95fad50268-001-2-游客505-278757 加入金币： 50000","timestamp":"2017-10-28T06:11:58.446Z"}
+{"level":"error","message":"机器人【e7a5d6a0bba611e79df1fb95fad50268-001-2-游客505-278757】行动失败 , 原因: ReferenceError: roomCode is not defined","timestamp":"2017-10-28T06:11:58.466Z"}
+{"level":"info","message":"机器人【e7a5d6a0bba611e79df1fb95fad50268-001-2-游客505-278757】stop ","timestamp":"2017-10-28T06:11:58.466Z"}
+{"level":"error","message":"机器人【e7a5d6a0bba611e79df1fb95fad50268-001-2-游客505-278757】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:11:58.466Z"}
+{"level":"info","message":"机器人【210e3040bba711e797a7f76aa8072b06-001-3】号 => 开始工作","timestamp":"2017-10-28T06:13:34.660Z"}
+{"level":"info","message":"机器人 210e3040bba711e797a7f76aa8072b06-001-3-游客251-207787 加入金币： 100000","timestamp":"2017-10-28T06:13:34.760Z"}
+{"level":"error","message":"机器人【210e3040bba711e797a7f76aa8072b06-001-3-游客251-207787】行动失败 , 原因: ReferenceError: roomCode is not defined","timestamp":"2017-10-28T06:13:34.770Z"}
+{"level":"info","message":"机器人【210e3040bba711e797a7f76aa8072b06-001-3-游客251-207787】stop ","timestamp":"2017-10-28T06:13:34.770Z"}
+{"level":"error","message":"机器人【210e3040bba711e797a7f76aa8072b06-001-3-游客251-207787】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:13:34.770Z"}
+{"level":"info","message":"机器人【2617b570bba711e7b0ce052cca370121-001-5】号 => 开始工作","timestamp":"2017-10-28T06:13:43.121Z"}
+{"level":"info","message":"机器人 2617b570bba711e7b0ce052cca370121-001-5-游客148-269463 加入金币： 2000000","timestamp":"2017-10-28T06:13:43.201Z"}
+{"level":"error","message":"机器人【2617b570bba711e7b0ce052cca370121-001-5-游客148-269463】行动失败 , 原因: ReferenceError: roomCode is not defined","timestamp":"2017-10-28T06:13:43.211Z"}
+{"level":"info","message":"机器人【2617b570bba711e7b0ce052cca370121-001-5-游客148-269463】stop ","timestamp":"2017-10-28T06:13:43.211Z"}
+{"level":"error","message":"机器人【2617b570bba711e7b0ce052cca370121-001-5-游客148-269463】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:13:43.211Z"}
+{"level":"info","message":"机器人【48bae570bba711e78d56ef75d441fe14-001-4】号 => 开始工作","timestamp":"2017-10-28T06:14:41.223Z"}
+{"level":"info","message":"机器人 48bae570bba711e78d56ef75d441fe14-001-4-游客924-246741 加入金币： 1000000","timestamp":"2017-10-28T06:14:41.303Z"}
+{"level":"info","message":"机器人 48bae570bba711e78d56ef75d441fe14-001-4-游客924-246741 成功进入房间： 001","timestamp":"2017-10-28T06:14:41.313Z"}
+{"level":"info","message":"机器人 48bae570bba711e78d56ef75d441fe14-001-4-游客924-246741 totalWin: 160000 剩余金币：910000 到目前为止总利润: -90000","timestamp":"2017-10-28T06:14:41.313Z"}
+{"level":"info","message":"机器人 48bae570bba711e78d56ef75d441fe14-001-4-游客924-246741 totalWin: 0 剩余金币：660000 到目前为止总利润: -340000","timestamp":"2017-10-28T06:14:57.333Z"}
+{"level":"info","message":"机器人 48bae570bba711e78d56ef75d441fe14-001-4-游客924-246741 totalWin: 0 剩余金币：410000 到目前为止总利润: -590000","timestamp":"2017-10-28T06:15:07.363Z"}
+{"level":"info","message":"机器人 48bae570bba711e78d56ef75d441fe14-001-4-游客924-246741 totalWin: 0 剩余金币：160000 到目前为止总利润: -840000","timestamp":"2017-10-28T06:15:17.384Z"}
+{"level":"info","message":"管理机器人【ebeda790-bba8-11e7-a4de-4569804974ff】号 => 开始工作","timestamp":"2017-10-28T06:26:24.521Z"}
+{"level":"info","message":"初始化，向空房间 001 加入机器人","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"向空房间 001 添加机器人 4 个，任务开始！","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"机器人【ebfb6330bba811e7a4de4569804974ff-001-4】号 => 开始工作","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"向空房间 002 添加机器人 2 个，任务开始！","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"机器人【ebfb6331bba811e7a4de4569804974ff-002-3】号 => 开始工作","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"向空房间 003 添加机器人 3 个，任务开始！","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"机器人【ebfb6332bba811e7a4de4569804974ff-003-2】号 => 开始工作","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"向空房间 004 添加机器人 4 个，任务开始！","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"机器人【ebfb6333bba811e7a4de4569804974ff-004-4】号 => 开始工作","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"向空房间 005 添加机器人 4 个，任务开始！","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"机器人【ebfb6334bba811e7a4de4569804974ff-005-2】号 => 开始工作","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"向空房间 006 添加机器人 2 个，任务开始！","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"机器人【ebfb6335bba811e7a4de4569804974ff-006-3】号 => 开始工作","timestamp":"2017-10-28T06:26:24.611Z"}
+{"level":"info","message":"机器人 ebfb6332bba811e7a4de4569804974ff-003-2-游客499-272589 加入金币： 50000","timestamp":"2017-10-28T06:26:24.681Z"}
+{"level":"info","message":"机器人 ebfb6330bba811e7a4de4569804974ff-001-4-游客644-225927 加入金币： 1000000","timestamp":"2017-10-28T06:26:24.681Z"}
+{"level":"info","message":"机器人 ebfb6334bba811e7a4de4569804974ff-005-2-游客747-202561 加入金币： 50000","timestamp":"2017-10-28T06:26:24.691Z"}
+{"level":"info","message":"机器人 ebfb6333bba811e7a4de4569804974ff-004-4-游客021-296934 加入金币： 1000000","timestamp":"2017-10-28T06:26:24.691Z"}
+{"level":"info","message":"机器人 ebfb6335bba811e7a4de4569804974ff-006-3-游客992-270950 加入金币： 100000","timestamp":"2017-10-28T06:26:24.691Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-28T06:26:24.701Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 001","timestamp":"2017-10-28T06:26:24.701Z"}
+{"level":"info","message":"机器人 ebfb6331bba811e7a4de4569804974ff-002-3-游客660-291382 加入金币： 100000","timestamp":"2017-10-28T06:26:24.701Z"}
+{"level":"info","message":"机器人 ebfb6332bba811e7a4de4569804974ff-003-2-游客499-272589 成功进入房间： 003","timestamp":"2017-10-28T06:26:24.701Z"}
+{"level":"info","message":"机器人 ebfb6330bba811e7a4de4569804974ff-001-4-游客644-225927 成功进入房间： 001","timestamp":"2017-10-28T06:26:24.701Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-28T06:26:24.711Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-28T06:26:24.711Z"}
+{"level":"info","message":"机器人 ebfb6334bba811e7a4de4569804974ff-005-2-游客747-202561 成功进入房间： 005","timestamp":"2017-10-28T06:26:24.711Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-28T06:26:24.721Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-28T06:26:24.721Z"}
+{"level":"info","message":"机器人 ebfb6332bba811e7a4de4569804974ff-003-2-游客499-272589 totalWin: 0 剩余金币：25000 到目前为止总利润: -25000","timestamp":"2017-10-28T06:26:24.721Z"}
+{"level":"info","message":"机器人 ebfb6333bba811e7a4de4569804974ff-004-4-游客021-296934 成功进入房间： 004","timestamp":"2017-10-28T06:26:24.721Z"}
+{"level":"info","message":"机器人 ebfb6335bba811e7a4de4569804974ff-006-3-游客992-270950 成功进入房间： 006","timestamp":"2017-10-28T06:26:24.721Z"}
+{"level":"info","message":"机器人 ebfb6330bba811e7a4de4569804974ff-001-4-游客644-225927 totalWin: 200000 剩余金币：950000 到目前为止总利润: -50000","timestamp":"2017-10-28T06:26:24.721Z"}
+{"level":"info","message":"机器人 ebfb6331bba811e7a4de4569804974ff-002-3-游客660-291382 成功进入房间： 002","timestamp":"2017-10-28T06:26:24.721Z"}
+{"level":"info","message":"机器人 ebfb6334bba811e7a4de4569804974ff-005-2-游客747-202561 totalWin: 0 剩余金币：25000 到目前为止总利润: -25000","timestamp":"2017-10-28T06:26:24.721Z"}
+{"level":"info","message":"机器人 ebfb6333bba811e7a4de4569804974ff-004-4-游客021-296934 totalWin: 0 剩余金币：750000 到目前为止总利润: -250000","timestamp":"2017-10-28T06:26:24.731Z"}
+{"level":"info","message":"机器人 ebfb6335bba811e7a4de4569804974ff-006-3-游客992-270950 totalWin: 0 剩余金币：75000 到目前为止总利润: -25000","timestamp":"2017-10-28T06:26:24.741Z"}
+{"level":"info","message":"机器人 ebfb6331bba811e7a4de4569804974ff-002-3-游客660-291382 totalWin: 8000 剩余金币：83000 到目前为止总利润: -17000","timestamp":"2017-10-28T06:26:24.741Z"}
+{"level":"info","message":"机器人 ebfb6332bba811e7a4de4569804974ff-003-2-游客499-272589 totalWin: 0 剩余金币：18750 到目前为止总利润: -31250","timestamp":"2017-10-28T06:26:34.757Z"}
+{"level":"info","message":"机器人 ebfb6334bba811e7a4de4569804974ff-005-2-游客747-202561 totalWin: 0 剩余金币：18750 到目前为止总利润: -31250","timestamp":"2017-10-28T06:26:34.757Z"}
+{"level":"info","message":"机器人 ebfb6333bba811e7a4de4569804974ff-004-4-游客021-296934 totalWin: 140000 剩余金币：640000 到目前为止总利润: -360000","timestamp":"2017-10-28T06:26:34.757Z"}
+{"level":"info","message":"机器人 ebfb6335bba811e7a4de4569804974ff-006-3-游客992-270950 totalWin: 0 剩余金币：50000 到目前为止总利润: -50000","timestamp":"2017-10-28T06:26:34.757Z"}
+{"level":"info","message":"机器人 ebfb6330bba811e7a4de4569804974ff-001-4-游客644-225927 totalWin: 0 剩余金币：700000 到目前为止总利润: -300000","timestamp":"2017-10-28T06:26:42.749Z"}
+{"level":"info","message":"机器人 ebfb6331bba811e7a4de4569804974ff-002-3-游客660-291382 totalWin: 6000 剩余金币：64000 到目前为止总利润: -36000","timestamp":"2017-10-28T06:26:42.759Z"}
+{"level":"info","message":"机器人 ebfb6332bba811e7a4de4569804974ff-003-2-游客499-272589 totalWin: 17500 剩余金币：30000 到目前为止总利润: -20000","timestamp":"2017-10-28T06:26:44.789Z"}
+{"level":"info","message":"机器人 ebfb6334bba811e7a4de4569804974ff-005-2-游客747-202561 totalWin: 0 剩余金币：12500 到目前为止总利润: -37500","timestamp":"2017-10-28T06:26:44.799Z"}
+{"level":"info","message":"机器人 ebfb6335bba811e7a4de4569804974ff-006-3-游客992-270950 totalWin: 0 剩余金币：25000 到目前为止总利润: -75000","timestamp":"2017-10-28T06:26:44.799Z"}
+{"level":"info","message":"管理机器人【02d3c6b0-bba9-11e7-9f02-c148c5c17633】号 => 开始工作","timestamp":"2017-10-28T06:27:02.939Z"}
+{"level":"info","message":"初始化，向空房间 001 加入机器人","timestamp":"2017-10-28T06:27:03.019Z"}
+{"level":"info","message":"向空房间 001 添加机器人 4 个，任务开始！","timestamp":"2017-10-28T06:27:03.019Z"}
+{"level":"info","message":"机器人【02e18250bba911e79f02c148c5c17633-001-2】号 => 开始工作","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"初始化，向空房间 002 加入机器人","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"向空房间 002 添加机器人 3 个，任务开始！","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"机器人【02e18251bba911e79f02c148c5c17633-002-4】号 => 开始工作","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"初始化，向空房间 003 加入机器人","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"向空房间 003 添加机器人 2 个，任务开始！","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"机器人【02e18252bba911e79f02c148c5c17633-003-1】号 => 开始工作","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"初始化，向空房间 004 加入机器人","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"向空房间 004 添加机器人 4 个，任务开始！","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"机器人【02e18253bba911e79f02c148c5c17633-004-1】号 => 开始工作","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"初始化，向空房间 005 加入机器人","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"向空房间 005 添加机器人 3 个，任务开始！","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"机器人【02e18254bba911e79f02c148c5c17633-005-3】号 => 开始工作","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"初始化，向空房间 006 加入机器人","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"向空房间 006 添加机器人 4 个，任务开始！","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"机器人【02e18255bba911e79f02c148c5c17633-006-4】号 => 开始工作","timestamp":"2017-10-28T06:27:03.029Z"}
+{"level":"info","message":"机器人 02e18252bba911e79f02c148c5c17633-003-1-游客111-221022 加入金币： 10000","timestamp":"2017-10-28T06:27:03.089Z"}
+{"level":"info","message":"机器人 02e18253bba911e79f02c148c5c17633-004-1-游客934-238058 加入金币： 10000","timestamp":"2017-10-28T06:27:03.089Z"}
+{"level":"info","message":"机器人 02e18251bba911e79f02c148c5c17633-002-4-游客019-206842 加入金币： 1000000","timestamp":"2017-10-28T06:27:03.109Z"}
+{"level":"info","message":"机器人 02e18250bba911e79f02c148c5c17633-001-2-游客495-298406 加入金币： 50000","timestamp":"2017-10-28T06:27:03.109Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 003","timestamp":"2017-10-28T06:27:03.119Z"}
+{"level":"info","message":"机器人 02e18255bba911e79f02c148c5c17633-006-4-游客649-239541 加入金币： 1000000","timestamp":"2017-10-28T06:27:03.119Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 004","timestamp":"2017-10-28T06:27:03.119Z"}
+{"level":"info","message":"机器人 02e18252bba911e79f02c148c5c17633-003-1-游客111-221022 成功进入房间： 003","timestamp":"2017-10-28T06:27:03.119Z"}
+{"level":"info","message":"机器人 02e18253bba911e79f02c148c5c17633-004-1-游客934-238058 成功进入房间： 004","timestamp":"2017-10-28T06:27:03.119Z"}
+{"level":"info","message":"机器人 02e18254bba911e79f02c148c5c17633-005-3-游客703-274266 加入金币： 100000","timestamp":"2017-10-28T06:27:03.129Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 006","timestamp":"2017-10-28T06:27:03.129Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 002","timestamp":"2017-10-28T06:27:03.129Z"}
+{"level":"info","message":"机器人 02e18255bba911e79f02c148c5c17633-006-4-游客649-239541 成功进入房间： 006","timestamp":"2017-10-28T06:27:03.129Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 001","timestamp":"2017-10-28T06:27:03.139Z"}
+{"level":"info","message":"机器人 02e18252bba911e79f02c148c5c17633-003-1-游客111-221022 totalWin: 4000 剩余金币：7750 到目前为止总利润: -2250","timestamp":"2017-10-28T06:27:03.139Z"}
+{"level":"info","message":"机器人 02e18251bba911e79f02c148c5c17633-002-4-游客019-206842 成功进入房间： 002","timestamp":"2017-10-28T06:27:03.139Z"}
+{"level":"info","message":"机器人 02e18250bba911e79f02c148c5c17633-001-2-游客495-298406 成功进入房间： 001","timestamp":"2017-10-28T06:27:03.139Z"}
+{"level":"info","message":"机器人 02e18253bba911e79f02c148c5c17633-004-1-游客934-238058 totalWin: 0 剩余金币：3750 到目前为止总利润: -6250","timestamp":"2017-10-28T06:27:03.139Z"}
+{"level":"info","message":"机器人 02e18255bba911e79f02c148c5c17633-006-4-游客649-239541 totalWin: 0 剩余金币：750000 到目前为止总利润: -250000","timestamp":"2017-10-28T06:27:03.139Z"}
+{"level":"info","message":"isRobot: true, isIncrement: true, num: 1, robotNumInRoom: 1 === roomCode: 005","timestamp":"2017-10-28T06:27:03.149Z"}
+{"level":"info","message":"机器人 02e18254bba911e79f02c148c5c17633-005-3-游客703-274266 成功进入房间： 005","timestamp":"2017-10-28T06:27:03.149Z"}
+{"level":"info","message":"机器人 02e18251bba911e79f02c148c5c17633-002-4-游客019-206842 totalWin: 40000 剩余金币：790000 到目前为止总利润: -210000","timestamp":"2017-10-28T06:27:03.149Z"}
+{"level":"info","message":"机器人 02e18250bba911e79f02c148c5c17633-001-2-游客495-298406 totalWin: 24000 剩余金币：49000 到目前为止总利润: -1000","timestamp":"2017-10-28T06:27:03.149Z"}
+{"level":"info","message":"机器人 02e18254bba911e79f02c148c5c17633-005-3-游客703-274266 totalWin: 20000 剩余金币：95000 到目前为止总利润: -5000","timestamp":"2017-10-28T06:27:03.159Z"}

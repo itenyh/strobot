@@ -1,0 +1,75 @@
+{"level":"error","message":"机器人【40f5ab7ebd4311e7b47b83b8e1335d8f-006-5-游客925-228714】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348226284","timestamp":"2017-10-30T07:23:46.284Z"}
+{"level":"error","message":"机器人【40f5ab7ebd4311e7b47b83b8e1335d8f-006-5-游客925-228714】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:23:48.657Z"}
+{"level":"error","message":"机器人【40f5ab75bd4311e7b47b83b8e1335d8f-005-4-游客072-236308】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f5ab77bd4311e7b47b83b8e1335d8f-005-4-游客555-263112】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f5ab7abd4311e7b47b83b8e1335d8f-005-5-游客965-237220】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f36183bd4311e7b47b83b8e1335d8f-001-5-游客725-240309】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f36186bd4311e7b47b83b8e1335d8f-002-2-游客136-244253】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f36185bd4311e7b47b83b8e1335d8f-001-1-游客420-278946】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f36191bd4311e7b47b83b8e1335d8f-003-1-游客411-246773】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f3618fbd4311e7b47b83b8e1335d8f-003-2-游客379-291769】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f36184bd4311e7b47b83b8e1335d8f-001-2-游客802-233664】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f5ab79bd4311e7b47b83b8e1335d8f-005-5-游客173-257438】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f36181bd4311e7b47b83b8e1335d8f-001-3-游客438-225552】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.583Z"}
+{"level":"error","message":"机器人【40f36192bd4311e7b47b83b8e1335d8f-004-5-游客568-247123】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab73bd4311e7b47b83b8e1335d8f-004-2-游客393-206596】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f36188bd4311e7b47b83b8e1335d8f-002-2-游客807-225935】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab70bd4311e7b47b83b8e1335d8f-004-3-游客901-209976】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab72bd4311e7b47b83b8e1335d8f-004-4-游客369-233212】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab7cbd4311e7b47b83b8e1335d8f-006-2-游客917-209404】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab76bd4311e7b47b83b8e1335d8f-005-1-游客620-284462】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab80bd4311e7b47b83b8e1335d8f-006-5-游客086-235382】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab78bd4311e7b47b83b8e1335d8f-005-3-游客202-269514】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f3618dbd4311e7b47b83b8e1335d8f-003-1-游客650-224308】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab7bbd4311e7b47b83b8e1335d8f-006-2-游客651-222114】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f3618abd4311e7b47b83b8e1335d8f-002-3-游客291-285090】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f36189bd4311e7b47b83b8e1335d8f-002-4-游客838-210931】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f3618cbd4311e7b47b83b8e1335d8f-003-5-游客039-219120】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f36187bd4311e7b47b83b8e1335d8f-002-3-游客603-211941】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f36180bd4311e7b47b83b8e1335d8f-001-1-游客032-209244】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f3618ebd4311e7b47b83b8e1335d8f-003-2-游客075-205187】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f3618bbd4311e7b47b83b8e1335d8f-002-2-游客598-295273】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab74bd4311e7b47b83b8e1335d8f-004-5-游客029-272973】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab7fbd4311e7b47b83b8e1335d8f-006-4-游客724-230193】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab7dbd4311e7b47b83b8e1335d8f-006-4-游客366-286774】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f36190bd4311e7b47b83b8e1335d8f-003-1-游客879-254253】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f36182bd4311e7b47b83b8e1335d8f-001-3-游客316-253782】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f5ab71bd4311e7b47b83b8e1335d8f-004-3-游客036-291387】 socket close , 原因: 1006 ","timestamp":"2017-10-30T07:30:21.599Z"}
+{"level":"error","message":"机器人【40f36186bd4311e7b47b83b8e1335d8f-002-2-游客136-244253】行动失败 , 原因: Error: not opened Time: 1509348622395","timestamp":"2017-10-30T07:30:22.395Z"}
+{"level":"error","message":"机器人【40f36186bd4311e7b47b83b8e1335d8f-002-2-游客136-244253】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:22.395Z"}
+{"level":"error","message":"机器人【40f5ab7cbd4311e7b47b83b8e1335d8f-006-2-游客917-209404】行动失败 , 原因: Error: not opened Time: 1509348622878","timestamp":"2017-10-30T07:30:22.878Z"}
+{"level":"error","message":"机器人【40f5ab7cbd4311e7b47b83b8e1335d8f-006-2-游客917-209404】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:22.878Z"}
+{"level":"error","message":"机器人【40f5ab74bd4311e7b47b83b8e1335d8f-004-5-游客029-272973】行动失败 , 原因: Error: not opened Time: 1509348623362","timestamp":"2017-10-30T07:30:23.362Z"}
+{"level":"error","message":"机器人【40f5ab74bd4311e7b47b83b8e1335d8f-004-5-游客029-272973】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:23.362Z"}
+{"level":"error","message":"机器人【40f5ab7bbd4311e7b47b83b8e1335d8f-006-2-游客651-222114】行动失败 , 原因: Error: not opened Time: 1509348625062","timestamp":"2017-10-30T07:30:25.062Z"}
+{"level":"error","message":"机器人【40f5ab7bbd4311e7b47b83b8e1335d8f-006-2-游客651-222114】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:25.062Z"}
+{"level":"error","message":"机器人【40f3618abd4311e7b47b83b8e1335d8f-002-3-游客291-285090】行动失败 , 原因: Error: not opened Time: 1509348626076","timestamp":"2017-10-30T07:30:26.076Z"}
+{"level":"error","message":"机器人【40f3618abd4311e7b47b83b8e1335d8f-002-3-游客291-285090】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:26.076Z"}
+{"level":"error","message":"机器人【40f3618ebd4311e7b47b83b8e1335d8f-003-2-游客075-205187】行动失败 , 原因: Error: not opened Time: 1509348626107","timestamp":"2017-10-30T07:30:26.107Z"}
+{"level":"error","message":"机器人【40f3618ebd4311e7b47b83b8e1335d8f-003-2-游客075-205187】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:26.107Z"}
+{"level":"error","message":"机器人【40f5ab78bd4311e7b47b83b8e1335d8f-005-3-游客202-269514】行动失败 , 原因: Error: not opened Time: 1509348626310","timestamp":"2017-10-30T07:30:26.310Z"}
+{"level":"error","message":"机器人【40f5ab78bd4311e7b47b83b8e1335d8f-005-3-游客202-269514】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:26.310Z"}
+{"level":"error","message":"机器人【40f5ab80bd4311e7b47b83b8e1335d8f-006-5-游客086-235382】行动失败 , 原因: Error: not opened Time: 1509348626310","timestamp":"2017-10-30T07:30:26.310Z"}
+{"level":"error","message":"机器人【40f5ab80bd4311e7b47b83b8e1335d8f-006-5-游客086-235382】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:26.310Z"}
+{"level":"error","message":"机器人【40f36189bd4311e7b47b83b8e1335d8f-002-4-游客838-210931】行动失败 , 原因: Error: not opened Time: 1509348626451","timestamp":"2017-10-30T07:30:26.451Z"}
+{"level":"error","message":"机器人【40f36189bd4311e7b47b83b8e1335d8f-002-4-游客838-210931】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:30:26.451Z"}
+{"level":"error","message":"机器人【063c2edfbd4511e7a76a41c6817455bf-003-4-游客186-250495】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2edcbd4511e7a76a41c6817455bf-003-4-游客142-294969】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2ed9bd4511e7a76a41c6817455bf-002-2-游客952-284566】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2ed6bd4511e7a76a41c6817455bf-002-4-游客822-206432】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2eddbd4511e7a76a41c6817455bf-003-1-游客035-228898】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2ee4bd4511e7a76a41c6817455bf-004-2-游客906-274994】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2eebbd4511e7a76a41c6817455bf-005-2-游客378-257242】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2ed0bd4511e7a76a41c6817455bf-001-5-游客079-273991】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2eeebd4511e7a76a41c6817455bf-006-4-游客593-283848】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2ee3bd4511e7a76a41c6817455bf-004-1-游客670-265982】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"获取游戏信息失败\"} Time: 1509348987627","timestamp":"2017-10-30T07:36:27.627Z"}
+{"level":"error","message":"机器人【063c2edcbd4511e7a76a41c6817455bf-003-4-游客142-294969】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.562Z"}
+{"level":"error","message":"机器人【063c2edfbd4511e7a76a41c6817455bf-003-4-游客186-250495】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【063c2ed6bd4511e7a76a41c6817455bf-002-4-游客822-206432】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【063c2ed9bd4511e7a76a41c6817455bf-002-2-游客952-284566】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【063c2eddbd4511e7a76a41c6817455bf-003-1-游客035-228898】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【063c2ed0bd4511e7a76a41c6817455bf-001-5-游客079-273991】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【063c2ee4bd4511e7a76a41c6817455bf-004-2-游客906-274994】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【063c2eebbd4511e7a76a41c6817455bf-005-2-游客378-257242】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【063c2eeebd4511e7a76a41c6817455bf-006-4-游客593-283848】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【063c2ee3bd4511e7a76a41c6817455bf-004-1-游客670-265982】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}

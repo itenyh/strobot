@@ -4,7 +4,7 @@
 
 const Q = require('q')
 
-global.logger = require('../util/logger')
+global.logger = require('../../util/logger')
 const PlayerRobot = require('./robot')
 
 addRobot(100000)

@@ -7,8 +7,6 @@ const Q = require('q')
 const RobotAction = require('./robotAction')
 const Net = require('../util/net')
 
-global.rules = require('./rules')
-
 function Robot(room) {
 
     const pomelo = (new PP()).pomelo
@@ -39,13 +37,12 @@ function Robot(room) {
                 yield this.action.enterGame()
                 yield this.action.addInitMoney()
                 hasConnected = true
-                this.action.emit('robotEnterGame')
+                global.robotsInfo.registerRef(this.action.getUid(), this)
                 yield this.action.enterRoom()
                 yield this.action.play()
             }
             catch (reason) {
-                logger.error('机器人【%s】行动失败 , 原因: %s Time: %s', this.action.getId(), reason, Date.now())
-                hasConnected = false
+                logger.error('机器人【%s】行动失败 , 原因: %s', this.action.getId(), reason)
                 yield this.stop()
             }
 
@@ -55,7 +52,7 @@ function Robot(room) {
 
     this.stop = Q.async(function* () {
 
-        this.action.emit('robotLeaveGame')
+        global.robotsInfo.removeRobot(room, this.action.getUid())
 
         try {
             yield this.action.leaveRoom2Game()

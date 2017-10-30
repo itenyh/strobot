@@ -6,9 +6,9 @@ const Q = require('q')
 const v1 = require('uuid/v1');
 const RobotAction = require('./managerRobotAction')
 
-function ManageRobot(nid, PlayerRobot) {
+function ManageRobot(nid) {
 
-    const action = new RobotAction(nid, PlayerRobot)
+    const action = new RobotAction(nid)
 
     this.id = v1()
     this.afterStop = null
@@ -24,7 +24,7 @@ function ManageRobot(nid, PlayerRobot) {
             Q.spawn(function* () {
                 yield action.connect()
                 yield action.enterGame()
-                yield action.addRobotsIntoInitEmptyRooms()
+                // yield action.addRobotsIntoInitEmptyRooms()
             }.bind(this))
 
         }
