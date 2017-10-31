@@ -24171,3 +24171,50 @@
 {"level":"info","message":"机器人 6d3033e0bd4811e7a12cd5f3b7ed7d49-001-3-游客919-278741 成功进入房间： 001","timestamp":"2017-10-30T08:00:42.666Z"}
 {"level":"info","message":"机器人 6d3033e0bd4811e7a12cd5f3b7ed7d49-001-3-游客919-278741 玩一把 1509350442682","timestamp":"2017-10-30T08:00:42.682Z"}
 {"level":"info","message":"机器人 6d3033e0bd4811e7a12cd5f3b7ed7d49-001-3-游客919-278741 totalWin: 5000 剩余金币：98750 到目前为止总利润: -1250","timestamp":"2017-10-30T08:00:42.682Z"}
+{"level":"info","message":"机器人【62d62370be0e11e7979ef75d73e47ae3-001-1】号 => 开始工作","timestamp":"2017-10-31T07:37:45.511Z"}
+{"level":"error","message":"机器人【62d62370be0e11e7979ef75d73e47ae3-001-1】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:37:45.605Z"}
+{"level":"info","message":"机器人 62d62370be0e11e7979ef75d73e47ae3-001-1-游客092-275158 加入金币： 10000","timestamp":"2017-10-31T07:37:46.276Z"}
+{"level":"info","message":"机器人 62d62370be0e11e7979ef75d73e47ae3-001-1-游客092-275158 成功进入房间： 001","timestamp":"2017-10-31T07:37:46.307Z"}
+{"level":"info","message":"机器人 62d62370be0e11e7979ef75d73e47ae3-001-1-游客092-275158 玩一把 1509435466307","timestamp":"2017-10-31T07:37:46.307Z"}
+{"level":"info","message":"机器人【67b38f90be0e11e79631ed77f8fe3ac2-001-2】号 => 开始工作","timestamp":"2017-10-31T07:37:53.673Z"}
+{"level":"error","message":"机器人【67b38f90be0e11e79631ed77f8fe3ac2-001-2】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:37:53.735Z"}
+{"level":"info","message":"机器人 67b38f90be0e11e79631ed77f8fe3ac2-001-2-游客851-243027 加入金币： 50000","timestamp":"2017-10-31T07:37:54.281Z"}
+{"level":"info","message":"机器人 67b38f90be0e11e79631ed77f8fe3ac2-001-2-游客851-243027 成功进入房间： 001","timestamp":"2017-10-31T07:37:54.297Z"}
+{"level":"info","message":"机器人 67b38f90be0e11e79631ed77f8fe3ac2-001-2-游客851-243027 玩一把 1509435474297","timestamp":"2017-10-31T07:37:54.297Z"}
+{"level":"info","message":"机器人 67b38f90be0e11e79631ed77f8fe3ac2-001-2-游客851-243027 totalWin: 10000 剩余金币：53750 到目前为止总利润: 3750","timestamp":"2017-10-31T07:37:54.843Z"}
+{"level":"info","message":"机器人 67b38f90be0e11e79631ed77f8fe3ac2-001-2-游客851-243027 玩一把 1509435489945","timestamp":"2017-10-31T07:38:09.945Z"}
+{"level":"info","message":"机器人 67b38f90be0e11e79631ed77f8fe3ac2-001-2-游客851-243027 totalWin: 15000 剩余金币：62500 到目前为止总利润: 12500","timestamp":"2017-10-31T07:38:10.335Z"}
+{"level":"info","message":"机器人【4d120430be1011e7a94e3dde7bed1fc7-001-4】号 => 开始工作","timestamp":"2017-10-31T07:51:27.987Z"}
+{"level":"error","message":"机器人【4d120430be1011e7a94e3dde7bed1fc7-001-4】行动失败 , 原因: ReferenceError: net is not defined Time: 1509436287987","timestamp":"2017-10-31T07:51:27.987Z"}
+{"level":"error","message":"机器人【4d120430be1011e7a94e3dde7bed1fc7-001-4】stop 退出房间失败 , 原因: ReferenceError: net is not defined","timestamp":"2017-10-31T07:51:27.987Z"}
+{"level":"info","message":"机器人【4d120430be1011e7a94e3dde7bed1fc7-001-4】stop ","timestamp":"2017-10-31T07:51:27.987Z"}
+{"level":"info","message":"机器人【68a94f50be1011e7b5becde3ee2f78ac-001-3】号 => 开始工作","timestamp":"2017-10-31T07:52:14.293Z"}
+{"level":"error","message":"机器人【68a94f50be1011e7b5becde3ee2f78ac-001-3】行动失败 , 原因: TypeError: Cannot read property 'net' of undefined Time: 1509436334293","timestamp":"2017-10-31T07:52:14.293Z"}
+{"level":"error","message":"机器人【68a94f50be1011e7b5becde3ee2f78ac-001-3】stop 退出房间失败 , 原因: TypeError: Cannot read property 'net' of undefined","timestamp":"2017-10-31T07:52:14.293Z"}
+{"level":"info","message":"机器人【68a94f50be1011e7b5becde3ee2f78ac-001-3】stop ","timestamp":"2017-10-31T07:52:14.293Z"}
+{"level":"info","message":"机器人【80716a00be1011e7a43097b8f12f5b6b-001-5】号 => 开始工作","timestamp":"2017-10-31T07:52:54.176Z"}
+{"level":"error","message":"机器人【80716a00be1011e7a43097b8f12f5b6b-001-5】行动失败 , 原因: TypeError: Cannot read property 'net' of undefined Time: 1509436374176","timestamp":"2017-10-31T07:52:54.176Z"}
+{"level":"error","message":"机器人【80716a00be1011e7a43097b8f12f5b6b-001-5】stop 退出房间失败 , 原因: TypeError: Cannot read property 'net' of undefined","timestamp":"2017-10-31T07:52:54.176Z"}
+{"level":"info","message":"机器人【80716a00be1011e7a43097b8f12f5b6b-001-5】stop ","timestamp":"2017-10-31T07:52:54.176Z"}
+{"level":"info","message":"机器人【8bf67af0be1011e788e5b7ca64bbe482-001-1】号 => 开始工作","timestamp":"2017-10-31T07:53:13.503Z"}
+{"level":"error","message":"机器人【8bf67af0be1011e788e5b7ca64bbe482-001-1】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:53:13.597Z"}
+{"level":"info","message":"机器人【9b6b1590be1011e7bf5065b024438538-001-5】号 => 开始工作","timestamp":"2017-10-31T07:53:39.433Z"}
+{"level":"error","message":"机器人【9b6b1590be1011e7bf5065b024438538-001-5】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:53:39.558Z"}
+{"level":"info","message":"机器人 9b6b1590be1011e7bf5065b024438538-001-5-游客615-203290 加入金币： 2000000","timestamp":"2017-10-31T07:53:39.995Z"}
+{"level":"info","message":"机器人 9b6b1590be1011e7bf5065b024438538-001-5-游客615-203290 成功进入房间： 001","timestamp":"2017-10-31T07:53:40.073Z"}
+{"level":"info","message":"机器人 9b6b1590be1011e7bf5065b024438538-001-5-游客615-203290 玩一把 1509436420073","timestamp":"2017-10-31T07:53:40.073Z"}
+{"level":"info","message":"机器人 9b6b1590be1011e7bf5065b024438538-001-5-游客615-203290 totalWin: 7500 剩余金币：2001250 到目前为止总利润: 1250","timestamp":"2017-10-31T07:53:40.104Z"}
+{"level":"info","message":"机器人 9b6b1590be1011e7bf5065b024438538-001-5-游客615-203290 玩一把 1509436440123","timestamp":"2017-10-31T07:54:00.123Z"}
+{"level":"info","message":"机器人 9b6b1590be1011e7bf5065b024438538-001-5-游客615-203290 totalWin: 0 剩余金币：1995000 到目前为止总利润: -5000","timestamp":"2017-10-31T07:54:00.778Z"}
+{"level":"info","message":"机器人【39a64950be1111e7ac5b59abe6447278-001-1】号 => 开始工作","timestamp":"2017-10-31T07:58:04.901Z"}
+{"level":"error","message":"机器人【39a64950be1111e7ac5b59abe6447278-001-1】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:58:04.963Z"}
+{"level":"info","message":"机器人 39a64950be1111e7ac5b59abe6447278-001-1-游客060-280129 加入金币： 10000","timestamp":"2017-10-31T07:58:05.416Z"}
+{"level":"info","message":"机器人 39a64950be1111e7ac5b59abe6447278-001-1-游客060-280129 成功进入房间： 001","timestamp":"2017-10-31T07:58:05.494Z"}
+{"level":"info","message":"机器人 39a64950be1111e7ac5b59abe6447278-001-1-游客060-280129 玩一把 1509436685494","timestamp":"2017-10-31T07:58:05.494Z"}
+{"level":"info","message":"机器人 39a64950be1111e7ac5b59abe6447278-001-1-游客060-280129 totalWin: 30750 剩余金币：34500 到目前为止总利润: NaN","timestamp":"2017-10-31T07:58:05.603Z"}
+{"level":"info","message":"机器人【624454a0be1711e7bc605ded033647d1-001-5】号 => 开始工作","timestamp":"2017-10-31T08:42:10.026Z"}
+{"level":"error","message":"机器人【624454a0be1711e7bc605ded033647d1-001-5】 socket close , 原因: 1000 ","timestamp":"2017-10-31T08:42:10.135Z"}
+{"level":"info","message":"机器人 624454a0be1711e7bc605ded033647d1-001-5-游客379-209685 加入金币： 2000000","timestamp":"2017-10-31T08:42:10.198Z"}
+{"level":"info","message":"机器人 624454a0be1711e7bc605ded033647d1-001-5-游客379-209685 成功进入房间： 001","timestamp":"2017-10-31T08:42:10.198Z"}
+{"level":"info","message":"机器人 624454a0be1711e7bc605ded033647d1-001-5-游客379-209685 玩一把 1509439330198","timestamp":"2017-10-31T08:42:10.198Z"}
+{"level":"info","message":"机器人 624454a0be1711e7bc605ded033647d1-001-5-游客379-209685 totalWin: 15000 剩余金币：2008750 到目前为止总利润: 8750","timestamp":"2017-10-31T08:42:10.213Z"}

@@ -5,29 +5,17 @@
 require('../util/pomelo-cocos2d-js')
 const Q = require('q')
 const RobotAction = require('./robotAction')
-const Net = require('../util/net')
 
 global.rules = require('./rules')
 
 function Robot(room) {
 
-    const pomelo = (new PP()).pomelo
-    const net = new Net(pomelo)
-    let hasConnected = false
-    this.action = new RobotAction(net)
+    this.action = RobotAction.createRobotAction()
 
     this.afterStop = null
     this.run = () => {
 
-        pomelo.on('close', function (data) {
-            if (hasConnected) {
-                logger.error('机器人【%s】 socket close , 原因: %s %s', this.action.getId(), data.code, data.reason)
-            }
-        }.bind(this))
-
-        pomelo.on('io-error', function (data) {
-            logger.error('机器人【%s】 socket error , 原因: %s %s', this.action.getId(), data.code, data.reason)
-        }.bind(this))
+        this.action.addListener()
 
         this.action.initMemeory(room)
 
@@ -38,14 +26,12 @@ function Robot(room) {
                 yield this.action.connect()
                 yield this.action.enterGame()
                 yield this.action.addInitMoney()
-                hasConnected = true
                 this.action.emit('robotEnterGame')
                 yield this.action.enterRoom()
                 yield this.action.play()
             }
             catch (reason) {
                 logger.error('机器人【%s】行动失败 , 原因: %s Time: %s', this.action.getId(), reason, Date.now())
-                hasConnected = false
                 yield this.stop()
             }
 
@@ -73,14 +59,9 @@ function Robot(room) {
     })
 
 
-
-    this.getRobotInfo = function () {
-        return action.getMemory
-
-    }
-
 }
 
 module.exports = Robot
 
 
+// 10.31： （1）修复了slots机器人的bug （2）优化slots机器人代码结构

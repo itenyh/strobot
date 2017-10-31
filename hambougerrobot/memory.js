@@ -5,13 +5,14 @@
 function Memory() {
 
     this.id = ''
+    this.nid = 2
     this.gold = 0
-    this.isNotified2Leave = false
     this.type = 0
     this.addedMoney = false
     this.profit = 0
     this.round = 0
     this.roomCode = -1
+    this.lastRecordJackPoolTime = 0
 
 }
 

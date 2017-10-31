@@ -4,124 +4,143 @@
 
 const Q = require('q')
 const v1 = require('uuid/v1');
-const Memory = require('./memory')
 const gameConfig = require('../config/game-config.json')
-const gameParams = require('./config/game-config.json')
 const EventEmitter = require('events')
+const Net = require('../util/net')
 
-function RobotAction(net) {
+class RobotAction {
 
-    const memory = new Memory()
-    const event = new EventEmitter()
-
-    this.initMemeory = function (room) {
-        memory.type = global.rules.getRandomType()
-        memory.id = v1().replace(/-/g, '') + '-' + room + '-' + memory.type
-        memory.roomCode = room
+    constructor(memory) {
+        this.memory = memory
+        this.pomelo = (new PP()).pomelo;
+        this.net = new Net(this.pomelo);
+        this.event = new EventEmitter();
     }
 
-    this.getId = function () {
-        return memory.id
+    initMemeory(room) {
+        this.memory.type = global.rules.getRandomType()
+        this.memory.id = v1().replace(/-/g, '') + '-' + room + '-' + this.memory.type
+        this.memory.roomCode = room
     }
 
-    this.getUid = function () {
-        return memory.uid
+    addListener() {
+        this.pomelo.on('close', function (data) {
+            logger.error('机器人【%s】 socket close , 原因: %s %s', this.getId(), data.code, data.reason)
+        }.bind(this))
+
+        this.pomelo.on('io-error', function (data) {
+            logger.error('机器人【%s】 socket error , 原因: %s %s', this.getId(), data.code, data.reason)
+        }.bind(this))
     }
 
-    this.disconnect = () => {
-        net.disconnect()
+    getId() {
+        return this.memory.id
     }
 
-    this.on = function (eventName, data) {
-        event.on(eventName, data)
+    getUid() {
+        return this.memory.uid
     }
 
-    this.emit = function (eventName, data) {
-        event.emit(eventName, data)
+    disconnect() {
+        this.net.disconnect()
     }
 
-    this.connect = Q.async(function* () {
-        yield net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort})
-        const loginData = yield net.asynLogin()
-        const userLoginData = yield net.asynUserLogin(loginData.id)
-        yield net.asynReady({host: userLoginData.server.host, port: userLoginData.server.port})
-        const userData = yield net.asynEnter(userLoginData.uid, userLoginData.token)
-        const user = userData.user
-        memory.uid = user.uid
-        memory.id += '-' + user.nickname + '-' + memory.uid
-    })
+    on(eventName, data) {
+        this.event.on(eventName, data)
+    }
 
-    this.enterGame = Q.async(function* () {
-        yield net.asynEnterGame(gameParams.nid)
-    })
+    emit(eventName, data) {
+        this.event.emit(eventName, data)
+    }
 
-    this.addInitMoney = Q.async(function* () {
-        const newGold = global.rules.getGold(memory.type)
-        logger.info('机器人 %s 加入金币： %s', this.getId(), newGold)
-        yield addMoney(newGold)
-    })
+    connect() {
+        return Q.async(function* () {
+            yield this.net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort})
+            const loginData = yield this.net.asynLogin()
+            const userLoginData = yield this.net.asynUserLogin(loginData.id)
+            yield this.net.asynReady({host: userLoginData.server.host, port: userLoginData.server.port})
+            const userData = yield this.net.asynEnter(userLoginData.uid, userLoginData.token)
+            const user = userData.user
+            this.memory.uid = user.uid
+            this.memory.id += '-' + user.nickname + '-' + this.memory.uid
+        }.bind(this))()
+    }
 
-    this.enterRoom = Q.async(function* () {
-        yield net.asynEnterRoom(memory.roomCode)
-        logger.info('机器人 %s 成功进入房间： %s', this.getId(), memory.roomCode)
-    })
+    enterGame() {
+        return Q.async(function* () {
+            yield this.net.asynEnterGame(this.memory.nid)
+        }.bind(this))()
+    }
 
-    this.play = Q.async(function* () {
+    addInitMoney() {
+        return Q.async(function* () {
+            const newGold = global.rules.getGold(this.memory.type)
+            logger.info('机器人 %s 加入金币： %s', this.getId(), newGold)
+            yield this.addMoney(newGold)
+        }.bind(this))()
+    }
 
-        while (true) {
+    enterRoom() {
+        return Q.async(function* () {
+            yield this.net.asynEnterRoom(this.memory.roomCode)
+            logger.info('机器人 %s 成功进入房间： %s', this.getId(), this.memory.roomCode)
+        }.bind(this))()
+    }
 
-            if (memory.isNotified2Leave) {
-                return
-            }
+    play() {
+        return Q.async(function* () {
 
-            const pay = caculatePay(memory.gold)
-            if (pay) {
+            while (true) {
 
-                logger.info('机器人 %s 玩一把 %s', this.getId(), Date.now())
-                const result = yield net.asynPlay777(pay[0], pay[1])
-                const totalWin = result.totalWin
-                const profit = totalWin - pay[0] * pay[1]
-                memory.gold += profit
-                memory.profit += profit
-                memory.round += 1
+                if (this.memory.isNotified2Leave) {
+                    return
+                }
 
-                logger.info('机器人 %s totalWin: %s 剩余金币：%s 到目前为止总利润: %s', this.getId(), totalWin, memory.gold, memory.profit)
+                const pay = this.caculatePay(this.memory.gold)
+                if (pay) {
 
-                const potData = yield net.asynQuery777JackPot()
-                this.emit('round', [+this.getUid(), pay[0] * pay[1], memory.profit, memory.round, potData.jackpotFund, potData.runningPool, potData.profitPool])
+                    logger.info('机器人 %s 玩一把 %s', this.getId(), Date.now())
+                    const result = yield this.net.asynPlay777(pay[0], pay[1])
+                    const totalWin = result.totalWin
+                    const profit = totalWin - pay[0] * pay[1]
+                    this.memory.gold += profit
+                    this.memory.profit += profit
+                    this.memory.round += 1
 
-                let waitTime = global.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, memory.gold)
-                yield Q.delay(waitTime)
+                    logger.info('机器人 %s totalWin: %s 剩余金币：%s 到目前为止总利润: %s', this.getId(), totalWin, this.memory.gold, this.memory.profit)
 
-            }
-            else {
-                if (!memory.addedMoney) {
-                    logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
-                    yield addMoney(global.rules.getGold(memory.type))
-                    memory.addedMoney = true
+                    const potData = yield this.net.asynQuery777JackPot()
+                    this.emit('round', [+this.getUid(), pay[0] * pay[1], this.memory.profit, this.memory.round, potData.jackpotFund, potData.runningPool, potData.profitPool])
+
+                    let waitTime = global.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, this.memory.gold)
+                    yield Q.delay(waitTime)
+
                 }
                 else {
-                    logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), memory.gold)
-                    break
-                }
+                    if (!this.memory.addedMoney) {
+                        logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), this.memory.gold)
+                        yield this.addMoney(global.rules.getGold(this.memory.type))
+                        this.memory.addedMoney = true
+                    }
+                    else {
+                        logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), this.memory.gold)
+                        break
+                    }
 
-                break
+                }
 
             }
 
-        }
-
-    })
-
-    this.getRobotInfo = function () {
-        return memory
+        }.bind(this))()
     }
 
-    this.leaveRoom2Game = Q.async(function* () {
-        yield net.asynLeaveRoom2Game()
-    })
+    leaveRoom2Game() {
+        return Q.async(function* () {
+            yield this.net.asynLeaveRoom2Game()
+        }.bind(this))()
+    }
 
-    function caculatePay(gold) {
+    caculatePay(gold) {
 
         let finalbet = -1
         let finalline = -1
@@ -148,15 +167,19 @@ function RobotAction(net) {
 
     }
 
-    function addMoney(gold) {
+    addMoney(gold) {
 
         return Q.async(function* () {
-            const result = yield net.asynAddMoney(memory.uid, gold)
-            memory.gold = result.gold
-        })()
+            const result = yield this.net.asynAddMoney(this.memory.uid, gold)
+            this.memory.gold = result.gold
+        }.bind(this))()
 
     }
 
+    static createRobotAction() {
+        const Memory = require('./memory')
+        return new RobotAction(new Memory())
+    }
 
 }
 

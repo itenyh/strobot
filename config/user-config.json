@@ -1,5 +1,10 @@
 {
   "robotNum": 400,
-  "nid": 1
+  "nid": 2,
+  "game_nid": {
+    "777": 1,
+    "hanbao": 2,
+    "xiyouji": 7
+  }
 }
 

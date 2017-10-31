@@ -73,3 +73,429 @@
 {"level":"error","message":"机器人【063c2eebbd4511e7a76a41c6817455bf-005-2-游客378-257242】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
 {"level":"error","message":"机器人【063c2eeebd4511e7a76a41c6817455bf-006-4-游客593-283848】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
 {"level":"error","message":"机器人【063c2ee3bd4511e7a76a41c6817455bf-004-1-游客670-265982】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T07:36:29.577Z"}
+{"level":"error","message":"机器人【e8197580bd5211e7921ceb31e2183019-032-2-游客456-251867】行动失败 , 原因: TypeError: Cannot read property 'uid' of undefined Time: 1509354943782","timestamp":"2017-10-30T09:15:43.782Z"}
+{"level":"error","message":"机器人【e8197580bd5211e7921ceb31e2183019-032-2-游客456-251867】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T09:15:43.797Z"}
+{"level":"error","message":"机器人【e8680ab0bd5211e7921ceb31e2183019-032-3-游客877-210989】行动失败 , 原因: TypeError: Cannot read property 'uid' of undefined Time: 1509354944328","timestamp":"2017-10-30T09:15:44.328Z"}
+{"level":"error","message":"机器人【e8680ab0bd5211e7921ceb31e2183019-032-3-游客877-210989】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T09:15:44.359Z"}
+{"level":"error","message":"机器人【e8b678d0bd5211e7921ceb31e2183019-032-5-游客755-292437】行动失败 , 原因: TypeError: Cannot read property 'uid' of undefined Time: 1509354944827","timestamp":"2017-10-30T09:15:44.827Z"}
+{"level":"error","message":"机器人【e8b678d0bd5211e7921ceb31e2183019-032-5-游客755-292437】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-30T09:15:44.843Z"}
+{"level":"error","message":"机器人【1c8e6a00bd5311e7b520cd92582642f3-036-1-游客385-251829】 socket close , 原因: 1006 ","timestamp":"2017-10-30T09:17:32.756Z"}
+{"level":"error","message":"机器人【1bf13fa0bd5311e7b520cd92582642f3-036-3-游客344-247479】 socket close , 原因: 1006 ","timestamp":"2017-10-30T09:17:32.772Z"}
+{"level":"error","message":"机器人【1c3fd4d0bd5311e7b520cd92582642f3-036-4-游客709-252201】 socket close , 原因: 1006 ","timestamp":"2017-10-30T09:17:32.772Z"}
+{"level":"error","message":"机器人【1cdcff30bd5311e7b520cd92582642f3-036-5-游客820-292213】 socket close , 原因: 1006 ","timestamp":"2017-10-30T09:17:32.772Z"}
+{"level":"error","message":"机器人【1d2b9460bd5311e7b520cd92582642f3-036-4-游客223-289937】 socket close , 原因: 1006 ","timestamp":"2017-10-30T09:17:32.772Z"}
+{"level":"error","message":"机器人【1d7a0280bd5311e7b520cd92582642f3-036-2-游客570-275887】 socket close , 原因: 1006 ","timestamp":"2017-10-30T09:17:32.772Z"}
+{"level":"error","message":"机器人【c3c57980bd5811e796e8a18bba67b1cf-141-2-游客163-264618】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:57:39.855Z"}
+{"level":"error","message":"机器人【c3c57980bd5811e796e8a18bba67b1cf-141-2-游客163-264618】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:57:39.865Z"}
+{"level":"error","message":"机器人【c4132450bd5811e796e8a18bba67b1cf-141-1-游客565-288259】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:57:40.339Z"}
+{"level":"error","message":"机器人【c4132450bd5811e796e8a18bba67b1cf-141-1-游客565-288259】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:57:40.346Z"}
+{"level":"error","message":"机器人【c45f96a0bd5811e796e8a18bba67b1cf-141-3-游客060-223465】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:57:40.847Z"}
+{"level":"error","message":"机器人【c45f96a0bd5811e796e8a18bba67b1cf-141-3-游客060-223465】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:57:40.854Z"}
+{"level":"error","message":"机器人【c4ac08f0bd5811e796e8a18bba67b1cf-141-3-游客703-288214】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:57:41.340Z"}
+{"level":"error","message":"机器人【c4ac08f0bd5811e796e8a18bba67b1cf-141-3-游客703-288214】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:57:41.347Z"}
+{"level":"error","message":"机器人【c4f8a250bd5811e796e8a18bba67b1cf-141-3-游客335-221657】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:57:41.837Z"}
+{"level":"error","message":"机器人【c4f8a250bd5811e796e8a18bba67b1cf-141-3-游客335-221657】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:57:41.850Z"}
+{"level":"error","message":"机器人【ea6d8ff0bd5811e7ac048f7a0c55fcba-007-4-游客608-235267】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:44.731Z"}
+{"level":"error","message":"机器人【ea6d8ff0bd5811e7ac048f7a0c55fcba-007-4-游客608-235267】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:44.738Z"}
+{"level":"error","message":"机器人【eabb61d0bd5811e7ac048f7a0c55fcba-007-3-游客178-252130】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:45.209Z"}
+{"level":"error","message":"机器人【eabb61d0bd5811e7ac048f7a0c55fcba-007-3-游客178-252130】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:45.219Z"}
+{"level":"error","message":"机器人【eb07fb30bd5811e7ac048f7a0c55fcba-007-5-游客377-294528】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:45.707Z"}
+{"level":"error","message":"机器人【eb07fb30bd5811e7ac048f7a0c55fcba-007-5-游客377-294528】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:45.713Z"}
+{"level":"error","message":"机器人【eb549490bd5811e7ac048f7a0c55fcba-007-2-游客738-292136】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:46.201Z"}
+{"level":"error","message":"机器人【eb549490bd5811e7ac048f7a0c55fcba-007-2-游客738-292136】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:46.207Z"}
+{"level":"error","message":"机器人【eba12df0bd5811e7ac048f7a0c55fcba-007-1-游客889-229460】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:46.689Z"}
+{"level":"error","message":"机器人【eba12df0bd5811e7ac048f7a0c55fcba-007-1-游客889-229460】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:46.694Z"}
+{"level":"error","message":"机器人【ebedc750bd5811e7ac048f7a0c55fcba-007-5-游客973-282153】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:47.198Z"}
+{"level":"error","message":"机器人【ebedc750bd5811e7ac048f7a0c55fcba-007-5-游客973-282153】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:47.203Z"}
+{"level":"error","message":"机器人【ec3a60b0bd5811e7ac048f7a0c55fcba-008-5-游客866-267982】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:47.698Z"}
+{"level":"error","message":"机器人【ec3a60b0bd5811e7ac048f7a0c55fcba-008-5-游客866-267982】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:47.703Z"}
+{"level":"error","message":"机器人【ec8880b0bd5811e7ac048f7a0c55fcba-008-5-游客813-255490】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:48.187Z"}
+{"level":"error","message":"机器人【ec8880b0bd5811e7ac048f7a0c55fcba-008-5-游客813-255490】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:48.192Z"}
+{"level":"error","message":"机器人【ecd51a10bd5811e7ac048f7a0c55fcba-008-1-游客731-215451】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:48.717Z"}
+{"level":"error","message":"机器人【ecd51a10bd5811e7ac048f7a0c55fcba-008-1-游客731-215451】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:48.721Z"}
+{"level":"error","message":"机器人【ed21b370bd5811e7ac048f7a0c55fcba-008-1-游客028-227151】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:58:49.214Z"}
+{"level":"error","message":"机器人【ed21b370bd5811e7ac048f7a0c55fcba-008-1-游客028-227151】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:58:49.218Z"}
+{"level":"error","message":"机器人【02909be0bd5911e7a737fd82a2096b1c-074-4-游客090-227194】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:59:25.279Z"}
+{"level":"error","message":"机器人【02909be0bd5911e7a737fd82a2096b1c-074-4-游客090-227194】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:59:25.287Z"}
+{"level":"error","message":"机器人【02de6dc0bd5911e7a737fd82a2096b1c-074-1-游客774-261329】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:59:25.688Z"}
+{"level":"error","message":"机器人【02de6dc0bd5911e7a737fd82a2096b1c-074-1-游客774-261329】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:59:25.694Z"}
+{"level":"error","message":"机器人【032b0720bd5911e7a737fd82a2096b1c-074-1-游客586-277784】行动失败 , 原因: TypeError: Cannot read property 'profit' of undefined","timestamp":"2017-10-30T09:59:26.192Z"}
+{"level":"error","message":"机器人【032b0720bd5911e7a737fd82a2096b1c-074-1-游客586-277784】 socket close , 原因: 1000 ","timestamp":"2017-10-30T09:59:26.198Z"}
+{"level":"error","message":"机器人【a83da300bded11e79ab28f6b7ad80e61-087-1-游客386-261364】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:01.386Z"}
+{"level":"error","message":"机器人【a8d8aa80bded11e79ab28f6b7ad80e61-087-3-游客368-276453】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:01.510Z"}
+{"level":"error","message":"机器人【a889ee40bded11e79ab28f6b7ad80e61-087-2-游客283-280036】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:01.510Z"}
+{"level":"error","message":"机器人【a97586c0bded11e79ab28f6b7ad80e61-088-3-游客852-262635】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:01.588Z"}
+{"level":"error","message":"机器人【a83da300bded11e79ab28f6b7ad80e61-087-1-游客386-261364】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:01.651Z"}
+{"level":"error","message":"机器人【a9273fb0bded11e79ab28f6b7ad80e61-088-3-游客518-253220】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:01.698Z"}
+{"level":"error","message":"机器人【a9c68cf0bded11e79ab28f6b7ad80e61-088-2-游客081-223955】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:01.838Z"}
+{"level":"error","message":"机器人【aa639040bded11e79ab28f6b7ad80e61-088-2-游客006-291371】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:01.900Z"}
+{"level":"error","message":"机器人【aab22570bded11e79ab28f6b7ad80e61-088-2-游客122-202351】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:02.103Z"}
+{"level":"error","message":"机器人【a889ee40bded11e79ab28f6b7ad80e61-087-2-游客283-280036】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:02.119Z"}
+{"level":"error","message":"机器人【a8d8aa80bded11e79ab28f6b7ad80e61-087-3-游客368-276453】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:02.244Z"}
+{"level":"error","message":"机器人【ab00baa0bded11e79ab28f6b7ad80e61-089-2-游客340-278111】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:02.244Z"}
+{"level":"error","message":"机器人【aa152220bded11e79ab28f6b7ad80e61-088-3-游客205-289817】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:02.244Z"}
+{"level":"error","message":"机器人【ab4f4fd0bded11e79ab28f6b7ad80e61-089-1-游客146-246986】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:02.244Z"}
+{"level":"error","message":"机器人【a97586c0bded11e79ab28f6b7ad80e61-088-3-游客852-262635】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:03.211Z"}
+{"level":"error","message":"机器人【ad756420bded11e79ab28f6b7ad80e61-090-3-游客241-254177】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.211Z"}
+{"level":"error","message":"机器人【abec5320bded11e79ab28f6b7ad80e61-089-4-游客275-242912】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.492Z"}
+{"level":"error","message":"机器人【ab9de500bded11e79ab28f6b7ad80e61-089-3-游客394-283276】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.492Z"}
+{"level":"error","message":"机器人【ac3ae850bded11e79ab28f6b7ad80e61-089-5-游客506-202918】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.492Z"}
+{"level":"error","message":"机器人【ad293ff0bded11e79ab28f6b7ad80e61-090-5-游客224-213706】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.492Z"}
+{"level":"error","message":"机器人【acdaaac0bded11e79ab28f6b7ad80e61-090-5-游客032-258086】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.492Z"}
+{"level":"error","message":"机器人【ac8c3ca0bded11e79ab28f6b7ad80e61-089-4-游客524-220681】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.492Z"}
+{"level":"error","message":"机器人【a9273fb0bded11e79ab28f6b7ad80e61-088-3-游客518-253220】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:03.538Z"}
+{"level":"error","message":"机器人【adcb2540bded11e79ab28f6b7ad80e61-090-4-游客232-206931】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.710Z"}
+{"level":"error","message":"机器人【ae1af2f0bded11e79ab28f6b7ad80e61-090-5-游客208-287901】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.710Z"}
+{"level":"error","message":"机器人【ae698820bded11e79ab28f6b7ad80e61-090-2-游客146-214827】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:44:03.710Z"}
+{"level":"error","message":"机器人【a9c68cf0bded11e79ab28f6b7ad80e61-088-2-游客081-223955】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:03.913Z"}
+{"level":"error","message":"机器人【aab22570bded11e79ab28f6b7ad80e61-088-2-游客122-202351】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:04.147Z"}
+{"level":"error","message":"机器人【aa639040bded11e79ab28f6b7ad80e61-088-2-游客006-291371】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:04.147Z"}
+{"level":"error","message":"机器人【ab00baa0bded11e79ab28f6b7ad80e61-089-2-游客340-278111】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:04.147Z"}
+{"level":"error","message":"机器人【aa152220bded11e79ab28f6b7ad80e61-088-3-游客205-289817】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:04.446Z"}
+{"level":"error","message":"机器人【ab4f4fd0bded11e79ab28f6b7ad80e61-089-1-游客146-246986】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:04.477Z"}
+{"level":"error","message":"机器人【ad756420bded11e79ab28f6b7ad80e61-090-3-游客241-254177】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:05.928Z"}
+{"level":"error","message":"机器人【abec5320bded11e79ab28f6b7ad80e61-089-4-游客275-242912】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:05.928Z"}
+{"level":"error","message":"机器人【ab9de500bded11e79ab28f6b7ad80e61-089-3-游客394-283276】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:05.991Z"}
+{"level":"error","message":"机器人【ac3ae850bded11e79ab28f6b7ad80e61-089-5-游客506-202918】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:06.022Z"}
+{"level":"error","message":"机器人【ad293ff0bded11e79ab28f6b7ad80e61-090-5-游客224-213706】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:06.053Z"}
+{"level":"error","message":"机器人【acdaaac0bded11e79ab28f6b7ad80e61-090-5-游客032-258086】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:06.802Z"}
+{"level":"error","message":"机器人【adcb2540bded11e79ab28f6b7ad80e61-090-4-游客232-206931】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:07.005Z"}
+{"level":"error","message":"机器人【ac8c3ca0bded11e79ab28f6b7ad80e61-089-4-游客524-220681】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:07.005Z"}
+{"level":"error","message":"机器人【ae1af2f0bded11e79ab28f6b7ad80e61-090-5-游客208-287901】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:07.083Z"}
+{"level":"error","message":"机器人【ae698820bded11e79ab28f6b7ad80e61-090-2-游客146-214827】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:44:07.083Z"}
+{"level":"error","message":"机器人【1fcfaee0bdee11e7a56c33d4118fc6fe-103-4-游客999-276131】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:46:55.296Z"}
+{"level":"error","message":"机器人【206d0050bdee11e7a56c33d4118fc6fe-103-2-游客951-226155】行动失败 , 原因: 网络接口错误: playHanbouger, {\"code\":500,\"error\":\"游戏房间未找到  games.hamburgerHandler.start\"}","timestamp":"2017-10-31T03:46:55.299Z"}
+{"level":"error","message":"机器人【1fcfaee0bdee11e7a56c33d4118fc6fe-103-4-游客999-276131】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:46:58.666Z"}
+{"level":"error","message":"机器人【206d0050bdee11e7a56c33d4118fc6fe-103-2-游客951-226155】 socket close , 原因: 1000 ","timestamp":"2017-10-31T03:46:58.666Z"}
+{"level":"error","message":"机器人【827a3220bdeb11e78fc1bfaee4f6569a-012-4-游客154-208736】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【82c8ee60bdeb11e78fc1bfaee4f6569a-012-1-游客641-296888】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7997b880bdeb11e78fc1bfaee4f6569a-007-2-游客189-206030】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【794ad100bdeb11e78fc1bfaee4f6569a-007-2-游客284-231875】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【78adcdb0bdeb11e78fc1bfaee4f6569a-007-4-游客295-212971】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【78fc62e0bdeb11e78fc1bfaee4f6569a-007-5-游客977-297071】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【79e64db0bdeb11e78fc1bfaee4f6569a-007-2-游客465-290629】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7a34e2e0bdeb11e78fc1bfaee4f6569a-007-5-游客075-261092】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7a835100bdeb11e78fc1bfaee4f6569a-008-1-游客892-273806】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7ad1e630bdeb11e78fc1bfaee4f6569a-008-1-游客416-294092】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7b207b60bdeb11e78fc1bfaee4f6569a-008-3-游客589-280089】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7b6f1090bdeb11e78fc1bfaee4f6569a-008-5-游客228-299149】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7bbda5c0bdeb11e78fc1bfaee4f6569a-008-3-游客960-285410】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7c0c13e0bdeb11e78fc1bfaee4f6569a-008-5-游客959-214345】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7c5aa910bdeb11e78fc1bfaee4f6569a-009-1-游客620-276982】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7ca93e40bdeb11e78fc1bfaee4f6569a-009-1-游客385-293042】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7cf7d370bdeb11e78fc1bfaee4f6569a-009-2-游客291-262183】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7d4668a0bdeb11e78fc1bfaee4f6569a-009-2-游客328-240817】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7d94d6c0bdeb11e78fc1bfaee4f6569a-009-4-游客046-296665】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7de1be40bdeb11e78fc1bfaee4f6569a-009-2-游客553-270610】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7e302c60bdeb11e78fc1bfaee4f6569a-010-5-游客221-288662】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7e7ee8a0bdeb11e78fc1bfaee4f6569a-010-5-游客658-274712】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7ecd7dd0bdeb11e78fc1bfaee4f6569a-010-4-游客027-235727】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7f1c1300bdeb11e78fc1bfaee4f6569a-010-1-游客565-219234】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7f6aa830bdeb11e78fc1bfaee4f6569a-010-1-游客723-200944】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【7fb91650bdeb11e78fc1bfaee4f6569a-010-1-游客064-233878】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8007ab80bdeb11e78fc1bfaee4f6569a-011-2-游客323-297805】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【805640b0bdeb11e78fc1bfaee4f6569a-011-4-游客507-256273】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【80a4d5e0bdeb11e78fc1bfaee4f6569a-011-3-游客644-270193】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【80f36b10bdeb11e78fc1bfaee4f6569a-011-2-游客297-238181】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8141d930bdeb11e78fc1bfaee4f6569a-011-4-游客867-203885】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【81906e60bdeb11e78fc1bfaee4f6569a-011-1-游客623-236364】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【81df0390bdeb11e78fc1bfaee4f6569a-012-2-游客438-221746】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【822b9cf0bdeb11e78fc1bfaee4f6569a-012-1-游客189-262222】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【83178390bdeb11e78fc1bfaee4f6569a-012-3-游客474-297669】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8365f1b0bdeb11e78fc1bfaee4f6569a-012-3-游客303-260455】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【83b486e0bdeb11e78fc1bfaee4f6569a-013-3-游客997-229163】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【84031c10bdeb11e78fc1bfaee4f6569a-013-3-游客270-280929】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8451b140bdeb11e78fc1bfaee4f6569a-013-2-游客816-258158】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【84a04670bdeb11e78fc1bfaee4f6569a-013-1-游客418-202263】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【84eeb490bdeb11e78fc1bfaee4f6569a-013-4-游客369-235773】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【853d49c0bdeb11e78fc1bfaee4f6569a-013-4-游客713-219049】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【858bdef0bdeb11e78fc1bfaee4f6569a-014-3-游客068-280334】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【85da7420bdeb11e78fc1bfaee4f6569a-014-5-游客938-226339】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【86290950bdeb11e78fc1bfaee4f6569a-014-2-游客060-220226】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【86777770bdeb11e78fc1bfaee4f6569a-014-3-游客921-221734】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【86c60ca0bdeb11e78fc1bfaee4f6569a-014-1-游客178-245500】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8714a1d0bdeb11e78fc1bfaee4f6569a-014-4-游客980-203648】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【87633700bdeb11e78fc1bfaee4f6569a-015-1-游客628-257131】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【87b1cc30bdeb11e78fc1bfaee4f6569a-015-3-游客043-201942】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【88003a50bdeb11e78fc1bfaee4f6569a-015-4-游客965-291712】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【884ecf80bdeb11e78fc1bfaee4f6569a-015-2-游客796-268486】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【889d64b0bdeb11e78fc1bfaee4f6569a-015-3-游客449-281277】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【88ebf9e0bdeb11e78fc1bfaee4f6569a-015-5-游客982-275023】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【893a8f10bdeb11e78fc1bfaee4f6569a-016-5-游客070-201349】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8988fd30bdeb11e78fc1bfaee4f6569a-016-3-游客810-245176】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【89d79260bdeb11e78fc1bfaee4f6569a-016-3-游客533-258756】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8a23b690bdeb11e78fc1bfaee4f6569a-016-3-游客359-216724】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8a724bc0bdeb11e78fc1bfaee4f6569a-016-5-游客086-203687】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8ac0e0f0bdeb11e78fc1bfaee4f6569a-016-4-游客247-204273】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8b0f9d30bdeb11e78fc1bfaee4f6569a-017-4-游客353-226753】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8b5e5970bdeb11e78fc1bfaee4f6569a-017-1-游客726-208567】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8baceea0bdeb11e78fc1bfaee4f6569a-017-1-游客624-225667】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8bfb83d0bdeb11e78fc1bfaee4f6569a-017-1-游客298-218839】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8c49f1f0bdeb11e78fc1bfaee4f6569a-017-3-游客363-231094】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8c988720bdeb11e78fc1bfaee4f6569a-017-5-游客690-219481】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8ce71c50bdeb11e78fc1bfaee4f6569a-018-5-游客945-281514】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8d35b180bdeb11e78fc1bfaee4f6569a-018-1-游客516-242384】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8d8446b0bdeb11e78fc1bfaee4f6569a-018-3-游客105-218380】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8dd2b4d0bdeb11e78fc1bfaee4f6569a-018-2-游客715-251757】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8e1f0010bdeb11e78fc1bfaee4f6569a-018-5-游客257-255190】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.540Z"}
+{"level":"error","message":"机器人【8e6d6e30bdeb11e78fc1bfaee4f6569a-018-2-游客721-247734】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【8eb9b970bdeb11e78fc1bfaee4f6569a-019-4-游客191-234308】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【8f082790bdeb11e78fc1bfaee4f6569a-019-3-游客284-223330】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【8f56bcc0bdeb11e78fc1bfaee4f6569a-019-3-游客975-219869】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【8fa551f0bdeb11e78fc1bfaee4f6569a-019-3-游客702-294130】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【8ff3e720bdeb11e78fc1bfaee4f6569a-019-1-游客606-242919】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【90427c50bdeb11e78fc1bfaee4f6569a-019-3-游客175-288313】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9090ea70bdeb11e78fc1bfaee4f6569a-020-2-游客831-248820】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【90df7fa0bdeb11e78fc1bfaee4f6569a-020-4-游客079-210885】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【912e14d0bdeb11e78fc1bfaee4f6569a-020-4-游客078-274973】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【917caa00bdeb11e78fc1bfaee4f6569a-020-5-游客213-204627】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【91cb3f30bdeb11e78fc1bfaee4f6569a-020-5-游客577-229937】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9219ad50bdeb11e78fc1bfaee4f6569a-020-3-游客267-268705】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【92684280bdeb11e78fc1bfaee4f6569a-021-5-游客831-224366】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【92b6d7b0bdeb11e78fc1bfaee4f6569a-021-5-游客475-293533】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【93056ce0bdeb11e78fc1bfaee4f6569a-021-5-游客397-284853】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【93542920bdeb11e78fc1bfaee4f6569a-021-1-游客525-237773】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【93a29740bdeb11e78fc1bfaee4f6569a-021-1-游客255-284542】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【93f12c70bdeb11e78fc1bfaee4f6569a-021-1-游客058-239363】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【943fc1a0bdeb11e78fc1bfaee4f6569a-022-2-游客102-271018】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【948e56d0bdeb11e78fc1bfaee4f6569a-022-4-游客529-287120】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【94da7b00bdeb11e78fc1bfaee4f6569a-022-1-游客308-228710】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【95291030bdeb11e78fc1bfaee4f6569a-022-3-游客295-223175】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9577a560bdeb11e78fc1bfaee4f6569a-022-1-游客136-266381】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【95c61380bdeb11e78fc1bfaee4f6569a-022-2-游客377-283251】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9614a8b0bdeb11e78fc1bfaee4f6569a-023-5-游客888-236454】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【96633de0bdeb11e78fc1bfaee4f6569a-023-4-游客279-236468】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【96b1d310bdeb11e78fc1bfaee4f6569a-023-3-游客047-270520】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【97006840bdeb11e78fc1bfaee4f6569a-023-1-游客635-201257】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【974ed660bdeb11e78fc1bfaee4f6569a-023-3-游客698-213837】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【979d92a0bdeb11e78fc1bfaee4f6569a-023-1-游客732-286091】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【97ec27d0bdeb11e78fc1bfaee4f6569a-024-5-游客192-293170】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【983abd00bdeb11e78fc1bfaee4f6569a-024-3-游客774-270941】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【98895230bdeb11e78fc1bfaee4f6569a-024-2-游客169-286319】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【98d7c050bdeb11e78fc1bfaee4f6569a-024-5-游客090-247238】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【99265580bdeb11e78fc1bfaee4f6569a-024-3-游客658-265110】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9974eab0bdeb11e78fc1bfaee4f6569a-024-1-游客694-276379】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【99c37fe0bdeb11e78fc1bfaee4f6569a-025-3-游客811-204378】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9a121510bdeb11e78fc1bfaee4f6569a-025-3-游客932-298658】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9a608330bdeb11e78fc1bfaee4f6569a-025-4-游客112-268130】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9aaf1860bdeb11e78fc1bfaee4f6569a-025-5-游客204-205812】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9afdad90bdeb11e78fc1bfaee4f6569a-025-2-游客457-212204】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9b4c42c0bdeb11e78fc1bfaee4f6569a-025-4-游客406-251149】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9b9ad7f0bdeb11e78fc1bfaee4f6569a-026-2-游客000-282522】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9be94610bdeb11e78fc1bfaee4f6569a-026-1-游客779-248139】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9c37db40bdeb11e78fc1bfaee4f6569a-026-3-游客251-248120】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9c867070bdeb11e78fc1bfaee4f6569a-026-5-游客250-278501】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.556Z"}
+{"level":"error","message":"机器人【9cd505a0bdeb11e78fc1bfaee4f6569a-026-2-游客214-235387】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9d239ad0bdeb11e78fc1bfaee4f6569a-026-4-游客018-259412】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9d7145a0bdeb11e78fc1bfaee4f6569a-027-2-游客413-213007】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9dbfb3c0bdeb11e78fc1bfaee4f6569a-027-3-游客863-214765】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9e0e48f0bdeb11e78fc1bfaee4f6569a-027-4-游客126-290418】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9e5cde20bdeb11e78fc1bfaee4f6569a-027-3-游客397-204075】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9eab7350bdeb11e78fc1bfaee4f6569a-027-3-游客606-215933】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9efa0880bdeb11e78fc1bfaee4f6569a-027-5-游客593-208401】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9f46a1e0bdeb11e78fc1bfaee4f6569a-028-5-游客425-240795】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9f953710bdeb11e78fc1bfaee4f6569a-028-4-游客287-212832】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【9fe3cc40bdeb11e78fc1bfaee4f6569a-028-2-游客661-240668】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a0326170bdeb11e78fc1bfaee4f6569a-028-2-游客946-207551】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a07e85a0bdeb11e78fc1bfaee4f6569a-028-3-游客831-209672】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a0cd1ad0bdeb11e78fc1bfaee4f6569a-028-4-游客961-215595】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a11bb000bdeb11e78fc1bfaee4f6569a-029-3-游客529-204515】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a16a4530bdeb11e78fc1bfaee4f6569a-029-4-游客062-298555】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a1b8da60bdeb11e78fc1bfaee4f6569a-029-1-游客913-210829】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a2074880bdeb11e78fc1bfaee4f6569a-029-3-游客820-250820】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a255ddb0bdeb11e78fc1bfaee4f6569a-029-3-游客193-222391】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a2a201e0bdeb11e78fc1bfaee4f6569a-029-5-游客255-285800】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a2ee4d20bdeb11e78fc1bfaee4f6569a-030-1-游客441-228149】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a33a7150bdeb11e78fc1bfaee4f6569a-030-4-游客338-274153】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a3890680bdeb11e78fc1bfaee4f6569a-030-4-游客061-236949】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a3d52ab0bdeb11e78fc1bfaee4f6569a-030-2-游客477-242500】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a423bfe0bdeb11e78fc1bfaee4f6569a-030-4-游客956-208031】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a4722e00bdeb11e78fc1bfaee4f6569a-030-3-游客667-256163】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a4c0c330bdeb11e78fc1bfaee4f6569a-031-3-游客584-215935】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a50ce760bdeb11e78fc1bfaee4f6569a-031-5-游客643-235020】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a55b7c90bdeb11e78fc1bfaee4f6569a-031-3-游客436-207332】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a5aa38d0bdeb11e78fc1bfaee4f6569a-031-1-游客115-254070】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a5f8ce00bdeb11e78fc1bfaee4f6569a-031-2-游客414-220013】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a6476330bdeb11e78fc1bfaee4f6569a-031-1-游客394-210706】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a695d150bdeb11e78fc1bfaee4f6569a-032-5-游客538-277006】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a6e46680bdeb11e78fc1bfaee4f6569a-032-2-游客826-209305】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a732fbb0bdeb11e78fc1bfaee4f6569a-032-1-游客659-264484】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a77f1fe0bdeb11e78fc1bfaee4f6569a-032-4-游客002-204356】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a7cdb510bdeb11e78fc1bfaee4f6569a-032-1-游客914-269711】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a81c4a40bdeb11e78fc1bfaee4f6569a-032-1-游客814-278482】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a86adf70bdeb11e78fc1bfaee4f6569a-033-2-游客736-205307】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a8b94d90bdeb11e78fc1bfaee4f6569a-033-3-游客317-259713】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a907e2c0bdeb11e78fc1bfaee4f6569a-033-3-游客817-252230】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a95677f0bdeb11e78fc1bfaee4f6569a-033-4-游客664-242717】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a9a50d20bdeb11e78fc1bfaee4f6569a-033-3-游客514-256624】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【a9f3a250bdeb11e78fc1bfaee4f6569a-033-3-游客575-260249】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【aa421070bdeb11e78fc1bfaee4f6569a-034-1-游客624-231554】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【aa90a5a0bdeb11e78fc1bfaee4f6569a-034-2-游客283-240024】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【aadf3ad0bdeb11e78fc1bfaee4f6569a-034-5-游客397-249911】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ab2dd000bdeb11e78fc1bfaee4f6569a-034-1-游客965-204632】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ab79f430bdeb11e78fc1bfaee4f6569a-034-5-游客205-297518】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【abc8d780bdeb11e78fc1bfaee4f6569a-034-1-游客155-220171】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ac176cb0bdeb11e78fc1bfaee4f6569a-035-1-游客256-220446】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ac65dad0bdeb11e78fc1bfaee4f6569a-035-3-游客569-290467】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【acb47000bdeb11e78fc1bfaee4f6569a-035-3-游客489-281930】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ad030530bdeb11e78fc1bfaee4f6569a-035-3-游客564-279637】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ad519a60bdeb11e78fc1bfaee4f6569a-035-1-游客506-224246】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ada02f90bdeb11e78fc1bfaee4f6569a-035-2-游客148-292815】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【adee9db0bdeb11e78fc1bfaee4f6569a-036-5-游客984-258089】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ae3d32e0bdeb11e78fc1bfaee4f6569a-036-2-游客984-222138】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ae8bc810bdeb11e78fc1bfaee4f6569a-036-3-游客511-271999】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【aedf1830bdeb11e78fc1bfaee4f6569a-036-3-游客250-265701】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【af34d950bdeb11e78fc1bfaee4f6569a-036-5-游客115-233686】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【af834770bdeb11e78fc1bfaee4f6569a-036-2-游客528-210134】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【afcf92b0bdeb11e78fc1bfaee4f6569a-037-2-游客242-240311】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b01e00d0bdeb11e78fc1bfaee4f6569a-037-5-游客507-253507】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b06c9600bdeb11e78fc1bfaee4f6569a-037-4-游客704-283822】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b0bb2b30bdeb11e78fc1bfaee4f6569a-037-2-游客928-234967】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b109c060bdeb11e78fc1bfaee4f6569a-037-4-游客262-281328】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b1585590bdeb11e78fc1bfaee4f6569a-037-4-游客679-250269】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b1a6c3b0bdeb11e78fc1bfaee4f6569a-038-1-游客882-277048】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b1f558e0bdeb11e78fc1bfaee4f6569a-038-2-游客046-257065】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b243ee10bdeb11e78fc1bfaee4f6569a-038-4-游客597-229458】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b2928340bdeb11e78fc1bfaee4f6569a-038-3-游客767-221881】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b2dea770bdeb11e78fc1bfaee4f6569a-038-1-游客594-235406】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b32d3ca0bdeb11e78fc1bfaee4f6569a-038-2-游客809-271897】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b37bd1d0bdeb11e78fc1bfaee4f6569a-039-3-游客407-260277】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b3ca3ff0bdeb11e78fc1bfaee4f6569a-039-4-游客043-217050】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b418d520bdeb11e78fc1bfaee4f6569a-039-3-游客372-249663】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b4676a50bdeb11e78fc1bfaee4f6569a-039-5-游客592-223073】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b4b62690bdeb11e78fc1bfaee4f6569a-039-5-游客837-221332】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b504bbc0bdeb11e78fc1bfaee4f6569a-039-1-游客608-290329】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b55329e0bdeb11e78fc1bfaee4f6569a-040-5-游客603-206686】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b59f7520bdeb11e78fc1bfaee4f6569a-040-1-游客609-228964】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b5f05440bdeb11e78fc1bfaee4f6569a-040-5-游客915-255808】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b63ee970bdeb11e78fc1bfaee4f6569a-040-3-游客235-246498】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b68b0da0bdeb11e78fc1bfaee4f6569a-040-5-游客672-252018】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b6d9a2d0bdeb11e78fc1bfaee4f6569a-040-3-游客002-255824】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b725c700bdeb11e78fc1bfaee4f6569a-041-4-游客413-209968】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b7745c30bdeb11e78fc1bfaee4f6569a-041-3-游客007-257461】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b7c2f160bdeb11e78fc1bfaee4f6569a-041-3-游客603-282721】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b80f1590bdeb11e78fc1bfaee4f6569a-041-1-游客893-298394】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b85daac0bdeb11e78fc1bfaee4f6569a-041-5-游客346-208171】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b8ac18e0bdeb11e78fc1bfaee4f6569a-041-1-游客929-293954】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b8faae10bdeb11e78fc1bfaee4f6569a-042-3-游客482-211770】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b9494340bdeb11e78fc1bfaee4f6569a-042-5-游客613-253894】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b997d870bdeb11e78fc1bfaee4f6569a-042-3-游客623-219359】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【b9e3fca0bdeb11e78fc1bfaee4f6569a-042-2-游客263-255099】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ba310b30bdeb11e78fc1bfaee4f6569a-042-2-游客275-296754】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【ba7fa060bdeb11e78fc1bfaee4f6569a-042-5-游客070-210108】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bacbeba0bdeb11e78fc1bfaee4f6569a-043-4-游客902-283466】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bb1a80d0bdeb11e78fc1bfaee4f6569a-043-4-游客508-245817】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bb691600bdeb11e78fc1bfaee4f6569a-043-5-游客328-240264】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bbb7ab30bdeb11e78fc1bfaee4f6569a-043-3-游客644-240923】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bc061950bdeb11e78fc1bfaee4f6569a-043-2-游客601-256166】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bc54ae80bdeb11e78fc1bfaee4f6569a-043-2-游客537-251431】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bca343b0bdeb11e78fc1bfaee4f6569a-044-1-游客573-297555】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bcf1fff0bdeb11e78fc1bfaee4f6569a-044-1-游客796-222605】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bd3e2420bdeb11e78fc1bfaee4f6569a-044-4-游客793-247386】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bd8a4850bdeb11e78fc1bfaee4f6569a-044-2-游客565-267154】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.571Z"}
+{"level":"error","message":"机器人【bddb4e80bdeb11e78fc1bfaee4f6569a-044-1-游客379-223069】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【be29bca0bdeb11e78fc1bfaee4f6569a-044-1-游客851-251812】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【be7851d0bdeb11e78fc1bfaee4f6569a-045-5-游客986-287300】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【bec6e700bdeb11e78fc1bfaee4f6569a-045-1-游客528-264648】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【bf130b30bdeb11e78fc1bfaee4f6569a-045-4-游客352-233935】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【bf61a060bdeb11e78fc1bfaee4f6569a-045-4-游客309-216092】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【bfb03590bdeb11e78fc1bfaee4f6569a-045-2-游客005-251844】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【bffecac0bdeb11e78fc1bfaee4f6569a-045-2-游客005-258613】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c04d38e0bdeb11e78fc1bfaee4f6569a-046-3-游客125-233877】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c09b58e0bdeb11e78fc1bfaee4f6569a-046-4-游客400-258281】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c0e9c700bdeb11e78fc1bfaee4f6569a-046-2-游客337-222236】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c1374ac0bdeb11e78fc1bfaee4f6569a-046-2-游客766-241894】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c185dff0bdeb11e78fc1bfaee4f6569a-046-4-游客086-202389】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c1d22b30bdeb11e78fc1bfaee4f6569a-046-1-游客540-200277】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c2209950bdeb11e78fc1bfaee4f6569a-047-5-游客320-244021】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c26f2e80bdeb11e78fc1bfaee4f6569a-047-5-游客649-264228】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c2bdc3b0bdeb11e78fc1bfaee4f6569a-047-3-游客775-256557】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c30c58e0bdeb11e78fc1bfaee4f6569a-047-3-游客010-275788】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c35aee10bdeb11e78fc1bfaee4f6569a-047-4-游客174-259840】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c3a71240bdeb11e78fc1bfaee4f6569a-047-5-游客937-237932】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c3f5a770bdeb11e78fc1bfaee4f6569a-048-4-游客373-226306】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c4441590bdeb11e78fc1bfaee4f6569a-048-5-游客757-219877】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c49060d0bdeb11e78fc1bfaee4f6569a-048-3-游客916-279369】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c4decef0bdeb11e78fc1bfaee4f6569a-048-5-游客246-289281】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c52d6420bdeb11e78fc1bfaee4f6569a-048-4-游客094-206033】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c57bf950bdeb11e78fc1bfaee4f6569a-048-4-游客214-248693】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c5ca8e80bdeb11e78fc1bfaee4f6569a-049-2-游客598-240435】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c61923b0bdeb11e78fc1bfaee4f6569a-049-1-游客420-292954】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c66791d0bdeb11e78fc1bfaee4f6569a-049-1-游客038-274516】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c6b62700bdeb11e78fc1bfaee4f6569a-049-3-游客757-262319】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c704bc30bdeb11e78fc1bfaee4f6569a-049-1-游客918-224309】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c7535160bdeb11e78fc1bfaee4f6569a-049-2-游客343-204391】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c7a1e690bdeb11e78fc1bfaee4f6569a-050-1-游客959-215099】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c7ee0ac0bdeb11e78fc1bfaee4f6569a-050-5-游客734-227154】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c83c9ff0bdeb11e78fc1bfaee4f6569a-050-2-游客042-295683】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c88b0e10bdeb11e78fc1bfaee4f6569a-050-5-游客117-217572】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c8d7f590bdeb11e78fc1bfaee4f6569a-050-2-游客714-256785】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c92663b0bdeb11e78fc1bfaee4f6569a-050-5-游客180-240545】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c972d600bdeb11e78fc1bfaee4f6569a-051-4-游客020-259577】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【c9c14420bdeb11e78fc1bfaee4f6569a-051-3-游客107-264608】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【ca0fd950bdeb11e78fc1bfaee4f6569a-051-5-游客239-230505】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【ca5e6e80bdeb11e78fc1bfaee4f6569a-051-4-游客474-235765】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【caaa92b0bdeb11e78fc1bfaee4f6569a-051-5-游客977-264349】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【caf927e0bdeb11e78fc1bfaee4f6569a-051-4-游客668-278542】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cb47bd10bdeb11e78fc1bfaee4f6569a-052-5-游客758-260195】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cb93e140bdeb11e78fc1bfaee4f6569a-052-3-游客770-281294】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cbe00570bdeb11e78fc1bfaee4f6569a-052-1-游客016-229999】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cc2c29a0bdeb11e78fc1bfaee4f6569a-052-1-游客371-230248】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cc7abed0bdeb11e78fc1bfaee4f6569a-052-2-游客268-239007】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【ccc95400bdeb11e78fc1bfaee4f6569a-052-1-游客951-287459】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cd1a3320bdeb11e78fc1bfaee4f6569a-053-2-游客887-294143】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cd68c850bdeb11e78fc1bfaee4f6569a-053-3-游客415-271019】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cdb4ec80bdeb11e78fc1bfaee4f6569a-053-1-游客538-241765】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【ce0381b0bdeb11e78fc1bfaee4f6569a-053-1-游客555-240546】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【ce5216e0bdeb11e78fc1bfaee4f6569a-053-3-游客400-291461】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cea0ac10bdeb11e78fc1bfaee4f6569a-053-5-游客165-279604】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【ceef4140bdeb11e78fc1bfaee4f6569a-054-3-游客832-281839】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cf3b6570bdeb11e78fc1bfaee4f6569a-054-5-游客273-286170】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cf8a21b0bdeb11e78fc1bfaee4f6569a-054-2-游客464-248116】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【cfd88fd0bdeb11e78fc1bfaee4f6569a-054-4-游客325-223812】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【d0272500bdeb11e78fc1bfaee4f6569a-054-5-游客964-276209】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【d0734930bdeb11e78fc1bfaee4f6569a-054-5-游客432-223012】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【d0bf9470bdeb11e78fc1bfaee4f6569a-055-1-游客862-239594】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【d10bb8a0bdeb11e78fc1bfaee4f6569a-055-2-游客680-217881】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【d15a4dd0bdeb11e78fc1bfaee4f6569a-055-1-游客054-239810】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.587Z"}
+{"level":"error","message":"机器人【d1a8bbf0bdeb11e78fc1bfaee4f6569a-055-2-游客823-294108】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【d1f50730bdeb11e78fc1bfaee4f6569a-055-2-游客164-251940】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【d2437550bdeb11e78fc1bfaee4f6569a-055-3-游客057-263518】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【d28fc090bdeb11e78fc1bfaee4f6569a-056-4-游客369-259090】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【d2dbe4c0bdeb11e78fc1bfaee4f6569a-056-3-游客923-255657】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【d32a79f0bdeb11e78fc1bfaee4f6569a-056-2-游客512-252726】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【d375dad0bdeb11e78fc1bfaee4f6569a-056-5-游客811-204406】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【d3c47000bdeb11e78fc1bfaee4f6569a-056-2-游客225-241139】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【d4130530bdeb11e78fc1bfaee4f6569a-056-3-游客935-211535】 socket close , 原因: 1006 ","timestamp":"2017-10-31T03:48:26.602Z"}
+{"level":"error","message":"机器人【b4676a50bdeb11e78fc1bfaee4f6569a-039-5-游客592-223073】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:28.022Z"}
+{"level":"error","message":"机器人【b4676a50bdeb11e78fc1bfaee4f6569a-039-5-游客592-223073】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:28.022Z"}
+{"level":"error","message":"机器人【a255ddb0bdeb11e78fc1bfaee4f6569a-029-3-游客193-222391】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:28.022Z"}
+{"level":"error","message":"机器人【a255ddb0bdeb11e78fc1bfaee4f6569a-029-3-游客193-222391】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:28.022Z"}
+{"level":"error","message":"机器人【b85daac0bdeb11e78fc1bfaee4f6569a-041-5-游客346-208171】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:28.209Z"}
+{"level":"error","message":"机器人【b85daac0bdeb11e78fc1bfaee4f6569a-041-5-游客346-208171】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:28.209Z"}
+{"level":"error","message":"机器人【92684280bdeb11e78fc1bfaee4f6569a-021-5-游客831-224366】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:29.022Z"}
+{"level":"error","message":"机器人【92684280bdeb11e78fc1bfaee4f6569a-021-5-游客831-224366】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:29.022Z"}
+{"level":"error","message":"机器人【9aaf1860bdeb11e78fc1bfaee4f6569a-025-5-游客204-205812】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.446Z"}
+{"level":"error","message":"机器人【8ce71c50bdeb11e78fc1bfaee4f6569a-018-5-游客945-281514】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.446Z"}
+{"level":"error","message":"机器人【9aaf1860bdeb11e78fc1bfaee4f6569a-025-5-游客204-205812】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.446Z"}
+{"level":"error","message":"机器人【8ce71c50bdeb11e78fc1bfaee4f6569a-018-5-游客945-281514】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.446Z"}
+{"level":"error","message":"机器人【78fc62e0bdeb11e78fc1bfaee4f6569a-007-5-游客977-297071】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.461Z"}
+{"level":"error","message":"机器人【78fc62e0bdeb11e78fc1bfaee4f6569a-007-5-游客977-297071】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.461Z"}
+{"level":"error","message":"机器人【88ebf9e0bdeb11e78fc1bfaee4f6569a-015-5-游客982-275023】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.929Z"}
+{"level":"error","message":"机器人【c1d22b30bdeb11e78fc1bfaee4f6569a-046-1-游客540-200277】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.929Z"}
+{"level":"error","message":"机器人【88ebf9e0bdeb11e78fc1bfaee4f6569a-015-5-游客982-275023】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.929Z"}
+{"level":"error","message":"机器人【c1d22b30bdeb11e78fc1bfaee4f6569a-046-1-游客540-200277】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.929Z"}
+{"level":"error","message":"机器人【a77f1fe0bdeb11e78fc1bfaee4f6569a-032-4-游客002-204356】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.976Z"}
+{"level":"error","message":"机器人【a77f1fe0bdeb11e78fc1bfaee4f6569a-032-4-游客002-204356】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:32.976Z"}
+{"level":"error","message":"机器人【917caa00bdeb11e78fc1bfaee4f6569a-020-5-游客213-204627】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:37.469Z"}
+{"level":"error","message":"机器人【917caa00bdeb11e78fc1bfaee4f6569a-020-5-游客213-204627】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:37.469Z"}
+{"level":"error","message":"机器人【af34d950bdeb11e78fc1bfaee4f6569a-036-5-游客115-233686】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:40.451Z"}
+{"level":"error","message":"机器人【af34d950bdeb11e78fc1bfaee4f6569a-036-5-游客115-233686】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:40.451Z"}
+{"level":"error","message":"机器人【caaa92b0bdeb11e78fc1bfaee4f6569a-051-5-游客977-264349】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:41.388Z"}
+{"level":"error","message":"机器人【caaa92b0bdeb11e78fc1bfaee4f6569a-051-5-游客977-264349】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:41.388Z"}
+{"level":"error","message":"机器人【cea0ac10bdeb11e78fc1bfaee4f6569a-053-5-游客165-279604】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.448Z"}
+{"level":"error","message":"机器人【8c988720bdeb11e78fc1bfaee4f6569a-017-5-游客690-219481】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.448Z"}
+{"level":"error","message":"机器人【cea0ac10bdeb11e78fc1bfaee4f6569a-053-5-游客165-279604】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.448Z"}
+{"level":"error","message":"机器人【8c988720bdeb11e78fc1bfaee4f6569a-017-5-游客690-219481】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.448Z"}
+{"level":"error","message":"机器人【c185dff0bdeb11e78fc1bfaee4f6569a-046-4-游客086-202389】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.511Z"}
+{"level":"error","message":"机器人【c185dff0bdeb11e78fc1bfaee4f6569a-046-4-游客086-202389】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.511Z"}

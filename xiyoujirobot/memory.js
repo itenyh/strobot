@@ -5,6 +5,7 @@
 function Memory() {
 
     this.id = ''
+    this.nid = 7
     this.gold = 0
     this.isNotified2Leave = false
     this.type = 0

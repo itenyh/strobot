@@ -134,3 +134,6 @@
 {"level":"error","message":"机器人【6184c670bbac11e783f155678c91fae4-001-3】 socket error , 原因: ECONNREFUSED undefined","timestamp":"2017-10-28T06:51:11.335Z"}
 {"level":"error","message":"机器人【4f476ab0bbb311e7bc5209b97889b56d-004-4-游客511-225550】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":500}","timestamp":"2017-10-28T07:41:16.412Z"}
 {"level":"error","message":"机器人【4f476ab0bbb311e7bc5209b97889b56d-004-4-游客511-225550】 socket close , 原因: 1000 ","timestamp":"2017-10-28T07:41:16.422Z"}
+{"level":"error","message":"机器人【06a8fc80be1811e781d50b1c747136f5-004-4-游客540-290303】行动失败 , 原因: ReferenceError: memory is not defined","timestamp":"2017-10-31T08:46:45.956Z"}
+{"level":"error","message":"机器人【26a96e20be1811e7a02ffbba093c9034-004-1-游客643-289088】行动失败 , 原因: ReferenceError: caculatePay is not defined","timestamp":"2017-10-31T08:47:39.631Z"}
+{"level":"error","message":"机器人【2b061180be1811e7813341882fec4de8-004-1-游客215-275102】行动失败 , 原因: ReferenceError: memory is not defined","timestamp":"2017-10-31T08:47:46.949Z"}

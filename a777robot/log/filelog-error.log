@@ -970,3 +970,15 @@
 {"level":"error","message":"机器人【ef274213bd4511e7a881fdbaef1434fe-004-5-游客611-222456】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-30T07:47:16.641Z"}
 {"level":"error","message":"机器人【8fc0d831bd4611e7bb423ba13d2aa4b4-002-5-游客396-212869】 socket close , 原因: 1000 ","timestamp":"2017-10-30T07:47:21.757Z"}
 {"level":"error","message":"机器人【8fc0d830bd4611e7bb423ba13d2aa4b4-001-3-游客456-286119】 socket close , 原因: 1000 ","timestamp":"2017-10-30T07:47:21.773Z"}
+{"level":"error","message":"机器人【62d62370be0e11e7979ef75d73e47ae3-001-1】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:37:45.605Z"}
+{"level":"error","message":"机器人【67b38f90be0e11e79631ed77f8fe3ac2-001-2】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:37:53.735Z"}
+{"level":"error","message":"机器人【4d120430be1011e7a94e3dde7bed1fc7-001-4】行动失败 , 原因: ReferenceError: net is not defined Time: 1509436287987","timestamp":"2017-10-31T07:51:27.987Z"}
+{"level":"error","message":"机器人【4d120430be1011e7a94e3dde7bed1fc7-001-4】stop 退出房间失败 , 原因: ReferenceError: net is not defined","timestamp":"2017-10-31T07:51:27.987Z"}
+{"level":"error","message":"机器人【68a94f50be1011e7b5becde3ee2f78ac-001-3】行动失败 , 原因: TypeError: Cannot read property 'net' of undefined Time: 1509436334293","timestamp":"2017-10-31T07:52:14.293Z"}
+{"level":"error","message":"机器人【68a94f50be1011e7b5becde3ee2f78ac-001-3】stop 退出房间失败 , 原因: TypeError: Cannot read property 'net' of undefined","timestamp":"2017-10-31T07:52:14.293Z"}
+{"level":"error","message":"机器人【80716a00be1011e7a43097b8f12f5b6b-001-5】行动失败 , 原因: TypeError: Cannot read property 'net' of undefined Time: 1509436374176","timestamp":"2017-10-31T07:52:54.176Z"}
+{"level":"error","message":"机器人【80716a00be1011e7a43097b8f12f5b6b-001-5】stop 退出房间失败 , 原因: TypeError: Cannot read property 'net' of undefined","timestamp":"2017-10-31T07:52:54.176Z"}
+{"level":"error","message":"机器人【8bf67af0be1011e788e5b7ca64bbe482-001-1】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:53:13.597Z"}
+{"level":"error","message":"机器人【9b6b1590be1011e7bf5065b024438538-001-5】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:53:39.558Z"}
+{"level":"error","message":"机器人【39a64950be1111e7ac5b59abe6447278-001-1】 socket close , 原因: 1000 ","timestamp":"2017-10-31T07:58:04.963Z"}
+{"level":"error","message":"机器人【624454a0be1711e7bc605ded033647d1-001-5】 socket close , 原因: 1000 ","timestamp":"2017-10-31T08:42:10.135Z"}

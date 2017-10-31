@@ -11,10 +11,10 @@ global.rules = require('./rules')
 const PlayerRobot = require('./robot')
 const ManagerRobot = require('../managerRobot/manageRobot')
 
-const robot = new ManagerRobot('2')
-robot.run()
+// const robot = new ManagerRobot('2')
+// robot.run()
 
-// addRobot('001', 1)
+addRobot('001', 1)
 
 function addRobot(roomCode, num) {
 
@@ -22,7 +22,6 @@ function addRobot(roomCode, num) {
 
         const robot = new PlayerRobot(roomCode)
         robot.run()
-        console.log(i)
 
     }
     // console.log(robot.action)

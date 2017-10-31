@@ -2,37 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ca70a1-504b-43b2-8439-40fd7f642717" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/message.csv" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/app.js" afterPath="$PROJECT_DIR$/a777robot/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/config/game-config.json" afterPath="$PROJECT_DIR$/a777robot/config/game-config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/config/user-config.json" afterPath="$PROJECT_DIR$/a777robot/config/user-config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/lab.js" afterPath="$PROJECT_DIR$/a777robot/lab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/log/filelog-error.log" afterPath="$PROJECT_DIR$/a777robot/log/filelog-error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/log/filelog-info.log" afterPath="$PROJECT_DIR$/a777robot/log/filelog-info.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/memory.js" afterPath="$PROJECT_DIR$/a777robot/memory.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/robot.js" afterPath="$PROJECT_DIR$/a777robot/robot.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a777robot/robotAction.js" afterPath="$PROJECT_DIR$/a777robot/robotAction.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/game-config.json" afterPath="$PROJECT_DIR$/config/game-config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hotpotrobot/app.js" afterPath="$PROJECT_DIR$/hotpotrobot/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hotpotrobot/log/filelog-info.log" afterPath="$PROJECT_DIR$/hotpotrobot/log/filelog-info.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/managerRobot/manageRobot.js" afterPath="$PROJECT_DIR$/managerRobot/manageRobot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/managerRobot/managerRobotAction.js" afterPath="$PROJECT_DIR$/managerRobot/managerRobotAction.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/managerRobot/robotsInfo.js" afterPath="$PROJECT_DIR$/managerRobot/robotsInfo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/net.js" afterPath="$PROJECT_DIR$/util/net.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/app.js" afterPath="$PROJECT_DIR$/temp/chatrobot/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/config/game-config.json" afterPath="$PROJECT_DIR$/temp/chatrobot/config/game-config.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/config/user-config.json" afterPath="$PROJECT_DIR$/temp/chatrobot/config/user-config.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/config/机器人使用说明" afterPath="$PROJECT_DIR$/temp/chatrobot/config/机器人使用说明" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/data/message.csv" afterPath="$PROJECT_DIR$/temp/chatrobot/data/message.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/log/filelog-error.log" afterPath="$PROJECT_DIR$/temp/chatrobot/log/filelog-error.log" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/log/filelog-info.log" afterPath="$PROJECT_DIR$/temp/chatrobot/log/filelog-info.log" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/memory.js" afterPath="$PROJECT_DIR$/temp/chatrobot/memory.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/net.js" afterPath="$PROJECT_DIR$/temp/chatrobot/net.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/robot.js" afterPath="$PROJECT_DIR$/temp/chatrobot/robot.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/robotAction.js" afterPath="$PROJECT_DIR$/temp/chatrobot/robotAction.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/rules.js" afterPath="$PROJECT_DIR$/temp/chatrobot/rules.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/test/log/filelog-info.log" afterPath="$PROJECT_DIR$/temp/chatrobot/test/log/filelog-info.log" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/test/test.js" afterPath="$PROJECT_DIR$/temp/chatrobot/test/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/test/test1.js" afterPath="$PROJECT_DIR$/temp/chatrobot/test/test1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chatrobot/test/test2.js" afterPath="$PROJECT_DIR$/temp/chatrobot/test/test2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/user-config.json" afterPath="$PROJECT_DIR$/config/user-config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hambougerrobot/app.js" afterPath="$PROJECT_DIR$/hambougerrobot/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hambougerrobot/log/filelog-error.log" afterPath="$PROJECT_DIR$/hambougerrobot/log/filelog-error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hambougerrobot/log/filelog-info.log" afterPath="$PROJECT_DIR$/hambougerrobot/log/filelog-info.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hambougerrobot/memory.js" afterPath="$PROJECT_DIR$/hambougerrobot/memory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hambougerrobot/robot.js" afterPath="$PROJECT_DIR$/hambougerrobot/robot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hambougerrobot/robotAction.js" afterPath="$PROJECT_DIR$/hambougerrobot/robotAction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab.js" afterPath="$PROJECT_DIR$/lab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/filelog-error.log" afterPath="$PROJECT_DIR$/log/filelog-error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/filelog-info.log" afterPath="$PROJECT_DIR$/log/filelog-info.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/util.js" afterPath="$PROJECT_DIR$/util/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiyoujirobot/log/filelog-error.log" afterPath="$PROJECT_DIR$/xiyoujirobot/log/filelog-error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiyoujirobot/log/filelog-info.log" afterPath="$PROJECT_DIR$/xiyoujirobot/log/filelog-info.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiyoujirobot/memory.js" afterPath="$PROJECT_DIR$/xiyoujirobot/memory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiyoujirobot/robot.js" afterPath="$PROJECT_DIR$/xiyoujirobot/robot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiyoujirobot/robotAction.js" afterPath="$PROJECT_DIR$/xiyoujirobot/robotAction.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,10 +43,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a777robot/app.js">
+        <entry file="file://$PROJECT_DIR$/xiyoujirobot/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="272">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiyoujirobot/robot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-167">
+              <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -59,18 +65,38 @@
       <file leaf-file-name="lab.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="58">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user-config.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/user-config.json">
+      <file leaf-file-name="robotAction.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiyoujirobot/robotAction.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state relative-caret-position="51">
+              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hambougerrobot/robot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a777robot/robot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="66" column="46" lean-forward="false" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -79,18 +105,8 @@
       <file leaf-file-name="robotAction.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a777robot/robotAction.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="90" column="158" lean-forward="false" selection-start-line="90" selection-start-column="158" selection-end-line="90" selection-end-column="158" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="net.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/net.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1285">
-              <caret line="192" column="55" lean-forward="false" selection-start-line="192" selection-start-column="55" selection-end-line="192" selection-end-column="55" />
+            <state relative-caret-position="461">
+              <caret line="82" column="17" lean-forward="true" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -107,14 +123,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>游客328</find>
-      <find>进入</find>
-      <find>addMoney</find>
-      <find>error</find>
-      <find>socket error , 原因</find>
-      <find>游客900</find>
-      <find>58aa5210baba11e78de2276bce875b97</find>
-      <find>游客004</find>
       <find>50276b50babf11e7ae85eb0cc960b0da</find>
       <find>575493d0babf11e7ae85eb0cc960b0da</find>
       <find>57ee3bc0babf11e7ae85eb0cc960b0da</find>
@@ -131,15 +139,27 @@
       <find>socket error</find>
       <find>PlayerRobot</find>
       <find>caculatePay</find>
-      <find>nid</find>
       <find>getRandomGold</find>
       <find>14caf0b0bbad11e799b0b9fbf2dc7a7e</find>
       <find>util</find>
       <find>getId</find>
       <find>robotsInfo</find>
+      <find>getRobotInfo</find>
+      <find>uid</find>
+      <find>余额不足</find>
+      <find>isNotified2Leave</find>
+      <find>net</find>
+      <find>nid</find>
+      <find>pomelo</find>
+      <find>memory</find>
+      <find>rules</find>
     </findStrings>
+    <replaceStrings>
+      <replace>this.memory</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>E:\Code\strobot\hotpotrobot</dir>
+      <dir>E:\Code\strobot\a777robot</dir>
       <dir>E:\Code\strobot</dir>
     </dirStrings>
   </component>
@@ -149,13 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hotpotrobot/rules.js" />
-        <option value="$PROJECT_DIR$/hotpotrobot/memory/managerRobotMemory.js" />
-        <option value="$PROJECT_DIR$/hotpotrobot/memory/memory.js" />
-        <option value="$PROJECT_DIR$/hotpotrobot/config/game-config.json" />
-        <option value="$PROJECT_DIR$/hotpotrobot/action/managerRobotAction.js" />
-        <option value="$PROJECT_DIR$/hotpotrobot/robot/manageRobot.js" />
-        <option value="$PROJECT_DIR$/hotpotrobot/robot/robot.js" />
         <option value="$PROJECT_DIR$/hotpotrobot/action/robotAction.js" />
         <option value="$PROJECT_DIR$/a777robot/a777ManagerRobotAction.js" />
         <option value="$PROJECT_DIR$/a777robot/robotsInfo.js" />
@@ -166,7 +179,6 @@
         <option value="$PROJECT_DIR$/util/logger.js" />
         <option value="$PROJECT_DIR$/a777robot/message.csv" />
         <option value="$PROJECT_DIR$/hotpotrobot/robot.js" />
-        <option value="$PROJECT_DIR$/util/util.js" />
         <option value="$PROJECT_DIR$/a777robot/data/message.csv" />
         <option value="$PROJECT_DIR$/a777robot/rules.js" />
         <option value="$PROJECT_DIR$/a777robot/test/test1.js" />
@@ -178,28 +190,36 @@
         <option value="$PROJECT_DIR$/chatrobot/app.js" />
         <option value="$PROJECT_DIR$/a777robot/config/game-config.json" />
         <option value="$PROJECT_DIR$/hambougerrobot/config/game-config.json" />
-        <option value="$PROJECT_DIR$/a777robot/memory.js" />
-        <option value="$PROJECT_DIR$/hambougerrobot/robot.js" />
-        <option value="$PROJECT_DIR$/hambougerrobot/memory.js" />
-        <option value="$PROJECT_DIR$/hambougerrobot/robotAction.js" />
         <option value="$PROJECT_DIR$/xiyoujirobot/config/game-config.json" />
         <option value="$PROJECT_DIR$/managerRobot/robotsInfo.js" />
-        <option value="$PROJECT_DIR$/hambougerrobot/app.js" />
         <option value="$PROJECT_DIR$/hotpotrobot/app.js" />
-        <option value="$PROJECT_DIR$/xiyoujirobot/robotAction.js" />
         <option value="$PROJECT_DIR$/xiyoujirobot/app.js" />
         <option value="$PROJECT_DIR$/a777robot/config/user-config.json" />
         <option value="$PROJECT_DIR$/a777robot/lab.js" />
-        <option value="$PROJECT_DIR$/a777robot/robot.js" />
         <option value="$PROJECT_DIR$/managerRobot/managerRobotAction.js" />
         <option value="$PROJECT_DIR$/managerRobot/manageRobot.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/config/game-config.json" />
         <option value="$PROJECT_DIR$/a777robot/app.js" />
         <option value="$PROJECT_DIR$/util/net.js" />
-        <option value="$PROJECT_DIR$/a777robot/robotAction.js" />
-        <option value="$PROJECT_DIR$/lab.js" />
+        <option value="$PROJECT_DIR$/hambougerrobot/app.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/xiyoujirobot/lab.js" />
+        <option value="$PROJECT_DIR$/data/message.csv" />
+        <option value="$PROJECT_DIR$/util/util.js" />
+        <option value="$PROJECT_DIR$/config/game-config.json" />
         <option value="$PROJECT_DIR$/config/user-config.json" />
+        <option value="$PROJECT_DIR$/test/test1.js" />
+        <option value="$PROJECT_DIR$/test/test2.js" />
+        <option value="$PROJECT_DIR$/hambougerrobot/robot.js" />
+        <option value="$PROJECT_DIR$/a777robot/memory.js" />
+        <option value="$PROJECT_DIR$/hambougerrobot/memory.js" />
+        <option value="$PROJECT_DIR$/xiyoujirobot/memory.js" />
+        <option value="$PROJECT_DIR$/hambougerrobot/robotAction.js" />
+        <option value="$PROJECT_DIR$/xiyoujirobot/robot.js" />
+        <option value="$PROJECT_DIR$/a777robot/robotAction.js" />
+        <option value="$PROJECT_DIR$/xiyoujirobot/robotAction.js" />
+        <option value="$PROJECT_DIR$/lab.js" />
+        <option value="$PROJECT_DIR$/a777robot/robot.js" />
       </list>
     </option>
   </component>
@@ -219,8 +239,8 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-5" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="542" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -258,19 +278,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="strobot" type="b2602c69:ProjectViewProjectNode" />
               <item name="strobot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="strobot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="strobot" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,7 +298,7 @@
     <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/0801lobby" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Desktop Files/0801lobby" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Administrator/Desktop/strobot/awardrobot/robotAction.js" />
     <property name="JavaScriptPreferStrict" value="false" />
@@ -323,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.lab.js (1)">
+  <component name="RunManager" selected="Node.js.app.js (2)">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -390,24 +405,24 @@
       <method />
     </configuration>
     <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/a777robot" />
-    <configuration name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/xiyoujirobot" />
+    <configuration name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/xiyoujirobot" />
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/hambougerrobot" />
     <configuration name="lab.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="lab.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="lab.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="lab.js" working-dir="$PROJECT_DIR$/a777robot" />
+    <configuration name="test2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test2.js" working-dir="$PROJECT_DIR$/test" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.lab.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.lab.js (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.test2.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.lab.js (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.lab.js (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
         <item index="1" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.lab.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.test2.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.lab.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -447,22 +462,26 @@
       <workItem from="1509066860163" duration="13195000" />
       <workItem from="1509085186356" duration="14399000" />
       <workItem from="1509153890533" duration="15480000" />
-      <workItem from="1509343468896" duration="6955000" />
+      <workItem from="1509343468896" duration="14689000" />
+      <workItem from="1509412543033" duration="161000" />
+      <workItem from="1509412718487" duration="398000" />
+      <workItem from="1509414494119" duration="21374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211549000" />
+    <option name="totallyTimeSpent" value="241216000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1088" extended-state="7" />
+    <frame x="-4" y="-4" width="1928" height="1088" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16770834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.119791664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962587" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50252783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29019213" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14661273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -472,7 +491,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50252783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -487,84 +505,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/temp/strobot/file-writer-manager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/log/filelog-error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="2632" column="100" lean-forward="false" selection-start-line="2632" selection-start-column="100" selection-end-line="2632" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/logger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/test/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/test/test1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/chatrobot/log/filelog-info.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chatrobot/lab.js" />
-    <entry file="file://$PROJECT_DIR$/temp/chatrobot/config/game-config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hotpotrobot/rules.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/chatrobot/net.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="33" column="56" lean-forward="false" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/pomelo-cocos2d-js.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="290" column="25" lean-forward="true" selection-start-line="290" selection-start-column="25" selection-end-line="290" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,13 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/data/message.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -601,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
           <caret line="58" column="27" lean-forward="false" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,52 +547,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/memory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hambougerrobot/config/game-config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hambougerrobot/memory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hambougerrobot/robot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hambougerrobot/robotAction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="61" column="62" lean-forward="false" selection-start-line="61" selection-start-column="62" selection-end-line="61" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xiyoujirobot/log/filelog-info.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiyoujirobot/robot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -676,57 +568,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiyoujirobot/rules.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hotpotrobot/robotAction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="176" column="43" lean-forward="false" selection-start-line="176" selection-start-column="43" selection-end-line="176" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hambougerrobot/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hotpotrobot/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiyoujirobot/robotAction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="68" column="20" lean-forward="false" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiyoujirobot/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/config/game-config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,23 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="94" column="28" lean-forward="false" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/robot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2881">
           <caret line="180" column="18" lean-forward="false" selection-start-line="180" selection-start-column="18" selection-end-line="180" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,30 +621,122 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/net.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="192" column="55" lean-forward="false" selection-start-line="192" selection-start-column="55" selection-end-line="192" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a777robot/data/message.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1054">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiyoujirobot/rules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiyoujirobot/lab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="50" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hambougerrobot/data/message.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/message.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abc.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/commander/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="837" column="0" lean-forward="false" selection-start-line="837" selection-start-column="0" selection-end-line="837" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/user-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/game-config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/net.js">
+    <entry file="file://$PROJECT_DIR$/util/util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1285">
-          <caret line="192" column="55" lean-forward="false" selection-start-line="192" selection-start-column="55" selection-end-line="192" selection-end-column="55" />
+        <state relative-caret-position="238">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/robotAction.js">
+    <entry file="file://$PROJECT_DIR$/test/test2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="90" column="158" lean-forward="false" selection-start-line="90" selection-start-column="158" selection-end-line="90" selection-end-column="158" />
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotpotrobot/robotAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="176" column="43" lean-forward="false" selection-start-line="176" selection-start-column="43" selection-end-line="176" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -834,15 +749,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a777robot/app.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/q/q.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="223">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/message.csv">
+    <entry file="file://$PROJECT_DIR$/a777robot/config/game-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hambougerrobot/config/game-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hambougerrobot/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a777robot/memory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotpotrobot/memory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a777robot/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hambougerrobot/memory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiyoujirobot/memory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hambougerrobot/robotAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="87" column="37" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="87" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiyoujirobot/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiyoujirobot/robot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a777robot/robotAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="82" column="17" lean-forward="true" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiyoujirobot/robotAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hambougerrobot/robot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/hanbao.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -852,16 +879,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="58">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/user-config.json">
+    <entry file="file://$PROJECT_DIR$/a777robot/robot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state relative-caret-position="665">
+          <caret line="66" column="46" lean-forward="false" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
           <folding />
         </state>
       </provider>
