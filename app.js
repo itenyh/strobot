@@ -7,14 +7,14 @@ const Q = require('q')
 global.logger = require('./util/logger')
 global.robotsInfo = require('./managerRobot/robotsInfo')
 
-const PlayerRobot = require('./a777robot/robot')
+const PlayerRobot = require('./games/indianrobot/robot')
 const ManagerRobot = require('./managerRobot/manageRobot')
 
 // const robot = new ManagerRobot('1')
 // robot.run()
 
-// addRobot('001', 1)
-add2SixRoom()
+addRobot('001', 1)
+// add2SixRoom()
 //
 function add2SixRoom() {
 
@@ -29,7 +29,7 @@ function addRobot(roomCode, num) {
 
     for (let i = 0;i < num;i++) {
 
-        const robot = new PlayerRobot(roomCode)
+        const robot = PlayerRobot.createRobot(roomCode)
         robot.run()
 
     }

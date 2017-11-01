@@ -29,6 +29,7 @@ else if (gameNid) {
         const roomNum = robotNum / 6
         util.writeLine(['uid', 'pay', 'profit', 'round', 'jackpotFund', 'runningPool', 'profitPool'], filename = './data/' + gameName + '.csv')
         const roomCodes = yield addRoom(roomNum, gameNid)
+        // console.log(roomCodes, gameNid)
         yield addRobot2Room(roomCodes, gameNid, gameName)
     })
 }
@@ -41,7 +42,7 @@ else {
 function addRoom(num, nid) {
 
     require('./util/pomelo-cocos2d-js')
-    const RobotAction = require('./a777robot/robotAction')
+    const RobotAction = require('./games/a777robot/robotAction')
     const action = RobotAction.createRobotAction()
 
     return Q.async(function* () {
@@ -60,16 +61,19 @@ function addRoom(num, nid) {
 function addRobot2Room(roomCodes, nid, outputfile) {
     let PlayerRobot = null
     if (nid === 1) {
-        PlayerRobot = require('./a777robot/robot')
+        PlayerRobot = require('./games/a777robot/robot')
     }
     else if (nid === 2) {
-        PlayerRobot = require('./hambougerrobot/robot')
+        PlayerRobot = require('./games/hambougerrobot/robot')
     }
     else if (nid === 3) {
-        PlayerRobot = require('./hotpotrobot/robot')
+        PlayerRobot = require('./games/hotpotrobot/robot')
     }
     else if (nid === 7) {
-        PlayerRobot = require('./xiyoujirobot/robot')
+        PlayerRobot = require('./games/xiyoujirobot/robot')
+    }
+    else if (nid === 4) {
+        PlayerRobot = require('./games/indianrobot/robot')
     }
 
     return Q.async(function* () {
@@ -77,7 +81,7 @@ function addRobot2Room(roomCodes, nid, outputfile) {
             const uplimit = 6
             for (let i = 0; i < uplimit; i++) {
                 yield Q.delay(500)
-                const robot = new PlayerRobot(roomCode)
+                const robot = PlayerRobot.createRobot(roomCode)
                 robot.run()
                 robot.action.on('round', function (data) {
                     util.writeLine(data, filename = './data/' + outputfile + '.csv')

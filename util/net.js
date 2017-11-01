@@ -111,12 +111,6 @@ function RobotNet(pomelo_) {
         })
     }
 
-    function query777JackPot(cb) {
-        pomelo.request('games.slots777Handler.jackpotFund', function (data) {
-            responseHandler(data, query777JackPot, cb)
-        })
-    }
-
     //============= 汉堡 ============
     function playHanbouger(lineNum, bet, cb) {
         // console.log(lineNum, bet)
@@ -138,17 +132,56 @@ function RobotNet(pomelo_) {
         })
     }
 
-    function playSlots(nid, lineNum, bet, cb) {
-        if (nid === 1) {
-            play777(lineNum, bet, cb)
-        }
-        else if (nid === 2) {
-            playHanbouger(lineNum, bet, cb)
-        }
-        else if (nid === 7) {
-            playXiyouji(lineNum, bet, cb)
-        }
+    //============= 太空夺宝 ============
+    function playIndiana(betNum, betOdd, cb) {
+        pomelo.request('games.indianaHandler.start', {betNum: betNum, betOdd: betOdd}, function (data) {
+            responseHandler(data, playIndiana, cb)
+        })
     }
+
+    function initGame(cb) {
+        pomelo.request('games.indianaHandler.initGame', function (data) {
+            responseHandler(data, initGame, cb)
+        })
+    }
+
+    //============ 奖池 =================
+    function query777JackPot(cb) {
+        pomelo.request('games.slots777Handler.jackpotFund', function (data) {
+            responseHandler(data, query777JackPot, cb)
+        })
+    }
+
+    function queryHambougerJackPot(cb) {
+        pomelo.request('games.hamburgerHandler.jackpotFund', function (data) {
+            responseHandler(data, queryHambougerJackPot, cb)
+        })
+    }
+
+    function queryXiyoujiJackPot(cb) {
+        pomelo.request('games.xiyoujiHandler.jackpotFund', function (data) {
+            // console.log(data)
+            responseHandler(data, queryXiyoujiJackPot, cb)
+        })
+    }
+
+    function queryIndianaJackPot(cb) {
+        pomelo.request('games.indianaHandler.jackpotFund', function (data) {
+            responseHandler(data, queryIndianaJackPot, cb)
+        })
+    }
+
+    // function playSlots(nid, lineNum, bet, cb) {
+    //     if (nid === 1) {
+    //         play777(lineNum, bet, cb)
+    //     }
+    //     else if (nid === 2) {
+    //         playHanbouger(lineNum, bet, cb)
+    //     }
+    //     else if (nid === 7) {
+    //         playXiyouji(lineNum, bet, cb)
+    //     }
+    // }
 
     function responseHandler(data, func, cb) {
 
@@ -187,10 +220,15 @@ function RobotNet(pomelo_) {
     this.asynPlay777 = Q.nbind(play777)
     this.asynPlayHambouger = Q.nbind(playHanbouger)
     this.asynPlayXiyouji = Q.nbind(playXiyouji)
-    this.asynPlaySlots = Q.nbind(playSlots)
+    // this.asynPlaySlots = Q.nbind(playSlots)
     this.asynGainedScatter = Q.nbind(gainedScatter)
+    this.asynPlayIndiana = Q.nbind(playIndiana)
+    this.asynInitGame = Q.nbind(initGame)
 
     this.asynQuery777JackPot = Q.nbind(query777JackPot)
+    this.asynQueryHambougerJackPott = Q.nbind(queryHambougerJackPot)
+    this.asynQueryXiyoujiJackPot = Q.nbind(queryXiyoujiJackPot)
+    this.asynQueryIndianaJackPot = Q.nbind(queryIndianaJackPot)
 
     this.disconnect = pomelo.disconnect
 

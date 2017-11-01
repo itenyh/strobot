@@ -1,0 +1,144 @@
+{"level":"error","message":"机器人【630632f0bb8311e7bce6ad617b950918-001-3-游客587-277607】行动失败 , 原因: TypeError: Cannot read property 'apply' of undefined","timestamp":"2017-10-28T01:57:43.595Z"}
+{"level":"error","message":"机器人【630632f0bb8311e7bce6ad617b950918-001-3-游客587-277607】 socket close , 原因: 1000 ","timestamp":"2017-10-28T01:57:43.605Z"}
+{"level":"error","message":"机器人【ddc6fba0bba611e7aae897f06ee3706c-001-2-游客332-271107】行动失败 , 原因: 网络接口错误: enterGame, {\"code\":500,\"error\":\"玩家已在游戏中\"}","timestamp":"2017-10-28T06:11:41.876Z"}
+{"level":"error","message":"机器人【ddc6fba0bba611e7aae897f06ee3706c-001-2-游客332-271107】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:11:41.886Z"}
+{"level":"error","message":"机器人【e7a5d6a0bba611e79df1fb95fad50268-001-2-游客505-278757】行动失败 , 原因: ReferenceError: roomCode is not defined","timestamp":"2017-10-28T06:11:58.466Z"}
+{"level":"error","message":"机器人【e7a5d6a0bba611e79df1fb95fad50268-001-2-游客505-278757】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:11:58.466Z"}
+{"level":"error","message":"机器人【210e3040bba711e797a7f76aa8072b06-001-3-游客251-207787】行动失败 , 原因: ReferenceError: roomCode is not defined","timestamp":"2017-10-28T06:13:34.770Z"}
+{"level":"error","message":"机器人【210e3040bba711e797a7f76aa8072b06-001-3-游客251-207787】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:13:34.770Z"}
+{"level":"error","message":"机器人【2617b570bba711e7b0ce052cca370121-001-5-游客148-269463】行动失败 , 原因: ReferenceError: roomCode is not defined","timestamp":"2017-10-28T06:13:43.211Z"}
+{"level":"error","message":"机器人【2617b570bba711e7b0ce052cca370121-001-5-游客148-269463】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:13:43.211Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:18:54.763Z"}
+{"level":"error","message":"机器人【dfa49fd0bba711e7b71e43ff0bcdce99-001-4-游客815】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:18:54.803Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:18:54.813Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:18:54.823Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:18:54.833Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:18:54.833Z"}
+{"level":"error","message":"机器人【dfa49fd2bba711e7b71e43ff0bcdce99-003-2-游客733】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:18:54.853Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:18:54.853Z"}
+{"level":"error","message":"机器人【dfa49fd1bba711e7b71e43ff0bcdce99-002-3-游客473】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:18:54.853Z"}
+{"level":"error","message":"机器人【dfa49fd5bba711e7b71e43ff0bcdce99-006-1-游客089】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:18:54.873Z"}
+{"level":"error","message":"机器人【dfa49fd3bba711e7b71e43ff0bcdce99-004-5-游客456】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:18:54.873Z"}
+{"level":"error","message":"机器人【dfa49fd4bba711e7b71e43ff0bcdce99-005-2-游客117】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:18:54.883Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:19:29.115Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:19:29.115Z"}
+{"level":"error","message":"机器人【f391f153bba711e79170d1fb3814f1b2-004-5-游客395】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:19:29.135Z"}
+{"level":"error","message":"机器人【f391f151bba711e79170d1fb3814f1b2-002-3-游客722】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:19:29.135Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:19:29.145Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:19:29.145Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:19:29.145Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:19:29.175Z"}
+{"level":"error","message":"机器人【f391f152bba711e79170d1fb3814f1b2-003-3-游客108】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:19:29.175Z"}
+{"level":"error","message":"机器人【f391f155bba711e79170d1fb3814f1b2-006-4-游客221】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:19:29.175Z"}
+{"level":"error","message":"机器人【f391f150bba711e79170d1fb3814f1b2-001-4-游客997】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:19:29.175Z"}
+{"level":"error","message":"机器人【f391f154bba711e79170d1fb3814f1b2-005-5-游客758】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:19:29.195Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:22:32.451Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:22:32.451Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:22:32.451Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:22:32.451Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:22:32.451Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:22:32.471Z"}
+{"level":"error","message":"机器人【617c10b2bba811e7a317bb3f86d514b8-003-5-游客698】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:22:32.471Z"}
+{"level":"error","message":"机器人【617c10b1bba811e7a317bb3f86d514b8-002-2-游客875】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:22:32.471Z"}
+{"level":"error","message":"机器人【617c10b4bba811e7a317bb3f86d514b8-005-1-游客316】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:22:32.471Z"}
+{"level":"error","message":"机器人【617c10b0bba811e7a317bb3f86d514b8-001-5-游客632】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:22:32.471Z"}
+{"level":"error","message":"机器人【617c10b3bba811e7a317bb3f86d514b8-004-2-游客989】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:22:32.471Z"}
+{"level":"error","message":"机器人【617c10b5bba811e7a317bb3f86d514b8-006-1-游客101】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:22:32.481Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:04.735Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:04.745Z"}
+{"level":"error","message":"机器人【74b72934bba811e79141a582a020ce40-005-3-游客356】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:04.755Z"}
+{"level":"error","message":"机器人【74b72933bba811e79141a582a020ce40-004-4-游客471】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:04.755Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:04.765Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:04.765Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:04.775Z"}
+{"level":"error","message":"机器人【74b72932bba811e79141a582a020ce40-003-1-游客063】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:04.785Z"}
+{"level":"error","message":"机器人【74b72930bba811e79141a582a020ce40-001-1-游客640】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:04.785Z"}
+{"level":"error","message":"机器人【74b72935bba811e79141a582a020ce40-006-4-游客661】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:04.795Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:04.815Z"}
+{"level":"error","message":"机器人【74b72931bba811e79141a582a020ce40-002-4-游客045】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:04.825Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:16.345Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:16.355Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:16.365Z"}
+{"level":"error","message":"机器人【7baa55f2bba811e7bafa91420bcf5c4c-003-1-游客377】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:16.365Z"}
+{"level":"error","message":"机器人【7baa55f1bba811e7bafa91420bcf5c4c-002-5-游客002】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:16.365Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:16.365Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:16.365Z"}
+{"level":"error","message":"机器人【7baa55f0bba811e7bafa91420bcf5c4c-001-1-游客832】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:16.375Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:16.375Z"}
+{"level":"error","message":"机器人【7baa55f4bba811e7bafa91420bcf5c4c-005-3-游客392】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:16.385Z"}
+{"level":"error","message":"机器人【7baa55f5bba811e7bafa91420bcf5c4c-006-2-游客619】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:16.385Z"}
+{"level":"error","message":"机器人【7baa55f3bba811e7bafa91420bcf5c4c-004-2-游客010】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:16.385Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:46.536Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:46.536Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:46.546Z"}
+{"level":"error","message":"机器人【8dadb1c2bba811e7aaa389e8bf6ea546-004-4-游客632】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:46.556Z"}
+{"level":"error","message":"机器人【8dac2b20bba811e7aaa389e8bf6ea546-001-2-游客538】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:46.556Z"}
+{"level":"error","message":"机器人【8dadb1c0bba811e7aaa389e8bf6ea546-002-5-游客228】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:46.556Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:46.586Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:46.586Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:23:46.586Z"}
+{"level":"error","message":"机器人【8dadb1c3bba811e7aaa389e8bf6ea546-005-1-游客753】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:46.596Z"}
+{"level":"error","message":"机器人【8dadb1c1bba811e7aaa389e8bf6ea546-003-1-游客135】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:46.596Z"}
+{"level":"error","message":"机器人【8dadb1c4bba811e7aaa389e8bf6ea546-006-1-游客766】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:23:46.596Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:19.668Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:19.668Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:19.688Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:19.688Z"}
+{"level":"error","message":"机器人【a168a8a1bba811e78a159ba7ca95ce8e-002-5-游客653】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:19.688Z"}
+{"level":"error","message":"机器人【a168a8a4bba811e78a159ba7ca95ce8e-005-3-游客319】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:19.688Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:19.708Z"}
+{"level":"error","message":"机器人【a168a8a0bba811e78a159ba7ca95ce8e-001-5-游客219】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:19.708Z"}
+{"level":"error","message":"机器人【a168a8a3bba811e78a159ba7ca95ce8e-004-4-游客874】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:19.708Z"}
+{"level":"error","message":"机器人【a168a8a2bba811e78a159ba7ca95ce8e-003-2-游客942】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:19.778Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:19.788Z"}
+{"level":"error","message":"机器人【a168a8a5bba811e78a159ba7ca95ce8e-006-4-游客585】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:19.808Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:44.489Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:44.489Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:44.489Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:44.489Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:44.499Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:24:44.499Z"}
+{"level":"error","message":"机器人【b02f7710bba811e785d1d5d2f6a4fef0-001-4-游客871】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:44.499Z"}
+{"level":"error","message":"机器人【b02f7711bba811e785d1d5d2f6a4fef0-002-2-游客258】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:44.499Z"}
+{"level":"error","message":"机器人【b02f7714bba811e785d1d5d2f6a4fef0-005-3-游客665】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:44.499Z"}
+{"level":"error","message":"机器人【b02f7715bba811e785d1d5d2f6a4fef0-006-4-游客075】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:44.509Z"}
+{"level":"error","message":"机器人【b02f7712bba811e785d1d5d2f6a4fef0-003-5-游客484】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:44.509Z"}
+{"level":"error","message":"机器人【b02f7713bba811e785d1d5d2f6a4fef0-004-5-游客839】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:24:44.509Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:25:11.540Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:25:11.540Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:25:11.540Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:25:11.550Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:25:11.550Z"}
+{"level":"error","message":"机器人【managerRobot】行动失败 , 原因: TypeError: global.rules.getRandomGold is not a function","timestamp":"2017-10-28T06:25:11.550Z"}
+{"level":"error","message":"机器人【c04c1180bba811e789375510955edfb4-001-1-游客378】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:25:11.550Z"}
+{"level":"error","message":"机器人【c04c1185bba811e789375510955edfb4-006-1-游客471】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:25:11.560Z"}
+{"level":"error","message":"机器人【c04c1183bba811e789375510955edfb4-004-4-游客780】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:25:11.560Z"}
+{"level":"error","message":"机器人【c04c1182bba811e789375510955edfb4-003-4-游客108】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:25:11.560Z"}
+{"level":"error","message":"机器人【c04c1184bba811e789375510955edfb4-005-3-游客303】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:25:11.560Z"}
+{"level":"error","message":"机器人【c04c1181bba811e789375510955edfb4-002-1-游客235】stop 退出房间失败 , 原因: 网络接口错误: leaveRoom2Game, {\"code\":500,\"error\":\"游戏房间未找到 hall.gameHandler.leaveRoom\"}","timestamp":"2017-10-28T06:25:11.560Z"}
+{"level":"error","message":"机器人【d0e97f40bba911e789ef31ff9e16e054-001-1-游客087-219560】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":123,\"result\":\"fuck!\"}","timestamp":"2017-10-28T06:32:48.872Z"}
+{"level":"error","message":"机器人【d0e97f40bba911e789ef31ff9e16e054-001-1-游客087-219560】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:32:48.882Z"}
+{"level":"error","message":"机器人【ef2620d0bba911e7985d25922c732b1a-001-3-游客163-205748】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":123,\"result\":\"fuck!\"}","timestamp":"2017-10-28T06:33:49.611Z"}
+{"level":"error","message":"机器人【ef2620d0bba911e7985d25922c732b1a-001-3-游客163-205748】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:33:49.631Z"}
+{"level":"error","message":"机器人【719a46e0bbaa11e796877952c977494d-001-5-游客344-226625】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":500}","timestamp":"2017-10-28T06:37:48.468Z"}
+{"level":"error","message":"机器人【719a46e0bbaa11e796877952c977494d-001-5-游客344-226625】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:37:48.488Z"}
+{"level":"error","message":"机器人【994bb700bbaa11e7989625a64408cabe-001-1-游客064-243121】 socket close , 原因: 1006 ","timestamp":"2017-10-28T06:38:48.705Z"}
+{"level":"error","message":"机器人【b0bfe550bbaa11e793153786a81ec4ae-001-4-游客703-241615】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":500}","timestamp":"2017-10-28T06:39:34.340Z"}
+{"level":"error","message":"机器人【b0bfe550bbaa11e793153786a81ec4ae-001-4-游客703-241615】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:39:34.360Z"}
+{"level":"error","message":"机器人【d5dd8b30bbaa11e78a76d1b0a82b76f5-001-5-游客825-280364】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":500}","timestamp":"2017-10-28T06:40:36.710Z"}
+{"level":"error","message":"机器人【d5dd8b30bbaa11e78a76d1b0a82b76f5-001-5-游客825-280364】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:40:36.730Z"}
+{"level":"error","message":"机器人【015922b0bbab11e7bfd72b103510de24-001-4-游客895-246819】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":500}","timestamp":"2017-10-28T06:41:49.645Z"}
+{"level":"error","message":"机器人【015922b0bbab11e7bfd72b103510de24-001-4-游客895-246819】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:41:49.665Z"}
+{"level":"error","message":"机器人【27728db0bbab11e78a773d08a497d649-001-3-游客564-298043】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":500}","timestamp":"2017-10-28T06:42:53.555Z"}
+{"level":"error","message":"机器人【27728db0bbab11e78a773d08a497d649-001-3-游客564-298043】 socket close , 原因: 1000 ","timestamp":"2017-10-28T06:42:53.575Z"}
+{"level":"error","message":"机器人【6184c670bbac11e783f155678c91fae4-001-3】 socket error , 原因: ECONNREFUSED undefined","timestamp":"2017-10-28T06:51:11.335Z"}
+{"level":"error","message":"机器人【4f476ab0bbb311e7bc5209b97889b56d-004-4-游客511-225550】行动失败 , 原因: 网络接口错误: playXiyouji, {\"code\":500}","timestamp":"2017-10-28T07:41:16.412Z"}
+{"level":"error","message":"机器人【4f476ab0bbb311e7bc5209b97889b56d-004-4-游客511-225550】 socket close , 原因: 1000 ","timestamp":"2017-10-28T07:41:16.422Z"}
+{"level":"error","message":"机器人【06a8fc80be1811e781d50b1c747136f5-004-4-游客540-290303】行动失败 , 原因: ReferenceError: memory is not defined","timestamp":"2017-10-31T08:46:45.956Z"}
+{"level":"error","message":"机器人【26a96e20be1811e7a02ffbba093c9034-004-1-游客643-289088】行动失败 , 原因: ReferenceError: caculatePay is not defined","timestamp":"2017-10-31T08:47:39.631Z"}
+{"level":"error","message":"机器人【2b061180be1811e7813341882fec4de8-004-1-游客215-275102】行动失败 , 原因: ReferenceError: memory is not defined","timestamp":"2017-10-31T08:47:46.949Z"}
+{"level":"error","message":"机器人【52a8b550beac11e7a83d09da1953420a-004-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:28:18.913Z"}
+{"level":"error","message":"机器人【52a8b550beac11e7a83d09da1953420a-004-5-游客539-246171】行动失败 , 原因: TypeError: Cannot read property 'getWait2PlayDurationSecondsInMill' of undefined Time: 1509503298973","timestamp":"2017-11-01T02:28:18.973Z"}
+{"level":"error","message":"机器人【6199ef20beac11e79d2fb75ff2d5b7bb-004-1】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:28:43.992Z"}
+{"level":"error","message":"机器人【67d47a40beac11e78ac5bb9045e64cbd-004-4】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:28:54.442Z"}
+{"level":"error","message":"机器人【72461f60beac11e79872711452d0adce-004-3】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:29:11.954Z"}

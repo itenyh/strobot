@@ -1,0 +1,2 @@
+{"level":"error","message":"机器人【a7400a10bea611e7a9ea0d558118505c-001-5-游客310-213665】行动失败 , 原因: TypeError: Cannot read property 'totalWin' of undefined","timestamp":"2017-11-01T01:47:43.913Z"}
+{"level":"error","message":"机器人【b35cb860beac11e7b98bcd27bd1dabb3-001-2】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:31:01.184Z"}

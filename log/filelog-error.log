@@ -499,3 +499,32 @@
 {"level":"error","message":"机器人【8c988720bdeb11e78fc1bfaee4f6569a-017-5-游客690-219481】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.448Z"}
 {"level":"error","message":"机器人【c185dff0bdeb11e78fc1bfaee4f6569a-046-4-游客086-202389】行动失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.511Z"}
 {"level":"error","message":"机器人【c185dff0bdeb11e78fc1bfaee4f6569a-046-4-游客086-202389】stop 退出房间失败 , 原因: Error: not opened","timestamp":"2017-10-31T03:48:42.511Z"}
+{"level":"error","message":"机器人【fadbf160beac11e7805623a21ace902b-001-4】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:33:01.106Z"}
+{"level":"error","message":"机器人【6a3d6e80bead11e7bd60b7be8498f78e-001-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:36:07.972Z"}
+{"level":"error","message":"机器人【7a67eba0bead11e7981529eafd8ca64c-001-4】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:36:35.094Z"}
+{"level":"error","message":"机器人【84dfab40bead11e7b7c40bceb69f6385-001-1】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:36:52.666Z"}
+{"level":"error","message":"机器人【6b650920beae11e7a929d9eee8495743-007-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:19.406Z"}
+{"level":"error","message":"机器人【6b650920beae11e7a929d9eee8495743-007-5-游客522-209427】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"} Time: 1509504199446","timestamp":"2017-11-01T02:43:19.446Z"}
+{"level":"error","message":"机器人【74098f60beae11e79046abec922d9304-007-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:33.896Z"}
+{"level":"error","message":"机器人【7458e7e0beae11e79046abec922d9304-007-2】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:34.406Z"}
+{"level":"error","message":"机器人【74a6b9c0beae11e79046abec922d9304-007-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:34.906Z"}
+{"level":"error","message":"机器人【74f48ba0beae11e79046abec922d9304-007-2】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:35.426Z"}
+{"level":"error","message":"机器人【75425d80beae11e79046abec922d9304-007-2】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:35.926Z"}
+{"level":"error","message":"机器人【75902f60beae11e79046abec922d9304-007-1】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:36.466Z"}
+{"level":"error","message":"机器人【75de0140beae11e79046abec922d9304-008-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:36.946Z"}
+{"level":"error","message":"机器人【762bd320beae11e79046abec922d9304-008-1】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:37.466Z"}
+{"level":"error","message":"机器人【77f102c0beae11e79faa692b1f11344c-074-1】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:43:40.446Z"}
+{"level":"error","message":"机器人【77f102c0beae11e79faa692b1f11344c-074-1-游客903-218855】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"} Time: 1509504220476","timestamp":"2017-11-01T02:43:40.476Z"}
+{"level":"error","message":"机器人【b5a2ecf0beae11e792b7db1042f4e4d8-001-4】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:45:23.973Z"}
+{"level":"error","message":"机器人【c8897cd0beae11e7af6db3c34b408261-141-1】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:45:55.653Z"}
+{"level":"error","message":"机器人【c8897cd0beae11e7af6db3c34b408261-141-1-游客076-240610】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"} Time: 1509504355723","timestamp":"2017-11-01T02:45:55.723Z"}
+{"level":"error","message":"机器人【eb07bfb0beae11e789c62350519ef6c1-001-3】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:46:53.543Z"}
+{"level":"error","message":"机器人【f0ba7d30beae11e79e5557c603a298cc-208-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:47:03.073Z"}
+{"level":"error","message":"机器人【f0ba7d30beae11e79e5557c603a298cc-208-5-游客574-299934】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"} Time: 1509504423113","timestamp":"2017-11-01T02:47:03.113Z"}
+{"level":"error","message":"机器人【03b4e330beaf11e7b7e917b4b43e01a3-275-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:47:34.923Z"}
+{"level":"error","message":"机器人【03b4e330beaf11e7b7e917b4b43e01a3-275-5-游客004-264405】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"} Time: 1509504454983","timestamp":"2017-11-01T02:47:34.983Z"}
+{"level":"error","message":"机器人【2912ed70beaf11e782766d30f85420a7-342-4】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:48:37.635Z"}
+{"level":"error","message":"机器人【2912ed70beaf11e782766d30f85420a7-342-4-游客772-211488】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"} Time: 1509504517675","timestamp":"2017-11-01T02:48:37.675Z"}
+{"level":"error","message":"机器人【822904d0beaf11e7ad6fc958e172744a-001-3】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:51:07.107Z"}
+{"level":"error","message":"机器人【862d7610beaf11e79d51a72c7380b08a-409-5】 socket close , 原因: 1000 ","timestamp":"2017-11-01T02:51:13.827Z"}
+{"level":"error","message":"机器人【862d7610beaf11e79d51a72c7380b08a-409-5-游客926-268779】行动失败 , 原因: 网络接口错误: enterRoom, {\"code\":500,\"error\":\"机器未找到\"} Time: 1509504673887","timestamp":"2017-11-01T02:51:13.887Z"}
