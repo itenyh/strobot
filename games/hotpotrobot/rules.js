@@ -1,7 +1,7 @@
 var Random = require("random-js");
 var random = new Random(Random.engines.mt19937().autoSeed());
 
-function A777Rules() {
+function Rules() {
 
     const base = [
         {id: 'l1', name: '耗儿鱼'},
@@ -164,16 +164,8 @@ function A777Rules() {
         return gold > 5000000
     }
 
-    this.getRandomAddedRobotNum = function () {
-        return random.integer(2, 4)
-    }
-
     this.getRandomOffDealerNum = function () {
         return random.integer(2, 5)
-    }
-
-    this.getRandomAddedRobotIntervalMinuteInMill = function () {
-        return random.integer(3, 5) * 60 * 1000
     }
 
     this.getRandomType = function () {
@@ -199,7 +191,7 @@ function A777Rules() {
 
 }
 
-module.exports = new A777Rules()
+module.exports = Rules
 
 // const r = new A777Rules()
 

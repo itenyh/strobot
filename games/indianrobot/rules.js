@@ -27,14 +27,6 @@ function Rules() {
 
     }
 
-    this.getRandomAddedRobotNum = function () {
-        return random.integer(2, 4)
-    }
-
-    this.getRandomAddedRobotIntervalMinuteInMill = function () {
-        return random.integer(3, 5) * 60 * 1000
-    }
-
     this.getRandomType = function () {
         return random.integer(1, 5)
     }

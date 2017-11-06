@@ -2,7 +2,7 @@
 const Q = require('q')
 global.logger = require('./util/logger')
 const util = require('./util/util')
-const userConfig = require('./config/user-config.json')
+const robotConfig = require('./robotConfig')
 
 var program = require('commander');
 
@@ -14,7 +14,7 @@ program
     .parse(process.argv);
 
 const gameName = program.game
-const game_nid = userConfig.game_nid
+const game_nid = robotConfig.getGameNid()
 const gameNid = game_nid[gameName]
 const gameNames = program.names
 const robotNumbers = program.robotNumbers
@@ -25,11 +25,10 @@ if (gameNames) {
 
 else if (gameNid) {
     Q.spawn(function* () {
-        const robotNum = robotNumbers === undefined ? userConfig.robotNum : robotNumbers
+        const robotNum = robotNumbers === undefined ? robotConfig.getRobotNum() : robotNumbers
         const roomNum = robotNum / 6
         util.writeLine(['uid', 'pay', 'profit', 'round', 'jackpotFund', 'runningPool', 'profitPool'], filename = './data/' + gameName + '.csv')
         const roomCodes = yield addRoom(roomNum, gameNid)
-        // console.log(roomCodes, gameNid)
         yield addRobot2Room(roomCodes, gameNid, gameName)
     })
 }
@@ -59,22 +58,8 @@ function addRoom(num, nid) {
 }
 
 function addRobot2Room(roomCodes, nid, outputfile) {
-    let PlayerRobot = null
-    if (nid === 1) {
-        PlayerRobot = require('./games/a777robot/robot')
-    }
-    else if (nid === 2) {
-        PlayerRobot = require('./games/hambougerrobot/robot')
-    }
-    else if (nid === 3) {
-        PlayerRobot = require('./games/hotpotrobot/robot')
-    }
-    else if (nid === 7) {
-        PlayerRobot = require('./games/xiyoujirobot/robot')
-    }
-    else if (nid === 4) {
-        PlayerRobot = require('./games/indianrobot/robot')
-    }
+
+    const PlayerRobot = robotConfig.getRobotByNid(nid)
 
     return Q.async(function* () {
         for (roomCode of roomCodes) {
@@ -86,30 +71,17 @@ function addRobot2Room(roomCodes, nid, outputfile) {
                 robot.action.on('round', function (data) {
                     util.writeLine(data, filename = './data/' + outputfile + '.csv')
                 })
+                robot.action.on('robotEnterGame', function () {
+                    robotConfig.robotEnter()
+                    robotConfig.print()
+                })
+                robot.action.on('robotLeaveGame', function () {
+                    robotConfig.robotLeave()
+                    robotConfig.print()
+                })
+
             }
         }
     })()
 
 }
-
-
-// function startPoolRecord(nid) {
-//
-//     require('./util/pomelo-cocos2d-js')
-//     const Net = require('./util/net')
-//     const RobotAction = require('./a777robot/robotAction')
-//     const pomelo = (new PP()).pomelo
-//     const net = new Net(pomelo)
-//     const action = new RobotAction(net)
-//
-//     return Q.async(function* () {
-//         yield action.connect()
-//         yield net.asynEnterGame(nid)
-//         while (true) {
-//             const potData = yield net.asynQuery777JackPot()
-//             util.writeLine([-1, -1, -1, -1, potData.jackpotFund, potData.runningPool, potData.profitPool, Date.now()])
-//             yield Q.delay(1000 * 60 * 1)
-//         }
-//     })()
-//
-// }

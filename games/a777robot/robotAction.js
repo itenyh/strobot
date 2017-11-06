@@ -96,7 +96,7 @@ class RobotAction {
                 const pay = this.caculatePay(this.memory.gold)
                 if (pay) {
 
-                    logger.info('机器人 %s 玩一把 %s', this.getId(), Date.now())
+                    logger.info('机器人777 %s 玩一把 %s', this.getId(), Date.now())
                     const result = yield this.net.asynPlay777(pay[0], pay[1])
                     const totalWin = result.totalWin
                     const profit = totalWin - pay[0] * pay[1]
@@ -175,8 +175,8 @@ class RobotAction {
 
     static createRobotAction() {
         const Memory = require('./memory')
-        const rules = require('./rules')
-        return new RobotAction(new Memory(), rules)
+        const Rules = require('./rules')
+        return new RobotAction(new Memory(), new Rules())
     }
 
 }

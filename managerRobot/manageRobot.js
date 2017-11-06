@@ -24,7 +24,7 @@ function ManageRobot(nid) {
             Q.spawn(function* () {
                 yield action.connect()
                 yield action.enterGame()
-                // yield action.addRobotsIntoInitEmptyRooms()
+                yield action.addRobotsIntoInitEmptyRooms()
             }.bind(this))
 
         }
@@ -39,7 +39,7 @@ function ManageRobot(nid) {
 
     this.stop = () => {
         action.disconnect()
-        global.robotsInfo.stopAllRobots()
+        action.stopAllRobots()
         if (this.afterStop && typeof this.afterStop === 'function') {
             this.afterStop()
         }

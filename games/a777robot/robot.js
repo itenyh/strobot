@@ -28,6 +28,8 @@ class Robot {
             }
             catch (reason) {
                 logger.error('机器人【%s】行动失败 , 原因: %s Time: %s', this.action.getId(), reason, Date.now())
+            }
+            finally {
                 yield this.stop()
             }
 

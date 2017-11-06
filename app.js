@@ -5,17 +5,23 @@
 const Q = require('q')
 
 global.logger = require('./util/logger')
-global.robotsInfo = require('./managerRobot/robotsInfo')
 
-const PlayerRobot = require('./games/indianrobot/robot')
+// const PlayerRobot = require('./games/indianrobot/robot')
 const ManagerRobot = require('./managerRobot/manageRobot')
 
-// const robot = new ManagerRobot('1')
-// robot.run()
+const robot = new ManagerRobot(1)
+robot.run()
 
-addRobot('001', 1)
-// add2SixRoom()
+// const robot1 = new ManagerRobot(2)
+// robot1.run()
 //
+// const robot2 = new ManagerRobot(3)
+// robot2.run()
+//
+// const robot3 = new ManagerRobot(7)
+// robot3.run()
+
+
 function add2SixRoom() {
 
     for (let i = 1;i <= 6;i++) {

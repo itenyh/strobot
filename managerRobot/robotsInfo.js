@@ -1,32 +1,34 @@
 
 
-function RobotsInfo() {
+class RobotsInfo {
 
-    const infos = {}
-    const refRobots = {}
+    constructor() {
+        this.infos = {}
+        this.refRobots = {}
+    }
 
-    this.register = function (room, uid) {
+    register(room, uid) {
 
-        if (!infos.hasOwnProperty(room)) {
-            infos[room] = []
+        if (!this.infos.hasOwnProperty(room)) {
+            this.infos[room] = []
         }
-        infos[room].push(uid)
+        this.infos[room].push(uid)
 
     }
 
-    this.registerRef = function (uid, robot) {
-        refRobots[uid] = robot
+    registerRef(uid, robot) {
+        this.refRobots[uid] = robot
     }
 
-    this.removeRobot = function (room, uid) {
+    removeRobot(room, uid) {
 
-        if (!infos.hasOwnProperty(room)) {
+        if (!this.infos.hasOwnProperty(room)) {
             return false
         }
 
         let index = -1
         let finded = false
-        for (robotInRoom of infos[room]) {
+        for (robotInRoom of this.infos[room]) {
             index++
             if (robotInRoom === uid) {
                 finded = true
@@ -35,22 +37,21 @@ function RobotsInfo() {
         }
 
         if (finded) {
-            infos[room].splice(index, 1)
-            delete refRobots[uid]
+            this.infos[room].splice(index, 1)
+            delete this.refRobots[uid]
         }
 
-        // this.printAllRobot()
 
     }
 
-    this.getRobotNumInRoom = function (roomCode) {
-        if (!infos.hasOwnProperty(roomCode)) { return 0 }
-        else return infos[roomCode].length
+    getRobotNumInRoom(roomCode) {
+        if (!this.infos.hasOwnProperty(roomCode)) { return 0 }
+        else return this.infos[roomCode].length
     }
 
-    this.getPoorestInRoom = function (roomCode) {
+    getPoorestInRoom(roomCode) {
 
-        const robots = getRobotRefsByRoomCode(roomCode)
+        const robots = this.getRobotRefsByRoomCode(roomCode)
 
         robots.sort(function (a, b) {
             const goldA = a.action.getRobotInfo().gold
@@ -62,10 +63,10 @@ function RobotsInfo() {
 
     }
 
-    this.printAllRobot = function () {
-        Object.keys(infos).forEach(function(roomCode){
+    printAllRobot() {
+        Object.keys(this.infos).forEach(function(roomCode){
 
-            const robots = getRobotRefsByRoomCode(roomCode)
+            const robots = this.getRobotRefsByRoomCode(roomCode)
             for (r of robots) {
                 console.log(roomCode, {'gold': r.action.getRobotInfo().gold, 'uid': r.action.getRobotInfo().uid})
             }
@@ -73,42 +74,26 @@ function RobotsInfo() {
         });
     }
 
-    this.stopAllRobots = function () {
-        Object.keys(infos).forEach(function(roomCode){
+    stopAllRobots() {
+        Object.keys(this.infos).forEach(function(roomCode){
 
-            const robots = getRobotRefsByRoomCode(roomCode)
+            const robots = this.getRobotRefsByRoomCode(roomCode)
             for (r of robots) {
                 r.stop()
             }
 
         });
     }
-    
-    this.getRobotByNid = function (nid) {
 
-        if (nid === '1') {
-            return require('../a777robot/robot')
-        }
-        else if (nid === '2') {
-            return require('../hambougerrobot/robot')
-        }
-        else if (nid === '7') {
-            return require('../hotpotrobot/robot')
-        }
+    getRobotRefsByRoomCode(roomCode) {
 
-        return null
-
-    }
-
-    const getRobotRefsByRoomCode = function(roomCode) {
-
-        if (!infos.hasOwnProperty(roomCode)) { return [] }
-        const uids = infos[roomCode]
+        if (!this.infos.hasOwnProperty(roomCode)) { return [] }
+        const uids = this.infos[roomCode]
         if (uids.length == 0) { return [] }
 
         const robots = []
         for (uid of uids) {
-            robots.push(refRobots[uid])
+            robots.push(this.refRobots[uid])
         }
 
         return robots
@@ -116,4 +101,4 @@ function RobotsInfo() {
     
 }
 
-module.exports = new RobotsInfo()
+module.exports = RobotsInfo

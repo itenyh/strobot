@@ -5,14 +5,18 @@
 const Q = require('q')
 const v1 = require('uuid/v1');
 const Memory = require('./memory')
-const gameConfig = require('./config/game-config.json')
+const gameConfig = require('../../config/game-config.json')
+const EventEmitter = require('events')
+const Rules = require('./rules')
 
 function RobotAction(net) {
 
     const memory = new Memory()
+    this.event = new EventEmitter()
+    this.rules = new Rules()
 
     this.initMemeory = function (room) {
-        memory.type = global.rules.getRandomType()
+        memory.type = this.rules.getRandomType()
         memory.id = v1().replace(/-/g, '') + '-' + room + '-' + memory.type
     }
 
@@ -28,6 +32,14 @@ function RobotAction(net) {
         net.disconnect()
     }
 
+    this.on = (eventName, data) => {
+        this.event.on(eventName, data)
+    }
+
+    this.emit = (eventName, data) => {
+        this.event.emit(eventName, data)
+    }
+
     this.connect = Q.async(function* () {
 
         yield net.asynReady({host: gameConfig.gameHost, port: gameConfig.gamePort})
@@ -39,7 +51,7 @@ function RobotAction(net) {
         memory.uid = user.uid
         memory.id += '-' + user.nickname
         yield net.asynEnterGame('3')
-        yield addMoney()
+        yield this.addMoney()
 
     })
 
@@ -50,7 +62,7 @@ function RobotAction(net) {
 
     const play = Q.async(function* () {
 
-        const betInfo = global.rules.getRandomBetElements(memory.type, memory.isLastBetWin, memory.gold)
+        const betInfo = this.rules.getRandomBetElements(memory.type, memory.isLastBetWin, memory.gold)
         if (betInfo) {
             logger.info('机器人 %s 押注：%s', this.getId(), JSON.stringify(betInfo))
             yield net.asynPlayHuoGuo(betInfo.bets)
@@ -60,7 +72,7 @@ function RobotAction(net) {
 
             if (!memory.addedMoney) {
                 logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), memory.gold)
-                yield addMoney()
+                yield this.addMoney()
                 memory.addedMoney = true
             }
             else {
@@ -111,7 +123,7 @@ function RobotAction(net) {
 
             if (!memory.isDealer && isDealerSelf) {
                 logger.info('机器人 %s 上庄成功!' , this.getId())
-                memory.dealerRoundLimit = global.rules.getRandomOffDealerNum()
+                memory.dealerRoundLimit = this.rules.getRandomOffDealerNum()
             }
 
             else if(memory.isDealer && !isDealerSelf) {
@@ -130,7 +142,7 @@ function RobotAction(net) {
             }
 
             if(!isDealerSelf && isDealerRobot && !isInQueue) {
-                if (global.rules.isOnDealer(memory.type) && global.rules.isAble2OnDealer(memory.gold)) {
+                if (this.rules.isOnDealer(memory.type) && this.rules.isAble2OnDealer(memory.gold)) {
                     logger.info('机器人 %s 上庄', this.getId())
                     try {
                         yield net.asynApplyHuoGuoDealer()
@@ -153,7 +165,7 @@ function RobotAction(net) {
             else {
                 logger.info('机器人 %s 庄家不押注', this.getId())
                 memory.dealerRoundNum += 1
-                if (global.rules.isOffDealer(memory.type, memory.dealerRoundNum, memory.dealerRoundLimit, memory.dealerRoundWin, memory.gold)) {
+                if (this.rules.isOffDealer(memory.type, memory.dealerRoundNum, memory.dealerRoundLimit, memory.dealerRoundWin, memory.gold)) {
                     yield net.asynOffHuoGuoDealer()
                 }
             }
@@ -171,10 +183,10 @@ function RobotAction(net) {
     })
 
 
-    function addMoney() {
+    this.addMoney = () => {
 
         if (memory.initGold === -1) {
-            memory.initGold = global.rules.getRandomGold()
+            memory.initGold = this.rules.getRandomGold()
         }
 
         Q.spawn(function* () {
@@ -184,7 +196,6 @@ function RobotAction(net) {
         })
 
     }
-
 
 }
 

@@ -7,6 +7,10 @@ const Q = require('q')
 const gameConfig = require('../config/game-config.json')
 const Memory = require('./managerRobotMemory')
 const Net = require('../util/net')
+const robotConfig = require('../robotConfig')
+
+const RobotsInfo = require('./robotsInfo')
+global.robotsInfo = new RobotsInfo()
 
 function ManagerRobotAction(nid) {
 
@@ -14,11 +18,15 @@ function ManagerRobotAction(nid) {
     const memory = new Memory()
     const pomelo = (new PP()).pomelo
     const net = new Net(pomelo)
-    const PlayerRobot = global.robotsInfo.getRobotByNid(nid)
+    const PlayerRobot = robotConfig.getRobotByNid(nid)
     let hasConnected = false
 
     this.disconnect = () => {
         net.disconnect()
+    }
+
+    this.stopAllRobots = () => {
+        global.robotsInfo.stopAllRobots()
     }
 
     this.addListener = () => {
@@ -165,16 +173,26 @@ function RemoveRobotNewPlayerTask(taskDealer, roomCode) {
 function Task(taskDealer, roomCode, PlayerRobot) {
 
     let isContinueAdding = true
+    var Random = require("random-js");
+    var random = new Random(Random.engines.mt19937().autoSeed());
+
+    this.getRandomAddedRobotNum = function () {
+        return random.integer(2, 4)
+    }
+
+    this.getRandomAddedRobotIntervalMinuteInMill = function () {
+        return random.integer(3, 5) * 60 * 1000
+    }
 
     this.fire = function () {
 
         Q.spawn(function* () {
 
-            const randomRobotNum = global.rules.getRandomAddedRobotNum()
+            const randomRobotNum = this.getRandomAddedRobotNum()
             logger.info('向空房间 %s 添加机器人 %s 个，任务开始！', roomCode, randomRobotNum)
             for (let i = 0;i < randomRobotNum;i++) {
                 if (!isContinueAdding) { break }
-                const robot = new PlayerRobot(roomCode)
+                const robot = PlayerRobot.createRobot(roomCode)
                 robot.action.on('robotEnterGame', function () {
                     logger.info('机器人%s进入房间%s 事件', robot.action.getId(), roomCode)
                     global.robotsInfo.registerRef(robot.action.getUid(), robot)
@@ -184,14 +202,14 @@ function Task(taskDealer, roomCode, PlayerRobot) {
                     global.robotsInfo.removeRobot(roomCode, robot.action.getUid())
                 })
                 robot.run()
-                const interval = global.rules.getRandomAddedRobotIntervalMinuteInMill()
+                const interval = this.getRandomAddedRobotIntervalMinuteInMill()
                 yield Q.delay(interval)
             }
 
             logger.info('向空房间 %s 添加机器人，任务完成！', roomCode)
             taskDealer.taskFinish()
 
-        })
+        }.bind(this))
 
     }
 

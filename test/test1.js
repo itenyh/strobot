@@ -1,16 +1,23 @@
 
 
-class Rob {
+// class Rob {
+//
+//     constructor(a) {
+//         this.a = a
+//     }
+//
+//     m1() {
+//         console.log('m1')
+//     }
+//
+//
+// }
+//
+// module.exports = Rob
 
-    constructor(a) {
-        this.a = a
-    }
-
-    m1() {
-        console.log('m1')
-    }
-
-
+if ("") {
+    console.log(123)
 }
-
-module.exports = Rob
+else {
+    console.log(321)
+}
