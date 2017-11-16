@@ -6,11 +6,18 @@ const Q = require('q')
 
 global.logger = require('./util/logger')
 
-// const PlayerRobot = require('./games/indianrobot/robot')
-const ManagerRobot = require('./managerRobot/manageRobot')
+// const factory = require('./games/RobotFactory')
+// const robot = factory.createRobot('001', 1)
+// robot.run()
 
-const robot = new ManagerRobot(1)
-robot.run()
+const VavleRobot = require('./managerRobot/valveRobot')
+let aliveVavleRobot = 0
+let uplimit = 10
+createValvleRobot()
+
+// const ManagerRobot = require('./managerRobot/manageRobot')
+// const robot = new ManagerRobot(1)
+// robot.run()
 
 // const robot1 = new ManagerRobot(2)
 // robot1.run()
@@ -21,6 +28,21 @@ robot.run()
 // const robot3 = new ManagerRobot(7)
 // robot3.run()
 
+function createValvleRobot() {
+
+    if (aliveVavleRobot == 0 && uplimit > 0) {
+        uplimit -= 1
+        const r = new VavleRobot(1)
+        r.action.on('robotStop', function () {
+            aliveVavleRobot -= 1
+            logger.error('管理机器人死亡，重开，剩余 %s ', uplimit)
+            createValvleRobot()
+        })
+        aliveVavleRobot += 1
+        r.run()
+    }
+
+}
 
 function add2SixRoom() {
 

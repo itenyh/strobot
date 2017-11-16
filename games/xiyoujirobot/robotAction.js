@@ -75,12 +75,6 @@ class RobotAction extends _RobotAction {
 
     }
 
-    static createRobotAction() {
-        const Memory = require('./memory')
-        const Rules = require('./rules')
-        return new RobotAction(new Memory(), new Rules())
-    }
-
 }
 
 

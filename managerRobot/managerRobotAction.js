@@ -7,8 +7,7 @@ const Q = require('q')
 const gameConfig = require('../config/game-config.json')
 const Memory = require('./managerRobotMemory')
 const Net = require('../util/net')
-const robotConfig = require('../robotConfig')
-
+const robotfactory = require('../games/robotFactory')
 const RobotsInfo = require('./robotsInfo')
 global.robotsInfo = new RobotsInfo()
 
@@ -18,7 +17,6 @@ function ManagerRobotAction(nid) {
     const memory = new Memory()
     const pomelo = (new PP()).pomelo
     const net = new Net(pomelo)
-    const PlayerRobot = robotConfig.getRobotByNid(nid)
     let hasConnected = false
 
     this.disconnect = () => {
@@ -40,9 +38,9 @@ function ManagerRobotAction(nid) {
         })
 
         pomelo.on('close', function (data) {
-            if (hasConnected) {
+            // if (hasConnected) {
                 logger.error('机器人【%s】 socket close , 原因: %s %s', 'managerRobot', data.code, data.reason)
-            }
+            // }
         }.bind(this))
 
     }
@@ -71,7 +69,7 @@ function ManagerRobotAction(nid) {
         for (roomCode of emptyRooms) {
             global.logger.info('初始化，向空房间 %s 加入机器人', roomCode)
             const taskDealer = taskDealerManager.getTaskDealer(roomCode)
-            const task = new Task(taskDealer, roomCode, PlayerRobot)
+            const task = new Task(taskDealer, roomCode, nid)
             taskDealer.setTask(task)
         }
 
@@ -84,13 +82,14 @@ function ManagerRobotAction(nid) {
         const taskDealer = taskDealerManager.getTaskDealer(roomCode)
 
         if (result[0]) { //新进入玩家
-            logger.info('有新玩家进入房间 roomCode: %s, 现在开始尝试移除机器人', roomCode)
-            const task = new RemoveRobotNewPlayerTask(taskDealer, roomCode)
-            taskDealer.setTask(task)
+            // logger.info('有新玩家进入房间 roomCode: %s, 现在开始减少机器人生存时间', roomCode)
+            // const task = new DeRobotHPTask(taskDealer, roomCode)
+            // taskDealer.setTask(task)
+
         }
         else if (result[1]) { //空房间出现
             logger.info('有新的房间空出来 roomCode: %s, 现在开始加入机器人', roomCode)
-            const task = new Task(taskDealer, roomCode, PlayerRobot)
+            const task = new Task(taskDealer, roomCode, nid)
             taskDealer.setTask(task)
         }
 
@@ -101,7 +100,7 @@ function ManagerRobotAction(nid) {
         const roomCode = newRoom['roomCode']
         const taskDealer = taskDealerManager.getTaskDealer(roomCode)
         logger.info('有新的房间 roomCode: %s, 现在开始加入机器人', roomCode)
-        const task = new Task(taskDealer, roomCode, PlayerRobot)
+        const task = new Task(taskDealer, roomCode, nid)
         taskDealer.setTask(task)
     }
 
@@ -151,6 +150,26 @@ function TaskDealer() {
 
 }
 
+function DeRobotHPTask(taskDealer, roomCode) {
+
+    this.fire = function () {
+
+        Q.spawn(function* () {
+
+            const robots = global.robotsInfo.getRobotRefsByRoomCode(roomCode)
+            for (robot of robots) {
+
+            }
+            taskDealer.taskFinish()
+
+        })
+
+    }
+
+    this.try2Finish = function () {}
+
+}
+
 function RemoveRobotNewPlayerTask(taskDealer, roomCode) {
 
     this.fire = function () {
@@ -170,7 +189,7 @@ function RemoveRobotNewPlayerTask(taskDealer, roomCode) {
 
 }
 
-function Task(taskDealer, roomCode, PlayerRobot) {
+function Task(taskDealer, roomCode, nid) {
 
     let isContinueAdding = true
     var Random = require("random-js");
@@ -192,7 +211,7 @@ function Task(taskDealer, roomCode, PlayerRobot) {
             logger.info('向空房间 %s 添加机器人 %s 个，任务开始！', roomCode, randomRobotNum)
             for (let i = 0;i < randomRobotNum;i++) {
                 if (!isContinueAdding) { break }
-                const robot = PlayerRobot.createRobot(roomCode)
+                const robot = robotfactory.createRobot(roomCode, nid)
                 robot.action.on('robotEnterGame', function () {
                     logger.info('机器人%s进入房间%s 事件', robot.action.getId(), roomCode)
                     global.robotsInfo.registerRef(robot.action.getUid(), robot)

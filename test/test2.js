@@ -1,24 +1,48 @@
 
+const Q = require('q')
 
-const inherits = require('util').inherits
-const Rob = require('./test1')
+function a() {
 
-class NRob extends Rob {
-
-   constructor(a) {
-       super(a)
-   }
+    setTimeout(function () {
+        throw 123
+    }, 1000)
 
 }
-inherits(NRob, Rob)
 
-// const nb = new NRob()
-// console.log(nb.a)
-// console.log(nb.b)
-// // nb.m1()
-// nb.m2()
-// nb.m3()
+function b() {
 
-const rob = new Rob(5)
-console.log(rob.a)
-rob.m1()
+    return Q.async(function* () {
+
+        throw 123
+        console.log(333333333333)
+
+    })()
+
+}
+
+function main() {
+    try {
+
+        Q.spawn(function* () {
+            try {
+                yield b()
+            }
+            catch (err) {
+                console.log('111' + err)
+            }
+        })
+
+    }
+    catch (err) {
+        console.log(1 + err)
+    }
+    
+    // b().then(function (success) {
+    //
+    // }, function (err) {
+    //     console.log(err)
+    // })
+    
+}
+
+main()

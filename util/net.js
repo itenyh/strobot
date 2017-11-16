@@ -76,6 +76,18 @@ function RobotNet(pomelo_) {
         })
     }
 
+    function tease(message, cb) {
+        pomelo.request('hall.teaseHandler.tease', {message: message}, function (data) {
+            responseHandler(data, tease, cb)
+        })
+    }
+    
+    function roomsInfo(nid, cb) {
+        pomelo.request('hall.mainHandler.systemGameInfos', {nid: nid}, function (data) {
+            responseHandler(data, roomsInfo, cb)
+        })
+    }
+
     //============ 火锅 ===========
 
     function playHuoGuo(bets, cb) {
@@ -211,6 +223,9 @@ function RobotNet(pomelo_) {
     this.asynAddRoom = Q.nbind(addRoom)
     this.asynLeaveRoom2Game = Q.nbind(leaveRoom2Game)
     this.asynAddMoney = Q.nbind(addMoney)
+
+    this.asynTease = Q.nbind(tease)
+    this.asynRoomsInfo = Q.nbind(roomsInfo)
 
     this.asynPlayHuoGuo = Q.nbind(playHuoGuo)
     this.asynApplyHuoGuoDealer = Q.nbind(applyHuoGuoDealer)

@@ -59,14 +59,14 @@ function addRoom(num, nid) {
 
 function addRobot2Room(roomCodes, nid, outputfile) {
 
-    const PlayerRobot = robotConfig.getRobotByNid(nid)
+    const factory = require('./games/RobotFactory')
 
     return Q.async(function* () {
         for (roomCode of roomCodes) {
             const uplimit = 6
             for (let i = 0; i < uplimit; i++) {
                 yield Q.delay(500)
-                const robot = PlayerRobot.createRobot(roomCode)
+                const robot = factory.createRobot(roomCode, nid)
                 robot.run()
                 robot.action.on('round', function (data) {
                     util.writeLine(data, filename = './data/' + outputfile + '.csv')
