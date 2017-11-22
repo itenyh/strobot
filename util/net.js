@@ -125,7 +125,6 @@ function RobotNet(pomelo_) {
 
     //============= 汉堡 ============
     function playHanbouger(lineNum, bet, cb) {
-        // console.log(lineNum, bet)
         pomelo.request('games.hamburgerHandler.start', {lineNum: lineNum, bet: bet}, function (data) {
             responseHandler(data, playHanbouger, cb)
         })
@@ -141,6 +140,13 @@ function RobotNet(pomelo_) {
     function gainedScatter(cb) {
         pomelo.request('games.xiyoujiHandler.gainedScatter', function (data) {
             responseHandler(data, gainedScatter, cb)
+        })
+    }
+
+    //============= 海盗 ============
+    function playPirate(multiply, cb) {
+        pomelo.request('games.pirateHandler.startPirate', {multiply: multiply, freespin: 0}, function (data) {
+            responseHandler(data, playPirate, cb)
         })
     }
 
@@ -235,6 +241,7 @@ function RobotNet(pomelo_) {
     this.asynPlay777 = Q.nbind(play777)
     this.asynPlayHambouger = Q.nbind(playHanbouger)
     this.asynPlayXiyouji = Q.nbind(playXiyouji)
+    this.asynPlayPirate = Q.nbind(playPirate)
     // this.asynPlaySlots = Q.nbind(playSlots)
     this.asynGainedScatter = Q.nbind(gainedScatter)
     this.asynPlayIndiana = Q.nbind(playIndiana)

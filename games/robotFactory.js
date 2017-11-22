@@ -8,7 +8,6 @@ function createRobot(room, action) {
 }
 
 exports.createRobot = function(room, nid) {
-
     const config = require('../robotConfig')
     const action = config.getRobotActionByNid(nid)
     return createRobot(room, action)

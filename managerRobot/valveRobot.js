@@ -12,30 +12,29 @@ function VavleRobot(nid) {
 
     this.run = () => {
 
-        try {
+        this.action.addListener()
 
-            logger.info('【%s】管理机器人 => 开始工作', nid)
+        logger.info('【%s】管理机器人 => 开始工作', nid)
 
-            this.action.addListener()
+        Q.spawn(function* () {
 
-            Q.spawn(function* () {
+            try {
+
                 yield this.action.connect()
                 yield this.action.enterGame()
                 yield this.action.detectRoomInfo()
-            }.bind(this))
 
-        }
+            }
+            catch (reason) {
 
-        catch (reason) {
+                logger.error('【%s】管理机器人行动失败 , 原因: %s', nid, reason)
+                this.action.stop()
 
-            logger.error('【%s】管理机器人行动失败 , 原因: %s', nid, reason)
-            this.action.stop()
+            }
 
-        }
+        }.bind(this))
+
     }
-
-
-
 
 }
 

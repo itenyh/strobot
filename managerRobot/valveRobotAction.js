@@ -38,6 +38,13 @@ function ValveRobotAction(nid) {
 
         }.bind(this))
 
+        pomelo.on('heartbeat timeout', function (data) {
+
+            logger.error('【%s】管理机器人 => heartbeat timeout', nid)
+            this.stop()
+
+        }.bind(this))
+
     }
 
     this.on = function(eventName, data) {
@@ -103,13 +110,13 @@ function ValveRobotAction(nid) {
 
             catch (error) {
 
-                logger.error('【%s】管理机器人 => detectRoomInfo error: ' + error)
+                logger.error('【%s】管理机器人 => detectRoomInfo error: %s', nid, error)
                 this.stop()
                 break
 
             }
 
-            yield Q.delay(1000 * 60 * 3)
+            yield Q.delay(1000 * 30)
 
         }
 
@@ -128,7 +135,7 @@ function ValveRobotAction(nid) {
             logger.info("【%s】管理机器人 => 向房间 %s 添加新的机器人", nid, willAddRoomCode)
             const robot = robotfactory.createRobot(willAddRoomCode, nid)
             robot.run()
-            const waitTime = (3 * 60 * 1000 / willAddNum)
+            const waitTime = (30 * 1000 / willAddNum)
             logger.info("【%s】管理机器人 => 下次添加新的机器人需等待 %ss", nid, waitTime / 1000)
             return waitTime
 

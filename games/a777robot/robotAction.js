@@ -7,7 +7,6 @@ const Q = require('q')
 const gameConfig = require('../../config/game-config.json')
 const EventEmitter = require('events')
 const Net = require('../../util/net')
-const ChainOperation = require('../../util/chainOperation')
 
 class RobotAction {
 
@@ -18,6 +17,7 @@ class RobotAction {
         this.net = new Net(this.pomelo)
         this.event = new EventEmitter()
         this.rules = rules
+        this.ChainOperation = require('../../util/chainOperation')
     }
 
     initMemeory(room) {
@@ -37,6 +37,12 @@ class RobotAction {
             logger.error('【%s】游戏机器人 => socket io-error , 原因: %s %s', this.getId(), data.code, data.reason)
             this.stop()
         }.bind(this))
+
+        this.pomelo.on('heartbeat timeout', function (data) {
+            logger.error('【%s】游戏机器人 => socket heartbeat timeout', this.getId())
+            this.stop()
+        }.bind(this))
+
     }
 
     getId() {
@@ -95,7 +101,7 @@ class RobotAction {
 
     lifeCheck() {
 
-        this.memory.lifeCheckTimerRef = ChainOperation.chain(null, 0, function* () {
+        this.memory.lifeCheckTimerRef = this.ChainOperation.chain(null, 0, function* () {
 
             if (this.rules.timeout(this.memory.entertime, this.memory.lifelong)) {
                 logger.info('【%s】游戏机器人 => 检查生命体征 => 超时，生命结束', this.getId())
@@ -112,7 +118,7 @@ class RobotAction {
 
     tease() {
 
-        this.memory.teaseTimerRef = ChainOperation.chain(null, this.rules.getTeaseDurationSecondsInMill(), function* () {
+        this.memory.teaseTimerRef = this.ChainOperation.chain(null, this.rules.getTeaseDurationSecondsInMill(), function* () {
 
             const teaseMsg = this.rules.getRandomTease(this.memory.tease)
             try {
@@ -130,14 +136,17 @@ class RobotAction {
 
     play() {
 
-        this.memory.playTimerRef = ChainOperation.chain(null, 0, function* () {
+        this.memory.playTimerRef = this.ChainOperation.chain(null, 0, function* () {
 
             const pay = this.caculatePay(this.memory.gold)
             if (pay) {
 
                 try {
-                    const result = yield this.net.asynPlay777(pay[0], pay[1])
-                    const totalWin = result.totalWin
+
+                    const result = yield this.playNetRequest(pay)
+                    let totalWin = result.totalWin
+                    if (this.memory.nid === 7) { totalWin = result.result.allTotalWin }  //西游记返回数据格式不同
+                    else if (this.memory.nid === 10) { totalWin = result['getGold'] }
                     const profit = totalWin - pay[0] * pay[1]
                     this.memory.gold += profit
                     this.memory.profit += profit
@@ -182,6 +191,12 @@ class RobotAction {
 
         }.bind(this))
 
+    }
+
+    playNetRequest(pay) {
+        return Q.async(function* () {
+            return yield this.net.asynPlay777(pay[0], pay[1])
+        }.bind(this))()
     }
 
     leaveRoom2Game() {

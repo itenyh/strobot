@@ -30,36 +30,37 @@ module.exports.getRobotByNid = function (nid) {
 module.exports.getRobotActionByNid = function (nid) {
 
     let Action = null
-    let Memory = null
-    let Rules = null
+    const Memory = new require('./games/memory')
+    const memory = new Memory()
+    const Rules = new require('./games/rules')
+    const rules = new Rules()
 
     if (nid === 1) {
-        Memory = require('./games/a777robot/memory')
-        Rules = require('./games/a777robot/rules')
         Action = require('./games/a777robot/robotAction')
     }
     else if (nid === 2) {
-        Memory = require('./games/hambougerrobot/memory')
-        Rules = require('./games/hambougerrobot/rules')
         Action = require('./games/hambougerrobot/robotAction')
     }
-    else if (nid === 3) {
-        Memory = require('./games/hotpotrobot/memory')
-        Rules = require('./games/hotpotrobot/rules')
-        Action = require('./games/hotpotrobot/robotAction')
-    }
+
+    // else if (nid === 3) {
+    // }
     else if (nid === 7) {
-        Memory = require('./games/xiyoujirobot/memory')
-        Rules = require('./games/xiyoujirobot/rules')
         Action = require('./games/xiyoujirobot/robotAction')
     }
-    else if (nid === 4) {
-        Memory = require('./games/indianrobot/memory')
-        Rules = require('./games/indianrobot/rules')
-        Action = require('./games/indianrobot/robotAction')
+    else if (nid === 10) {
+        Action = require('./games/pirate/robotAction')
+    }
+    // else if (nid === 4) {
+    //     Memory = require('./games/indianrobot/memory')
+    //     Rules = require('./games/indianrobot/rules')
+    //     Action = require('./games/indianrobot/robotAction')
+    // }
+
+    else {
+        throw '不存在这样的nid: ' + nid
     }
 
-    return new Action(new Memory(), new Rules(), nid)
+    return new Action(memory, rules, nid)
 
 }
 

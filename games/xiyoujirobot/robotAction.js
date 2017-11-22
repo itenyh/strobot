@@ -7,44 +7,10 @@ const _RobotAction = require('../a777robot/robotAction')
 
 class RobotAction extends _RobotAction {
 
-    play() {
+    playNetRequest(pay) {
         return Q.async(function* () {
-
-            while (true) {
-
-                const pay = this.caculatePay(this.memory.gold)
-                if (pay) {
-                    yield this.net.asynGainedScatter()
-                    const result = yield this.net.asynPlayXiyouji(pay[0], pay[1])
-                    const totalWin = result.result.allTotalWin
-                    const profit = totalWin - pay[0] * pay[1]
-                    this.memory.gold += profit
-                    this.memory.profit += profit
-                    this.memory.round += 1
-
-                    logger.info('机器人西游记 %s totalWin: %s 剩余金币：%s 到目前为止总利润: %s', this.getId(), totalWin, this.memory.gold, this.memory.profit)
-                    const potData = yield this.net.asynQueryXiyoujiJackPot()
-                    this.emit('round', [+this.getUid(), pay[0] * pay[1], this.memory.profit, this.memory.round, potData.jackpotFund, potData.runningPool, potData.profitPool])
-
-                    let waitTime = this.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, this.memory.gold)
-                    yield Q.delay(waitTime)
-
-                }
-                else {
-                    if (!this.memory.addedMoney) {
-                        logger.info('机器人 %s 剩余金币：%s 余额不足', this.getId(), this.memory.gold)
-                        yield this.addMoney(this.rules.getGold(this.memory.type))
-                        this.memory.addedMoney = true
-                    }
-                    else {
-                        logger.info('机器人 %s 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), this.memory.gold)
-                        break
-                    }
-
-                }
-
-            }
-
+            yield this.net.asynGainedScatter()
+            return yield this.net.asynPlayXiyouji(pay[0], pay[1])
         }.bind(this))()
     }
 

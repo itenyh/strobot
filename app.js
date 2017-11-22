@@ -11,9 +11,11 @@ global.logger = require('./util/logger')
 // robot.run()
 
 const VavleRobot = require('./managerRobot/valveRobot')
-let aliveVavleRobot = 0
-let uplimit = 100
-createValvleRobot()
+// createValvleRobot(1)
+// createValvleRobot(2)
+// createValvleRobot(7)
+// createValvleRobot(10)
+startJob([1, 2, 7, 10])
 
 // const ManagerRobot = require('./managerRobot/manageRobot')
 // const robot = new ManagerRobot(1)
@@ -28,15 +30,28 @@ createValvleRobot()
 // const robot3 = new ManagerRobot(7)
 // robot3.run()
 
-function createValvleRobot() {
+function startJob(nids) {
+
+    setTimeout(function () {
+        createValvleRobot(nids.pop())
+        if (nids.length > 0)
+            startJob(nids)
+    }, 2000)
+
+}
+
+function createValvleRobot(nid) {
+
+    let aliveVavleRobot = 0
+    let uplimit = 100
 
     if (aliveVavleRobot == 0 && uplimit > 0) {
         uplimit -= 1
-        const r = new VavleRobot(1)
+        const r = new VavleRobot(nid)
         r.action.on('robotStop', function () {
             aliveVavleRobot -= 1
-            logger.error('管理机器人死亡，重开，剩余 %s ', uplimit)
-            createValvleRobot()
+            logger.error('管理机器人 %s 死亡，重开，剩余 %s ', nid, uplimit)
+            createValvleRobot(nid)
         })
         aliveVavleRobot += 1
         r.run()
