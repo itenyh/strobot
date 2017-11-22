@@ -8,7 +8,7 @@ const gameConfig = require('../config/game-config.json')
 const Memory = require('./valveRobotMemory')
 const Net = require('../util/net')
 const robotfactory = require('../games/robotFactory')
-const Operation = require('../util/chainOperation')
+const ChainOperation = require('../util/chainOperation')
 const EventEmitter = require('events')
 
 function ValveRobotAction(nid) {
@@ -121,24 +121,18 @@ function ValveRobotAction(nid) {
         var Random = require("random-js");
         var random = new Random(Random.engines.mt19937().autoSeed());
 
-        const op = new Operation(willAddNum, function (cb) {
+        memory.missionRef = ChainOperation.chain(willAddNum, 0, function* () {
 
-            Q.spawn(function* () {
+            const index = random.integer(0, roomCodes.length - 1)
+            const willAddRoomCode = roomCodes[index]
+            logger.info("【%s】管理机器人 => 向房间 %s 添加新的机器人", nid, willAddRoomCode)
+            const robot = robotfactory.createRobot(willAddRoomCode, nid)
+            robot.run()
+            const waitTime = (3 * 60 * 1000 / willAddNum)
+            logger.info("【%s】管理机器人 => 下次添加新的机器人需等待 %ss", nid, waitTime / 1000)
+            return waitTime
 
-                const index = random.integer(0, roomCodes.length - 1)
-                const willAddRoomCode = roomCodes[index]
-                logger.info("【%s】管理机器人 => 向房间 %s 添加新的机器人", nid, willAddRoomCode)
-                const robot = robotfactory.createRobot(willAddRoomCode, nid)
-                robot.run()
-                const waitTime = (3 * 60 * 1000 / willAddNum)
-                logger.info("【%s】管理机器人 => 下次添加新的机器人需等待 %ss", nid, waitTime / 1000)
-                cb(waitTime)
-
-            }.bind(this))
-
-        })
-        memory.missionRef = op
-        op.start(0)
+        }.bind(this))
 
     }
 

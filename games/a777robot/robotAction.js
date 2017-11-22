@@ -7,7 +7,7 @@ const Q = require('q')
 const gameConfig = require('../../config/game-config.json')
 const EventEmitter = require('events')
 const Net = require('../../util/net')
-const Operation = require('../../util/chainOperation')
+const ChainOperation = require('../../util/chainOperation')
 
 class RobotAction {
 
@@ -95,110 +95,92 @@ class RobotAction {
 
     lifeCheck() {
 
-        const op = new Operation(null, function (cb) {
+        this.memory.lifeCheckTimerRef = ChainOperation.chain(null, 0, function* () {
 
-            Q.spawn(function* () {
-
-                if(this.rules.timeout(this.memory.entertime, this.memory.lifelong)) {
-                    logger.info('【%s】游戏机器人 => 检查生命体征 => 超时，生命结束', this.getId())
-                    this.stop()
-                }
-                else {
-                    logger.info('【%s】游戏机器人 => 检查生命体征 => 生命体征平稳', this.getId())
-                    cb(this.rules.lifeCheckInterval)
-                }
-
-            }.bind(this))
+            if (this.rules.timeout(this.memory.entertime, this.memory.lifelong)) {
+                logger.info('【%s】游戏机器人 => 检查生命体征 => 超时，生命结束', this.getId())
+                this.stop()
+            }
+            else {
+                logger.info('【%s】游戏机器人 => 检查生命体征 => 生命体征平稳', this.getId())
+                return this.rules.lifeCheckInterval
+            }
 
         }.bind(this))
-        this.memory.lifeCheckTimerRef = op
-        op.start(0)
 
     }
 
     tease() {
 
-        const op = new Operation(null, function (cb) {
+        this.memory.teaseTimerRef = ChainOperation.chain(null, this.rules.getTeaseDurationSecondsInMill(), function* () {
 
-            Q.spawn(function* () {
-
-                const teaseMsg = this.rules.getRandomTease(this.memory.tease)
-                try {
-                    yield this.net.asynTease(teaseMsg)
-                    logger.info('【%s】游戏机器人 => 吐槽： %s', this.getId(), teaseMsg)
-                }
-                catch (err) {
-                    logger.error('【%s】游戏机器人 => 吐槽异常 => %s', this.getId(), err)
-                }
-                cb(this.rules.getTeaseDurationSecondsInMill())
-
-            }.bind(this))
+            const teaseMsg = this.rules.getRandomTease(this.memory.tease)
+            try {
+                yield this.net.asynTease(teaseMsg)
+                logger.info('【%s】游戏机器人 => 吐槽： %s', this.getId(), teaseMsg)
+            }
+            catch (err) {
+                logger.error('【%s】游戏机器人 => 吐槽异常 => %s', this.getId(), err)
+            }
+            return this.rules.getTeaseDurationSecondsInMill()
 
         }.bind(this))
-        this.memory.teaseTimerRef = op
-        op.start(this.rules.getTeaseDurationSecondsInMill())
 
     }
 
     play() {
 
-        const op = new Operation(null, function (cb) {
+        this.memory.playTimerRef = ChainOperation.chain(null, 0, function* () {
 
-            Q.spawn(function* () {
+            const pay = this.caculatePay(this.memory.gold)
+            if (pay) {
 
-                const pay = this.caculatePay(this.memory.gold)
-                if (pay) {
+                try {
+                    const result = yield this.net.asynPlay777(pay[0], pay[1])
+                    const totalWin = result.totalWin
+                    const profit = totalWin - pay[0] * pay[1]
+                    this.memory.gold += profit
+                    this.memory.profit += profit
+                    this.memory.round += 1
+                    this.memory.roundLeft -= 1
 
-                    logger.info('【%s】游戏机器人 => 玩一把 %s', this.getId(), Date.now())
+                    let waitTime = this.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, this.memory.gold)
+
+                    logger.info('【%s】游戏机器人 => totalWin: %s 剩余金币：%s 到目前为止总利润: %s 还能玩 %s 秒 等待%s秒后 再次游戏', this.getId(), totalWin, this.memory.gold,
+                        this.memory.profit, this.rules.timeleft(this.memory.entertime, this.memory.lifelong) / 1000, waitTime / 1000)
+
+                    // const potData = yield this.net.asynQuery777JackPot()
+                    // this.emit('round', [+this.getUid(), pay[0] * pay[1], this.memory.profit, this.memory.round, potData.jackpotFund, potData.runningPool, potData.profitPool])
+
+                    return waitTime
+                }
+                catch (err) {
+                    logger.error('【%s】游戏机器人 => 玩耍异常 => %s', this.getId(), err)
+                    this.stop()
+                }
+
+            }
+            else {
+                if (!this.memory.addedMoney) {
+                    logger.info('【%s】游戏机器人 => 剩余金币：%s 余额不足', this.getId(), this.memory.gold)
                     try {
-                        const result = yield this.net.asynPlay777(pay[0], pay[1])
-                        const totalWin = result.totalWin
-                        const profit = totalWin - pay[0] * pay[1]
-                        this.memory.gold += profit
-                        this.memory.profit += profit
-                        this.memory.round += 1
-                        this.memory.roundLeft -= 1
-
-                        logger.info('【%s】游戏机器人 => totalWin: %s 剩余金币：%s 到目前为止总利润: %s 还能玩 %s 秒', this.getId(), totalWin, this.memory.gold, this.memory.profit, this.rules.timeleft(this.memory.entertime, this.memory.lifelong) / 1000)
-
-                        // const potData = yield this.net.asynQuery777JackPot()
-                        // this.emit('round', [+this.getUid(), pay[0] * pay[1], this.memory.profit, this.memory.round, potData.jackpotFund, potData.runningPool, potData.profitPool])
-
-                        let waitTime = this.rules.getWait2PlayDurationSecondsInMill(totalWin > 0, this.memory.gold)
-                        logger.info('【%s】游戏机器人 => 等待%s秒后 再次游戏', this.getId(), waitTime / 1000)
-                        cb(waitTime)
+                        yield this.addMoney(this.rules.getGold(this.memory.type))
+                        this.memory.addedMoney = true
+                        return 0
                     }
                     catch (err) {
-                        logger.error('【%s】游戏机器人 => 玩耍异常 => %s', this.getId(), err)
+                        logger.error('【%s】游戏机器人 => 加钱异常 => %s', this.getId(), err)
                         this.stop()
                     }
-
                 }
                 else {
-                    if (!this.memory.addedMoney) {
-                        logger.info('【%s】游戏机器人 => 剩余金币：%s 余额不足', this.getId(), this.memory.gold)
-                        try {
-                            yield this.addMoney(this.rules.getGold(this.memory.type))
-                            this.memory.addedMoney = true
-                            cb(0)
-                        }
-                        catch (err) {
-                            logger.error('【%s】游戏机器人 => 加钱异常 => %s', this.getId(), err)
-                            this.stop()
-                        }
-                    }
-                    else {
-                        logger.info('【%s】游戏机器人 => 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), this.memory.gold)
-                        this.stop()
-                    }
-
+                    logger.info('【%s】游戏机器人 => 剩余金币：%s 余额不足, 已加过钱，不再加了', this.getId(), this.memory.gold)
+                    this.stop()
                 }
 
-            }.bind(this))
+            }
 
         }.bind(this))
-        this.memory.playTimerRef = op
-        op.start(0)
 
     }
 
@@ -262,14 +244,6 @@ class RobotAction {
     stop() {
 
         this.clear()
-
-        // try {
-        //     yield this.leaveRoom2Game()
-        // }
-        // catch (reason) {
-        //     logger.error('【%s】游戏机器人 => stop 退出房间失败 , 原因: %s', this.getId(), reason)
-        // }
-
         this.disconnect()
         logger.info('【%s】游戏机器人 => stop ', this.getId())
 

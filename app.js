@@ -7,12 +7,12 @@ const Q = require('q')
 global.logger = require('./util/logger')
 
 // const factory = require('./games/RobotFactory')
-// const robot = factory.createRobot('001', 1)
+// const robot = factory.createRobot('008', 1)
 // robot.run()
 
 const VavleRobot = require('./managerRobot/valveRobot')
 let aliveVavleRobot = 0
-let uplimit = 10
+let uplimit = 100
 createValvleRobot()
 
 // const ManagerRobot = require('./managerRobot/manageRobot')

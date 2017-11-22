@@ -379,20 +379,20 @@
                         heartbeatTimeoutId = setTimeout(heartbeatTimeoutCb, gap);
                     } else {
                         console.error('server heartbeat timeout');
-                        this.pomelo.emit('heartbeat timeout');
-                        this.pomelo.disconnect();
+                        root.pomelo.emit('heartbeat timeout');
+                        root.pomelo.disconnect();
                     }
                 };
 
                 var handshake = function (data) {
                     data = JSON.parse(Protocol.strdecode(data));
                     if (data.code === RES_OLD_CLIENT) {
-                        this.pomelo.emit('error', 'client version not fullfill');
+                        root.pomelo.emit('error', 'client version not fullfill');
                         return;
                     }
 
                     if (data.code !== RES_OK) {
-                        this.pomelo.emit('error', 'handshake fail');
+                        root.pomelo.emit('error', 'handshake fail');
                         return;
                     }
 
@@ -415,7 +415,7 @@
 
                 var onKick = function (data) {
                     data = JSON.parse(Protocol.strdecode(data));
-                    this.pomelo.emit('onKick', data);
+                    root.pomelo.emit('onKick', data);
                 };
 
                 handlers[Package.TYPE_HANDSHAKE] = handshake;

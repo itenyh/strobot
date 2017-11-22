@@ -1,48 +1,18 @@
 
 const Q = require('q')
 
-function a() {
+// let total = 15
+// let wolf = 1
+// let continuePeople = 2
 
-    setTimeout(function () {
-        throw 123
-    }, 1000)
+function c(total, normalPeople, continueNormalPeople) {
 
-}
-
-function b() {
-
-    return Q.async(function* () {
-
-        throw 123
-        console.log(333333333333)
-
-    })()
-
-}
-
-function main() {
-    try {
-
-        Q.spawn(function* () {
-            try {
-                yield b()
-            }
-            catch (err) {
-                console.log('111' + err)
-            }
-        })
-
+    let result = 1
+    for (let i = 0;i < continueNormalPeople;i++) {
+        result *= ((normalPeople - i) / (total - i))
     }
-    catch (err) {
-        console.log(1 + err)
-    }
-    
-    // b().then(function (success) {
-    //
-    // }, function (err) {
-    //     console.log(err)
-    // })
-    
+    return result * (total - normalPeople)
+
 }
 
-main()
+console.log(c(18, 5))

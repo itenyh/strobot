@@ -1,17 +1,8 @@
 
 
 const Q = require('q')
-const Operation = require('../util/chainOperation')
-const op = new Operation(null, function () {
+const ChainOperation = require('../util/chainOperation')
 
-    Q.async(function* () {
-        console.log(123)
-        yield Q.delay(1400)
-        console.log(456)
-        yield Q.delay(2000)
-        console.log('finish')
-    })
-
+const op = ChainOperation.chain(10, 0, function* () {
+    console.log(1)
 })
-
-op.start(0)
