@@ -19,6 +19,9 @@ function Memory() {
     this.playTimerRef = null
     this.lifeCheckTimerRef = null
 
+    this.playerrorTime = 0
+    this.stoped = false
+
     this.tease = ['想把机器砸了',
         '早知道爆完就闪了，砍手呀',
         '......',

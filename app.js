@@ -10,25 +10,41 @@ global.logger = require('./util/logger')
 // const robot = factory.createRobot('008', 1)
 // robot.run()
 
-const VavleRobot = require('./managerRobot/valveRobot')
+// const VavleRobot = require('./managerRobot/valveRobot')
 // createValvleRobot(1)
 // createValvleRobot(2)
 // createValvleRobot(7)
 // createValvleRobot(10)
-startJob([1, 2, 7, 10])
+// startJob([1, 2, 7, 10])
 
-// const ManagerRobot = require('./managerRobot/manageRobot')
-// const robot = new ManagerRobot(1)
-// robot.run()
-
-// const robot1 = new ManagerRobot(2)
-// robot1.run()
-//
-// const robot2 = new ManagerRobot(3)
-// robot2.run()
-//
-// const robot3 = new ManagerRobot(7)
-// robot3.run()
+const nid = 1
+const robNum = 1260
+const uplimit = 6
+const roomsNum = robNum / uplimit
+const factory = require('./games/RobotFactory')
+let totalRuning = 0
+Q.spawn(function* () {
+    const rooms = yield addRoom(roomsNum, nid)
+    console.log("添加房间 : " + rooms.length)
+    for (room of rooms) {
+        // console.log(roomCode, rooms)
+        for (let i = 0; i < uplimit; i++) {
+            yield Q.delay(1000)
+            const robot = factory.createRobot(room.roomCode, nid)
+            robot.run()
+            totalRuning += 1
+            // robot.action.on('robotEnterGame', function () {
+            //     totalRuning += 1
+            // })
+            robot.action.on('robotLeaveGame', function () {
+                totalRuning -= 1
+            })
+        }
+    }
+})
+setInterval(function () {
+    console.log("机器人总量 : " + totalRuning)
+}, 5000)
 
 function startJob(nids) {
 
@@ -79,15 +95,15 @@ function addRobot(roomCode, num) {
     // console.log(robot.action)
 }
 
-function addRoom() {
+function addRoom(num, nid) {
 
-    const pomelo = (new PP()).pomelo
-    const net = new Net(pomelo)
-    const action = new RobotAction(net, new Memory())
-    Q.spawn(function* () {
-        yield action.connect()
-        const data = yield net.asynAddRoom()
-        console.log(data)
-    })
+    return Q.async(function* () {
+        const rf = require('./games/robotFactory')
+        const rb = rf.createRobot('001', nid)
+        yield rb.action.connect()
+        yield rb.action.net.asynEnterGame(nid)
+        const data = yield rb.action.net.asynAddRoom(num, nid)
+        return data.addRooms
+    })()
 
 }

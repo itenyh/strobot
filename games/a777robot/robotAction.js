@@ -164,8 +164,15 @@ class RobotAction {
                     return waitTime
                 }
                 catch (err) {
-                    logger.error('【%s】游戏机器人 => 玩耍异常 => %s', this.getId(), err)
-                    this.stop()
+                    // this.stop()
+                    // this.memory.playerrorTime += 1
+                    // if (this.memory.playerrorTime == 5) {
+                        logger.error('【%s】游戏机器人 => 玩耍异常 => 彻底关闭 %s', this.getId(), err)
+                        this.stop()
+                    // }
+                    // else {
+                    //     logger.error('【%s】游戏机器人 => 玩耍异常 => %s', this.getId(), err)
+                    // }
                 }
 
             }
@@ -258,10 +265,14 @@ class RobotAction {
 
     stop() {
 
-        this.clear()
-        this.disconnect()
-        logger.info('【%s】游戏机器人 => stop ', this.getId())
-
+        logger.info('%s, 【%s】游戏机器人 => stop ', this.memory.stoped, this.getId())
+        if (!this.memory.stoped) {
+            this.memory.stoped = true
+            this.clear()
+            this.disconnect()
+            this.emit('robotLeaveGame')
+            logger.info('%s, 【%s】游戏机器人 => stop ', this.memory.stoped, this.getId())
+        }
     }
 
 
