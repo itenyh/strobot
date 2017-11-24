@@ -82,7 +82,7 @@ function ValveRobotAction(nid) {
                 const roomInfoData = yield net.asynRoomsInfo(nid)
                 const uplimitPerRoom = 6
                 const incereaseRate = 0.1
-                const targetRate = 0.7
+                const targetRate = 1.0
                 const rooms = roomInfoData["infos"]
                 const roomNum = rooms.length
                 const capacity = roomNum * uplimitPerRoom

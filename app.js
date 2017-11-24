@@ -6,45 +6,45 @@ const Q = require('q')
 
 global.logger = require('./util/logger')
 
-// const factory = require('./games/RobotFactory')
-// const robot = factory.createRobot('008', 1)
+// const factory = require('./games/robotFactory')
+// const robot = factory.createRobot('001', 1)
 // robot.run()
 
-// const VavleRobot = require('./managerRobot/valveRobot')
+const VavleRobot = require('./managerRobot/valveRobot')
 // createValvleRobot(1)
 // createValvleRobot(2)
 // createValvleRobot(7)
 // createValvleRobot(10)
-// startJob([1, 2, 7, 10])
+startJob([1, 2, 7, 10])
 
-const nid = 1
-const robNum = 1260
-const uplimit = 6
-const roomsNum = robNum / uplimit
-const factory = require('./games/RobotFactory')
-let totalRuning = 0
-Q.spawn(function* () {
-    const rooms = yield addRoom(roomsNum, nid)
-    console.log("添加房间 : " + rooms.length)
-    for (room of rooms) {
-        // console.log(roomCode, rooms)
-        for (let i = 0; i < uplimit; i++) {
-            yield Q.delay(1000)
-            const robot = factory.createRobot(room.roomCode, nid)
-            robot.run()
-            totalRuning += 1
-            // robot.action.on('robotEnterGame', function () {
-            //     totalRuning += 1
-            // })
-            robot.action.on('robotLeaveGame', function () {
-                totalRuning -= 1
-            })
-        }
-    }
-})
-setInterval(function () {
-    console.log("机器人总量 : " + totalRuning)
-}, 5000)
+    // const nid = 1
+    // const robNum = 1260
+    // const uplimit = 6
+    // const roomsNum = robNum / uplimit
+    // const factory = require('./games/RobotFactory')
+    // let totalRuning = 0
+    // Q.spawn(function* () {
+    //     const rooms = yield addRoom(roomsNum, nid)
+    //     console.log("添加房间 : " + rooms.length)
+    //     for (room of rooms) {
+    //         // console.log(roomCode, rooms)
+    //         for (let i = 0; i < uplimit; i++) {
+    //             yield Q.delay(1000)
+    //             const robot = factory.createRobot(room.roomCode, nid)
+    //             robot.run()
+    //             totalRuning += 1
+    //             // robot.action.on('robotEnterGame', function () {
+    //             //     totalRuning += 1
+    //             // })
+    //             robot.action.on('robotLeaveGame', function () {
+    //                 totalRuning -= 1
+    //             })
+    //         }
+    //     }
+    // })
+    // setInterval(function () {
+    //     console.log("机器人总量 : " + totalRuning)
+    // }, 5000)
 
 function startJob(nids) {
 

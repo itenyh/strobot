@@ -265,7 +265,7 @@ class RobotAction {
 
     stop() {
 
-        logger.info('%s, 【%s】游戏机器人 => stop ', this.memory.stoped, this.getId())
+        // logger.info('%s, 【%s】游戏机器人 => stop ', this.memory.stoped, this.getId())
         if (!this.memory.stoped) {
             this.memory.stoped = true
             this.clear()
