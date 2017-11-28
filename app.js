@@ -18,7 +18,7 @@ const VavleRobot = require('./managerRobot/valveRobot')
 startJob([1, 2, 7, 10])
 
     // const nid = 1
-    // const robNum = 1260
+    // const robNum = 600
     // const uplimit = 6
     // const roomsNum = robNum / uplimit
     // const factory = require('./games/RobotFactory')
@@ -26,21 +26,21 @@ startJob([1, 2, 7, 10])
     // Q.spawn(function* () {
     //     const rooms = yield addRoom(roomsNum, nid)
     //     console.log("添加房间 : " + rooms.length)
-    //     for (room of rooms) {
-    //         // console.log(roomCode, rooms)
-    //         for (let i = 0; i < uplimit; i++) {
-    //             yield Q.delay(1000)
-    //             const robot = factory.createRobot(room.roomCode, nid)
-    //             robot.run()
-    //             totalRuning += 1
-    //             // robot.action.on('robotEnterGame', function () {
-    //             //     totalRuning += 1
-    //             // })
-    //             robot.action.on('robotLeaveGame', function () {
-    //                 totalRuning -= 1
-    //             })
-    //         }
-    //     }
+    //     // for (room of rooms) {
+    //     //     // console.log(roomCode, rooms)
+    //     //     for (let i = 0; i < uplimit; i++) {
+    //     //         yield Q.delay(500)
+    //     //         const robot = factory.createRobot(room.roomCode, nid)
+    //     //         robot.run()
+    //     //         totalRuning += 1
+    //     //         // robot.action.on('robotEnterGame', function () {
+    //     //         //     totalRuning += 1
+    //     //         // })
+    //     //         robot.action.on('robotLeaveGame', function () {
+    //     //             totalRuning -= 1
+    //     //         })
+    //     //     }
+    //     // }
     // })
     // setInterval(function () {
     //     console.log("机器人总量 : " + totalRuning)

@@ -135,7 +135,8 @@ function ValveRobotAction(nid) {
             logger.info("【%s】管理机器人 => 向房间 %s 添加新的机器人", nid, willAddRoomCode)
             const robot = robotfactory.createRobot(willAddRoomCode, nid)
             robot.run()
-            const waitTime = (30 * 1000 / willAddNum)
+            let waitTime = (30 * 1000 / willAddNum)
+            if (waitTime < 1000) { waitTime = 1000       }
             logger.info("【%s】管理机器人 => 下次添加新的机器人需等待 %ss", nid, waitTime / 1000)
             return waitTime
 
