@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ca70a1-504b-43b2-8439-40fd7f642717" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pomelo-robot-demo" afterPath="$PROJECT_DIR$/pomelo-robot-demo" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/hanbao.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/xiyouji.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pomelo-robot-demo" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/config/user-config.json" afterPath="$PROJECT_DIR$/temp/user-config.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/games/hotpotrobot/hotPotEvents.js" afterPath="$PROJECT_DIR$/temp/hotpotrobot/hotPotEvents.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/games/hotpotrobot/memory.js" afterPath="$PROJECT_DIR$/temp/hotpotrobot/memory.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/games/hotpotrobot/robot.js" afterPath="$PROJECT_DIR$/temp/hotpotrobot/robot.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/games/hotpotrobot/robotAction.js" afterPath="$PROJECT_DIR$/temp/hotpotrobot/robotAction.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/games/hotpotrobot/rules.js" afterPath="$PROJECT_DIR$/temp/hotpotrobot/rules.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/games/indianrobot/memory.js" afterPath="$PROJECT_DIR$/temp/indianrobot/memory.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/games/indianrobot/robotAction.js" afterPath="$PROJECT_DIR$/temp/indianrobot/robotAction.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/games/indianrobot/rules.js" afterPath="$PROJECT_DIR$/temp/indianrobot/rules.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lab.js" afterPath="$PROJECT_DIR$/temp/lab.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/managerRobot/manageRobot.js" afterPath="$PROJECT_DIR$/temp/manageRobot.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/managerRobot/managerRobotAction.js" afterPath="$PROJECT_DIR$/temp/managerRobotAction.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/managerRobot/managerRobotMemory.js" afterPath="$PROJECT_DIR$/temp/managerRobotMemory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/game-config.json" afterPath="$PROJECT_DIR$/config/game-config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/a777robot/robotAction.js" afterPath="$PROJECT_DIR$/games/a777robot/robotAction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/robot.js" afterPath="$PROJECT_DIR$/games/robot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/filelog-error.log" afterPath="$PROJECT_DIR$/log/filelog-error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/filelog-info.log" afterPath="$PROJECT_DIR$/log/filelog-info.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/managerRobot/valveRobotAction.js" afterPath="$PROJECT_DIR$/managerRobot/valveRobotAction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robotConfig.js" afterPath="$PROJECT_DIR$/robotConfig.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +41,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+            <state relative-caret-position="187">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game-config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/game-config.json">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="306">
+              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="valveRobot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/managerRobot/valveRobot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,8 +74,28 @@
       <file leaf-file-name="valveRobotAction.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/managerRobot/valveRobotAction.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="118" column="36" lean-forward="false" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+            <state relative-caret-position="80">
+              <caret line="73" column="23" lean-forward="false" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robotAction.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/games/a777robot/robotAction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="147" column="20" lean-forward="false" selection-start-line="147" selection-start-column="20" selection-end-line="147" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/games/robot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="26" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -103,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hambougerrobot/memory.js" />
         <option value="$PROJECT_DIR$/hambougerrobot/robot.js" />
         <option value="$PROJECT_DIR$/xiyoujirobot/rules.js" />
         <option value="$PROJECT_DIR$/hambougerrobot/robotAction.js" />
@@ -146,14 +200,15 @@
         <option value="$PROJECT_DIR$/log/filelog-info.log" />
         <option value="$PROJECT_DIR$/managerRobot/valveRobot.js" />
         <option value="$PROJECT_DIR$/util/net.js" />
-        <option value="$PROJECT_DIR$/games/robot.js" />
         <option value="$PROJECT_DIR$/games/memory.js" />
         <option value="$PROJECT_DIR$/log/filelog-error.log" />
         <option value="$PROJECT_DIR$/node_modules/ws/lib/WebSocket.js" />
-        <option value="$PROJECT_DIR$/games/a777robot/robotAction.js" />
         <option value="$PROJECT_DIR$/config/game-config.json" />
-        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/games/robot.js" />
+        <option value="$PROJECT_DIR$/games/a777robot/robotAction.js" />
         <option value="$PROJECT_DIR$/managerRobot/valveRobotAction.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -173,9 +228,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="446" />
-    <option name="y" value="191" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="324" />
+    <option name="y" value="226" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -214,6 +269,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,11 +287,15 @@
               <item name="strobot" type="462c0819:PsiDirectoryNode" />
               <item name="managerRobot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="strobot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="strobot" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,7 +303,7 @@
     <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/pomelo-robot-demo-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Administrator/Desktop/strobot/awardrobot/robotAction.js" />
     <property name="JavaScriptPreferStrict" value="false" />
@@ -257,19 +317,19 @@
     <property name="node.js.selected.package.standard" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\strobot\temp" />
+      <recent name="E:\Code\strobot\games" />
+      <recent name="E:\Code\strobot\temp" />
+      <recent name="E:\Code\strobot\hotpotrobot" />
+      <recent name="E:\Code\strobot\managerRobot" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Code\strobot\games" />
       <recent name="E:\Code\strobot\temp" />
       <recent name="E:\Code\strobot\managerRobot" />
       <recent name="E:\Code\strobot" />
       <recent name="E:\Code\strobot\config" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Code\strobot\games" />
-      <recent name="E:\Code\strobot\temp" />
-      <recent name="E:\Code\strobot\hotpotrobot" />
-      <recent name="E:\Code\strobot\managerRobot" />
-      <recent name="C:\Users\HJ\Desktop\robot" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -449,15 +509,16 @@
       <workItem from="1511747318391" duration="9099000" />
       <workItem from="1511831075361" duration="662000" />
       <workItem from="1511835100471" duration="3300000" />
-      <workItem from="1511849697429" duration="1502000" />
+      <workItem from="1511849697429" duration="2119000" />
+      <workItem from="1511922303074" duration="1915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446710000" />
+    <option name="totallyTimeSpent" value="449242000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1088" extended-state="7" />
+    <frame x="-4" y="-4" width="1928" height="1088" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.109375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -481,6 +542,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -491,20 +555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/comma-separated-values/csv.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/user-config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/comma-separated-values/bench.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -512,7 +562,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/games/hotpotrobot/robot.js">
+    <entry file="file://$PROJECT_DIR$/temp/hotpotrobot/robot.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
@@ -522,14 +572,14 @@
     <entry file="file://$PROJECT_DIR$/games/xiyoujirobot/robot.js" />
     <entry file="file://$PROJECT_DIR$/games/indianrobot/robot.js" />
     <entry file="file://$PROJECT_DIR$/games/hambougerrobot/robot.js" />
-    <entry file="file://$PROJECT_DIR$/games/indianrobot/robotAction.js">
+    <entry file="file://$PROJECT_DIR$/temp/indianrobot/robotAction.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/managerRobot/managerRobotMemory.js">
+    <entry file="file://$PROJECT_DIR$/temp/managerRobotMemory.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-350">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
@@ -606,7 +656,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/managerRobot/managerRobotAction.js">
+    <entry file="file://$PROJECT_DIR$/temp/managerRobotAction.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34">
           <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
@@ -647,14 +697,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log/filelog-info.log">
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-130780">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="3430" column="42" lean-forward="false" selection-start-line="3430" selection-start-column="34" selection-end-line="3430" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-130780">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -665,31 +715,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/managerRobot/valveRobot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/games/hambougerrobot/robotAction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerRobot/manageRobot.js">
+    <entry file="file://$PROJECT_DIR$/temp/manageRobot.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="26" column="49" lean-forward="false" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/games/robotFactory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -711,13 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -755,15 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="64" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/games/robot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="37" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,14 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2210">
           <caret line="130" column="28" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="130" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/games/a777robot/robotAction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4726">
-          <caret line="278" column="1" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="278" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -791,26 +796,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/games/robotFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/game-config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="17">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/lab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/robot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="26" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/hambougerrobot/robotAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/a777robot/robotAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="147" column="20" lean-forward="false" selection-start-line="147" selection-start-column="20" selection-end-line="147" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/managerRobot/valveRobotAction.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="118" column="36" lean-forward="false" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+        <state relative-caret-position="80">
+          <caret line="73" column="23" lean-forward="false" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/user-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/managerRobot/valveRobot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding />
         </state>
       </provider>

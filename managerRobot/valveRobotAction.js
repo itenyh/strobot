@@ -81,8 +81,8 @@ function ValveRobotAction(nid) {
 
                 const roomInfoData = yield net.asynRoomsInfo(nid)
                 const uplimitPerRoom = 6
-                const incereaseRate = 0.1
-                const targetRate = 1.0
+                const incereaseRate = 0.1  //每次添加增长率
+                const targetRate = 0.7  //目标上座率 最大为1
                 const rooms = roomInfoData["infos"]
                 const roomNum = rooms.length
                 const capacity = roomNum * uplimitPerRoom
@@ -116,7 +116,7 @@ function ValveRobotAction(nid) {
 
             }
 
-            yield Q.delay(1000 * 30)
+            yield Q.delay(1000 * 60 * 3)
 
         }
 
@@ -135,8 +135,8 @@ function ValveRobotAction(nid) {
             logger.info("【%s】管理机器人 => 向房间 %s 添加新的机器人", nid, willAddRoomCode)
             const robot = robotfactory.createRobot(willAddRoomCode, nid)
             robot.run()
-            let waitTime = (30 * 1000 / willAddNum)
-            if (waitTime < 1000) { waitTime = 1000       }
+            let waitTime = (60 * 3 * 1000 / willAddNum)
+            if (waitTime < 1000) { waitTime = 1000 }
             logger.info("【%s】管理机器人 => 下次添加新的机器人需等待 %ss", nid, waitTime / 1000)
             return waitTime
 
@@ -169,7 +169,5 @@ function ValveRobotAction(nid) {
     }
 
 }
-
-
 
 module.exports = ValveRobotAction

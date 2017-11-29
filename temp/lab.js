@@ -1,8 +1,8 @@
 
 const Q = require('q')
-global.logger = require('./util/logger')
-const util = require('./util/util')
-const robotConfig = require('./robotConfig')
+global.logger = require('../util/logger')
+const util = require('../util/util')
+const robotConfig = require('../robotConfig')
 
 var program = require('commander');
 
@@ -40,8 +40,8 @@ else {
 
 function addRoom(num, nid) {
 
-    require('./util/pomelo-cocos2d-js')
-    const RobotAction = require('./games/a777robot/robotAction')
+    require('../util/pomelo-cocos2d-js')
+    const RobotAction = require('../games/a777robot/robotAction')
     const action = RobotAction.createRobotAction()
 
     return Q.async(function* () {
@@ -59,7 +59,7 @@ function addRoom(num, nid) {
 
 function addRobot2Room(roomCodes, nid, outputfile) {
 
-    const factory = require('./games/RobotFactory')
+    const factory = require('../games/robotFactory')
 
     return Q.async(function* () {
         for (roomCode of roomCodes) {

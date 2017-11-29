@@ -1,6 +1,6 @@
 'use strict'
 
-const userConfig = require('./config/user-config.json')
+const userConfig = require('./temp/user-config.json')
 let totalRobot = 0
 let runningGmaeName = ''
 
@@ -14,13 +14,13 @@ module.exports.getRobotByNid = function (nid) {
         PlayerRobot = require('./games/hambougerrobot/robot')
     }
     else if (nid === 3) {
-        PlayerRobot = require('./games/hotpotrobot/robot')
+        PlayerRobot = require('./temp/hotpotrobot/robot')
     }
     else if (nid === 7) {
         PlayerRobot = require('./games/xiyoujirobot/robot')
     }
     else if (nid === 4) {
-        PlayerRobot = require('./games/indianrobot/robot')
+        PlayerRobot = require('./temp/indianrobot/robot')
     }
 
     return PlayerRobot

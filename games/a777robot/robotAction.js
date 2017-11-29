@@ -162,19 +162,12 @@ class RobotAction {
                     // this.emit('round', [+this.getUid(), pay[0] * pay[1], this.memory.profit, this.memory.round, potData.jackpotFund, potData.runningPool, potData.profitPool])
 
                     return waitTime
-                }
-                catch (err) {
-                    // this.stop()
-                    // this.memory.playerrorTime += 1
-                    // if (this.memory.playerrorTime == 5) {
-                        logger.error('【%s】游戏机器人 => 玩耍异常 => 彻底关闭 %s', this.getId(), err)
-                        this.stop()
-                    // }
-                    // else {
-                    //     logger.error('【%s】游戏机器人 => 玩耍异常 => %s', this.getId(), err)
-                    // }
-                }
 
+            }
+        catch (err) {
+                logger.error('【%s】游戏机器人 => 玩耍异常 => 彻底关闭 %s', this.getId(), err)
+                this.stop()
+            }
             }
             else {
                 if (!this.memory.addedMoney) {

@@ -8,7 +8,7 @@ const gameConfig = require('../config/game-config.json')
 const Memory = require('./managerRobotMemory')
 const Net = require('../util/net')
 const robotfactory = require('../games/robotFactory')
-const RobotsInfo = require('./robotsInfo')
+const RobotsInfo = require('../managerRobot/robotsInfo')
 global.robotsInfo = new RobotsInfo()
 
 function ManagerRobotAction(nid) {

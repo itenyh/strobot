@@ -3,7 +3,7 @@
  */
 
 const Q = require('q')
-const _RobotAction = require('../a777robot/robotAction')
+const _RobotAction = require('../../games/a777robot/robotAction')
 
 class RobotAction extends _RobotAction {
 

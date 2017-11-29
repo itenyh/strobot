@@ -5432,3 +5432,7 @@
 {"level":"error","message":"【10】管理机器人 => socket io-error , 原因: ECONNREFUSED undefined","timestamp":"2017-11-28T06:30:18.734Z"}
 {"level":"error","message":"管理机器人 10 死亡，重开，剩余 99 ","timestamp":"2017-11-28T06:30:18.734Z"}
 {"level":"error","message":"【10】管理机器人 => socket close , 原因: 1006 ","timestamp":"2017-11-28T06:30:18.734Z"}
+{"level":"error","message":"【1-001】游戏机器人 => socket io-error , 原因: ECONNREFUSED undefined","timestamp":"2017-11-29T02:31:24.842Z"}
+{"level":"error","message":"【1】管理机器人 => socket close , 原因: 1000 ","timestamp":"2017-11-29T02:32:08.370Z"}
+{"level":"error","message":"【1】管理机器人 => socket close , 原因: 1000 ","timestamp":"2017-11-29T02:36:43.106Z"}
+{"level":"error","message":"【1】管理机器人 => socket close , 原因: 1000 ","timestamp":"2017-11-29T02:57:09.775Z"}

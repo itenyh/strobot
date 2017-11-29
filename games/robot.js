@@ -23,8 +23,8 @@ class Robot {
                 yield this.action.addInitMoney()
                 this.action.emit('robotEnterGame')
                 yield this.action.enterRoom()
-                // this.action.lifeCheck()
-                // this.action.tease()
+                this.action.lifeCheck()
+                this.action.tease()
                 this.action.play()
             }
             catch (reason) {
